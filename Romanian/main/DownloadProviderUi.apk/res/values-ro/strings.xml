@@ -346,6 +346,10 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_indexer_collect">Colecții</string>
     <string name="miuix_indexer_selected">Selectat %s</string>
+    <string name="miuix_item_view_role_description">Filă</string>
+    <string name="miuix_navigator_content_switch_description">Afișează bara laterală</string>
+    <string name="miuix_navigator_multiple_choice">Selectați</string>
+    <string name="miuix_navigator_navigator_switch_description">Ascunde bara laterală</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

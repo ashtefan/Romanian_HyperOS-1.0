@@ -176,6 +176,12 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a dezactiva"</stri
     <string name="dialog_rating_desc_less">Dă-ne câteva sugestii pentru a putea îmbunătăți aplicația noastră?</string>
     <string name="dialog_rating_desc_perfect">Mulțumim! Evaluați Mi Mover și în GetApps?</string>
     <string name="dialog_rating_title">Evaluați Mi Mover</string>
+    <string name="dialog_request_all_permission_content">"Pentru a transfera date de pe vechiul dispozitiv pe cel nou, această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni:
+• Accesați fotografii, sunet și videoclipuri
+• Accesați mesaje, contacte și istoricul apelurilor
+• Accesați spațiul de stocare
+• Accesați lista de aplicații instalate pe dispozitiv"</string>
+    <string name="dialog_request_all_permission_title">Permisiuni necesare</string>
     <string name="dialog_request_network_btn_negative">Ieșiți</string>
     <string name="dialog_request_network_btn_positive">De acord</string>
     <string name="dialog_request_permission_message">Bine ați venit în aplicația Mutare Mi! Puteți utiliza această aplicație pentru a transfera datele din dispozitivul vechi pe unul nou. Datele vor fi transferate între cele două dispozitive și nu vor fi încărcate pe serverele noastre. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa în mod normal:</string>
@@ -448,6 +454,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -623,7 +630,9 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="perm_read_sms">Accesarea mesajelor</string>
     <string name="perm_storage">Accesarea și salvarea elementelor în spațiul de stocare</string>
     <string name="perm_write_settings">Modificarea setărilor de sistem</string>
-    <string name="permdesc_sendSmsNoConfirmation">Aplicația poate trimite mesaje SMS fără a vă cere permisiunea. Operatorul dvs. vă poate percepe taxe pentru aceste mesaje.</string>
+    <string name="permission_about_contacts">Este necesară permisiunea de a edita contacte și istoricul apelurilor</string>
+    <string name="permission_about_storage">Este necesară permisiunea de a accesa stocarea dispozitivului</string>
+    <string name="permission_about_storage_pad">Este necesară permisiunea de a accesa stocarea dispozitivului</string>
     <string name="permission_alert_message_usage_access">Mi Mover trebuie să acceseze statisticile de utilizare a aplicației. Oferiți Mi Mover permisiunile necesare în Setări.</string>
     <string name="permission_alert_title">Sunt necesare unele permisiuni</string>
     <string name="permission_bluetooth_summary">Pentru găsirea dispozitivelor disponibile din apropiere</string>
@@ -661,12 +670,17 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="prompt_before_transmission_message4_title">Rămâneți conectat pe tot parcursul transferului</string>
     <string name="prompt_before_transmission_message5_summary">Transferul unor cantități mari de date prin wireless poate duce la o ușoară supraîncălzire, lucru care nu este anormal. Dispozitivul se va răci curând după ce transferul se va finaliza.</string>
     <string name="prompt_before_transmission_message5_title">Este posibil ca telefonul să se încălzească pe durata transferurilor.</string>
+    <string name="provisiion_set_old_pad_summary">Utilizați Mutare Mi pentru a importa date de pe vechiul dispozitiv fără a vă conecta la internet</string>
     <string name="provisiion_set_old_phone">Importați de pe dispozitivul vechi</string>
     <string name="provisiion_set_old_phone_summary">Utilizați Mi Mover pentru a importa date de pe vechiul dispozitiv fără a vă conecta la internet</string>
     <string name="provision_cta_title">Transferați de pe vechiul dispozitiv</string>
+    <string name="provision_cta_title_pad">Transferați de pe vechiul dispozitiv</string>
     <string name="provision_receiver_finish_button">Următorul</string>
     <string name="provision_select_data_null">Selectați elementele de transferat</string>
+    <string name="provision_select_data_one">Selectați elementele de transferat</string>
+    <string name="provision_set_new_pad">Utilizați ca dispozitiv nou</string>
     <string name="provision_set_new_phone">Utilizați ca dispozitiv nou</string>
+    <string name="provision_set_old_pad">Importați de pe vechiul dispozitiv</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Nu s-a putut primi QQ</string>
     <string name="qq_app_send_fail">Nu s-a putut trimite QQ</string>
@@ -680,7 +694,9 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="receiver_finish_title">Sunteți gata!</string>
     <string name="receiver_finish_transferred">Transferat</string>
     <string name="receiver_video_summary">Deblocați vechiul dispozitiv, atingeți \"Transferați\", și scanați această imagine</string>
+    <string name="receiver_video_summary_pad">Deblocați vechiul dispozitiv, atingeți \"Transferați\", și scanați această imagine</string>
     <string name="receiver_video_title">Transferați de pe vechiul dispozitiv</string>
+    <string name="receiver_video_title_pad">Transferați de pe vechiul dispozitiv</string>
     <string name="recent_one_year">Ultimul an</string>
     <string name="recent_seven_days">Ultimele 7 zile</string>
     <string name="recent_thirty_days">Ultimele 30 de zile</string>
@@ -793,6 +809,7 @@ Eliberați cel puțin %s."</string>
     <string name="skip_underline">Omiteți acest pas</string>
     <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">Nu s-a putut crea hotspot-ul. Încercați din nou.</string>
+    <string name="soft_ap_create_failed_apple">Nu s-a putut genera codul QR</string>
     <string name="soft_ap_creating">Se crează hotspot-ul…</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
@@ -897,6 +914,19 @@ Eliberați cel puțin %s."</string>
     <string name="title_request_write_settings_perm">Permiteți modificarea setărilor de sistem</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="trans_apple">Conectați iPhone-ul</string>
+    <string name="trans_apple_button_cancel">Anulați transferul</string>
+    <string name="trans_apple_button_cancel_hint">Anulați transferul acum?</string>
+    <string name="trans_apple_button_cancel_negative">Nu anula</string>
+    <string name="trans_apple_button_cancel_positive">Anulează transferul</string>
+    <string name="trans_apple_button_reconnect">Conectați din nou</string>
+    <string name="trans_apple_hint">Nu părăsiți această pagină și nu utilizați Wi-Fi până la finalizarea transferului.</string>
+    <string name="trans_apple_hint_1_content">Descărcați aplicația Mutare Mi din App Store sau scanați acest cod QR cu aplicația Camera de pe iPhone.</string>
+    <string name="trans_apple_hint_1_title">%d. Instalați aplicația Mutare Mi</string>
+    <string name="trans_apple_hint_2_content">Deschideți Mutare Mi pe iPhone, atingeți \"Apăsați pentru a trimite articole\" și scanați codul QR.</string>
+    <string name="trans_apple_hint_2_title">%d. Conectați dispozitivele</string>
+    <string name="trans_apple_interrupt_sub">Atingeți mai jos pentru a vă conecta din nou.</string>
+    <string name="trans_apple_interrupt_title">Transferul a fost întrerupt</string>
     <string name="trans_detail_item_app_data_skip_data">Nu se pot transfera datele aplicației</string>
     <string name="trans_detail_item_app_skip_data">Nu se poate muta această aplicație</string>
     <string name="trans_detail_qq_data">Date QQ (inclusiv istoricul chat-ului)</string>
@@ -914,6 +944,8 @@ Descărcați și instalați Mi Mover."</string>
     <string name="trans_show_qr_code_label">Deschideți Mutare Mi pe dispozitivul vechi</string>
     <string name="trans_show_qr_code_label_for_pad">Deschideți Mutare Mi pe dispozitivul vechi</string>
     <string name="trans_sync_transfer_data_list">Selectați elemente de transferat pe dispozitivul vechi</string>
+    <string name="trans_sync_transfer_data_list_apple">"Selectați elementele de transferat
+pe iPhone-ul dvs."</string>
     <string name="trans_sync_transfer_data_list_hint">Doar o secundă…</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">Selectați elementele pe vechiul dispozitiv și apăsați \"Trimiteți\".</string>
     <string name="trans_time_format_second">Mai puțin de 1 minut</string>

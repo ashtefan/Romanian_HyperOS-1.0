@@ -35,11 +35,13 @@
     <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manual</string>
     <string name="ai_mode_subtitles">Subtitrări</string>
+    <string name="align_satellite_model_exit">Ieșiți</string>
+    <string name="align_satellite_model_use">Începeți</string>
     <string name="am">AM</string>
     <string name="antifraud_center">Platformă de avertizare antifraudă</string>
     <string name="antifraud_center_incoming_prompt">Nu ratați niciun apel de la platforma oficială de avertizare antifraudă</string>
     <string name="antispam_local_marked">Marcat local</string>
-    <string name="antispam_marked_count">Etichetat de %1$d utilizatori MIUI</string>
+    <string name="antispam_notification_text">Atingeți pentru a activa funcțiile inteligente Nu deranjați</string>
     <string name="antispam_notification_title">Număr necunoscut</string>
     <string name="antispam_provider">Identificat de %s</string>
     <string name="areacode_set_default">Setați ca implicit</string>
@@ -258,6 +260,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="focus_notification_on_call">Apelare…</string>
     <string name="font_camera_tip">Pliați dispozitivul pentru a utiliza camera frontală</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
@@ -302,6 +305,7 @@
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -419,23 +423,31 @@
     <string name="relay_cal_from_device_name">De la %1$s</string>
     <string name="relay_call">Transferați</string>
     <string name="relay_call_device_name">Dispozitiv conectat (%1$s)</string>
-    <string name="relay_deny_permission_msg">Nu se pot transfera apeluri fără permisiunea de a înregistra audio</string>
-    <string name="relay_grant_permissions_on_phone">Acordați permisiunea de a înregistra sunete audio pe telefon</string>
-    <string name="relay_known">Am înțeles</string>
-    <string name="relay_network_error">Eroare de rețea</string>
-    <string name="relay_network_error_msg">Nu pot prelua apeluri pe acest dispozitiv din cauza unei erori de rețea. În schimb, reveniți la telefon.</string>
+    <string name="relay_call_unable_to_work">Nu se poate utiliza această funcție pentru apelurile transferate</string>
+    <string name="relay_device_local">Acest dispozitiv</string>
+    <string name="relay_device_type_pc">Computer</string>
+    <string name="relay_stop_recorder">Înregistrare oprită</string>
     <string name="remind_unlock_message">Telefonul dumneavoastră este blocat acum. \"%s\" va fi disponibilă după ce veți debloca telefonul. Îl deblocați acum?</string>
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
-    <string name="saf_permission_content">"Permisiunile de sistem au fost actualizate. Pentru a putea înregistra apelurile, acordați mai întâi permisiunea.
-
-Cum se acordă permisiunea
-Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
-    <string name="saf_permission_grant_permission_immediately">Următorul</string>
-    <string name="saf_permission_later">Nu acum</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Pentru a putea salva înregistrările, deblocați mai întâi dispozitivul. Deblocați acum?</string>
-    <string name="saf_permission_refused">Nu se pot înregistra apeluri din cauza permisiunilor lipsă</string>
-    <string name="saf_permission_title">Permisiuni necesare</string>
-    <string name="saf_permission_use_this_folder">Utilizați acest dosar</string>
+    <string name="satellite_call_failed">Semnal întrerupt. Încercați din nou.</string>
+    <string name="satellite_dialog_button">Fereastră plutitoare</string>
+    <string name="satellite_dialog_cancel">Renunțați</string>
+    <string name="satellite_guide_down">"Înclinați dispozitivul în jos
+pentru a pune mingea în zona albastră"</string>
+    <string name="satellite_guide_found">Satelit găsit</string>
+    <string name="satellite_guide_left">"Înclinați dispozitivul spre stânga
+pentru a pune pictograma satelit în zona albastră"</string>
+    <string name="satellite_guide_right">"Înclinați dispozitivul spre dreapta
+pentru a pune pictograma satelit în zona albastră"</string>
+    <string name="satellite_guide_searching">Se caută satelitul…</string>
+    <string name="satellite_guide_searching_floating">Se caută…</string>
+    <string name="satellite_guide_up">"Înclinați dispozitivul în sus
+pentru a pune mingea în zona albastră"</string>
+    <string name="satellite_incall_tip">Difuzor activ</string>
+    <string name="satellite_service_provider">Furnizat de China Telecom</string>
+    <string name="satellite_state">Nu mișcați dispozitivul</string>
+    <string name="satellite_state_connected">Conectat la satelit. Nu mișcați dispozitivul.</string>
+    <string name="satellite_state_connected_floating">Nu mișcați dispozitivul</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

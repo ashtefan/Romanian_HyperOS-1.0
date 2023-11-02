@@ -193,6 +193,8 @@
     <string name="HIPS_Perm_Read_SMS">Citire mesaje SMS</string>
     <string name="HIPS_Perm_Read_SMS_Desc">citirea mesajelor SMS</string>
     <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicații vă pot citi mesajele SMS</string>
+    <string name="HIPS_Perm_Receive_SMS">Primire SMS-uri și MMS-uri</string>
+    <string name="HIPS_Perm_Receive_SMS_desc">Pentru primirea mesajelor</string>
     <string name="HIPS_Perm_Recorder_Audio">accesare microfon pentru înregistrare audio</string>
     <string name="HIPS_Perm_Recorder_AudioVideo">accesare Cameră pentru captare imagini și videoclipuri</string>
     <string name="HIPS_Perm_Recorder_Camera">accesare Cameră pentru captare imagini</string>
@@ -269,6 +271,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">accesarea dispozitivului NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesare aplicație de Telefon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">preluarea, monitorizarea și încheierea apelurilor</string>
+    <string name="HIPS_Perm_read_Calendar">Accesare Calendar</string>
+    <string name="HIPS_Perm_read_Calendar_Desc">Vizualizarea evenimentelor adăugate în Calendar</string>
     <string name="HIPS_Perm_read_clipboard">Accesarea elementelor din clipboard</string>
     <string name="HIPS_Perm_read_clipboard_Desc">Permiteți aplicațiilor să acceseze elementele din clipboard</string>
     <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
@@ -443,10 +447,12 @@
     <string name="gold_master_dialog_reject">Restricționați (%d)</string>
     <string name="gold_master_dialog_title">%1$s dorește să vă acceseze clipboard-ul</string>
     <string name="grant_dialog_button_allow">Permite</string>
+    <string name="grant_dialog_button_allow_all">Permiteți tot</string>
     <string name="grant_dialog_button_allow_always">Permiteți întotdeauna</string>
     <string name="grant_dialog_button_allow_background">Permiteți întotdeauna</string>
     <string name="grant_dialog_button_allow_foreground">Permiteți doar când se utilizează aplicația</string>
     <string name="grant_dialog_button_allow_onetime">O dată</string>
+    <string name="grant_dialog_button_allow_selected_photos">Selectați unele</string>
     <string name="grant_dialog_button_deny">Revoc</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Refuză și nu mai întreba din nou"</string>
     <string name="grant_dialog_button_deny_background">Doar pe durata utilizării aplicației</string>
@@ -456,6 +462,19 @@
     <string name="grant_dialog_storage_category_title">Această aplicație necesită permisiunea de a accesa Galeria și mesajele din aplicațiile de socializare</string>
     <string name="grant_dialog_storage_gallery_title">Galerie</string>
     <string name="grant_dialog_storage_sociality_title">Mesajele din aplicațiile de socializare</string>
+    <string name="group_audio">Muzică și audio</string>
+    <string name="group_call">Telefon</string>
+    <string name="group_connect_device">Interconectivitate</string>
+    <string name="group_file">Fișiere și documente</string>
+    <string name="group_image_video">Fotografii și videoclipuri</string>
+    <string name="group_location">Locație</string>
+    <string name="group_microphone">Microfon</string>
+    <string name="group_nearby_device">Dispozitive din apropiere</string>
+    <string name="group_other">Alte permisiuni</string>
+    <string name="group_read_clipboard">Accesare clipboard</string>
+    <string name="group_sms">Mesaje</string>
+    <string name="group_sport_healthy">Sănătate și activități</string>
+    <string name="group_write_clipboard">Adăugare elemente în clipboard</string>
     <string name="keep_blur_location">Da</string>
     <string name="keep_notice_me">Continuă notificările</string>
     <string name="location_settings">Setări legate de locație</string>
@@ -560,6 +579,7 @@
     <string name="permdesc_read_phone_state">Permiteți %1$s să acceseze starea dispozitivului și informațiile rețelei mobile?</string>
     <string name="permdesc_read_sms">Permiteți %1$s să citească mesaje text și multimedia?</string>
     <string name="permdesc_read_storage">Permiteți %1$s să acceseze fișiere și fotografii de pe acest dispozitiv?</string>
+    <string name="permdesc_receive_sms">Permiteți %1$s să primească SMS-uri și MMS-uri?</string>
     <string name="permdesc_recognition">Permiteți %1$s să vă acceseze informațiile despre activitate?</string>
     <string name="permdesc_send_sms">Permiteți %1$s să trimită mesaje text?</string>
     <string name="permdesc_sensors">Permiteți %1$s să citească datele generate de senzorii corporali?</string>
@@ -576,6 +596,10 @@
     <string name="permgroupdesc_location">Accesarea informațiilor despre locație</string>
     <string name="permgroupdesc_microphone">Înregistrarea de sunete</string>
     <string name="permgroupdesc_phone">Realizarea de apeluri și gestionarea conversațiilor</string>
+    <string name="permgroupdesc_read_media_aural">Permiteți %1$s să acceseze fișierele audio stocate pe dispozitiv?</string>
+    <string name="permgroupdesc_read_media_visual">Permiteți %1$s să acceseze fotografiile și videoclipurile stocate pe dispozitiv?</string>
+    <string name="permgroupdesc_read_media_visual_more">Permiteți %1$s să acceseze mai multe fotografii și videoclipuri?</string>
+    <string name="permgroupdesc_read_media_visual_u">Permiteți %1$s să acceseze fotografiile și videoclipurile de pe acest dispozitiv?</string>
     <string name="permgroupdesc_recognition">Accesarea datelor despre sănătate și activități</string>
     <string name="permgroupdesc_sensors">Accesarea datelor senzorilor corporali</string>
     <string name="permgroupdesc_sms">Citirea sau trimiterea de mesaje SMS</string>
@@ -614,6 +638,7 @@
     <string name="screen_overlay_message">Pentru a modifica această permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații.</string>
     <string name="screen_overlay_title">Suprapunere elemente vizuale detectată</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="select_allow_access_content">Selectați elementele la care permiteți accesul</string>
     <string name="send">Trimiteți</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>

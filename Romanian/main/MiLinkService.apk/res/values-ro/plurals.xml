@@ -29,6 +29,38 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d dispozitive</item>
+        <item quantity="one">%1$d dispozitiv</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d dispozitive</item>
+        <item quantity="one">%1$d dispozitiv</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Introduceți codul de la %1$s (%2$d secunde)</item>
+        <item quantity="one">Introduceți codul de la %1$s (%2$d secundă)</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>

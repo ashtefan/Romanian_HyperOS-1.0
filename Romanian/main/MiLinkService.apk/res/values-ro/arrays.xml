@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="debug_mode_protocol_entries">
+        <item>默认</item>
+        <item>MiPlay</item>
+        <item>Miracast</item>
+        <item>AirKan</item>
+        <item>LeLink</item>
+        <item>DLNA</item>
+    </string-array>
+    <string-array name="settings_search_connect_car">
+        <item>Combină aplicații</item>
+        <item>Interconectivitate/Combină aplicații</item>
+        <item>Caracteristicile mașinii</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interconectivitate</item>
+        <item>Interconectivitate/Interconectivitate</item>
+        <item>Interconectivitate dispozitiv, Servicii Interconectivitate dispozitiv, Xiaomi, Xiaomi AIoT, AIoT, Ecran Scindat, conexiune inteligentă, Hub Inteligent Mi, Interconectivitate, Duo, Telefon Xiaomi, Laptop Xiaomi, Ecran multiplu, Duet, proiectare, combină aplicații, handoff, App handoff, Mirror, Ecosistem Xiaomi, conexiune dispozitiv</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Confidențialitate</item>
+        <item>Interconectivitate/Confidențialitate</item>
+        <item>Confidențialitate și interconectivitate, Confidențialitate</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Servicii interconectivitate</item>
+        <item>Interconectivitate/Servicii interconectivitate</item>
+        <item>Servicii interconectivitate</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Predarea aplicației</item>
+        <item>Interconectivitate/Predarea aplicației</item>
+        <item>Transfer aplicații, handoff, transfer</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Apeluri</item>
+        <item>Interconectivitate/Apeluri</item>
+        <item>Apeluri</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Asistență în rețea</item>
+        <item>Interconectivitate/Asistență în rețea</item>
+        <item>Asistență în rețea, tethering, partajare hotspot</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Ecran principal+</item>
+        <item>Interconectivitate/Ecran principal+</item>
+        <item>Ecran principal+, Hub inteligent Mi, partajare ecran</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Clipboard</item>
+        <item>Interconectivitate/Clipboard</item>
+        <item>Clipboard</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Notificări pe mai multe dispozitive</item>
+        <item>Interconectivitate/Notificări</item>
+        <item>Notificări pe mai multe dispozitive</item>
+    </string-array>
+</resources>

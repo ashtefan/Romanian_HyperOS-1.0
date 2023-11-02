@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">Anti-pâlpâire</string>
     <string name="anti_flicker_mode_categroy">Moduri</string>
     <string name="anti_flicker_mode_summary">Previne pâlpâirea excesivă și reduce încordarea oculară în condiții de iluminare redusă</string>
+    <string name="anti_flicker_mode_summary_new">Utilizați reglarea DC la lumină slabă pentru a reduce oboseala ochilor</string>
     <string name="anti_flicker_title">Mod anti-pâlpâire</string>
     <string name="app_name">Setări</string>
+    <string name="app_use">Durata de utilizare a aplicației</string>
     <string name="application_sound">Notificările aplicațiilor</string>
     <string name="apply_ringtone">Aplicați</string>
     <string name="arctic_fox">Vulpe arctică</string>
@@ -420,6 +422,8 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="masked_palm_civet">Civetă cu palmă mascată</string>
     <string name="max_fps_string">Până la %s Hz</string>
     <string name="medium_tree_finch">Finch mediu</string>
+    <string name="mi_transfer_banner_summary">Sunt acceptate mai multe mărci de dispozitive</string>
+    <string name="mi_transfer_banner_title">Transferați articole de pe vechiul dispozitiv</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
