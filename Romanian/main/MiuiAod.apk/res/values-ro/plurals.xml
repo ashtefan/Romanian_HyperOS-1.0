@@ -33,6 +33,10 @@
         <item quantity="other">" %1$s ore %2$s"</item>
         <item quantity="one">" %1$s oră %2$s"</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Presiunea atmosferică: %s hectopascali</item>
+        <item quantity="one">Presiunea atmosferică: %s hectopascal</item>
+    </plurals>
     <plurals name="character_pitch_minus">
         <item quantity="other">Spațiere redusă dintre caractere. Spațierea dintre caractere %s.</item>
         <item quantity="one">Spațiere redusă dintre caractere. Spațierea dintre caractere %s.</item>
@@ -53,6 +57,54 @@ Animațiile mai lungi vor fi oprite în acest moment."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Arse %1$s Calorii</item>
+        <item quantity="one">Arsă %1$s Calorie</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Ținta pentru calorii: %1$s Calorii</item>
+        <item quantity="one">Ținta pentru calorii: %1$s Calorie</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Durată activitate: %1$s minute</item>
+        <item quantity="one">Durată activitate: %1$s minut</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Ținta pentru activitate: %1$s minute</item>
+        <item quantity="one">Ținta pentru activitate: %1$s minut</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s minute</item>
+        <item quantity="one">%1$s/%2$s minut</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Stat ridicat în ultimele %1$s ore</item>
+        <item quantity="one">Stat ridicat în ultima %1$s oră</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Ținta pentru stat ridicat: %1$s ore</item>
+        <item quantity="one">Ținta pentru stat ridicat: %1$s oră</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ore</item>
+        <item quantity="one">%1$s/%2$s oră</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Numărul curent de pași: %1$s pași</item>
+        <item quantity="one">Numărul curent de pași: %1$s pas</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Ținta pentru pași: %1$s pași</item>
+        <item quantity="one">Ținta pentru pași: %1$s pas</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s pași</item>
+        <item quantity="one">%1$s/%2$s pas</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Într-o oră</item>
@@ -89,5 +141,9 @@ Animațiile mai lungi vor fi oprite în acest moment."</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu un minut în urmă</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s grade, %2$s</item>
+        <item quantity="one">Temperatura: %1$s grad, %2$s</item>
     </plurals>
 </resources>

@@ -595,6 +595,9 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_item_catch_full_log">Jurnale</string>
     <string name="miui_feedback_main_item_customer_service">Servicii post-vânzare</string>
     <string name="miui_feedback_main_item_feedback_list">Raportul meu</string>
+    <string name="miui_feedback_main_item_official_progress">Progresul reparației</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Actualizați în mod regulat progresul reparațiilor în comunitatea Xiaomi</string>
+    <string name="miui_feedback_main_item_use_guide">Manualul utilizatorului</string>
     <string name="miui_feedback_main_menu_view_privacy">Politica de confidențialitate</string>
     <string name="miui_feedback_main_menu_view_withdraw_consent">Retragerea consimțământului</string>
     <string name="miui_feedback_main_search_footer">Acestea nu sunt întrebările pe care doriți să le adresați?</string>
