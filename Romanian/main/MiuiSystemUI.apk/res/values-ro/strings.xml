@@ -1941,7 +1941,6 @@ Pentru mai multe informații, contactați administratorul.
 
 De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activitatea în rețea."</string>
     <string name="monitoring_description_vpn_settings">Accesați setările Open VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s poate să acceseze datele asociate cu acest dispozitiv, să gestioneze aplicațiile și să modifice setările acestui dispozitiv.
 
 Dacă aveți întrebări, contactați %2$s."</string>
@@ -2069,7 +2068,6 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="nav_bar_default">(implicit)</string>
     <string name="nav_bar_edge_panel">Panou marginal Bară de navigare</string>
     <string name="nav_bar_layout">Dispunere</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s a trimis o fotografie</string>
     <string name="new_notification_text_content_description">%1$s a trimis un mesaj: %2$s</string>
     <string name="new_status_content_description">%1$s are o actualizare de stare: %2$s</string>
@@ -2288,7 +2286,6 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="pm">PM</string>
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_charging_limited">%1$s - Încărcare limitată temporar</string>
     <string name="power_discharge_by">Ar trebui să dureze până la circa %1$s (%2$s)</string>
@@ -2872,7 +2869,6 @@ d MMMM"</string>
     <string name="status_bar_network_flow_limit">"   Limita lunară: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Achiziţionaţi >"</string>
     <string name="status_bar_network_flow_today">Astăzi: %1$s</string>
-    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Fără notificări</string>
     <string name="status_bar_no_recent_apps">Ecranele recente apar aici</string>
     <string name="status_bar_no_sim">fără_sim</string>

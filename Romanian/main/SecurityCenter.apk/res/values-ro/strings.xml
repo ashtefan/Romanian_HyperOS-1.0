@@ -3086,7 +3086,6 @@ Viteza telefonului a crescut cu %s."</string>
     <string name="menu_text_license_manager">Permisiuni</string>
     <string name="menu_text_networkassistants">Utilizare date</string>
     <string name="menu_text_networkassistants_danger">Peste %s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s rămas</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>

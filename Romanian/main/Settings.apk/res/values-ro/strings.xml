@@ -3121,7 +3121,6 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dndm_auto_button_title">Perioadă repetare Nu deranjați</string>
     <string name="dndm_auto_setting_group">Grafic</string>
     <string name="dndm_auto_time_setting">Setaţi perioada</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Până la</string>
     <string name="dndm_auto_time_turn_off_title">Dezactivare automată a modului Nu deranjați</string>
     <string name="dndm_auto_time_turn_on">De la</string>
@@ -9036,7 +9035,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_icons_title">Pictograme bară de stare</string>
     <string name="status_bar_settings">Notificări și bara de stare</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_notification_bar">Panou notificări</string>
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
