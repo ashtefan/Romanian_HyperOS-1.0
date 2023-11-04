@@ -118,6 +118,7 @@
     <string name="morning">Dimineață</string>
     <string name="night">Seară</string>
     <string name="noon">Amiază</string>
+    <string name="phrase_network_tip_summary">Pentru a vă putea sincroniza frazele frecvente în cloud și a le utiliza pe dispozitivele dvs., permiteți acestei aplicații să se conecteze la internet.</string>
     <string name="pm">PM</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>

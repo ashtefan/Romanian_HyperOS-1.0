@@ -57,6 +57,50 @@
         <item quantity="other">%d ani</item>
         <item quantity="one">%d an</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d persoane în fața ta</item>
+        <item quantity="one">%1d persoană în fața ta</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">Timp de așteptare: %s ore</item>
+        <item quantity="one">Timp de așteptare: %s oră</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">Timp de așteptare: %s minute</item>
+        <item quantity="one">Timp de așteptare: %s minut</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">Se crează… | Timp de așteptare: %d secunde</item>
+        <item quantity="one">Se crează… | Timp de așteptare: %d secundă</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">Se crează… | %d persoane în fața dvs.</item>
+        <item quantity="one">Se crează… | %d persoană în fața dvs.</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">Timp de așteptare: %d minute</item>
+        <item quantity="one">Timp de așteptare: %d minut</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">Se crează… | %d secunde rămase</item>
+        <item quantity="one">Se crează… | %d secundă rămasă</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">O persoană poate crea până la %d imagini AI.</item>
+        <item quantity="one">O persoană poate crea maxim %d imagine AI.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">Se selectează fotografii (%d secunde rămase)…</item>
+        <item quantity="one">Se selectează fotografii (%d secund[ rămasă)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Partajat cu %d persoane</item>
         <item quantity="one">Partajat cu %d persoană</item>
@@ -423,6 +467,10 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\".</item>
         <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_title_ai">
+        <item quantity="other">S-au găsit %d elemente</item>
+        <item quantity="one">S-a găsit %d element</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d pachete de instalare (%3$s) de la %1$s</item>

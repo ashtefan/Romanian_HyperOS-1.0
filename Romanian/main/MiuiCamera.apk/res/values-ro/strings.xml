@@ -411,7 +411,7 @@
     <string name="auxiliary_exposure_feedback_status">Verificarea expunerii este activă</string>
     <string name="auxiliary_focus_peak_status">Concentrarea focalizării este activă</string>
     <string name="auxiliary_lens_identifies_weak_light">Lentila auxiliară recunoaște lumina slabă</string>
-    <string name="back_bokeh_use_hint">Păstrați subiectul la o distanță de 1,5 metri pentru a obține cel mai bun efect</string>
+    <string name="back_bokeh_use_hint">Mențineți subiectul la mai puțin de 1,5 metri pentru a obține cele mai bune efecte</string>
     <string name="back_common">2:SHOT ON MI PHONE:AI DUAL CAMERA</string>
     <string name="back_apollo_global">3:MI 10T</string>
     <string name="back_apollo_india">3:MI 10T</string>
@@ -424,7 +424,6 @@
     <string name="back_begoniain">4:REDMI NOTE 8 PRO:AI QUAD CAMERA</string>
     <string name="back_beryllium">0:POCOPHONE:SHOT ON POCOPHONE F1</string>
     <string name="back_beryllium_india">0:POCO:SHOT ON POCO F1</string>
-    <string name="back_bokeh_use_hint">Mențineți subiectul la mai puțin de 1,5 metri pentru a obține cele mai bune efecte</string>
     <string name="back_cepheus">3:Realizată cu Mi9:Cameră triplă AI</string>
     <string name="back_cepheus_mi_9_explorer">3:Captată cu Mi9 Explorer:Cameră triplă AI</string>
     <string name="back_cepheus_mi_9_roy">3:Captată cu Mi9 Roy:Cameră triplă AI</string>
