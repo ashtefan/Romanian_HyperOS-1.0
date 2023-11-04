@@ -512,6 +512,7 @@
 Apeluri mai accesibile.
 Securitate sporită."</string>
     <string name="key_shortcut_settings_title">Scurtături butoane</string>
+    <string name="keyguard_multi_window_tip">Această pagină poate fi afișată numai în modul ecran complet</string>
     <string name="label">Etichetă</string>
     <string name="launcher_icon_management">Gestionați scurtăturile de pe Ecranul principal</string>
     <string name="launcher_not_exist">A apărut o eroare; reveniți în ecranul Acasă și încercați din nou.</string>
@@ -595,6 +596,7 @@ Securitate sporită."</string>
     <string name="midnight">Noapte</string>
     <string name="minus_one_screen">Asistentul inteligent</string>
     <string name="miui_screen_config_title">Setări pentru Ecranul principal</string>
+    <string name="miui_setting_config_title">Setări pentru Ecranul principal</string>
     <string name="miui_widget_menu_replace_text">Comutați</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Asistentul inteligent nu acceptă widget-uri de această dimensiune"</string>
     <string name="miuix_access_state_desc">Selectat</string>
@@ -767,6 +769,9 @@ Securitate sporită."</string>
     <string name="navigation_type_virtual_key">Butoane</string>
     <string name="network_error">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="new_feature_title">Ce este nou</string>
+    <string name="new_open_personal_assistant_settings_simplified">Asistent inteligent</string>
+    <string name="new_privacy_thumbnail_blur_summary">Estompați previzualizările aplicației în Recente</string>
+    <string name="new_recents_config_title">Altele</string>
     <string name="night">Seară</string>
     <string name="no_detail_page">Nicio pagină cu detalii</string>
     <string name="no_space_toast">Spațiu insuficient</string>
@@ -775,6 +780,7 @@ Securitate sporită."</string>
     <string name="noon">Amiază</string>
     <string name="normal_wallpaper">Imagine de fundal</string>
     <string name="not_set">Nesetat</string>
+    <string name="not_support_adding">Adăugarea acestui element nu este suportată încă</string>
     <string name="notification_installed">Instalat cu succes</string>
     <string name="notification_open_button">Deschideți</string>
     <string name="notification_reset_title">Pictogramele au fost aranjate cu succes</string>
@@ -931,6 +937,9 @@ Securitate sporită."</string>
     <string name="send">Trimiteți</string>
     <string name="server_error">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="service_double_attention">Funcționalitatea de căutare îmbunătățită este oferită de Branch Metrics Inc. Pentru ca această funcție să funcționeze, trebuie să trimitem cererile dvs. de căutare, ID-ul Google Ads și adresa IP cu Branch Metrics Inc. Citiți și acceptați <font color="#B3000000"><a href="http://url1">Termenii și Condițiile utilizatorului final</a></font> și <font color="#B3000000"><a href="http://url2">Politica de Confidențialitate Branch Discovery</a></font> înainte de a utiliza această caracteristică.</string>
+    <string name="setting_close">Oprit</string>
+    <string name="setting_no_word">Oriunde</string>
+    <string name="setting_only_widget_no_word">Pe widgeturi</string>
     <string name="setting_wallpaper_tip">Ciupiți sau glisaţi pentru a ajusta</string>
     <string name="settings">Setări</string>
     <string name="settings_shortcut">Setări</string>
@@ -985,7 +994,7 @@ Securitate sporită."</string>
     <string name="sort_by_not_defined">Sortare automată</string>
     <string name="split_screen_position_top">Scindat în partea de sus</string>
     <string name="start_activity_failed">"Nu se poate porni lansatorul de sistem"</string>
-    <string name="starting_preset_app">Pornire…</string>
+    <string name="start_new_window">Fereastră nouă</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s din %2$s disponibili</string>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>

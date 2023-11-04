@@ -73,6 +73,15 @@
         <item>Violet</item>
         <item>Maro</item>
     </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Oprit</item>
+        <item>Oriunde</item>
+        <item>Pe widgeturi</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Oprit</item>
+        <item>Oriunde</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Glisare cu salt</item>
         <item>Glisare</item>
