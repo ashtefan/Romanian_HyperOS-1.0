@@ -381,6 +381,8 @@
     <string name="image_annotation_edit_hint">Descrierea imaginii</string>
     <string name="image_annotation_edit_length_warning">Descrierea imaginii poate conține cel mult %d caractere</string>
     <string name="info_note_enter_desktop">Adăugată pe desktop</string>
+    <string name="insert_image_menu_take_photo_by_local_device">Faceți o fotografie cu acest dispozitiv</string>
+    <string name="insert_image_menu_take_photo_by_remote_device">Faceți o fotografie cu %1$s</string>
     <string name="insert_image_size_limit_tip">Această imagine depășește %d MB. A fost comprimată automat.</string>
     <string name="item_view_role_description">Filă</string>
     <string name="last_excerpt_unfinish_hint">Ultimul fragment este incomplet</string>
@@ -466,6 +468,7 @@
     <string name="miui_penengine_setting_show_black_background">Negru</string>
     <string name="miui_penengine_setting_show_grid_background">Punctat</string>
     <string name="miui_penengine_setting_show_white_background">Alb</string>
+    <string name="miui_penengine_toast_add_to_clip">Copiat cu succes</string>
     <string name="miui_penengine_tool_brush">Unealta selectată</string>
     <string name="miui_penengine_tool_brush_stroke1">Lățimea cursei unu</string>
     <string name="miui_penengine_tool_brush_stroke2">Lățimea cursei doi</string>
@@ -519,6 +522,10 @@
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
     <string name="miuix_indexer_collect">Colecții</string>
     <string name="miuix_indexer_selected">Selectat %s</string>
+    <string name="miuix_item_view_role_description">Filă</string>
+    <string name="miuix_navigator_content_switch_description">Afișează bara laterală</string>
+    <string name="miuix_navigator_multiple_choice">Selectați</string>
+    <string name="miuix_navigator_navigator_switch_description">Ascunde bara laterală</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -655,6 +662,7 @@
     <string name="option_menu_save_as_pic">Salvați ca imagine</string>
     <string name="option_menu_share">Partajați</string>
     <string name="pad_collpase_navigation">Ascundeți panoul de navigare</string>
+    <string name="pad_dialog_take_photo_by_device">Se face o fotografie cu %1$s</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Se utilizează camera…</string>
     <string name="pad_expand_navigation">Afișați panoul de navigare</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galerie</string>
@@ -712,6 +720,7 @@
     <string name="permission_storage_desc_pad_v12">Pentru adăugarea de imagini la notițe și salvarea acestora ca imagini</string>
     <string name="permission_storage_desc_v12">Pentru adăugarea de imagini la notițe și salvarea acestora ca imagini</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI va colecta înregistrările vocale și ID-ul dispozitivului pentru a transcrie și crea notițe vocale. Aflați mai multe din &lt;a href=\"%1$s\">Politica de Confidențialitate Mi AI&lt;/a>.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>Pentru a oferi servicii de transcriere vorbire în text, Mi AI trebuie să colecteze intrarea audio și IMEI-ul dispozitivului dvs. Citiți și acceptați &lt;a href=\"%1$s\">Declarația de partajare a datelor de la terți Note&lt;/a> înainte de a continua. De asemenea, puteți afla mai multe citind &lt;a href=\"%2$s\">Politica de confidențialitate Mi AI&lt;/a>.</Data></string>
     <string name="permission_xiaoai_desc_new"><Data>Pentru a oferi servicii de transcriere de la vorbire la text, Mi AI trebuie să colecteze intrarea audio și ID-ul dispozitivului dvs., care este generat aleatoriu. Citiți și acceptați &lt;a href=\"%1$s\">Declarația noastră privind partajarea datelor către terți&lt;a href=\"%1$s\">Notițe&lt;/a> înainte de a continua. De asemenea, puteți afla mai multe citind &lt;a href=\"%2$s\">Politica de confidențialitate Mi AI&lt;/a>.</Data></string>
     <string name="permission_xiaoai_title">Vorbire în text</string>
     <string name="permlab_accessNote">Accesare note</string>
