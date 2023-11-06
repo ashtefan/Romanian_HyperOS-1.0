@@ -626,6 +626,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">" minute"</item>
         <item quantity="one">" minut"</item>
     </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+    </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Acumulatorul dispozitivului dvs. nu mai are energie. Se intră în modul Hibernare în %1$d secunde.</item>
         <item quantity="one">Acumulatorul dispozitivului dvs. nu mai are energie. Se intră în modul Hibernare în %1$d secundă.</item>
@@ -689,6 +693,282 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="people_million">
         <item quantity="other">Descărcat de %1$d persoane</item>
         <item quantity="one">Descărcat de %1$d persoane</item>
+    </plurals>
+    <plurals name="permission_usage_allow_activity_recognization">
+        <item quantity="other">%1$s | Această aplicație a accesat informațiile despre antrenament de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat informațiile despre antrenament %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_autostart">
+        <item quantity="other">%1$s | Această aplicație a pornit automat de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a pornit automat %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_body_sensor">
+        <item quantity="other">%1$s | Această aplicație a accesat senzorii corporali de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat senzorii corporali %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_call_phone">
+        <item quantity="other">%1$s | Această aplicație a efectuat apeluri telefonice de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a efectuat apeluri telefonice %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_camera">
+        <item quantity="other">%1$s | Această aplicație a accesat camera de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat camera %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_clipboard">
+        <item quantity="other">%1$s | Această aplicație a accesat clipboard-ul de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat clipboard-ul %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_delete_pic">
+        <item quantity="other">%1$s | Această aplicație a șters fotografii din Galerie de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a șters fotografii din Galerie %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_device_sensor">
+        <item quantity="other">%1$s | Această aplicație a accesat mișcarea și orientarea dispozitivului de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat mișcarea și orientarea dispozitivului %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_files">
+        <item quantity="other">%1$s | Această aplicație a accesat fișiere și documente de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat fișiere și documente %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_installed">
+        <item quantity="other">%1$s | Această aplicație a accesat lista de aplicații instalate pe acest dispozitiv de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat lista de aplicații instalate pe acest dispozitiv %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_number">
+        <item quantity="other">"%1$s| Această aplicație a accesat numărul de telefon al acestui dispozitiv de %2$d ori"</item>
+        <item quantity="one">"%1$s | Această aplicație a accesat numărul de telefon al acestui dispozitiv %2$d dată"</item>
+    </plurals>
+    <plurals name="permission_usage_allow_get_sms">
+        <item quantity="other">%1$s | Această aplicație a citit SMS-uri de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a citit SMS-uri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_location">
+        <item quantity="other">%1$s | Această aplicație v-a accesat locația de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație v-a accesat locația %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Această aplicație a accesat muzica și sunetele de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat muzica și sunetele %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_visual">
+        <item quantity="other">%1$s | Această aplicație a accesat fotografiile și videoclipurile de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat fotografiile și videoclipurile %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_media_volume">
+        <item quantity="other">%1$s | Această aplicație a ajustat volumul media de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a ajustat volumul media %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_mic">
+        <item quantity="other">%1$s | Această aplicație a accesat microfonul de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat microfonul %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_nearby_device">
+        <item quantity="other">%1$s | Această aplicație a accesat lista de dispozitive din apropiere de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat lista de dispozitive din apropiere %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_perm">
+        <item quantity="other">%1$s | Accesată de %2$d ori</item>
+        <item quantity="one">%1$s | Accesată %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_phone_state">
+        <item quantity="other">"%1$s| Această aplicație a accesat starea apelutilor de pe acest dispozitiv de %2$d ori"</item>
+        <item quantity="one">"%1$s| Această aplicație a accesat starea apelutilor de pe acest dispozitiv %2$d dată"</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calendar">
+        <item quantity="other">%1$s | Această aplicație a accesat calendarul de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat calendarul %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_calllog">
+        <item quantity="other">%1$s | Această aplicație a accesat istoricul apelurilor dvs de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat istoricul apelurilor dvs %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_r_contacts">
+        <item quantity="other">%1$s | Această aplicație a accesat contactele dvs de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a accesat contactele dvs %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_receive_sms">
+        <item quantity="other">%1$s | Această aplicație a primit SMS-uri de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a primit SMS-uri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_send_sms">
+        <item quantity="other">%1$s | Această aplicație a trimis SMS-uri de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a trimis SMS-uri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calendar">
+        <item quantity="other">%1$s | Această aplicație a editat calendarul de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a editat calendarul %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_calllog">
+        <item quantity="other">%1$s| Această aplicație a editat istoricul apelurilor dvs de %2$d ori</item>
+        <item quantity="one">%1$s| Această aplicație a editat istoricul apelurilor dvs %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Această aplicație v-a editat contactele de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație v-a editat contactele %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wake_path">
+        <item quantity="other">%1$s | Această aplicație a pornit automat %2$s de %3$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a pornit automat %2$s %3$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_allow_wakepath">
+        <item quantity="other">%1$s | Permis de %2$d ori</item>
+        <item quantity="one">%1$s | Permis %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_delete_pic_more">
+        <item quantity="other">%1$s | A șters fotografii din Galerie de %2$d ori</item>
+        <item quantity="one">%1$s | A șters fotografii din Galerie %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_activity_recognization">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzis să acceseze informațiile despre antrenament de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzis să acceseze informațiile despre antrenament %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_autostart">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost refuzată pornirea automată de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost refuzată pornirea automată %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_body_sensor">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea senzorilor corporali de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea senzorilor corporali %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_call_phone">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă realizarea de apeluri de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă realizarea de apeluri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_camera">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea camerei de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea camerei %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_clipboard">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea clipboard-ului %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea clipboard-ului %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_delete_pic">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă ștergerea de fotografii din Galerie de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă ștergerea de fotografii din Galerie %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_device_sensor">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea mișcării și a orientării dispozitivului de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea mișcării și a orientării dispozitivului %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_files">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea fișierelor și a documentelor de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea fișierelor și a documentelor %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_installed">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea listei de aplicații instalate pe acest dispozitiv de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea listei de aplicații instalate pe acest dispozitiv %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_number">
+        <item quantity="other">"%1$s | Acestei aplicații i-a fost interzisă accesarea numărului de telefon al dispozitivului de %2$d ori"</item>
+        <item quantity="one">"%1$s | Acestei aplicații i-a fost interzisă accesarea numărului de telefon al dispozitivului %2$d dată"</item>
+    </plurals>
+    <plurals name="permission_usage_deny_get_sms">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă citirea de SMS-uri de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă citirea de SMS-uri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_location">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea locației de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea locației %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_aural">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea muzicii și a sunetelor audio de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea muzicii și a sunetelor audio %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_visual">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea fotografiilor și a videoclipurilor de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea fotografiilor și a videoclipurilor %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_media_volume">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă ajustarea volumului media de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă ajustarea volumului media %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_mic">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea microfonului de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea microfonului %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_nearby_device">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea listei dispozitivelor din apropiere de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea listei dispozitivelor din apropiere %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_perm">
+        <item quantity="other">%1$s | Acces refuzat de %2$d ori</item>
+        <item quantity="one">%1$s | Acces refuzat %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_phone_state">
+        <item quantity="other">"%1$s | Acestei aplicații i-a fost interzisă accesarea stării apelurilor acestui dispozitiv de %2$d ori"</item>
+        <item quantity="one">"%1$s | Acestei aplicații i-a fost interzisă accesarea stării apelurilor acestui dispozitiv %2$d dată"</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calendar">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea calendarului de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea calendarului %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_calllog">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea istoricului de apelare de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea istoricului de apelare %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_r_contacts">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă accesarea contactelor de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă accesarea contactelor %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_receive_sms">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă primirea de SMS-uri de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă primirea de SMS-uri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_send_sms">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă trimiterea de SMS-uri de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă trimiterea de SMS-uri %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calendar">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă editarea calendarului de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă editarea calendarului %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_calllog">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă editarea istoricului de apelare de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă editarea istoricului de apelare %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_w_contacts">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă editarea contactelor de %2$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă editarea contactelor %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wake_path">
+        <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă pornirea automată a %2$s de %3$d ori</item>
+        <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă pornirea automată a %2$s %3$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_deny_wakepath">
+        <item quantity="other">%1$s | Refuzat de %2$d ori</item>
+        <item quantity="one">%1$s | Refuzat %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_recent_day">
+        <item quantity="other">cu %1$d zile în urmă</item>
+        <item quantity="one">cu %1$d zi în urmă</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_camera">
+        <item quantity="other">"%1$s | Această aplicație a folosit camera acestui dispozitiv de %2$d ori"</item>
+        <item quantity="one">"%1$s | Această aplicație a folosit camera acestui dispozitiv %2$d dată"</item>
+    </plurals>
+    <plurals name="permission_usage_terminal_screen">
+        <item quantity="other">"%1$s | Această aplicație a folosit ecranul acestui dispozitiv de %2$d ori"</item>
+        <item quantity="one">"%1$s | Această aplicație a folosit ecranul acestui dispozitiv %2$d dată"</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_calllog_more">
+        <item quantity="other">%1$s | Această aplicație a returnat o înregistrare de apeluri goală de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a returnat o înregistrare de apeluri goală %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_common_more">
+        <item quantity="other">%1$s | Această aplicație a returnat un mesaj gol de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a returnat un mesaj gol %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_contacts_more">
+        <item quantity="other">%1$s | Această aplicație a returnat o persoană de contact goală de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a returnat o persoană de contact goală %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_phone_state_more">
+        <item quantity="other">%1$s | Această aplicație a returnat o stare de apel goală de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a returnat o stare de apel goală %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_virtual_sms_more">
+        <item quantity="other">%1$s | Această aplicație a returnat un SMS gol de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a returnat un SMS gol %2$d dată</item>
     </plurals>
     <plurals name="power_20s_shutdown">
         <item quantity="other">Dispozitivul dvs. se va închide în %d secunde</item>
@@ -817,6 +1097,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="pp_times">
         <item quantity="other">%s ori</item>
         <item quantity="one">%s dată</item>
+    </plurals>
+    <plurals name="ppermission_usage_virtual_calendar_more">
+        <item quantity="other">%1$s | Această aplicație a returnat un eveniment gol din calendar de %2$d ori</item>
+        <item quantity="one">%1$s | Această aplicație a returnat un eveniment gol din calendar %2$d dată</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d pictograme ale aplicațiilor sunt ascunse</item>
@@ -962,6 +1246,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmente</item>
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
     </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+    </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Activați modul Focusat timp de %d minute</item>
         <item quantity="one">Activați modul Focusat timp de %d minut</item>
@@ -1035,6 +1323,10 @@ Faceți o pauză!"</item>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">Ștergeți %d aplicații selectate?</item>
         <item quantity="one">Ștergeți %d aplicație selectată?</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s aplicații</item>
+        <item quantity="one">%s aplicație</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicații periculoase: %d</item>

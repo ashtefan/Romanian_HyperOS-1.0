@@ -2065,7 +2065,8 @@ Adăugați widget-uri pentru a începe."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Nu veți mai putea utiliza widgetul \"Sugestiile de aplicații\" după ce dezactivați această funcție. O dezactivați oricum?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenție</string>
     <string name="pa_setting_bugreport">Feedback</string>
-    <string name="pa_setting_perm_empty">Nimic aici încă</string>
+    <string name="pa_setting_new_simplify_title_bar">Asistent inteligent</string>
+    <string name="pa_setting_perm_empty">Nimic aici deocamdată</string>
     <string name="pa_setting_personalized_recommenddation_swicth_summary">Obțineți recomandări de widget-uri în funcție de interesele dvs.</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Recomandări personalizate</string>
     <string name="pa_setting_privacy_auth">Permiteți analiza utilizării aplicației</string>

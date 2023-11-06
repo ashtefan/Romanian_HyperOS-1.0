@@ -264,6 +264,12 @@
         <item>Procent (lângă pictogramă)</item>
         <item>Bare sus</item>
     </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>Grafic</item>
+        <item>Procent (în interiorul pictogramei)</item>
+        <item>Procent (lângă pictogramă)</item>
+        <item>Bara de progres</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -1407,6 +1413,11 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Procent (în interiorul pictogramei)</item>
         <item>Procent (lângă pictogramă)</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>Grafic</item>
+        <item>Procent (în interiorul pictogramei)</item>
+        <item>Procent (lângă pictogramă)</item>
+    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Căutare</item>
         <item>Setări</item>
@@ -1661,6 +1672,15 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>1 oră</item>
         <item>2 ore</item>
         <item>8 ore</item>
+    </string-array>
+    <string-array name="smart_device_control_entries">
+        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Locuință inteligentă</item>
+        <item>Niciuna</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>Locuință inteligentă</item>
+        <item>Niciuna</item>
     </string-array>
     <string-array name="special_locale_codes_global">
         <item>zh_CN</item>
