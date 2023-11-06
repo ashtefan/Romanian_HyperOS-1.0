@@ -5154,7 +5154,6 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="lights_title">Lumină LED</string>
     <string name="line_breaking_summary">Optimizaţi ruperea rândului alineatului</string>
     <string name="line_breaking_title">Optimizare text</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_to_windows_setting_off">Oprit</string>
     <string name="link_to_windows_setting_on">Pornit</string>
     <string name="link_to_windows_settings_title">Legare la Windows</string>
@@ -9777,7 +9776,6 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="summary_empty" />
     <string name="summary_placeholder"> </string>
     <string name="summary_quick_control_all_devices">Afișați comenzile pentru televizoarele, difuzoarele și mașinile din apropiere în Centrul de control</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
     <string name="sunday">Duminică</string>

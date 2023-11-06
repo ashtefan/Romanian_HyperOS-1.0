@@ -1673,11 +1673,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>2 ore</item>
         <item>8 ore</item>
     </string-array>
-    <string-array name="smart_device_control_entries">
-        <item>@string/mi_smart_hub_entry_title</item>
-        <item>Locuință inteligentă</item>
-        <item>Niciuna</item>
-    </string-array>
     <string-array name="smart_home_entries">
         <item>Locuință inteligentă</item>
         <item>Niciuna</item>
