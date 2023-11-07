@@ -247,7 +247,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="download_file">Se descarcă %s…</string>
     <string name="dropdown_menu">Meniu de glisare în jos</string>
     <string name="early_morning">Dimineață</string>
-    <string name="empty_device_list_notice">Niciun dispozitiv</string>
+    <string name="empty_device_list">Nimic aici deocamdată</string>
     <string name="enable">Setări</string>
     <string name="ep_unsupported">Dispozitivul dvs. nu suportă conectarea la contul Xiaomi</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Xiaomi.</string>
@@ -1083,6 +1083,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="user_agreement_must_permission_msg">Permisiuni obligatorii (utilizate pentru funcțiile și serviciile de bază ale acestei aplicații)</string>
     <string name="user_agreement_network_permission_msg">Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
     <string name="user_agreement_permission_summary_msg">Contul Xiaomi vă permite să accesați toate serviciile oferite de Xiaomi. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
+    <string name="user_agreement_read_phone_permission_desc">Pentru a vă conecta folosind numărul de telefon</string>
+    <string name="user_agreement_read_phone_permission_title">Citirea numerelor de telefon</string>
     <string name="user_agreement_use_account_msg">Contul Xiaomi vă permite să accesați toate serviciile oferite de Xiaomi.</string>
     <string name="user_agreement_wifi_permission_title">Activați și dezactivați Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Pentru a verifica mediul de conectare pentru probleme de securitate</string>

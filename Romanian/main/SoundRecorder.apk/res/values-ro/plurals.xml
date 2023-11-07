@@ -92,7 +92,7 @@
         <item quantity="other">Nu s-au putut restaura %d elemente din cauza unei erori necunoscute.</item>
         <item quantity="one">Nu s-au putut restaura %d element din cauza unei erori necunoscute.</item>
     </plurals>
-    <plurals name="search_alll_records_hint">
+    <plurals name="search_all_records_hint">
         <item quantity="other">%d înregistrări</item>
         <item quantity="one">%d înregistrare</item>
     </plurals>
