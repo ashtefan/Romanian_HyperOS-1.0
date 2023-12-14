@@ -342,7 +342,7 @@
     <string name="evening">După amiază</string>
     <string name="exit_overview_because_task_stack_changed">Fila Recente s-a închis din cauza modificărilor care au avut loc în fundal</string>
     <string name="expand_button_title">Avansat</string>
-    <string name="exposed_dropdown_menu_content_description">Afișează meniul drop-down</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="external_not_support_split_screen_j18">Ecranul scindat nu este acceptat pe ecranul exterior</string>
     <string name="failed_to_delete_temporary">"Nu s-a putut elimina"</string>
     <string name="failed_to_drop">"Mutare eşuată"</string>

@@ -364,13 +364,13 @@ Puteți schimba această comandă rapidă într-o altă funcție din Setări &gt
     <string name="bugreport_screenshot_success_toast">Captura de ecran cu raportul de eroare a fost realizată</string>
      <string name="bugreport_title">Compuneţi un raport despre erori</string>
      <string name="byteShort"> B</string>
-    <string name="call_notification_answer_action">Acceptați</string>
+    <string name="call_notification_answer_action">Răspundeți</string>
     <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Refuzați</string>
-    <string name="call_notification_hang_up_action">Îndoiți</string>
-    <string name="call_notification_incoming_text">Apel primit</string>
+    <string name="call_notification_hang_up_action">Închideți</string>
+    <string name="call_notification_incoming_text">Apel de intrare</string>
     <string name="call_notification_ongoing_text">Apel în curs</string>
-    <string name="call_notification_screening_text">Apelul primit este verificat</string>
+    <string name="call_notification_screening_text">Afișarea unui apel primit</string>
      <string name="cancel">Anulaţi</string>
      <string name="capability_desc_canCaptureFingerprintGestures">Poate capta gesturile realizate pe senzorul de amprentă al dispozitivului</string>
      <string name="capability_desc_canControlMagnification">Controlați nivelul de magnificare și poziția.</string>

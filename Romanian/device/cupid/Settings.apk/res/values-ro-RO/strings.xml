@@ -1295,7 +1295,7 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="ethernet_tethering_subtext">Partajați conexiunea la internet a telefonului prin USB Ethernet</string>
     <string name="expand_button_title">Avansat</string>
     <string name="experimental_category_title">Experimental</string>
-    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="external_source_switch_title">Permiteți din această sursă</string>
     <string name="external_source_trusted">Permisă</string>
     <string name="external_source_untrusted">Nepermisă</string>
