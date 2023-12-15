@@ -829,10 +829,6 @@
         <item>Cursiv</item>
         <item>Litere mici</item>
     </string-array>
-    <array name="carrierId_2032_iconOverrides">
-        <item>5G_PLUS</item>
-        <item>@drawable/ic_5g_plus_mobiledata_default</item>
-    </array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
@@ -846,12 +842,6 @@
         <item>Model</item>
         <item>Cod PIN</item>
         <item>Parolă</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>model</item>
-        <item>numeric</item>
-        <item>combinat</item>
     </string-array>
     <string-array name="city_timezone">
         <item>Africa/Abidjan</item>
@@ -1315,14 +1305,6 @@
         <item>Nu verifica niciodată</item>
         <item>Verifică doar conținutul DRM</item>
         <item>Verifică întotdeauna</item>
-    </string-array>
-    <string-array name="ingress_rate_limit_entries">
-        <item>@string/ingress_rate_limit_no_limit_entry</item>
-        <item>128 kbps</item>
-        <item>256 kbps</item>
-        <item>1 Mbps</item>
-        <item>5 Mbps</item>
-        <item>15 Mbps</item>
     </string-array>
     <string-array name="inputdebuglog_select_level_entries">
         <item>Nivel 0</item>
