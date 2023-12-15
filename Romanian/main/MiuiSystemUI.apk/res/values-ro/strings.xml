@@ -2022,7 +2022,6 @@ Pentru mai multe informații, contactați administratorul.
 
 De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activitatea în rețea."</string>
     <string name="monitoring_description_vpn_settings">Accesați setările Open VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s poate să acceseze datele asociate cu acest dispozitiv, să gestioneze aplicațiile și să modifice setările acestui dispozitiv.
 
 Dacă aveți întrebări, contactați %2$s."</string>
@@ -2153,7 +2152,6 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="nav_bar_default">(implicit)</string>
     <string name="nav_bar_edge_panel">Panou marginal Bară de navigare</string>
     <string name="nav_bar_layout">Dispunere</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s a trimis o fotografie</string>
     <string name="new_notification_text_content_description">%1$s a trimis un mesaj: %2$s</string>
     <string name="new_status_content_description">%1$s are o actualizare de stare: %2$s</string>
@@ -2379,7 +2377,6 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="pm">PM</string>
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_charging_limited">%1$s - Încărcare limitată temporar</string>
     <string name="power_discharge_by">Ar trebui să dureze până la circa %1$s (%2$s)</string>
@@ -2679,11 +2676,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="quick_settings_sync_label">Sincronizare</string>
     <string name="quick_settings_sync_state_change_message_off">Sincronizarea este dezactivată</string>
     <string name="quick_settings_sync_state_change_message_on">Sincronizarea este activată</string>
-    <string name="quick_settings_tiles">implicit</string>
-    <string name="quick_settings_tiles_default">internet,bt,flashlight,dnd,alarm,airplane,controls,wallet,rotation,battery,cast,screenrecord,mictoggle,cameratoggle,custom(com.android.permissioncontroller/.permission.service.SafetyCenterQsTileService)</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_retail_mode">night,dark,dnd,flashlight,rotation,location</string>
-    <string name="quick_settings_tiles_stock">internet,bt,flashlight,dnd,alarm,airplane,controls,wallet,rotation,battery,cast,screenrecord,mictoggle,cameratoggle,location,hotspot,inversion,saver,dark,work,night,reverse,reduce_brightness,qr_code_scanner,onehanded,color_correction,dream,font_scaling</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_ui_mode_night_label">Temă întunecată</string>
     <string name="quick_settings_user_label">Eu</string>
@@ -3023,7 +3016,6 @@ d MMMM"</string>
     <string name="status_bar_network_flow_limit">"   Limita lunară: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Achiziţionaţi >"</string>
     <string name="status_bar_network_flow_today">Astăzi: %1$s</string>
-    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Fără notificări</string>
     <string name="status_bar_no_recent_apps">Ecranele recente apar aici</string>
     <string name="status_bar_no_sim">fără_sim</string>

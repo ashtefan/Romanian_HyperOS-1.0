@@ -3540,7 +3540,6 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dndm_auto_button_title">Perioadă repetare Nu deranjați</string>
     <string name="dndm_auto_setting_group">Grafic</string>
     <string name="dndm_auto_time_setting">Setaţi perioada</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Până la</string>
     <string name="dndm_auto_time_turn_off_title">Dezactivare automată a modului Nu deranjați</string>
     <string name="dndm_auto_time_turn_on">De la</string>
@@ -5447,7 +5446,6 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="lights_title">Lumină LED</string>
     <string name="line_breaking_summary">Optimizaţi ruperea rândului alineatului</string>
     <string name="line_breaking_title">Optimizare text</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_to_windows_setting_off">Oprit</string>
     <string name="link_to_windows_setting_on">Pornit</string>
     <string name="link_to_windows_settings_title">Legare la Windows</string>
@@ -6168,7 +6166,6 @@ Această operație nu poate fi anulată!"</string>
     <string name="memory_usage">Utilizare memorie</string>
     <string name="memory_usage_apps">Memorie utilizată de către aplicații</string>
     <string name="memory_usage_apps_summary">{count, plural, =1 {1 aplicație a folosit memoria în ultima {time}} other {# aplicații au folosit memoria în ultimele {time}} }</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s memorie utilizată în medie în ultimele 3 ore</string>
     <string name="memorycard_calculating">Se calculează…</string>
     <string name="memtag_footer">Va trebui să reporniți dispozitivul pentru a activa sau dezactiva Protecția avansată a memoriei. Când este activată, este posibil să observați o performanță mai lentă a dispozitivului.</string>
@@ -7092,7 +7089,6 @@ Selectaţi sistemul de operare:"</string>
     <string name="nfc_more_details">Aflați mai multe</string>
     <string name="nfc_more_title">Mai multe…</string>
     <string name="nfc_notification_mode_title">Mementouri pentru citirea cardurilor NFC</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Setați ca implicită</string>
     <string name="nfc_payment_btn_text_update">Actualizați</string>
     <string name="nfc_payment_default">Implicit plată</string>
@@ -7770,7 +7766,6 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="power_cell">Rețea mobilă</string>
     <string name="power_center">Optimizare acumulator</string>
     <string name="power_charge_remaining">%1$s până la încărcare</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_charging_future_paused">%1$s - Încărcare optimizată</string>
     <string name="power_charging_limited">%1$s - Încărcare limitată temporar</string>
@@ -7833,7 +7828,6 @@ Apăsați pe pornire și creșteți volumul în același timp."</string>
     <string name="power_remaining_less_than_duration_only">Mai puțin de %1$s disponibil</string>
     <string name="power_remaining_more_than_subtext">Mai mult de %1$s disponibil (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Mai mult de %1$s disponibil</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Ecran</string>
     <string name="power_settings_title">Performanţă sistem</string>
     <string name="power_suggestion_battery_run_out">Este posibil ca acumulatorul să se descarce până %1$s</string>
@@ -8102,7 +8096,6 @@ Apăsați pe pornire și creșteți volumul în același timp."</string>
     <string name="privileged_action_disable_sub_dialog_title">Dezactivați %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Dezactivați cartela SIM?</string>
     <string name="process_dex2oat_label">Optimizare aplicație</string>
-    <string name="process_kernel_label">S.O. Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_network_tethering">Tethering</string>
     <string name="process_provider_in_use_description">Furnizorul %1$s se află în uz.</string>
@@ -9682,7 +9675,6 @@ Atingeți de două ori pentru a deschide Recente.</string>
     <string name="size_kilo_byte"> KB</string>
     <string name="size_mega_byte"> MB</string>
     <string name="size_peta_byte"> PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte"> TB</string>
     <string name="skip_anyway_button_label">Omiteți oricum</string>
     <string name="skip_label">Omiteţi</string>
@@ -9959,7 +9951,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_icons_title">Pictograme bară de stare</string>
     <string name="status_bar_settings">Notificări și bara de stare</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_notification_bar">Panou notificări</string>
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
@@ -10377,7 +10368,6 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="summary_empty" />
     <string name="summary_placeholder"> </string>
     <string name="summary_quick_control_all_devices">Afișați comenzile pentru televizoarele, difuzoarele și mașinile din apropiere în Centrul de control</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
     <string name="sunday">Duminică</string>
@@ -12894,7 +12884,6 @@ Actualizați setările:
     <string name="zone_info_footer">Utilizează %1$s. %2$s pornește la %3$s.</string>
     <string name="zone_info_footer_no_dst">Utilizează %1$s. Fără oră de vară.</string>
     <string name="zone_info_footer_second_sentence">%1$s pornește la %2$s.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Sortare în ordine alfabetică</string>
     <string name="zone_list_menu_sort_by_timezone">Sortare după fusul orar</string>
     <string name="zone_menu_by_offset">Selectare după decalajul UTC</string>

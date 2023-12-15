@@ -124,7 +124,6 @@
     <string name="app_disable_description_content">Muzica Mi este o aplicație de sistem. Dacă o dezactivați, acest lucru poate afecta utilizarea altor aplicații. O dezactivați oricum?</string>
     <string name="app_disable_description_title">Dezactivați aplicația de sistem?</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">podcast</string>
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
     <string name="app_permission_require">Permisiuni obligatorii</string>
@@ -2077,8 +2076,6 @@ Dimensiune: %2$s"</string>
 Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yandex_ads_internal_after_timer_value">sec</string>
     <string name="yandex_ads_internal_before_timer_value">Rămas înainte de premiere</string>
     <string name="yandex_ads_internal_go">Merge</string>
