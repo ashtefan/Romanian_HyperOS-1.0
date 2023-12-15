@@ -757,6 +757,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -1150,6 +1151,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="sign_in_dialog_office365">Office365 Ediție Personală</string>
     <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (fără calendar)</string>
+    <string name="sign_in_dialog_title">Alegeți metoda de conectare</string>
     <string name="sign_in_no_useful_provider_error">Nu pot obține configurații de protocoale de la Microsoft. Utilizați un protocol diferit sau actualizați protocolul de la Microsoft.</string>
     <string name="signature">"
 

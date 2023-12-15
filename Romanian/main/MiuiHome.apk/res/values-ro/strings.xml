@@ -768,6 +768,7 @@ Securitate sporită."</string>
     <string name="navigation_type_title">Navigare în sistem</string>
     <string name="navigation_type_virtual_key">Butoane</string>
     <string name="network_error">Nu s-a putut conecta la rețea. Încercați din nou.</string>
+    <string name="new_default_folder_title_tools">Aplicații de sistem</string>
     <string name="new_feature_title">Ce este nou</string>
     <string name="new_open_personal_assistant_settings_simplified">Asistent inteligent</string>
     <string name="new_privacy_thumbnail_blur_summary">Estompați previzualizările aplicației în Recente</string>
@@ -1018,6 +1019,7 @@ Securitate sporită."</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
     <string name="switch_screen_button_order_desc">Butoanele Înapoi și Meniu poziționate în oglindă</string>
     <string name="system_shortcuts_edit">Editați</string>
+    <string name="system_shortcuts_icon_remove">Eliminați</string>
     <string name="system_shortcuts_more_operation">Informații aplicație</string>
     <string name="system_shortcuts_remove">Eliminați</string>
     <string name="system_text">Auto</string>

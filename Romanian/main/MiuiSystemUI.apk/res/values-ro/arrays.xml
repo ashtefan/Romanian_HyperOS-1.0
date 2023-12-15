@@ -17,11 +17,7 @@
         <item>Cel mult 3 procese</item>
         <item>Cel mult 4 procese</item>
     </string-array>
-    <string-array name="battery_options">
-        <item>Arată întotdeauna procentul</item>
-        <item>Arată procentajul când se încarcă (implicit)</item>
-        <item>Nu afișa această pictogramă</item>
-    </string-array>
+    
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Utilizați selecția sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
@@ -128,11 +124,6 @@
         <item>VDF</item>
         <item>VDF 3G</item>
     </string-array>
-    <string-array name="clock_options">
-        <item>Afișează ora, minutul și secundele</item>
-        <item>Afișează ora și minutul (implicit)</item>
-        <item>Nu afișa această pictogramă</item>
-    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Culori accentuate</item>
         <item>Culori naturale, așa cum sunt percepute de ochiul uman</item>
@@ -168,33 +159,9 @@
         <item>Verifică doar conținutul DRM</item>
         <item>Verifică întotdeauna</item>
     </string-array>
-    <string-array name="lockscreen_num_pad_klondike">
-        <item>+</item>
-        <item></item>
-        <item>AĂÎBC</item>
-        <item>DEF</item>
-        <item>GHI</item>
-        <item>JKL</item>
-        <item>MNO</item>
-        <item>PQRSȘ</item>
-        <item>TȚUV</item>
-        <item>WXYZ</item>
-    </string-array>
     <string-array name="miui_notification_aggregate_category">
         <item>Acesta este conținut recomandat.</item>
         <item>Aceasta este o reclamă.</item>
-    </string-array>
-    <string-array name="nav_bar_buttons">
-        <item>Clipboard</item>
-        <item>Cod cheie</item>
-        <item>Confirmare rotire, comutare tastatură</item>
-        <item>Nimic</item>
-    </string-array>
-    <string-array name="nav_bar_layouts">
-        <item>Normal</item>
-        <item>Compact</item>
-        <item>Înclinat spre stânga</item>
-        <item>Înclinat spre dreapta</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Niciunul</item>
@@ -275,6 +242,40 @@
         <item>Grindină</item>
         <item>Praf</item>
         <item>Negură</item>
+    <string-array name="battery_options">
+        <item>Arată întotdeauna procentul</item>
+        <item>Arată procentajul când se încarcă (implicit)</item>
+        <item>Nu afișa această pictogramă</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Afișează ora, minutul și secundele</item>
+        <item>Afișează ora și minutul (implicit)</item>
+        <item>Nu afișa această pictogramă</item>
+    </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>AĂÎBC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRSȘ</item>
+        <item>TȚUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Clipboard</item>
+        <item>Cod cheie</item>
+        <item>Confirmare rotire, comutare tastatură</item>
+        <item>Nimic</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compact</item>
+        <item>Înclinat spre stânga</item>
+        <item>Înclinat spre dreapta</item>
+    </string-array>
         <item>Ploaie ce îngheaţă</item>
         <item></item>
     </string-array>
@@ -333,7 +334,17 @@
         <item>Oprit</item>
         <item>Pornit</item>
     </string-array>
+    <string-array name="tile_states_dream">
+        <item>Indisponibil</item>
+        <item>Oprit</item>
+        <item>Pornit</item>
+    </string-array>
     <string-array name="tile_states_flashlight">
+        <item>Indisponibil</item>
+        <item>Oprit</item>
+        <item>Pornit</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
         <item>Indisponibil</item>
         <item>Oprit</item>
         <item>Pornit</item>

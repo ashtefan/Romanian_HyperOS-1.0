@@ -1490,6 +1490,7 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
      <string name="permdesc_getPackageSize">Permite aplicaţiei să preia dimensiunile codului, ale datelor şi ale memoriei cache</string>
      <string name="permdesc_getTasks">Permite aplicaţiei să preia informaţiile despre activităţile care rulează în prezent şi care au rulat recent. În acest fel, aplicaţia poate descoperi informaţii despre aplicaţiile care sunt utilizate pe dispozitiv.</string>
      <string name="permdesc_handoverStatus">Permite aplicației să primească informații despre transferurile curente Android Beam</string>
+    <string name="permdesc_hideOverlayWindows">Această aplicație poate solicita ca sistemul să ascundă suprapunerile care provin din aplicații pentru a nu fi afișate deasupra acesteia.</string>
     <string name="permdesc_highSamplingRateSensors">Permite aplicației să eșantioneze datele senzorului la o rată mai mare de 200 Hz</string>
     <string name="permdesc_imagesWrite">Permite aplicaţiei să vă modifice colecția de fotografii.</string>
      <string name="permdesc_install_shortcut">Permite unei aplicații să adauge comenzi rapide pe ecranul de pornire, fără intervenția utilizatorului.</string>
@@ -1506,6 +1507,7 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
      <string name="permdesc_modifyNetworkAccounting">Permite aplicaţiei să modifice modul în care este calculată utilizarea reţelei pentru aplicaţii. Nu se utilizează de către aplicaţiile obişnuite.</string>
     <string name="permdesc_nearby_wifi_devices">Permiteți aplicației să facă publicitate, să se conecteze și să determine poziția relativă a dispozitivelor Wi-Fi din apropiere</string>
      <string name="permdesc_nfc">Permite aplicaţiei să comunice cu etichetele, cardurile şi cititoarele NFC (Near Field Communication).</string>
+    <string name="permdesc_observeCompanionDevicePresence">Permite unei aplicații însoțitoare să observe prezența dispozitivului însoțitor atunci când dispozitivele sunt în apropiere sau la distanță.</string>
      <string name="permdesc_persistentActivity">Permite aplicaţiei să declare persistente în memorie anumite părţi ale sale. Acest lucru poate limita memoria disponibilă pentru alte aplicaţii şi poate încetini viteza de funcţionare a telefonului.</string>
     <string name="permdesc_postNotification">Permite aplicației să afișeze notificări</string>
     <string name="permdesc_preferredPaymentInfo">Permite aplicației să obțină informații despre serviciile de plată NFC preferate, cum ar fi ajutoarele înregistrate și destinația rutei.</string>
@@ -1527,6 +1529,7 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
      <string name="permdesc_readSms">Această aplicație poate să citească toate mesajele (text) SMS stocate pe telefon.</string>
      <string name="permdesc_readSyncSettings">Permite aplicaţiei să citească setările de sincronizare ale unui cont. De exemplu, cu această permisiune activă aplicaţia poate determina dacă aplicaţia Persoane este sincronizată cu un anumit cont.</string>
      <string name="permdesc_readSyncStats">Permite unei aplicaţii să citească statisticile de sincronizare ale unui cont, inclusiv istoricul evenimentelor de sincronizare şi volumul datelor sincronizate.</string>
+    <string name="permdesc_readVisualUserSelect">Permite aplicației să citească fișierele de imagine și video pe care le selectați din spațiul de stocare partajat.</string>
      <string name="permdesc_receiveBootCompleted">Permite aplicaţiei să pornească imediat ce s-a terminat încărcarea sistemului. Din acest motiv, pornirea telefonului poate dura mai mult timp, iar rularea continuă a aplicaţiei poate încetini dispozitivul.</string>
      <string name="permdesc_receiveMms">Permite aplicaţiei să primească şi să proceseze mesaje MMS. Acest lucru înseamnă că aplicaţia ar putea monitoriza sau şterge mesajele trimise pe dispozitivul dvs. fără a vi le arăta.</string>
      <string name="permdesc_receiveSms">Permite aplicaţiei să primească şi să proceseze mesaje SMS. Acest lucru înseamnă că aplicaţia ar putea monitoriza sau şterge mesajele trimise pe dispozitivul dvs. fără a vi le arăta.</string>
@@ -1543,6 +1546,7 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
     <string name="permdesc_requestPasswordComplexity">Permite aplicaţiei să învețe nivelul de complexitate al blocării ecranului (ridicat, mediu, redus sau absent), ceea ce indică lungimea posibilă a parolei și tipul blocării ecranului. Aplicația poate de asemenea să sugereze utilizatorilor că și-au actualizat blocarea ecranului la un anumit nivel dar utilizatorii pot ignora și naviga mai departe. Luați aminte că blocarea ecranului nu este stocată în text plin, deci aplicația nu cunoaște exact parola.</string>
      <string name="permdesc_route_media_output">Permite unei aplicaţii să direcţioneze rezultate media către alte dispozitive externe.</string>
     <string name="permdesc_runInBackground">Această aplicație poate rula în fundal. Acest lucru poate descărca mai rapid acumulatorul.</string>
+    <string name="permdesc_schedule_exact_alarm">Această aplicație poate programa munca să aibă loc la un moment dorit în viitor. Aceasta înseamnă, de asemenea, că aplicația poate rula atunci când nu utilizați în mod activ dispozitivul.</string>
      <string name="permdesc_sdcardRead">Permite aplicației citirea conținutului de pe stocarea partajată.</string>
      <string name="permdesc_sdcardWrite">Permite aplicaţiei să scrie conținu în stocarea partajată.</string>
      <string name="permdesc_sendSms">Permite aplicaţiei să trimită mesaje SMS, ceea ce ar putea determina apariţia unor taxe neaşteptate. Aplicaţiile rău intenţionate pot genera costuri prin trimiterea de mesaje fără confirmarea dvs.</string>
@@ -1552,6 +1556,7 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
      <string name="permdesc_setWallpaper">Permite aplicaţiei să seteze imaginea de fundal a sistemului.</string>
      <string name="permdesc_setWallpaperHints">Permite aplicaţiei să seteze sugestiile privind dimensiunile imaginii de fundal a sistemului.</string>
      <string name="permdesc_sim_communication">Permite aplicației să trimită comenzi cartelei SIM. ACEST LUCRU ESTE FOARTE PERICULOS.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Permite unei aplicații însoțitoare să pornească servicii din prim-plan din fundal.</string>
     <string name="permdesc_startReviewPermissionDecisions">Permite deținătorului să pornească ecranul pentru a revizui deciziile privind permisiunea. Nu ar trebui să fie niciodată necesar pentru aplicațiile normale.</string>
     <string name="permdesc_startViewAppFeatures">Permite titularului să înceapă să vadă informațiile despre funcții pentru o aplicație.</string>
     <string name="permdesc_startViewPermissionUsage">Permite deținătorului să pornească permisiunea de utilizare pentru o aplicație. Nu ar trebui să fie niciodată necesară pentru aplicațiile obișnuite.</string>
@@ -1561,11 +1566,14 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
      <string name="permdesc_systemAlertWindow">Această aplicație poate să suprapună elemente vizuale peste alte aplicaţii sau părţi ale ecranului. Acest lucru poate interfera cu utilizarea normală a aplicației sau poate înlocui ceea ce credeţi că vedeţi în alte aplicaţii.</string>
     <string name="permdesc_systemCamera">Această aplicație privilegiată sau de sistem poate face fotografii și înregistra videoclipuri folosind o cameră de sistem în orice moment. Necesită permisiunea android.permission.CAMERA să fie deținută și de aplicație</string>
      <string name="permdesc_transmitIr">Permite aplicației să utilizeze transmițătorul prin infraroșii al telefonului.</string>
+    <string name="permdesc_turnScreenOn">Permite aplicației să pornească ecranul.</string>
      <string name="permdesc_uninstall_shortcut">Permite aplicației să elimine comenzi rapide de pe ecranul de pornire, fără intervenția utilizatorului.</string>
+    <string name="permdesc_updatePackagesWithoutUserAction">Permite deținătorului să actualizeze aplicația pe care a instalat-o anterior fără acțiunea utilizatorului</string>
     <string name="permdesc_useBiometric">Permite aplicației să utilizeze dispozitivul biometric pentru autentificare</string>
     <string name="permdesc_useDataInBackground">Această aplicație poate utiliza date în fundal. Acest lucru poate crește traficul de date.</string>
     <string name="permdesc_useFaceAuthentication">Permite aplicației să utilizeze dispozitivul de deblocare facială pentru autentificare</string>
      <string name="permdesc_useFingerprint">Permite aplicației să utilizeze componenta hardware de recunoaștere a amprentei pentru autentificare</string>
+    <string name="permdesc_use_exact_alarm">Această aplicație poate programa acțiuni precum alarme și memento-uri pentru a vă anunța la ora dorită în viitor.</string>
      <string name="permdesc_use_sip">Permite aplicaţiei să utilizeze serviciul SIP pentru a efectua/primi apeluri prin internet.</string>
     <string name="permdesc_uwb_ranging">Permiteți aplicației să determine poziția relativă între dispozitivele Ultra-Wideband din apropiere</string>
      <string name="permdesc_vibrate">Permite aplicaţiei să controleze mecanismul de vibrare.</string>
@@ -1673,19 +1681,36 @@ pentru contul %s."</string>
      <string name="permlab_changeWifiMulticastState">permită recepţionarea difuzării multiple Wi-Fi</string>
      <string name="permlab_changeWifiState">se conecteze şi să se deconecteze de la Wi-Fi</string>
      <string name="permlab_changeWimaxState">schimbe starea WiMAX</string>
+    <string name="permlab_companionProfileWatch">permisiunea profilului Companion Watch pentru a gestiona ceasurile</string>
      <string name="permlab_connection_manager">gestioneze conexiunile telecom</string>
      <string name="permlab_control_incall_experience">furnizeze o experiență utilizator în timpul unui apel</string>
      <string name="permlab_createNetworkSockets">aibă acces deplin la reţea</string>
+    <string name="permlab_deliverCompanionMessages">trimită mesaje însoțitoare</string>
+    <string name="permlab_detectScreenCapture">detecteze capturile de ecran ale ferestrelor aplicației</string>
      <string name="permlab_disableKeyguard">dezactiveze blocarea ecranului</string>
      <string name="permlab_enableCarMode">activeze modul Maşină</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">cu excepția restricțiilor de înregistrăre audio</string>
      <string name="permlab_expandStatusBar">extindă/restrângă bara de stare</string>
     <string name="permlab_foregroundService">ruleze serviciul în prim plan</string>
+    <string name="permlab_foregroundServiceCamera">ruleze serviciul în prim-plan de tipul \"cameră\"</string>
+    <string name="permlab_foregroundServiceConnectedDevice">ruleze serviciul în prim-plan de tipul \"dispozitivConectat\"</string>
+    <string name="permlab_foregroundServiceDataSync">ruleze serviciul în prim-plan de tipul \"SincronizareDate\"</string>
+    <string name="permlab_foregroundServiceFileManagement">ruleze serviciul în prim-plan de tipul \"gestionareFișiere\"</string>
+    <string name="permlab_foregroundServiceHealth">ruleze serviciul în prim-plan de tipul \"sănătate\"</string>
+    <string name="permlab_foregroundServiceLocation">ruleze serviciul în prim-plan de tipul \"locație\"</string>
+    <string name="permlab_foregroundServiceMediaPlayback">ruleze serviciul în prim-plan de tipul \"redareMedia\"</string>
+    <string name="permlab_foregroundServiceMediaProjection">ruleze serviciul în prim-plan de tipul \"proiectareMedia\"</string>
+    <string name="permlab_foregroundServiceMicrophone">ruleze serviciul în prim-plan de tipul \"microfon\"</string>
+    <string name="permlab_foregroundServicePhoneCall">ruleze serviciul în prim-plan de tipul \"apelare\"</string>
+    <string name="permlab_foregroundServiceRemoteMessaging">ruleze serviciul în prim-plan de tipul \"mesagerieLadistanță\"</string>
+    <string name="permlab_foregroundServiceSpecialUse">ruleze serviciul în prim-plan de tipul \"utilizareSpecială\"</string>
+    <string name="permlab_foregroundServiceSystemExempted">ruleze serviciul în prim-plan de tipul \"systemExempted\"</string>
     <string name="permlab_fullScreenIntent">afișeze notificări ca activități pe ecran complet pe un dispozitiv blocat</string>
      <string name="permlab_getAccounts">găsească conturile din dispozitiv</string>
      <string name="permlab_getPackageSize">măsoare spaţiul de stocare al aplicaţiei</string>
      <string name="permlab_getTasks">preia aplicaţiile care rulează</string>
      <string name="permlab_handoverStatus">recepționeze starea transferurilor Android Beam</string>
+    <string name="permlab_hideOverlayWindows">ascundă suprapunerile altor aplicații</string>
     <string name="permlab_highSamplingRateSensors">acceseze datele senzorului la o rată mare de eșantionare</string>
     <string name="permlab_imagesWrite">modifice colecția de fotografii</string>
      <string name="permlab_install_shortcut">instaleze comenzi rapide</string>
@@ -1702,6 +1727,7 @@ pentru contul %s."</string>
      <string name="permlab_modifyNetworkAccounting">modifice modul de contabilizare a utilizării reţelei</string>
     <string name="permlab_nearby_wifi_devices">interacționeze cu dispozitivele Wi-Fi din apropiere</string>
      <string name="permlab_nfc">controleze schimbul de date prin Near Field Communication</string>
+    <string name="permlab_observeCompanionDevicePresence">observe prezența dispozitivului însoțitor</string>
      <string name="permlab_persistentActivity">facă aplicația să ruleze continuu</string>
     <string name="permlab_postNotification">afișeze notificări</string>
     <string name="permlab_preferredPaymentInfo">Informații despre serviciul de plată NFC preferat</string>
@@ -1723,6 +1749,7 @@ pentru contul %s."</string>
      <string name="permlab_readSms">citească mesajele text (SMS sau MMS)</string>
      <string name="permlab_readSyncSettings">citească setările de sincronizare</string>
      <string name="permlab_readSyncStats">citească statisticile privind sincronizarea</string>
+    <string name="permlab_readVisualUserSelect">citească fișierele imagine și video selectate de utilizator din spațiul de stocare partajat</string>
      <string name="permlab_receiveBootCompleted">ruleze la pornirea dispozitivului</string>
      <string name="permlab_receiveMms">primească mesaje multimedia (MMS)</string>
      <string name="permlab_receiveSms">primească mesaje text (SMS)</string>
@@ -1739,6 +1766,7 @@ pentru contul %s."</string>
     <string name="permlab_requestPasswordComplexity">solicite complexitatea blocării ecranului</string>
      <string name="permlab_route_media_output">direcţioneze redarea fișierelor multimedia</string>
     <string name="permlab_runInBackground">ruleze în fundal</string>
+    <string name="permlab_schedule_exact_alarm">programeze acțiuni precis cronometrate</string>
      <string name="permlab_sdcardRead">citească conţinutul de pe stocarea partajată</string>
      <string name="permlab_sdcardWrite">modifice sau să şteargă conţinutul de pe stocarea partajată</string>
      <string name="permlab_sendSms">trimită și să citească mesaje SMS</string>
@@ -1748,6 +1776,7 @@ pentru contul %s."</string>
      <string name="permlab_setWallpaper">seteze imaginea de fundal</string>
      <string name="permlab_setWallpaperHints">ajusteze dimensiunea imaginii de fundal</string>
      <string name="permlab_sim_communication">trimită comenzi către cartela SIM</string>
+    <string name="permlab_startForegroundServicesFromBackground">pornească serviciile din prim-plan din fundal</string>
     <string name="permlab_startReviewPermissionDecisions">înceapă să vizualizeze deciziile privind permisiunea</string>
     <string name="permlab_startViewAppFeatures">înceapă să vizualizeze caracteristicile aplicației</string>
     <string name="permlab_startViewPermissionUsage">pornească vederea permisiunilor de utilizare</string>
@@ -1757,11 +1786,14 @@ pentru contul %s."</string>
      <string name="permlab_systemAlertWindow">Această aplicație se poate suprapune peste alte aplicaţii</string>
     <string name="permlab_systemCamera">Permiteți unei aplicații sau unui serviciu accesul la camerele de sistem pentru a face fotografii și videoclipuri</string>
      <string name="permlab_transmitIr">transmită prin infraroșu</string>
+    <string name="permlab_turnScreenOn">pornească ecranul</string>
      <string name="permlab_uninstall_shortcut">dezinstaleaze comenzi rapide</string>
+    <string name="permlab_updatePackagesWithoutUserAction">actualizeze aplicația fără acțiunea utilizatorului</string>
     <string name="permlab_useBiometric">utilizeze dispozitivul hardware biometric</string>
     <string name="permlab_useDataInBackground">utilizeze date în fundal</string>
     <string name="permlab_useFaceAuthentication">utilizeze dispozitivul hardware pentru deblocare facială</string>
      <string name="permlab_useFingerprint">utilizeze componenta hardware de recunoaștere a amprentei</string>
+    <string name="permlab_use_exact_alarm">programeze alarme sau mementouri de evenimente</string>
      <string name="permlab_use_sip">efectueze/primească apeluri prin internet</string>
     <string name="permlab_uwb_ranging">determine poziția relativă între dispozitivele Ultra-Wideband din apropiere</string>
      <string name="permlab_vibrate">controleze vibraţiile</string>
@@ -1847,6 +1879,7 @@ pentru contul %s."</string>
     <string name="profile_encrypted_title">Unele funcționalități pot fi limitate</string>
      <string name="progress_erasing">Se şterge stocarea partajată…</string>
      <string name="quick_contacts_not_available">Nu s-a găsit nicio aplicație pentru vizualizarea contactului.</string>
+    <string name="rating_label">{ rating, plural, =1 {O stea din {max}} other {# stele din {max}} }</string>
      <string name="reason_service_unavailable">Serviciul de printare nu este activat</string>
      <string name="reason_unknown">necunoscut</string>
      <string name="reboot_safemode_confirm">Doriţi să reporniţi în modul sigur? Astfel vor fi dezactivate toate aplicaţiile terţă parte pe care le-aţi instalat. Acestea vor fi restabilite când reporniţi telefonul.</string>
@@ -1861,6 +1894,7 @@ pentru contul %s."</string>
      <string name="redo">Reia acțiunea</string>
     <string name="reduce_bright_colors_feature_name">Extra estompare</string>
     <string name="region_picker_section_all">Toate regiunile</string>
+    <string name="region_picker_section_suggested_bilingual">Regiuni sugerate</string>
      <string name="relationTypeAssistant">Asistent</string>
      <string name="relationTypeBrother">Frate</string>
      <string name="relationTypeChild">Copil</string>
@@ -1970,6 +2004,7 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="select_keyboard_layout_notification_message">Atingeţi pentru a selecta limba și dispunerea</string>
      <string name="select_keyboard_layout_notification_title">Configurați tastatura fizică</string>
      <string name="select_minutes">Selectați minutele</string>
+    <string name="select_multiple_keyboards_layout_notification_title">Configurați tastaturile fizice</string>
      <string name="select_year">Selectați anul</string>
     <string name="selected">selectat</string>
      <string name="sendText">Alegeţi o acţiune pentru text</string>
@@ -2170,6 +2205,7 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="usb_tether_notification_title">Tethering prin USB activ</string>
      <string name="usb_unsupported_audio_accessory_message">Dispozitivul conectat nu este compatibil cu acest telefon. Atingeți pentru a afla mai multe.</string>
      <string name="usb_unsupported_audio_accessory_title">A fost detectat un accesoriu audio analog</string>
+    <string name="usb_uvc_notification_title">Dispozitiv conectat ca și cameră web</string>
      <string name="use_a_different_app">Folosiți altă aplicație</string>
      <string name="user_creation_account_exists">Permiteți %1$s să creeze un Utilizator nou cu %2$s (un Utilizator cu acest cont există deja)?</string>
      <string name="user_creation_adding">Permiteți %1$s să creeze un nou Utilizator cu %2$s?</string>
@@ -2177,11 +2213,14 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="user_encrypted_message">Atingeți pentru a debloca</string>
      <string name="user_encrypted_title">Unele funcționalități pot fi limitate</string>
      <string name="user_logging_out_message">Se deconectează %1$s…</string>
+    <string name="user_owner_app_label">Comutați la personal %1$s</string>
      <string name="user_owner_label">Comutați la profilul personal</string>
      <string name="user_switched">Utilizator curent: %1$s.</string>
      <string name="user_switching_message">Se comută la %1$s…</string>
      <string name="validity_period">Valabilitate:</string>
     <string name="vdm_camera_access_denied">Nu pot accesa camera telefonului de la %1$s</string>
+    <string name="vdm_pip_blocked">Nu se poate vizualiza imagine în imagine în timpul redării în flux</string>
+    <string name="vdm_secure_window">Acesta nu poate fi accesat în timpul transmiterii în flux. Încercați în schimb telefonul dvs.</string>
     <string name="view_and_control_notification_content">%s vă poate vizualiza și controla ecranul. Atingeți pentru a revizui.</string>
     <string name="view_and_control_notification_title">Verificați setările de acces</string>
      <string name="volume_alarm">Volum alarmă</string>
@@ -2229,6 +2268,7 @@ Doriţi să o închideţi?"</string>
     <string name="wfcSpnFormat_spn_wlan_call">%s Apel Wi-Fi</string>
     <string name="wfcSpnFormat_vowifi">VoWiFi</string>
     <string name="wfcSpnFormat_wifi">Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_call">Apel Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling">Apelare Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling_bar_spn">Apelare Wi-Fi | %s</string>
     <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Apelare Wi-Fi</string>
@@ -2309,7 +2349,7 @@ Doriţi să o închideţi?"</string>
      <string name="window_magnification_prompt_content">Acum puteți mări o parte a ecranului</string>
     <string name="window_magnification_prompt_title">Noi setări de magnificare</string>
      <string name="wireless_display_route_description">Ecran wireless</string>
-     <string name="work_mode_off_message">Acest lucru va activa aplicațiile de Servici, notificările, datele și alte caracteristici înrudite acestuia.</string>
+    <string name="work_mode_emergency_call_button">Urgență</string>
      <string name="work_mode_off_title">Activați profilul de Servici?</string>
      <string name="work_mode_turn_on">Activați</string>
      <string name="work_profile_deleted">Profilul de Servici a fost șters</string>
@@ -2317,6 +2357,9 @@ Doriţi să o închideţi?"</string>
      <string name="work_profile_deleted_description_dpm_wipe">Profilul Servici nu mai este disponibil pe acest telefon</string>
      <string name="work_profile_deleted_details">Aplicația de administrare a Profilului Servici lipsește sau este coruptă. Ca rezultat, profilul dvs. pentru Servici și datele înrudite au fost șterse. Contactați administratorul pentru asistență.</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">Prea multe parole încercate</string>
+    <string name="work_profile_telephony_paused_text">Ați întrerupt aplicațiile de lucru. Nu veți primi apeluri telefonice sau mesaje text.</string>
+    <string name="work_profile_telephony_paused_title">Apelurile și mesajele sunt oprite</string>
+    <string name="work_profile_telephony_paused_turn_on_button">Anulați întreruperea aplicațiilor de servici</string>
      <string name="write_fail_reason_cancelled">Anulat</string>
      <string name="write_fail_reason_cannot_write">Eroare la scrierea conținutului</string>
      <string name="year">an</string>

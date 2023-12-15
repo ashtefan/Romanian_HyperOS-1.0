@@ -185,6 +185,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="download_title_sorted_by_date">Descărcări – Sortate după dată</string>
     <string name="download_title_sorted_by_size">Descărcări – Sortate după dimensiune</string>
     <string name="download_wait_connect">În aşteptarea conexiunii</string>
+    <string name="download_waiting">În așteptare</string>
     <string name="download_when_network_connected">Se descarcă utilizând conexiunea de date</string>
     <string name="downloaded">Descărcare finalizată</string>
     <string name="downloaded_empty">Gol</string>
@@ -300,6 +301,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="install_failed">"Nu s-a putut instala %1$s"</string>
     <string name="installing">Instalare…</string>
     <string name="insufficient_space">Nu există spațiu de stocare suficient</string>
+    <string name="introduction">Despre</string>
     <string name="invalid_address">Calea fișierului introdusă este greşită</string>
     <string name="jump_rank_hint">Aruncați o privire la topul descărcărilor de astăzi ></string>
     <string name="jump_rank_hint2">Vedeți topul descărcărilor</string>

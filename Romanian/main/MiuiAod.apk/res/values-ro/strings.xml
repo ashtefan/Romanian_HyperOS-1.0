@@ -77,6 +77,7 @@ dd.MM"</string>
     <string name="aod_mode_time_summary">Programare pornire și oprire mod Activ permanent</string>
     <string name="aod_mode_time_title">Program</string>
     <string name="aod_mode_title">Ecran Activ permanent</string>
+    <string name="aod_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
     <string name="aod_show_date_and_time">Afișează ora și data</string>
     <string name="aod_show_style_title">Elemente de afișat</string>
     <string name="aod_signature_12">hh:mm aa</string>
@@ -284,6 +285,7 @@ dd.MM"</string>
     <string name="kg_classic_item_temperature">Temperatură</string>
     <string name="kg_classic_item_ultraviolet_ray">Indice UV</string>
     <string name="kg_classic_item_vitality">Statistici</string>
+    <string name="kg_classic_item_weather_cloudy">Înnorat</string>
     <string name="kg_classic_item_week">Săptămâna</string>
     <string name="kg_classic_item_wind">Vânt</string>
     <string name="kg_classic_primary_color_label">Culoarea principală</string>

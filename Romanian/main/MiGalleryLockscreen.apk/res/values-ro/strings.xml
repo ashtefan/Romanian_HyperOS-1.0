@@ -67,6 +67,13 @@
     <string name="account_user_phone">Număr de telefon pentru recuperare</string>
     <string name="account_user_region">Regiune</string>
     <string name="action_add_phone">Adăugați numărul de telefon</string>
+    string name="action_more_dlg_add_to_loop">Adăugați în prezentare</string>
+    <string name="action_more_dlg_apply">Setați ca imagine de fundal pentru Ecranul de blocare</string>
+    <string name="action_more_dlg_dislike">Nu îmi place</string>
+    <string name="action_more_dlg_my_favor">Adăugați la favorite</string>
+    <string name="action_more_dlg_save">Descărcați imaginea de fundal</string>
+    <string name="action_more_dlg_settings">Mai multe setări</string>
+    <string name="action_more_dlg_share">Partajați</string>
     <string name="action_update_phone">Modificați numărul de telefon</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în decurs de 24 de ore</string>
@@ -80,6 +87,7 @@
     <string name="ad_delimiter_4">%1$s | %2$s | %3$s | %4$s</string>
     <string name="ad_delimiter_5">%1$s | %2$s | %3$s | %4$s | %5$s</string>
     <string name="ad_delimiter_6">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
+    <string name="ad_delimiter_6_version">版本：%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
     <string name="ad_delimiter_7">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s | %7$s</string>
     <string name="ad_download_now">Descărcați</string>
     <string name="ad_feed_badge">RECLAME</string>
@@ -109,7 +117,9 @@
     <string name="app_self_upgrade_dlg_postive_btn">Actualizează acum</string>
     <string name="app_self_upgrade_dlg_title">Este disponibilă o actualizare</string>
     <string name="app_self_upgrade_toast_downloading_install">Începe actualizarea…</string>
+    <string name="applied_and_added_to_custom_wallpaper">"A fost adăugat cu succes la prezentarea de diapozitive. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Vizualizați&lt;/font>&lt;/a>"</string>
     <string name="apply">Aplicați</string>
+    <string name="apply_success_toast">Imagine de fundal setată cu succes</string>
     <string name="apply_to_above_all">Setați pentru ambele</string>
     <string name="apply_to_screenlock">Setați ca Blocare a ecranului</string>
     <string name="apply_to_wallpaper">Setați ca Ecran principal</string>
@@ -266,6 +276,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="disable_dlg_ok">Dezactivați</string>
     <string name="disable_dlg_title">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="dislike">Ștergeți</string>
+    <string name="dlg_add_to_loop_success_toast">Imagine de fundal adăugată la prezentare</string>
     <string name="dlg_cancel">Renunțați</string>
     <string name="dlg_ok">Aplică</string>
     <string name="doing_login">Autentificare…</string>
@@ -386,6 +397,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="k_test">testează</string>
     <string name="later">Nu dezactiva</string>
     <string name="launch_bg_permission_exception">Permiteți Caruselului de imagini de fundal să afișeze ferestre pop-up în timp ce rulează în fundal din aplicația de Securitate</string>
+    <string name="left_lks_detail_entrance">Vedeți mai multe</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_isOpenSource">adevărat</string>
@@ -425,6 +437,11 @@ Acest lucru poate genera taxe suplimentare."</string>
     <string name="lks_loop_icon_open_dlg">Expunerea de diapozitive pe ecranul de blocare este activată și oferă zilnic imagini și povești noi pe ecranul de blocare.</string>
     <string name="lks_loop_icon_open_ok">Am înțeles</string>
     <string name="lks_more_pics_coming_toast">Imagini noi sunt pe drum</string>
+    <string name="lks_new_data_loaded">Încărcat cu succes</string>
+    <string name="lks_new_data_warning">Această funcție folosește date mobile</string>
+    <string name="lks_new_user_guide_horizontal">Glisați la stânga și la dreapta pentru a vedea mai multe imagini</string>
+    <string name="lks_new_user_guide_left">Glisați spre stânga pentru a vedea mai multe imagini</string>
+    <string name="lks_new_user_guide_up">Glisați în sus pentru a vedea mai multe informații</string>
     <string name="lks_new_user_help_anime">Glisați în sus pentru a vedea mai multe din Caruselul de imagini de fundal</string>
     <string name="lks_no_network">Nu s-a putut conecta la rețea</string>
     <string name="lks_please_reload">Reîncărcați</string>
@@ -489,6 +506,16 @@ Acest lucru poate genera taxe suplimentare."</string>
     <string name="logout_summary">După ce vă deconectați, nu vă veți putea sincroniza abonamentele și setările personalizate pe toate dispozitivele. Vă deconectați oricum?</string>
     <string name="logout_title">Vă deconectați acum?</string>
     <string name="look_str">Populare</string>
+    <string name="loop_service_dlg_content">Prezentarea de diapozitive parcurge automat imaginile ecranului de blocare adaptate preferințelor dvs., inclusiv teme precum călătoriile, mâncarea, arta, divertismentul și multe altele. Activați prezentarea de diapozitive pe ecranul de blocare și adăugați această imagine?</string>
+    <string name="loop_service_dlg_negative">Nu acum</string>
+    <string name="loop_service_dlg_positive">Activați</string>
+    <string name="loop_service_dlg_positive_toast_day">Prezentarea de diapozitive este activată. Imaginea de fundal se va schimba în fiecare zi. Puteți ajusta durata în setările Caruselului de imagini de fundal.</string>
+    <string name="loop_service_dlg_positive_toast_hour_1">Prezentarea de diapozitive este activată. Imaginea de fundal se va schimba în fiecare oră. Puteți ajusta durata în setările Caruselului de imagini de fundal.</string>
+    <string name="loop_service_dlg_positive_toast_hour_3">Prezentarea de diapozitive este activată. Imaginea de fundal se va schimba la fiecare 3 ore. Puteți ajusta durata în setările Caruselului de imagini de fundal.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_15">Prezentarea de diapozitive este activată. Imaginea de fundal se va schimba la fiecare 15 minute. Puteți ajusta durata în setările Caruselului de imagini de fundal.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_5">Prezentarea de diapozitive este activată. Imaginea de fundal se va schimba la fiecare 5 minute. Puteți ajusta durata în setările Caruselului de imagini de fundal.</string>
+    <string name="loop_service_dlg_positive_toast_unlock">Prezentarea de diapozitive este activată. Imaginea de fundal se va schimba la fiecare deblocare a telefonului. Puteți ajusta durata în setările Caruselului de imagini de fundal.</string>
+    <string name="loop_service_dlg_title">Activați expunerea de diapozitive pe Ecranul de blocare?</string>
     <string name="main_fragment_title_discover">Descoperiți</string>
     <string name="main_fragment_title_home">Recomandări</string>
     <string name="main_fragment_title_home_excellent">Înrudite</string>
@@ -909,6 +936,7 @@ mm"</string>
     <string name="pull_to_refresh_refreshing_label">Reîmprospătare…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a reîmpropăta</string>
     <string name="qq_login_btn_content_description">Conectați-vă cu QQ</string>
+    <string name="reach_custom_limitation">"Nu se pot adăuga mai multe imagini de fundal. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Gestionați&lt;/font>&lt;/a>"</string>
     <string name="recommend_switch_desc">Primiți conținut recomandat bazat pe preferințele dvs</string>
     <string name="recommend_switch_dlg_close">Dezactivați</string>
     <string name="recommend_switch_dlg_desc">"Nu veți mai putea primi recomandări bazate pe preferințele dvs. dacă dezactivați această caracteristică."</string>
@@ -968,6 +996,7 @@ mm"</string>
     <string name="see_detail">Vedeți</string>
     <string name="see_more">Vedeți mai mult</string>
     <string name="see_more_content">Vedeți mai multe</string>
+    <string name="select_at_least_one_mode">Selectați un mod pentru Caruselul de imagini de fundal</string>
     <string name="select_package">Selectați versiunea</string>
     <string name="select_photo_album">Selectați imagini</string>
     <string name="select_picture">Selectați imaginile</string>
@@ -981,12 +1010,21 @@ mm"</string>
     <string name="setting_about_item_des">Versiunea</string>
     <string name="setting_about_item_title">Despre Caruselul de imagini de fundal</string>
     <string name="setting_des">Serviciile de prezentare diapozitive sunt furnizate de Caruselul de imagini de fundal. Căutați \"Carusel de imagini de fundal\" în aplicația Setări pentru a vizualiza toate opțiunile disponibile.</string>
+    <string name="setting_des_custom_only">Funcția noastră de prezentare de diapozitive este acum complet personalizabilă. Puteți ajusta cât de des se modifică imaginea de fundal din Setări > Ecran de blocare > Setări Carusel de imagini de fundal.</string>
+    <string name="setting_des_recommend_selected">Funcția noastră de prezentare de diapozitive este acum complet personalizabilă. Obțineți recomandări de imagini care vă vor plăcea și adăugați-le pe ale dvs. Puteți ajusta cât de des se modifică imaginea de fundal din Setări > Ecran de blocare > Setări Carusel de imagini de fundal.</string>
     <string name="setting_head">Setări</string>
     <string name="setting_ok">Setări</string>
     <string name="setting_tip">Nu afișa din nou</string>
     <string name="setting_title">Prezentare imagini</string>
     <string name="settings">Setări</string>
     <string name="share">Partajați</string>
+    <string name="share_dlg_more">Mai multe</string>
+    <string name="share_dlg_qq">Trimiteți în QQ</string>
+    <string name="share_dlg_save">Salvați în Galerie</string>
+    <string name="share_dlg_title">Partajați imaginea de fundal</string>
+    <string name="share_dlg_wechat">Trimiteți unui prieten</string>
+    <string name="share_dlg_wechat_moment">Momente WeChat</string>
+    <string name="share_dlg_weibo">Trimiteți în Weibo</string>
     <string name="share_today_morning">Partajați</string>
     <string name="shield">"Blocați: "</string>
     <string name="shield_failed">"Nu s-a putut bloca elementul"</string>
@@ -1251,6 +1289,7 @@ mm"</string>
     <string name="v_code_title">Introduceți codul de verificare</string>
     <string name="view_privacy_policy">Politica de Confidențialitate</string>
     <string name="wallpaper">Imagine de fundal</string>
+    <string name="wallpaper_added_success_toast">Imagine de fundal adăugată cu succes</string>
     <string name="wallpaper_feed_title">V-ar putea place și</string>
     <string name="wallpaper_relations_title">Recomandate</string>
     <string name="wednesday">Miercuri</string>

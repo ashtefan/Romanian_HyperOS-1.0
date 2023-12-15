@@ -23,11 +23,6 @@
         <item>75%</item>
         <item>100%</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Imagine de fundal</item>
-        <item>Obiecte widget</item>
-        <item>Setări</item>
-    </string-array>
     <string-array name="gadget_weather_image">
         <item>Senin</item>
         <item>Înnorat</item>
@@ -54,6 +49,11 @@
         <item>Grindină</item>
         <item>Praf</item>
         <item>Ceaţă</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Imagine de fundal</item>
+        <item>Obiecte widget</item>
+        <item>Setări</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Prestabilită</item>

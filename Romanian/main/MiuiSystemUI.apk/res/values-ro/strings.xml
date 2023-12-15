@@ -69,7 +69,7 @@
     <string name="accessibility_action_start_one_handed">Porniți modul Cu o singură mână</string>
     <string name="accessibility_action_stop_one_handed">Părăsiți modul Cu o singură mână</string>
     <string name="accessibility_airplane_mode">Mod Avion.</string>
-    <string name="accessibility_ambient_display_charging">Se încarcă</string>
+    <string name="accessibility_allow_diagonal_scrolling">Permite derularea în diagonală</string>
     <string name="accessibility_aspect_button">Mod Ecran complet</string>
     <string name="accessibility_assistant">Asistent ecran</string>
     <string name="accessibility_authenticate_hint">autentificare</string>
@@ -137,8 +137,7 @@
     <string name="accessibility_desc_lock_screen">Blochează ecranul.</string>
     <string name="accessibility_desc_notification_icon">%1$s notificare: %2$s</string>
     <string name="accessibility_desc_notification_shade">Perdeaua de notificări</string>
-    <string name="accessibility_desc_off">Oprită.</string>
-    <string name="accessibility_desc_on">Pornită.</string>
+    <string name="accessibility_desc_qs_notification_shade">Setări rapide și Perdeaua de notificări.</string>
     <string name="accessibility_desc_quick_settings">Setări rapide.</string>
     <string name="accessibility_desc_quick_settings_edit">Editor setări rapide.</string>
     <string name="accessibility_desc_recent_apps">Vedere generală.</string>
@@ -168,10 +167,14 @@
     <string name="accessibility_floating_button_action_move_to_edge_and_hide_to_half">Deplasați-vă la margine și ascundeți</string>
     <string name="accessibility_floating_button_action_move_top_left">Mutați sus la stânga</string>
     <string name="accessibility_floating_button_action_move_top_right">Mutați sus la dreapta</string>
+    <string name="accessibility_floating_button_action_remove_menu">Eliminați</string>
     <string name="accessibility_floating_button_docking_tooltip">Mutați butonul la margine pentru a-l ascunde temporar</string>
     <string name="accessibility_floating_button_migration_tooltip">"Atingeți pentru a deschide funcțiile de accesibilitate. Personalizați sau înlocuiți acest buton în Setări.
 
 "<annotation id="link">Vedeți setările</annotation></string>
+    <string name="accessibility_floating_button_undo">Anulați</string>
+    <string name="accessibility_floating_button_undo_message_label_text">%s scurtătură eliminată</string>
+    <string name="accessibility_floating_button_undo_message_number_text">{count, plural, =1 {# scurtătură eliminată} other {# scurtături eliminate} }</string>
     <string name="accessibility_home">Ecranul de pornire</string>
     <string name="accessibility_ime_switch_button">Schimbați metoda de introducere.</string>
     <string name="accessibility_key">Buton personalizat de navigare</string>
@@ -185,11 +188,19 @@
     <string name="accessibility_keyguard_face_unlock_view">Deblocare facială</string>
     <string name="accessibility_left_control_center_button">Scurtătură</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carusel de imagini de fundal</string>
-    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
+    <string name="accessibility_left_uwb_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">Solicitare de localizare activă</string>
     <string name="accessibility_lock_icon">Dispozitiv blocat</string>
     <string name="accessibility_long_click_tile">Deschideți setările</string>
-    <string name="accessibility_manage_notification">Gestionați notificările</string>
+    <string name="accessibility_magnification_done">Terminat</string>
+    <string name="accessibility_magnification_fullscreen">Ecran complet</string>
+    <string name="accessibility_magnification_large">Mare</string>
+    <string name="accessibility_magnification_medium">Mediu</string>
+    <string name="accessibility_magnification_settings_panel_description">Setări de magnificare</string>
+    <string name="accessibility_magnification_small">Mic</string>
+    <string name="accessibility_magnification_zoom">Magnificare</string>
+    <string name="accessibility_magnifier_edit">Editați</string>
+    <string name="accessibility_magnifier_size">Dimensiunea lupei</string>
     <string name="accessibility_managed_profile">Profil Serviciu</string>
     <string name="accessibility_manual_zen_less_time">Mai puțin timp.</string>
     <string name="accessibility_manual_zen_more_time">Mai mult timp.</string>
@@ -331,10 +342,10 @@
     <string name="accessibility_send_smart_reply">Trimiteți</string>
     <string name="accessibility_sensors_off_active">Senzori opriți activi</string>
     <string name="accessibility_settings">Setări</string>
-    <string name="accessibility_settings_button">Setări de sistem.</string>
-    <string name="accessibility_signal_full">Semnal complet.</string>
-    <string name="accessibility_splite_screen_primary">Adăugată ca aplicație principală la Ecran scindat</string>
-    <string name="accessibility_splite_screen_secondary">Adăugată ca aplicație secundară la Ecran scindat</string>
+    <string name="accessibility_split_bottom">Despicați partea de jos</string>
+    <string name="accessibility_split_left">Despicați la staânga</string>
+    <string name="accessibility_split_right">Despicați la dreapta</string>
+    <string name="accessibility_split_top">Despicați partea de sus</string>
     <string name="accessibility_status_bar_headphones">Difuzoare conectate</string>
     <string name="accessibility_status_bar_headset">Căști conectate</string>
     <string name="accessibility_status_bar_hotspot">Hotspot</string>
@@ -434,8 +445,8 @@ Dacă această permisiune este dezactivată, alarmele existente și evenimentele
     <string name="animator_duration_scale_title">Scară durată animație</string>
     <string name="anniversary_status">Aniversare</string>
     <string name="anniversary_status_content_description">%1$s își serbează ziua de naștere</string>
-    <string name="apn_settings_not_available">Setările Numelui Punctului de Acces nu sunt disponibile pentru acest utilizator</string>
-    <string name="app_accessed_mic">%1$s a accesat microfonul</string>
+    <string name="app_clips_save_add_to_note">Adăugați în note</string>
+    <string name="app_icon_text">Pictograma Aplicației</string>
     <string name="app_info">Informații despre aplicație</string>
     <string name="app_label">Sistem UI</string>
     <string name="app_name">blur</string>
@@ -455,6 +466,10 @@ Dacă această permisiune este dezactivată, alarmele existente și evenimentele
     <string name="auto_brightness_off">Iluminarea automată este dezactivată</string>
     <string name="auto_brightness_on">Iluminarea automată este activată</string>
     <string name="auto_connect_disable">Conectarea automată este dezactivată</string>
+    <string name="auto_data_switch_dialog_negative_button">Nu, mulțumesc</string>
+    <string name="auto_data_switch_dialog_positive_button">Da, comută</string>
+    <string name="auto_data_switch_disable_message">Datele mobile nu se vor schimba automat în funcție de disponibilitate</string>
+    <string name="auto_data_switch_disable_title">Treceți înapoi la %s?</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Butoanele de navigare sunt dezactivate; atingeți de două ori orice buton pentru a le reactiva.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Butoanele de navigare sunt activate</string>
     <string name="auto_saver_enabled_text">Economisirea Acumulatorului se va activa în mod automat când nivelul de energie al acumulatorului scade sub %d%%.</string>
@@ -539,6 +554,9 @@ Dacă această permisiune este dezactivată, alarmele existente și evenimentele
     <string name="biometric_dialog_wrong_password">Parolă greșită</string>
     <string name="biometric_dialog_wrong_pattern">Model incorect</string>
     <string name="biometric_dialog_wrong_pin">Cod PIN incorect</string>
+    <string name="biometric_re_enroll_dialog_cancel">Nu acum</string>
+    <string name="biometric_re_enroll_dialog_confirm">Setați</string>
+    <string name="biometric_re_enroll_notification_content">Acest lucru este necesar pentru a îmbunătăți securitatea și performanța</string>
     <string name="birthday_status">Zi de naștere</string>
     <string name="birthday_status_content_description">%1$s își serbează ziua de naștere</string>
     <string name="blob_expires_text">Expiră la %s</string>
@@ -661,17 +679,18 @@ Selecție"</string>
     <string name="bluetooth_talkback_input_peripheral">Dispozitiv periferic de intrare</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bluetooth_tethered">Conectat prin tethering Bluetooth</string>
+    <string name="bottomsheet_action_collapse">Restrângeți foaia de jos</string>
+    <string name="bottomsheet_action_expand">Extindeți foaia de jos</string>
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
-    <string name="branded_monitoring_description_app_personal">"Sunteți conectat la %1$s, care vă poate monitoriza activitatea personală în rețea, inclusiv e-mailurile, aplicațiile și site-urile web."</string>
-    <string name="branded_vpn_footer">Este posibil ca rețeaua să fie monitorizată</string>
-    <string name="broadcast_tile">Filă Transmisie</string>
-    <string name="bt_hci_snoop_log">Activați Bluetooth HCI snoop log</string>
-    <string name="bt_hci_snoop_log_summary">Captează pachetele Bluetooth (Comutați starea Bluetooth după modificarea acestei setări)</string>
+    <string name="bottomsheet_drag_handle_clicked">Trageți mânerul de două ori</string>
+    <string name="bottomsheet_drag_handle_content_description">Trageți mânerul</string>
+    <string name="broadcasting_description_is_broadcasting">Difuzare</string>
     <string name="bt_is_off">Bluetooth-ul este oprit</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Schimbați calea de ieșire</string>
     <string name="bt_le_audio_broadcast_dialog_sub_title">Dacă difuzați %1$s sau modificați calea de ieșire, difuzarea curentă se va opri</string>
     <string name="bt_le_audio_broadcast_dialog_switch_app">Difuzați %1$s</string>
     <string name="bt_le_audio_broadcast_dialog_title">Opriți difuzarea %1$s?</string>
+    <string name="bt_le_audio_broadcast_dialog_unknown_name">Necunoscut</string>
     <string name="bubble_accessibility_action_add_back">Adăugați înapoi în stivă</string>
     <string name="bubble_accessibility_action_move">Mutați</string>
     <string name="bubble_accessibility_action_move_bottom_left">Mutați în stânga jos</string>
@@ -696,11 +715,12 @@ Selecție"</string>
     <string name="bugreport_in_power_summary">Afișează un buton în meniul de Pornire pentru extragerea unui raport cu erori</string>
     <string name="build_number_clip_data_label">Număr de fabricație</string>
     <string name="build_number_copy_toast">Numărul de fabricație a fost copiat în clipboard.</string>
-    <string name="call_status_dialing">Apelare</string>
-    <string name="cached_apps_freezer_device_default">Implicit dispozitiv</string>
-    <string name="cached_apps_freezer_disabled">Dezactivat</string>
-    <string name="cached_apps_freezer_enabled">Activat</string>
-    <string name="cached_apps_freezer_reboot_dialog_text">Dispozitivul dvs. trebuie repornit pentru ca această modificare să se aplice. Reporniți acum sau anulați.</string>
+    <string name="call_from_work_profile_action">Comutați la profilul de serviciu</string>
+    <string name="call_from_work_profile_close">Renunțați</string>
+    <string name="call_from_work_profile_text">Organizația dvs. vă permite să efectuați apeluri numai din aplicațiile de la serviciu</string>
+    <string name="call_from_work_profile_title">Nu se poate suna dintr-o aplicație personală</string>
+    <string name="camera_and_microphone_blocked_dream_overlay_content_description">Camera și microfonul blocate</string>
+    <string name="camera_blocked_dream_overlay_content_description">Camera blocată</string>
     <string name="camera_compat_dismiss_button_description">Nicio problemă cu camera? Atingeți pentru a respinge.</string>
     <string name="camera_compat_treatment_applied_button_description">"Nu s-a reparat?
 Atingeți pentru a reveni"</string>
@@ -777,8 +797,9 @@ Atingeți pentru a remonta"</string>
     <string name="clock_title_bubble">Bule</string>
     <string name="clock_title_default">Implicit</string>
     <string name="close">Închideți</string>
-    <string name="compat_mode_off">Extindeți pentru a umple ecranul</string>
-    <string name="compat_mode_on">Măriți pentru a umple ecranul</string>
+    <string name="close_button_text">Închideți</string>
+    <string name="close_text">Închideți</string>
+    <string name="collapse_menu_text">Închideți Meniul</string>
     <string name="config_rat_2g">2G</string>
     <string name="config_rat_3g">3G</string>
     <string name="config_rat_4g">4G</string>
@@ -801,6 +822,7 @@ Atingeți pentru a remonta"</string>
     <string name="controls_dialog_confirmation">Controale actualizate</string>
     <string name="controls_dialog_message">Sugerat de %s</string>
     <string name="controls_dialog_ok">Adăugați</string>
+    <string name="controls_dialog_remove">Eliminați</string>
     <string name="controls_dialog_title">Adăugați la controalele dipsozitivului</string>
     <string name="controls_error_failed">Eroare, încercați din nou</string>
     <string name="controls_error_generic">Nu s-a putut încărca starea</string>
@@ -809,11 +831,14 @@ Atingeți pentru a remonta"</string>
     <string name="controls_error_removed_title">Controlul nu este disponibil</string>
     <string name="controls_error_retryable">Eroare, se reîncearcă…</string>
     <string name="controls_error_timeout">Inactiv, verificați aplicația</string>
+    <string name="controls_favorite_add_controls">Adăugați controale</string>
+    <string name="controls_favorite_back_to_editing">Înapoi la editare</string>
     <string name="controls_favorite_default_title">Controale</string>
     <string name="controls_favorite_load_error">Nu s-au putut încărca controalele. Verificați aplicația %s pentru a vă asigura că setările acesteia nu au fost modificate.</string>
     <string name="controls_favorite_load_none">Comenzile compatibile nu sunt disponibile</string>
     <string name="controls_favorite_other_zone_header">Altele</string>
     <string name="controls_favorite_rearrange">Îineți apăsat și trageți pentru a rearanja comenzile</string>
+    <string name="controls_favorite_rearrange_button">Reordonați</string>
     <string name="controls_favorite_removed">Toate comenzile au fost eliminate</string>
     <string name="controls_favorite_see_other_apps">Vedeți alte aplicații</string>
     <string name="controls_favorite_subtitle">Selectați comenzile de accesat din meniul de pornire</string>
@@ -826,18 +851,26 @@ Atingeți pentru a remonta"</string>
     <string name="controls_media_button_prev">Piesa anterioară</string>
     <string name="controls_media_close_session">Ascunde sesiunea curentă.</string>
     <string name="controls_media_dismiss_button">Ascundeți</string>
+    <string name="controls_media_empty_title">%1$s rulează</string>
     <string name="controls_media_playing_item_description">%1$s by %2$s se redă de la %3$s</string>
     <string name="controls_media_resume">Reluați</string>
     <string name="controls_media_seekbar_description">%1$s din %2$s</string>
     <string name="controls_media_settings_button">Setări</string>
     <string name="controls_media_smartspace_rec_description">Deschideți %1$s</string>
+    <string name="controls_media_smartspace_rec_header">Pentru dumneavoastră</string>
     <string name="controls_media_smartspace_rec_item_description">Redați %1$s by %2$s de la %3$s</string>
     <string name="controls_media_smartspace_rec_item_no_artist_description">Redați %1$s de la %2$s</string>
     <string name="controls_media_smartspace_rec_title">Redați</string>
     <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Adăugați comenzi</string>
+    <string name="controls_menu_add_another_app">Adăugați o aplicație</string>
     <string name="controls_menu_edit">Editați comenzile</string>
+    <string name="controls_menu_remove">Eliminați aplicația</string>
+    <string name="controls_number_of_favorites">{count, plural, =1 {# control adăugat.} other {# controale adăugate.} }</string>
     <string name="controls_open_app">Deschideți aplicația</string>
+    <string name="controls_panel_authorization">%s puteți alege ce comenzi și conținut se afișează aici.</string>
+    <string name="controls_panel_authorization_title">Adăugați %s?</string>
+    <string name="controls_panel_remove_app_authorization">Eliminați comenzile pentru %s?</string>
     <string name="controls_pin_instructions">Introduceți codul PIN</string>
     <string name="controls_pin_instructions_retry">Încercați alt cod PIN</string>
     <string name="controls_pin_use_alphanumeric">Codul PIN conține litere sau simboluri</string>
@@ -871,12 +904,15 @@ Atingeți \"Ștergeți și convertiți…\" pentru a continua."</string>
     <string name="copy">Copiați</string>
     <string name="creating_new_guest_dialog_message">Se crează un nou invitat…</string>
     <string name="creating_new_user_dialog_message">Se crează un nou utilizator…</string>
-    <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (roșu-verde)</string>
-    <string name="daltonizer_mode_disabled">Dezactivat</string>
-    <string name="daltonizer_mode_monochromacy">Monocromie</string>
-    <string name="daltonizer_mode_protanomaly">Protanomalie (roșu-verde)</string>
-    <string name="daltonizer_mode_tritanomaly">Tritanomalie (albastru-galben)</string>
-    <string name="daltonizer_type_overridden">Suprascris de către %1$s</string>
+    <string name="csd_500_system_lowered_text">Volumul căștilor a depășit limita de siguranță pentru această săptămână</string>
+    <string name="csd_button_keep_listening">Ascultați în continuare</string>
+    <string name="csd_button_lower_volume">Volum mai mic</string>
+    <string name="csd_lowered_title">Volumul redus la un nivel mai sigur</string>
+    <string name="csd_system_lowered_text">Volumul căștilor a fost ridicat mai mult decât cel recomandat</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Am înțeles</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Dacă dezactivați optimizarea sistemului și activați Economisirea acumulatorului, modul întunecat va fi activat automat.
+Pentru a dezactiva modul întunecat, dezactivați Economisirea acumulatorului sau activați optimizarea sistemului din Setări > Opțiuni pentru dezvoltatori > Activați optimizarea sistemului."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Modul întunecat</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -946,6 +982,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="description_image_button_reject">Respingeți</string>
     <string name="description_image_icon_sim_card">SIM %1$d</string>
     <string name="description_target_search">Căutaţi</string>
+    <string name="desktop_text">Mod Desktop</string>
   <string name="dessert_case">Dessert Case</string>
     <string name="dev_logpersist_clear_warning_message">Când nu mai monitorizăm cu logger-ul persistent, trebuie să ștergem datele reziduale de pe dispozitiv.</string>
     <string name="dev_logpersist_clear_warning_title">Ștergeți stocarea logger-ului persistent?</string>
@@ -986,7 +1023,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="dlg_summary_nfc">Dezactivați NFC</string>
     <string name="dlg_summary_title">Modul extrem de economisire a acumulatorului oprește toate activitățile din fundal după ce părăsiți o aplicație și reveniți la Ecranul principal. Dacă doriți totuși ca o aplicație să ruleze în fundal, adăugați-o în lista excepțiilor.</string>
     <string name="dnd_is_off">Modul Nu Deranjați este oprit</string>
-    <string name="dnd_notification_warnings_title">Modul Nu deranjați este activ. Notificările vor fi reduse la tăcere și vibrațiile dezactivate.</string>
+    <string name="dnd_is_on">Modul Nu Deranjați este pornit</string>
     <string name="dnd_suppressing_shade_text">Notificările sunt oprite de modul Nu deranjați</string>
     <string name="do_disclosure_generic">Acest dispozitiv aparține organizației dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv aparține %s</string>
@@ -996,7 +1033,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="dock_alignment_not_charging">Repoziționați telefonul pentru a-l încărca wireless</string>
     <string name="dock_alignment_slow_charging">Repoziționați telefonul pentru o încărcare mai rapidă</string>
     <string name="dock_forced_resizable">Este posibil ca aplicația să nu funcționeze in modul ecran scindat.</string>
-    <string name="dock_keyguard_locked_failed_to_dock_text">Modul Ecran scindat nu este suportat în Blocarea ecranului.</string>
+    <string name="dock_multi_instances_not_supported_text">Această aplicație poate fi deschisă doar într-o singură fereastră.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Aplicația nu suportă modul Ecran scindat</string>
     <string name="done">Finalizat</string>
     <string name="download_lock_wallpaper">Atingeți de două ori pentru a descărca Caruselul de imagini de fundal</string>
@@ -1023,8 +1060,10 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="dream_complication_title_time">Ora</string>
     <string name="dream_complication_title_weather">Vremea</string>
     <string name="dream_overlay_status_bar_alarm_set">Setați alarma</string>
+    <string name="dream_overlay_status_bar_assistant_attention_indicator">Asistentul ascultă</string>
     <string name="dream_overlay_status_bar_camera_mic_off">Camera și microfonul sunt oprite</string>
-    <string name="dream_overlay_status_bar_notification_indicator">{count, plural, =1 {# notificare} other {# notificări} }</string>
+    <string name="dream_overlay_status_bar_camera_off">Camera este oprită</string>
+    <string name="dream_overlay_status_bar_mic_off">Microfonul este oprit</string>
     <string name="dream_overlay_status_bar_priority_mode">Mod Prioritate</string>
     <string name="dream_overlay_status_bar_wifi_off">Wi-Fi indisponibil</string>
     <string name="early_morning">Dimineață</string>
@@ -1058,6 +1097,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
+    <string name="expand_menu_text">Deschideți Meniul</string>
     <string name="expanded_header_battery_charged">Încărcat</string>
     <string name="expanded_header_battery_charging">Se încarcă</string>
     <string name="expanded_header_battery_charging_with_time">%s până la încărcarea completă</string>
@@ -1112,6 +1152,13 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="face_data_suggesstion_first">Probleme de securitate: Deblocarea facială este mai puțin sigură decât un cod PIN, o parolă sau un model de deblocare. Telefonul dvs. poate fi deblocat folosind o fotografie de-a dumneavoastră, dar și de către persoane/obiecte cu înfățișare similară.</string>
     <string name="face_data_suggesstion_second">"Asigurați-vă că nicio parte a chipului dumneavoastră nu este acoperită de obiecte și că este perfect vizibil. De asemenea, chipul trebuie să fie bine iluminat."</string>
     <string name="face_dialog_looking_for_face">Vă caut…</string>
+    <string name="face_re_enroll_dialog_content">"Pentru a configura din nou Deblocarea facială, modelul actual al feței va fi șters.
+
+Va trebui să configurați din nou această funcție pentru a vă folosi fața pentru a vă debloca telefonul."</string>
+    <string name="face_re_enroll_dialog_title">Configurați deblocarea facială</string>
+    <string name="face_re_enroll_notification_name">Deblocare facială</string>
+    <string name="face_re_enroll_notification_title">Configurați din nou Deblocarea facială</string>
+    <string name="face_reenroll_failure_dialog_content">Nu s-a putut configura deblocarea facială. Accesați Setările pentru a încerca din nou.</string>
     <string name="face_unlock_adjust_distance">Asigurați-vă că distanța dintre față și ecran este optimă.</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața chipului dumneavoastră</string>
     <string name="face_unlock_by_notification_screen_on_msg">Puteți debloca telefonul utilizând datele faciale oricând ecranul se deschide pentru a afișa notificări. Acest lucru poate descărca acumulatorul mai rapid.</string>
@@ -1171,9 +1218,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator."</string>
     <string name="fgs_manager_app_item_stop_button_stopped_label">Oprit</string>
     <string name="fgs_manager_dialog_message">Aceste aplicații sunt active și rulează, chiar și atunci când nu le utilizați. Acest lucru le îmbunătățește funcționalitatea, dar poate afecta și durata de viață a acumulatorului.</string>
     <string name="fgs_manager_dialog_title">Aplicații active</string>
-    <string name="finger_error_single_mode">Nu se poate utiliza scanerul de amprente în modul Utilizare cu o singură mână. Ieșiți din modul Utilizare cu o singură mână și încercați din nou.</string>
-    <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
-    <string name="fingerprint_add_title">Adăugați amprenta</string>
+    <string name="fgs_manager_footer_label">{count, plural, =1 {# aplicație este activă} other {# aplicații sunt active} }</string>
+    <string name="finger_error_single_mode">Nu se poate folosi scanerul de amprentă în modul Cu o singură mână. Ieșiți din modul Cu o singură mână și încercați din nou.</string>
     <string name="fingerprint_again_identified_msg">Amprenta este activă acum. O puteți utiliza pentru a debloca telefonul sau introduceți parola.</string>
     <string name="fingerprint_again_identified_msg_password">"Amprenta dvs. este activă acum.
 Folosiți-o pentru a debloca dispozitivul sau introduceți parola."</string>
@@ -1194,11 +1240,19 @@ Introduceți parola pentru deblocare."</string>
 Desenați modelul pentru a debloca."</string>
     <string name="fingerprint_not_identified_msg_pin">"Prea multe încercări nereușite.
 Introduceți codul PIN pentru a debloca."</string>
-    <string name="fingerprint_not_identified_title">Introduceți parola</string>
-    <string name="fingerprint_not_recognized">Nerecunoscută</string>
-    <string name="fingerprint_try_again_msg">Nu s-a putut verifica amprenta; încercați din nou.</string>
+    <string name="fingerprint_re_enroll_dialog_content">"Pentru a configura din nou Fingerprint Unlock, imaginile și modelele actuale ale amprentei vor fi șterse.
+
+După ce sunt șterse, va trebui să configurați din nou Deblocarea cu amprentă pentru a vă folosi amprenta pentru a vă debloca telefonul sau pentru a verifica identitatea dvs.."</string>
+    <string name="fingerprint_re_enroll_dialog_content_singular">"Pentru a configura din nou Fingerprint Unlock, imaginile și modelul actual cu amprentă vor fi șterse.
+
+După ce sunt șterse, va trebui să configurați din nou Deblocarea cu amprentă pentru a vă folosi amprenta pentru a vă debloca telefonul sau pentru a verifica identitatea dvs.."</string>
+    <string name="fingerprint_re_enroll_dialog_title">Configurați deblocarea cu amprentă</string>
+    <string name="fingerprint_re_enroll_notification_name">Deblocare cu amprentă</string>
+    <string name="fingerprint_re_enroll_notification_title">Configurați din nou deblocarea cu amprentă</string>
+    <string name="fingerprint_reenroll_failure_dialog_content">Nu s-a putut configura deblocarea cu amprentă. Accesați Setări pentru a încerca din nou.</string>
+    <string name="fingerprint_try_again_msg">Amprenta nu a putut fi verificată, încercați din nou.</string>
     <string name="fingerprint_try_again_text">Încercați din nou</string>
-    <string name="float_incall_ignore">Ignorați</string>
+    <string name="float_button_text">Plutitor</string>
     <string name="float_notification_snooze_strategy">Ascunde temporar notificările plutitoare</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1252,6 +1306,10 @@ Introduceți codul PIN pentru a debloca."</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="font_scale_percentage">%1$d %%</string>
+    <string name="font_scaling_dialog_title">Dimensiunea fontului</string>
+    <string name="font_scaling_larger">Măriți</string>
+    <string name="font_scaling_smaller">Micșorați</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației de a scrie în memoria externă</string>
     <string name="force_allow_on_external_summary">Permite oricărei aplicații să fie scrisă în memoria externă, fără a se ține cont de valorile atribuite</string>
     <string name="force_msaa">Forțează 4x MSAA</string>
@@ -1306,15 +1364,29 @@ Introduceți codul PIN pentru a debloca."</string>
     <string name="fs_gesture_switch_recents_summary">Glisați din partea de jos și așteptați</string>
     <string name="fsg_demo_back">Înapoi</string>
     <string name="fsg_demo_go_on">Exersați</string>
+    <string name="fullscreen_text">Ecran complet</string>
     <string name="game_status">Jocul rulează</string>
     <string name="global_action_lock_message">Deblocați-vă telefonul pentru mai multe opțiuni</string>
     <string name="global_action_screenshot">Captură de ecran</string>
     <string name="global_action_smart_lock_disabled">Smart Lock dezactivat</string>
     <string name="go_to_web">Mergeți pe net</string>
     <string name="got_it">Am înțeles</string>
-    <string name="gps_notification_found_text">Locaţie setată prin GPS</string>
-    <string name="gps_notification_searching_text">Se caută semnalul GPS</string>
-    <string name="guest_exit_guest">Eliminați vizitatorul</string>
+    <string name="grant_admin">Da, fă-i admini</string>
+    <string name="group_system_access_all_apps_search">Accesați lista tuturor aplicațiilor și căutați (de exemplu, Căutare/Lansatorul)</string>
+    <string name="group_system_access_google_assistant">Accesați Asistentul Google</string>
+    <string name="group_system_access_home_screen">Accesați ecranul de pornire</string>
+    <string name="group_system_access_notification_shade">Accesați perdeaua de notificări</string>
+    <string name="group_system_access_system_app_shortcuts">Accesați lista comenzilor rapide de sistem/aplicații</string>
+    <string name="group_system_access_system_settings">Accesați setările sistemului</string>
+    <string name="group_system_cycle_back">Parcurgeți aplicațiile recente (înapoi)</string>
+    <string name="group_system_cycle_forward">Parcurgeți aplicațiile recente (înainte)</string>
+    <string name="group_system_full_screenshot">Faceți o captură de ecran completă</string>
+    <string name="group_system_go_back">Înapoi: reveniți la starea anterioară (butonul înapoi)</string>
+    <string name="group_system_hide_reshow_taskbar">Ascunde și (re)afișează bara de activități</string>
+    <string name="group_system_overview_open_apps">Prezentare generală a aplicațiilor deschise</string>
+    <string name="guest_exit_button">Ieșiți din modul invitat</string>
+    <string name="guest_exit_clear_data_button">Ștergeți</string>
+    <string name="guest_exit_dialog_button">Ieșiți</string>
     <string name="guest_exit_guest_dialog_message">Toate aplicațiile și datele din această sesiune vor fi șterse.</string>
     <string name="guest_exit_guest_dialog_remove">Eliminați</string>
     <string name="guest_exit_guest_dialog_title">Eliminați vizitatorul?</string>

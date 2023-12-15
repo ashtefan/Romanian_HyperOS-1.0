@@ -33,11 +33,20 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">Localizare dispozitiv</string>
+    <string name="call_notification_answer_action">Răspundeți</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Refuzați</string>
+    <string name="call_notification_hang_up_action">Închideți</string>
+    <string name="call_notification_incoming_text">Apel de intrare</string>
+    <string name="call_notification_ongoing_text">Apel în curs</string>
+    <string name="call_notification_screening_text">Afișarea unui apel primit</string>
     <string name="captcha">Cod captcha</string>
     <string name="change_find_device_status_failed">"Nu s-a putut debloca. %s."</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
-    <string name="copy">Copiați</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pentru accesarea numărului de telefon pentru a localiza acest dispozitiv atunci când nu este conectat la internet</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Pentru localizarea acestui dispozitiv atunci când nu este conectat la internet</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pentru localizarea dispozitivului și trecerea la modul Pierdut</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="default_debt_msg_words">"Acest telefon este blocat din cauza unei plăți neefectuate la timp. 
@@ -54,8 +63,10 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="enable_find_device_error">"Nu s-a putut activa Localizarea dispozitivului. %1$s"</string>
     <string name="enable_find_device_success">Localizarea dispozitivului este activă</string>
     <string name="evening">După amiază</string>
-    <string name="expand_button_title">Avansat</string>
-    <string name="find_device">Localizare dispozitiv</string>
+    <string name="find_device_capture_done_notification_content">Vizualizați fotografia pe i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Localizarea dispozitivului a făcut o fotografie de la distanță</string>
+    <string name="find_device_capture_notification_content">O solicitare de a face o fotografie de la distanță cu acest dispozitiv a fost trimisă de contul dvs</string>
+    <string name="find_device_capture_notification_title">Localizarea dispozitivului este pe cale să facă o fotografie</string>
     <string name="find_device_crash">Aplicația Localizare dispozitiv s-a închis în mod neașteptat.</string>
     <string name="find_device_error_access_denied">Acces refuzat.</string>
     <string name="find_device_error_account_sys_timeout">"Nu s-a putut conecta la contul Mi. "</string>
@@ -134,6 +145,8 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="login_extra_steps">Verificarea autentificării</string>
     <string name="login_failed">"Nu s-a putut autentifica. %s."</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -143,11 +156,14 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -201,6 +217,7 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
     <string name="open_wifi_settings">Deschideți setările Wi-Fi</string>
+    <string name="open_wifi_settings_china">Deschideți setările Wi-Fi</string>
     <string name="passport_checking_vcode">Se verifică parola…</string>
     <string name="passport_error_empty_vcode">Introduceți codul de verificare</string>
     <string name="passport_notification_need_unlock_again">Reîncercați deblocarea</string>
@@ -253,6 +270,9 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="sys_notification_async_open_failed_title">"Nu s-a putut activa Localizarea dispozitivului"</string>
     <string name="sys_notification_async_verify_content">Politica noastră de securitate actualizată necesită reactivarea Localizării dispozitivului.</string>
     <string name="sys_notification_async_verify_title">Reactivați Localizarea dispozitivului</string>
+    <string name="talkback_back">Înapoi</string>
+    <string name="talkback_hide_pwd">Ascunde parola</string>
+    <string name="talkback_show_pwd">Afișează parola</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
@@ -321,6 +341,14 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="unlock_error_user_name">Nume utilizator incorect</string>
     <string name="unlock_error_wrong_vcode">Codul introdus este incorect</string>
     <string name="unlock_help">"Conectați-vă la rețea.
+Introduceți o cartelă SIM funcțională și nu vă conectați la rețele Wi-Fi nevalide.
+
+Ați uitat parola?
+Mergeți la id.mi.com, selectați \"Ați uitat parola?\" și urmați instrucțiunile.
+
+Nu puteți activa dispozitivul?
+Mergeți la i.mi.com/ss și aplicați pentru deblocarea dispozitivului."</string>
+    <string name="unlock_help_china">"Conectați-vă la rețea.
 Introduceți o cartelă SIM funcțională și nu vă conectați la rețele Wi-Fi nevalide.
 
 Ați uitat parola?

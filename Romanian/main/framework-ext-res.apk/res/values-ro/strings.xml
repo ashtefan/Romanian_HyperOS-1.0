@@ -351,6 +351,7 @@
     <string name="meizu_phone">Meizu</string>
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="memory_clear_result">%1$sB goliţi</string>
+    <string name="memory_freeze_loading">Doar o secundă…</string>
     <string name="messagesent">Mesaj trimis</string>
     <string name="mi">Mi</string>
     <string name="mi_9t">Mi 9T</string>
@@ -669,7 +670,9 @@ a utiliza camera frontală</string>
     <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
     <string name="voice_input_error_network">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="voice_input_error_other">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="wallpaper_floral_arrangement_title">Aranjament floral</string>
     <string name="wallpaper_geometrically_irregular_title">Geometrie abstractă</string>
+    <string name="wallpaper_gradient_title">Gradient</string>
     <string name="wallpaper_group_black_gobi_title">Nisipurile din Gobi</string>
     <string name="wallpaper_group_black_white_title">Alb-negru</string>
     <string name="wallpaper_group_color_move_title">Culori lichide</string>
@@ -681,6 +684,7 @@ a utiliza camera frontală</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebuloasă dinamică</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometrie</string>
+    <string name="wallpaper_group_glassy_light_title">Sticlă stratificată</string>
     <string name="wallpaper_group_light_cycles_title">Cercuri cu neon</string>
     <string name="wallpaper_group_macaron_title">Pietricele</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalism</string>
@@ -692,6 +696,7 @@ a utiliza camera frontală</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitatea din Arizona</string>
     <string name="wallpaper_group_red_mars_title">Marte</string>
     <string name="wallpaper_group_sgn_mountain_title">Muntele Siguniang</string>
+    <string name="wallpaper_group_shadow_geometry_title">Geometria umbrelor</string>
     <string name="wallpaper_neon_title">Neon</string>
     <string name="wallpaper_overlapping_space_title">Formă și umbră</string>
     <string name="wallpaper_submerged_wing_title">Texturi</string>
