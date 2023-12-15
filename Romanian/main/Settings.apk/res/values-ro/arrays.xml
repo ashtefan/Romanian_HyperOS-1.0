@@ -790,20 +790,6 @@
         <item>Ridicat</item>
         <item>Apăsat</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_summaries">
-        <item>Dimensiunea textului foarte mică</item>
-        <item>Dimensiune mică a textului</item>
-        <item>Dimensiunea implicită a textului</item>
-        <item>Dimensiune mare a textului</item>
-        <item>Dimensiunea textului foarte mare</item>
-    </string-array>
-    <string-array name="captioning_font_size_selector_titles">
-        <item>Foarte mic</item>
-        <item>Mic</item>
-        <item>Mediu</item>
-        <item>Mare</item>
-        <item>Foarte mare</item>
-    </string-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
         <item>50%</item>

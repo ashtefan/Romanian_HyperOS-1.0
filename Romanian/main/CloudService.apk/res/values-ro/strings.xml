@@ -43,6 +43,11 @@
     <string name="add_short_cut">Adăugați</string>
     <string name="added_successfully">Adăugat cu succes</string>
     <string name="afternoon">După amiază</string>
+    <string name="agree_and_continue">De acord</string>
+    <string name="agreement_and_privacy_description">Citiți și acceptați &lt;a href=%1$s>&lt;u>Politica de confidențialitate&lt;/u>&lt;/a> și &lt;a href=%2$s>&lt;u>Acordul Utilizatorului&lt;/u>&lt;/a> Xiaomi Cloud înainte de a continua.</string>
+    <string name="alert_sync_data_merge_dialog_title">Articolele vor fi îmbinate</string>
+    <string name="alert_sync_merge_dialog_cancel">Renunțați</string>
+    <string name="alert_sync_merge_dialog_confirm">Activați</string>
     <string name="am">AM</string>
     <string name="all_sync_item_open">Toate elementele sunt active</string>
     <string name="antispam_sync">Setări Nu deranjaţi</string>
@@ -53,8 +58,12 @@
     <string name="apple_cloud_price">Aproximativ 10 euro pe an</string>
     <string name="bad_authentication">Nume utilizator sau parolă greşite</string>
     <string name="btn_return">Înapoi</string>
+    <string name="btn_revoke_permission">Retrageți consimțământul</string>
+    <string name="button_agree">De acord</string>
     <string name="button_cancel">Anulaţi</string>
-    <string name="buy_more_space_b_class">"Conectaţi-vă la mi.com/micloud pentru a obține mai mult spațiu de stocare.
+    <string name="button_quit">Ieșiți</string>
+    <string name="button_revoke">Retrageți</string>
+    <string name="check_contact">Adăugați</string>
 Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
     <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
 Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
@@ -94,6 +103,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_storage_common_functions_text">Utilizat frecvent</string>
     <string name="cloud_storage_default_title">Stocare în cloud</string>
     <string name="cloud_storage_full_upgrade_default_text">Spațiu de stocare insuficient. Nu s-au putut sincroniza fotografiile.</string>
+    <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familie</string>
@@ -113,6 +123,13 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="connect_wlan_china">Conectați-vă la Wi-Fi</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Dacă activați sincronizarea, contactele încărcate de pe acest dispozitiv vor fi îmbinate cu contactele stocate în cloud. Activați oricum sincronizarea?</string>
     <string name="copy">Copiați</string>
+    <string name="creation_dialog_message">Vizualizați datele Mi Canvas pe tabletă.</string>
+    <string name="creation_dialog_positive_btn">OK</string>
+    <string name="creation_dialog_title">Atenție</string>
+    <string name="creation_sync_settings_only_in_wifi">Sincronizare doar în Wi-Fi</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Recomandat pentru salvarea datelor mobile</string>
+    <string name="creation_sync_settings_preference">Sincronizați pânzele</string>
+    <string name="creation_sync_settings_summary">S-au creat canvas-urile</string>
     <string name="cta_notification_content_text">Permiteți %s să se conecteze la internet pentru a putea restaura elementele</string>
     <string name="cta_notification_content_title">Nu s-au putut restaura elemente din %s</string>
     <string name="customize_notification_btn_text">Actualizați</string>
@@ -212,8 +229,14 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_status_summary">Localizați și blocați dispozitivul, dar și ștergeți datele acestuia de la distanță</string>
     <string name="find_device_status_title_pad">Găsiți dispozitivul</string>
     <string name="find_device_status_title_phone">Găsiți dispozitivul</string>
+    <string name="find_permission_location_summary">Pentru localizarea acestui dispozitiv</string>
+    <string name="find_permission_location_title">Accesare locație</string>
     <string name="find_permission_phone_sim_info_summary">Pentru accesarea locației prin SMS atunci când nu este conectat la rețea</string>
     <string name="find_permission_phone_sim_info_title">Accesare informații despre dispozitiv</string>
+    <string name="find_permission_phone_summary">Pentru accesarea numărului de telefon pentru a localiza acest dispozitiv atunci când nu este conectat la internet</string>
+    <string name="find_permission_phone_title">Accesarea informațiilor despre dispozitiv</string>
+    <string name="find_permission_sms_summary">Pentru localizarea acestui dispozitiv atunci când nu este conectat la internet</string>
+    <string name="find_permission_sms_title">Trimitere SMS-uri</string>
     <string name="finddevice_miservice_notification_content">Blocați telefonul de la distanță dacă îl pierdeți</string>
     <string name="finddevice_miservice_notification_title">Activați Localizarea dispozitivului</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -273,6 +296,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="gallery_auto_sync_fail_noti_content">Nu a mai rămas suficient spațiu de stocare în cloud. Actualizați planul de stocare pentru a sincroniza fotografii și videoclipuri.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Stocarea în cloud este insuficientă. Nu se pot salva fotografiile.</string>
     <string name="gallery_data_transfer_ddl">Termen limită: %s</string>
     <string name="gallery_data_transfer_summary">Elementele din galerie nu mai pot fi sincronizate în Xiaomi Cloud. Vă recomandăm să transferați fotografiile și videoclipurile pe care le-ați sincronizat în cloud-ul Google Foto și să utilizați serviciile acestuia pentru a face copii de rezervă ale articolelor dvs.</string>
     <string name="gallery_data_transfer_title">Transferați fotografiile și videoclipurile sincronizate în Google Foto</string>
@@ -290,9 +314,11 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="hybrid_try_again">Încercați din nou</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Introduceți parola</string>
-    <string name="internet_access_dspt">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
+    <string name="keybag_create_by_new_passcode_prompt">Această parolă vă protejează parolele stocate în cloud. Nu le veți putea accesa dacă uitați această parolă.</string>
+    <string name="keybag_create_by_screen_password_prompt">Această parolă vă protejează parolele stocate în cloud. Introduceți blocarea ecranului pentru a-l seta ca parolă pentru Managerul de parole.</string>
     <string name="keybag_dialog_cancel">Renunțați</string>
     <string name="keybag_dialog_ok">OK</string>
+    <string name="keybag_install_by_passcode_prompt">Această parolă vă protejează parolele stocate în cloud. L-ați setat deja când ați activat sincronizarea în cloud pentru Managerul de parole.</string>
     <string name="keybag_password_check_screen_lock">Introduceți parola de blocare a ecranului</string>
     <string name="keybag_password_checking_screen_lock">Se verifică parola de blocare a ecranului…</string>
     <string name="keybag_password_confirm_prompt">Confirmați parola</string>
@@ -530,7 +556,9 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_manual_grant_permission">Permiteți</string>
     <string name="micloud_manual_local_storage_low_button_text">Goliți</string>
     <string name="micloud_manual_local_storage_low_summary">Eliberați spațiul de stocare și încercați din nou.</string>
+    <string name="micloud_manual_local_storage_low_summary_pad">Eliberați spațiu de stocare și încercați din nou.</string>
     <string name="micloud_manual_local_storage_low_title">Nu se poate sincroniza. Spațiul de stocare din telefon este insuficient.</string>
+    <string name="micloud_manual_local_storage_low_title_pad">Nu se poate sincroniza. Nu este suficient spațiu de stocare pe dispozitiv.</string>
     <string name="micloud_manual_network_disconnet_button_text">Verificați setările de rețea</string>
     <string name="micloud_manual_network_disconnet_title">"Nu s-a putut sincroniza datorită unei erori de rețea"</string>
     <string name="micloud_manual_paused">Oprită</string>
@@ -670,6 +698,7 @@ Asigurați-vă că utilizați contul Xiaomi asociat ca și cont de sistem MIUI."
     <string name="micloud_upgrade_space">Obțineți spațiu de stocare</string>
     <string name="micloud_user_space_title">Spațiu de stocare</string>
     <string name="micloud_user_space_usage">Spațiu de stocare</string>
+    <string name="micloud_upgrade_storage">Actualizați planul de stocare</string>
     <string name="micloud_warn_full_sum">Elementele noi nu vor fi sincronizate cu Xiaomi Cloud.</string>
     <string name="micloud_warn_full_title">Spaţiu epuizat</string>
     <string name="micloud_warn_low_sum">Xiaomi Cloud este 90% plin.</string>
@@ -806,6 +835,10 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pay_info_dialog_confirm_to_pay">Plătiți %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Utilizați Monedele Mi rămase: %s</string>
     <string name="pay_info_dialog_title">Selectați metoda de plată</string>
+    <string name="permission_management">Detalii privind permisiunile</string>
+    <string name="permission_status_allow">Acordat</string>
+    <string name="permission_status_deny">Nepermis</string>
+    <string name="permission_status_loading">Se accesează starea dispozitivului…</string>
     <string name="phone_guarantee_service_description" formatted="false">Protecția împotriva deteriorării ecranului și a accidentelor poate fi achiziționată în %d zile de la activare. Garanția extinsă poate fi achiziționată în %d zile de la activare.</string>
     <string name="phone_guarantee_service_name">Garanția dispozitivului</string>
     <string name="phone_number_may_required_dspt_provision">"Acest serviciu poate solicita numărul dvs. de telefon. "</string>
@@ -916,6 +949,8 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="privacy_runtime_perm_contacts_title">Accesare și editare contacte</string>
     <string name="privacy_runtime_perm_external_storage_desc">Pentru sincronizarea fotografiilor de profil ale contactelor</string>
     <string name="privacy_runtime_perm_external_storage_title">Accesare stocare</string>
+    <string name="privacy_runtime_perm_notification_desc">Pentru trimiterea notificărilor privind serviciile Xiaomi Cloud</string>
+    <string name="privacy_runtime_perm_notification_title">Notificări</string>
     <string name="privacy_runtime_perm_phone_state_desc">Pentru accesarea numărului de telefon și a stării dispozitivului</string>
     <string name="privacy_runtime_perm_phone_state_title">Accesare informații despre dispozitiv</string>
     <string name="privacy_runtime_perm_sms_desc">Pentru sincronizarea mesajelor</string>
@@ -939,8 +974,14 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="recommend_service_title">Servicii recomandate</string>
     <string name="retain_data_high_quality_photo_waring_message">Copiile de calitate înaltă a imaginilor și a videoclipurilor vor fi șterse din Galerie după ce vă deconectați. Fișierele originale corespunzătoare vor fi în continuare stocate în cloud. De asemenea, puteți descărca fișierele originale înainte de a vă deconecta.</string>
     <string name="retain_data_high_quality_photo_waring_title">Imaginile la calitate ridicată nu vor mai fi disponibile</string>
+    <string name="revoke_block_by_find_device">Retragerea consimțământului va dezactiva și Găsiți dispozitivul. Va trebui să vă verificați parola după ce continuați.</string>
     <string name="revoke_permission_content">"Nu veți putea continua să utilizați Găsirea dispozitivului dacă retrageți permisiunile. Găsirea dispozitivului va fi, de asemenea, oprită. Vi se va cere să vă verificați parola înainte de a vă retrage."</string>
     <string name="revoke_permission_title">Atenție</string>
+    <string name="revoke_privacy_agreement_msg">"Dacă continuați, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Xiaomi Cloud. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Întrucât Xiaomi Cloud își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile Xiaomi Cloud. Retrageți consimțământul acum?"</string>
+    <string name="revoke_privacy_confirm">Retrageți</string>
+    <string name="revoke_privacy_content">"Dacă continuați, vă veți retrage consimțământul pentru &lt;a href=app://com.miui.cloudservice.gdpr.license>Politica de confidențialitate&lt;/a> a dispozitivului Find. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Întrucât Find device își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile Find device. Retrageți consimțământul acum?"</string>
+    <string name="revoke_privacy_failed">Nu s-a putut retrage consimțământul</string>
+    <string name="revoke_privacy_title">Retragerea consimțământului</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -968,6 +1009,7 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="share_location_guide2_title">Ajutați prietenii și familia</string>
     <string name="share_location_guide3_desc">Asigurați-vă că prietenii și familia sunt în siguranță verificând informațiile despre locație partajate de către aceștia</string>
     <string name="share_location_guide3_title">Rămâneți în siguranță</string>
+    <string name="share_location_guide_action_btn_loading_text">Doar o secundă…</string>
     <string name="share_location_guide_action_btn_text">Activați</string>
     <string name="share_location_guide_extra_btn_text">Omiteți</string>
     <string name="share_location_menu_create_shortcut">Scurtătură pe Ecranul principal</string>
@@ -1270,6 +1312,9 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="wipe_secret_photo_dialog_title">"Fotografiile ascunse nu sunt sincronizate"</string>
     <string name="xiaomi_cloud_service">Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Toate lucrurile importante într-un singur loc</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Ieri</string>
 </resources>

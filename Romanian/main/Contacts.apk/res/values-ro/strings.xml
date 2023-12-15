@@ -653,9 +653,6 @@ Apăsând butonul \"De acord\" de mai jos, acceptați termenii și condițiile i
     <string name="data_left">Disponibil date</string>
     <string name="data_unit_gb">GB</string>
     <string name="data_unit_mb">MB</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendar Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="date_year_toggle">Indicaţi anul</string>
@@ -803,7 +800,7 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="display_options_view_names_as">Afişarea contactelor din agendă</string>
     <string name="display_sim_contacts">Afişaţi contactele de pe SIM</string>
     <string name="display_ungrouped">Toate celelalte contacte</string>
-    <string name="display_warn_remove_ungrouped">Eliminarea grupului „%s” din sincronizare va elimina, de asemenea, orice contact din agendă care nu face parte dintr-un grup.</string>
+    <string name="display_warn_remove_ungrouped">Eliminarea grupului \"%s\" din sincronizare va elimina, de asemenea, orice contact din agendă care nu face parte dintr-un grup.</string>
     <string name="duplicate_group_name">Un grup cu acest nume există deja</string>
     <string name="early_morning">Dimineață</string>
     <string name="editContactDescription">Modificaţi informaţiile despre contact</string>
@@ -1744,9 +1741,9 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="remove_blacklist">Eliminaţi din lista blocărilor</string>
     <string name="remove_blacklist_dialog_message">Afișați apelurile și mesajele de la acest număr?</string>
     <string name="remove_blacklist_dialog_title">Deblocaţi acest număr de telefon?</string>
-    <string name="remove_duplicate">MIUI vă va ajuta să găsiţi şi să îmbinaţi contactele dublate.
-    
-Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.</string>
+    <string name="remove_duplicate">"Această caracteristică vă ajută să găsiți și să îmbinați contacte duplicate.
+
+Pentru a începe, atingeți butonul \"Îmbinare\" din partea de jos a ecranului."</string>
     <string name="report_inquiry_mms">Raportați prin SMS</string>
     <string name="residual_time_description">%1$sd și %2$sh</string>
     <string name="residual_time_description2">%1$dh</string>

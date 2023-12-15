@@ -53,6 +53,7 @@
     <string name="activity_title_uninstall_apps">Aplicaţii</string>
     <string name="activity_title_video">Eliminare videoclipuri</string>
     <string name="activity_title_white_list">Excepţii</string>
+    <string name="ad_flag_text">RECLAMĂ</string>
     <string name="ad_install_success_dialog_lunch">Deschideți</string>
     <string name="ad_install_success_dialog_title">%1$s a fost instalată cu succes. O deschideți acum?</string>
     <string name="afternoon">După amiază</string>
@@ -601,6 +602,7 @@
     <string name="last_check_canceled">Scanarea precedentă a fost anulată</string>
     <string name="load_only_under_wlan">Încarcă doar prin Wi-Fi</string>
     <string name="location_not_found">"Nu s-a putut găsi fișierul"</string>
+    <string name="lock_device_toast">Acest dispozitiv este blocat. Deblocați pentru a utiliza Curățarea.</string>
     <string name="login_immediately">Conectare</string>
     <string name="long_click_dialog_summary">Apăsați lung pentru a adăuga în lista de excepții.</string>
     <string name="long_click_dialog_title">Aviz</string>
@@ -705,7 +707,9 @@
     <string name="msg_update_error_code_success">Actualizare finalizată</string>
     <string name="msg_update_error_code_unknown_error">Eroare necunoscută</string>
     <string name="name_debuglog_dir">Bsp Debug Log</string>
-    <string name="name_optimizer">Politica de confidențialitate</string>
+    <string name="native_body">Corp</string>
+    <string name="native_headline">Titlu</string>
+    <string name="native_media_view">Vizualizare media</string>
     <string name="nb_clear_set">Goliți memoria cache, vizualizați informații despre acumulator și lista blocărilor în ecranul de notificări</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="news_change">Modificați</string>
@@ -918,6 +922,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Omiteți</string>
     <string name="sms">SMS/MMS</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>

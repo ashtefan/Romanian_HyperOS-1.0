@@ -419,8 +419,8 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="login_failed">"Conectarea a eșuat. Vă rugăm reîncercați."</string>
     <string name="logining">Conectare…</string>
     <string name="material_clock_display_divider">:</string>
-    string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
-    <string name="material_hour_selection">Alegeți o oră</string>
+    <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
+    <string name="material_hour_selection">Selectați ora</string>
     <string name="material_hour_suffix">%1$s</string>
     <string name="material_minute_selection">Selectați minutele</string>
     <string name="material_minute_suffix">%1$s min</string>

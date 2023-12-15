@@ -151,6 +151,7 @@
     <string name="day">zi</string>
     <string name="degDesc">Unghi</string>
     <string name="del">DEL</string>
+    <string name="delete">Ștergeți</string>
     <string name="deleteDesc">ștergeți</string>
     <string name="delete_tips">Ștergerea elementelor</string>
     <string name="detail_close_btn">Ascundeți extrasul de rambursare</string>
