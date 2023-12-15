@@ -301,6 +301,11 @@
         <item quantity="other">Așteptați %d secunde și încercați din nou.</item>
         <item quantity="one">Așteptați o secundă și încercați din nou.</item>
     </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="zero">Nimic</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicații pot citi notificările</item>
         <item quantity="one">%d aplicație poate citi notificările</item>
@@ -368,6 +373,10 @@
     <plurals name="notifications_sent_weekly">
         <item quantity="other">~%d notificări pe săptămână</item>
         <item quantity="one">~%d notificare pe săptămână</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Modificările vor fi aplicate în %d secunde</item>
+        <item quantity="one">Modificările vor fi aplicate în %d secundă</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>

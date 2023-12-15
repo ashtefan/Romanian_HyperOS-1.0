@@ -252,7 +252,7 @@ Dacă această permisiune este dezactivată, alarmele curente și evenimentele p
     <string name="enhanced_connectivity_summary">Activează funcția de conectivitate îmbunătățită.</string>
     <string name="error_icon_content_description">Cred</string>
     <string name="expand_button_title">Avansat</string>
-    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="extreme_battery_saver_text">Super</string>
     <string name="face_dialog_looking_for_face">Te căutăm…</string>
     <string name="face_notification_name">Deblocare a feței</string>
