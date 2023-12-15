@@ -64,7 +64,6 @@
     <string name="button_quit">Ieșiți</string>
     <string name="button_revoke">Retrageți</string>
     <string name="check_contact">Adăugați</string>
-Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
     <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
 Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
     <string name="buy_space_expire">Spațiul achiziționat va expira în %s</string>
