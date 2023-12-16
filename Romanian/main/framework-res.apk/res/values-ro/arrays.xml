@@ -9,50 +9,6 @@
         <item>1,0</item>
         <item>1,33</item>
     </array>
-    <string-array name="config_globalActionsList">
-        <item>urgență</item>
-        <item>carantină</item>
-        <item>pornire</item>
-        <item>repornire</item>
-        <item>deconectare</item>
-        <item>captură de ecran</item>
-        <item>raportare probleme</item>
-    </string-array>
-    <string-array name="config_statusBarIcons">
-        <item>microfon</item>
-        <item>căști</item>
-        <item>mikey</item>
-        <item>call_record</item>
-        <item>privacy_mode</item>
-        <item>ble_unlock_mode</item>
-        <item>quiet</item>
-        <item>gps</item>
-        <item>missed_call</item>
-        <item>managed_profile</item>
-        <item>ime</item>
-        <item>sync_failing</item>
-        <item>sync_active</item>
-        <item>cast</item>
-        <item>location</item>
-        <item>bluetooth</item>
-        <item>bluetooth_handsfree_battery</item>
-        <item>nfc</item>
-        <item>tty</item>
-        <item>speakerphone</item>
-        <item>zen</item>
-        <item>mute</item>
-        <item>volume</item>
-        <item>wifi</item>
-        <item>wimax</item>
-        <item>cdma_eri</item>
-        <item>data_connection</item>
-        <item>phone_evdo_signal</item>
-        <item>phone_signal</item>
-        <item>battery</item>
-        <item>alarm_clock</item>
-        <item>secure</item>
-        <item>clock</item>
-    </string-array>
     <string-array name="config_system_condition_providers">
         <item>numărătoare inversă</item>
         <item>program</item>
