@@ -67,7 +67,7 @@
     <string name="account_user_phone">Număr de telefon pentru recuperare</string>
     <string name="account_user_region">Regiune</string>
     <string name="action_add_phone">Adăugați numărul de telefon</string>
-    string name="action_more_dlg_add_to_loop">Adăugați în prezentare</string>
+    <string name="action_more_dlg_add_to_loop">Adăugați în prezentare</string>
     <string name="action_more_dlg_apply">Setați ca imagine de fundal pentru Ecranul de blocare</string>
     <string name="action_more_dlg_dislike">Nu îmi place</string>
     <string name="action_more_dlg_my_favor">Adăugați la favorite</string>

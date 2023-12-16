@@ -64,19 +64,7 @@
     <string name="button_quit">Ieșiți</string>
     <string name="button_revoke">Retrageți</string>
     <string name="check_contact">Adăugați</string>
-Aveţi nevoie de un card bancar chinez pentru a achiziționa spațiu de stocare suplimentar."</string>
-    <string name="buy_more_space_c_class">"Această funcție necesită un card bancar chinez.
-Pentru a obține mai mult spațiu de stocare, vizitaţi mi.com/micloud."</string>
-    <string name="buy_space_expire">Spațiul achiziționat va expira în %s</string>
-    <string name="buy_space_expire_concat">%1$s până la %2$s</string>
-    <string name="buy_space_sulotion_auto_renew">Reînnoire în mod automat</string>
-    <string name="buy_space_sulotion_message">Achiziţionaţi %s GB spațiu de stocare suplimentar</string>
-    <string name="buy_space_sulotion_not_auto_renew">Nu se reînnoieşte în mod automat</string>
-    <string name="buy_space_sulotion_renew_message">Valid pentru %s</string>
-    <string name="buy_space_sulotion_renew_title">Reînnoire abonament</string>
-    <string name="buy_space_sulotion_title">Achiziţionaţi spaţiu de stocare</string>
     <string name="calendar_sync">Calendar</string>
-    <string name="check_contact">Adăugați</string>
     <string name="choose_contact_title">Contacte</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_enabled">Atingeţi pentru a sincroniza.</string>

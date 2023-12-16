@@ -1015,15 +1015,6 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="wifitrackerlib_wifi_standard_unknown">Necunoscut</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Necontorizată</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi nu se va conecta automat pentru moment</string>
-    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
-    <string name="wifitrackerlib_wifi_standard_11ad">WiGig</string>
-    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
-    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
-    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
-    <string name="wifitrackerlib_wifi_standard_legacy">Moştenire</string>
-    <string name="wifitrackerlib_wifi_standard_unknown">Necunoscut</string>
-    <string name="wifitrackerlib_wifi_unmetered_label">Necontorizat</string>
-    <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi nu se va conecta automat pentru moment</string>
     <string name="window_animation_scale_title">Scală animație fereastră</string>
     <string name="window_blurs">Permite estompări la nivel de fereastră</string>
     <string name="yes">Da</string>
