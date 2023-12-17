@@ -417,6 +417,9 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="browserFrameFileErrorLabel">Eroare de fișier</string>
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercați să o vizualizați conține date care au fost deja trimise. Dacă retrimiteți datele, acțiunile anterioare (de exemplu, căutări sau achiziții) se vor repeta.</string>
     <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
+    <string name="browser_slide_video_history">Recente</string>
+    <string name="browser_slide_video_like">Apreciate</string>
+    <string name="browser_slide_video_my">Profil</string>
     <string name="browser_wallpaper">Imagini de fundal</string>
     <string name="browser_wallpaper_activity">Promoții</string>
     <string name="browser_wallpaper_application">Aplicați</string>
@@ -431,6 +434,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="browser_wallpaper_subtitle">Personalizați browserul Mi Browser cu Imagini de fundal atractive.</string>
     <string name="browser_wallpaper_system_default">Implicit</string>
     <string name="browser_wallpaper_title">Imagini de fundal</string>
+    <string name="browser_wallpaper_toast">Dezactivați comutatorul Promoții pentru a putea schimba imaginile de fundal</string>
     <string name="btn_agree">De acord</string>
     <string name="btn_cancel">Anulare</string>
     <string name="camera_permission_name">Utilizare cameră foto</string>
@@ -630,12 +634,13 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="confirm_privacy_password">Desenați modelul de deblocare</string>
     <string name="confirm_unbundled_phone_dialog_message">Acest număr de telefon a fost asociat contului Mi %2$s pe %1$s. Acesta nu va mai fi asociat cu contul Mi %3$s dacă veți continua. Continuați?</string>
     <string name="connection_lost">Deconectat</string>
-    <string name="consume">De ieșire</string>
+    <string name="content_center_title">Centrul de conținut</string>
     <string name="content_collection_done">Adăugată cu succes la favorite</string>
     <string name="content_recommend">Recomandat</string>
     <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Adăugaţi o persoană în agendă</string>
     <string name="contextmenu_copy">Copiaţi</string>
+    <string name="contextmenu_copy_image">Copiați imaginea</string>
     <string name="contextmenu_copylink">Copiaţi adresa URL a linkului</string>
     <string name="contextmenu_dial_dot">Apelaţi…</string>
     <string name="contextmenu_download_image">Salvaţi imaginea</string>
@@ -660,6 +665,8 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="continue_reading">Continuați lectura</string>
     <string name="continue_watch_video">Continuați vizionarea</string>
     <string name="copy">Copiați</string>
+    <string name="copy_image_failed">Nu s-a putut copia</string>
+    <string name="copy_image_success">Copiat cu succes</string>
     <string name="copy_success">Copiat cu succes</string>
     <string name="copy_toast_msg">Link copiat în clipboard</string>
     <string name="copy_url">Copiaţi URL</string>
@@ -692,6 +699,11 @@ Paginile pe care le vizitați nu vor apărea în istoric."</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="debug_crash">Activați depanarea blocărilor</string>
+    <string name="debug_user_firebase_config_list_title">Lista de configurare Firebase</string>
+    <string name="debug_user_firebase_config_reset">Resetați</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Configurațiile Firebase vor fi resetate</string>
+    <string name="debug_user_firebase_config_reset_loading_dialog">Se procesează…</string>
+    <string name="debug_user_firebase_config_search_hint">Căutare configurație</string>
     <string name="debug_youtube_file">Depanați fișierul YouTube</string>
     <string name="debug_youtube_in_release">Depanare YouTube în versiune</string>
     <string name="decompress">Extrageți</string>
@@ -920,7 +932,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="error_not_support">Nesuportat</string>
     <string name="error_not_url_tips">Introduceți un URL valid</string>
     <string name="error_open_file_failed_no_app_found">Nu s-au găsit aplicații pentru a deschide acest fișier.</string>
-    <string name="error_title">"Nu se poate sincroniza"</string>
+    <string name="error_title">Nu s-a putut sincroniza</string>
     <string name="error_unauthorized">Sincronizarea cu contul dvs. Mi a fost dezactivată din cauza prea multor încercări de conectare.</string>
     <string name="error_unsupport_url_tips">Nu se poate descărca acest videoclip. În prezent, acceptăm descărcarea videoclipurilor de pe Facebook, Twitter și Instagram.</string>
     <string name="evening">După amiază</string>
@@ -937,7 +949,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="exo_controls_cc_enabled_description">Dezactivează subtitrarea</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
-    <string name="exo_controls_fullscreen_description">Mod Ecran complet</string>
+    <string name="exo_controls_fullscreen_enter_description">Intrați în modul Ecran complet</string>
     <string name="exo_controls_fullscreen_exit_description">Ieșiți din modul Ecran complet</string>
     <string name="exo_controls_hide">Ascundeți comenzile playerului</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
@@ -1471,7 +1483,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="list_menu_rename_result_fail">Nu s-a putut redenumi</string>
     <string name="list_menu_rename_result_repeat">Un fișier cu acest nume există deja</string>
     <string name="load_end">Asta este tot pentru acum</string>
-    <string name="load_failed">Informațiile nu au putut fi încărcate. Încearcă din nou.</string>
+    <string name="load_failure">Nu s-a putut încărca</string>
     <string name="load_more">Vedeți mai mult</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_tips">Glisați în jos pentru a actualiza</string>
@@ -1641,6 +1653,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="more_option">Mai multe opțiuni</string>
     <string name="more_privacy">Mai multe opțiuni de confidențialitate</string>
     <string name="more_recommend">Mai multe recomandări</string>
+    <string name="more_videos">Mai multe videoclipuri</string>
     <string name="morning">Dimineață</string>
     <string name="most_visited_sites">Cele mai vizitate</string>
     <string name="most_visited_sites_switch">Afișează cele mai vizitate site-uri în pagina de pornire</string>
@@ -1990,6 +2003,10 @@ Părăsiți această pagină acum?"</string>
     <string name="news_load_failed">Atingeți pentru a încerca din nou</string>
     <string name="news_loading">Se încarcă…</string>
     <string name="news_native_see_all">Articolul complet</string>
+    <string name="news_video_history">Istoric</string>
+    <string name="news_video_history_empty">Nimic aici deocamdată</string>
+    <string name="news_video_invisible_item">Nu se poate vizualiza acest videoclip</string>
+    <string name="news_video_no_more_videos">Asta e tot deocamdată</string>
     <string name="next">Următorul</string>
     <string name="nf_choose_reason">Descrieți problema</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -3008,6 +3025,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="reboot">Reporniți</string>
     <string name="recent_apk_status_install">INSTALATĂ</string>
     <string name="recommend">Recomandate</string>
+    <string name="recommend_bottom_guide">Glisați în sus pentru a vedea mai multe videoclipuri</string>
     <string name="recommend_button">Urmăriți (%s)</string>
     <string name="recommend_description">Am ales câțiva creatori pe care ați dori să-i urmăriți.</string>
     <string name="record_permission_name">Înregistrare sunete audio</string>
@@ -3509,6 +3527,10 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
+    <string name="turn_off_dia_btn_cancel">Renunțați</string>
+    <string name="turn_off_dia_btn_turn_off">Dezactivați</string>
+    <string name="turn_off_dia_content">Dacă dezactivați Centrul de conținut, nu veți putea glisa în sus din ecranul de pornire. Puteți edita acțiunea pentru acest gest în Setări > Ecran de pornire. Dezactivați Centrul de conținut acum?</string>
+    <string name="turn_off_dia_title">Dezactivați Centrul de conținut?</string>
     <string name="twitter_moments">Momente Twitter</string>
     <string name="type_not_support">Acest format de fișier nu este acceptat. Dezarhivați acest fișier și încercați din nou.</string>
     <string name="unSwitchText">NU</string>
@@ -3550,10 +3572,16 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
 Puteți oricând să renunțați din Setări> Confidențialitate și Securitate."</string>
     <string name="user_experience_disagree">Nu mă înscriu</string>
     <string name="user_experience_title">Programul de experiență a utilizatorului</string>
+    <string name="user_guide_agree">De acord</string>
     <string name="user_guide_color_mode_info">Modul luminos și modul întunecat sunt disponibile</string>
     <string name="user_guide_color_mode_title">Selectați schema de culoare</string>
     <string name="user_guide_control_privacy_tips">Controlați pe deplin confidențialitatea</string>
+    <string name="user_guide_disagree">Nu sunt de acord</string>
+    <string name="user_guide_privacy_message">Citiți și acceptați &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Politica de confidențialitate&lt;/a>&lt;/font> și &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>Acordul Utilizatorului&lt;/a>&lt;/font> înainte de a utiliza Centrul de conținut.</string>
+    <string name="user_guide_provide_service_content">Videoclipuri și știri populare</string>
+    <string name="user_guide_provide_service_title">Această caracteristică oferă următoarele servicii:</string>
     <string name="user_guide_read_info_tips">Pentru a putea include aplicații în rezultatele căutării, Mi Browser trebuie să acceseze lista aplicațiilor instalate pe dispozitivul dvs.</string>
+    <string name="user_guide_turn_off_feature">Pentru a dezactiva această funcție, atingeți &lt;font color=#0a84ff>&lt;u>aici&lt;/u>&lt;/font>.</string>
     <string name="user_id_hint">E-mail/Număr de telefon/ID Cont Mi</string>
     <string name="username">Nume</string>
     <string name="uuid">UUID(Faceți click pentru a exporta)</string>
@@ -3610,15 +3638,10 @@ Puteți oricând să renunțați din Setări> Confidențialitate și Securitate.
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">Nu s-a putut descărca acest articol</string>
     <string name="video_downloader_retry">Încercați din nou</string>
-    <string name="video_downloading_group">Descărcare</string>
-    <string name="video_edit">Editare</string>
-    <string name="video_float_window_text">Pop-Up</string>
-    <string name="video_fragment_name_collections">Favorite</string>
-    <string name="video_fragment_name_download">Videoclip offline</string>
-    <string name="video_fragment_name_historys">Istoric</string>
-    <string name="video_fragment_name_offine">Offline</string>
-    <string name="video_group_noupdates_list">Nicio actualizare disponibilă</string>
-    <string name="video_group_updates_list">Actualizări</string>
+    <string name="video_feedback_description">Colectăm și folosim informațiile pe care le introduceți mai sus pentru a vă îmbunătăți experiența utilizatorului. Pentru a afla mai multe despre cum colectăm și procesăm informațiile dumneavoastră personale, consultați Politica noastră de confidențialitate.</string>
+    <string name="video_feedback_description_title">Aceste informații vor fi folosite numai pentru recomandări de conținut</string>
+    <string name="video_feedback_not_sumbit_toast">Selectați un răspuns înainte de a trimite</string>
+    <string name="video_feedback_thanks">Vă mulțumim pentru feedback-ul dumneavoastră</string>
     <string name="video_guess_you_like">V-ar putea place</string>
     <string name="video_history_empty">Istoricul este gol</string>
     <string name="video_manager_action_bar_end_view">Videoclipuri online</string>
@@ -3629,7 +3652,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_push_multi_title">Actualizări disponibile</string>
     <string name="video_push_single_message">Apăsaţi pentru a actualiza la %1$d.</string>
     <string name="video_replay_btn">Redați din nou</string>
+    <string name="video_report_entrance">Raportați</string>
+    <string name="video_report_submit">Trimiteți</string>
     <string name="video_retry_btn">Încercați din nou</string>
+    <string name="video_select_report_reason">Selectați un motiv</string>
     <string name="video_service_notification_title">Se redă videoclipul pop-up</string>
     <string name="video_subtitle_last_message1">A rămas mai puțin de un minut</string>
     <string name="video_subtitle_prefix1">Urmărit</string>
@@ -3701,6 +3727,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Ștergeți</string>
     <string name="web_ad_clear_dialog_msg">Ștergeți acum etichetele publicitare din \"%s\".?</string>
     <string name="web_ad_clear_dialog_title">Ștergeți eticheta publicitară</string>
+    <string name="web_app_center">Mini programe</string>
     <string name="web_enhance_dialog_cancel">Renunțați</string>
     <string name="web_enhance_dialog_confirm">OK</string>
     <string name="web_enhance_dialog_msg">Începeți acum să blocați reclamele pe %s?</string>
@@ -3828,6 +3855,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_status">Stare</string>
     <string name="whatsapp_webpage_btn">Vedeți</string>
     <string name="whatsapp_webpage_tips">Salvare Stare WhatsApp</string>
+    <string name="withdraw_dia_content">Dacă vă retrageți consimțământul de la Politica de confidențialitate a Centrului de conținut, această funcție nu va mai colecta informațiile dvs. personale. Orice informații personale colectate anterior și încărcate pe serverele noastre vor fi șterse. Odată ce vă retrageți consimțământul, nu veți mai putea folosi Centrul de conținut. Retrageți consimțământul acum?</string>
     <string name="xiaomi_sign_in_btn_txt">Conectați-vă sau creați un cont</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de descărcare a eșuat, vă rugăm să verificați starea Managerului de descărcare în Managementul aplicațiilor.</string>

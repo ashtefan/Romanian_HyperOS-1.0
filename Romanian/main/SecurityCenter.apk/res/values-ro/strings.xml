@@ -5615,7 +5615,7 @@ Pentru a utiliza acest ^1 cu acest dispozitiv, va trebui să-l setați mai înt�
     <string name="storage_file_list_btn">Ștergeți %1$s</string>
     <string name="storage_file_list_form_default">Card SD</string>
     <string name="storage_file_list_from">De la %s</string>
-    <string name="storage_fob_date_format">dd/MM</string>
+    <string name="storage_fob_date_format">dd.MM</string>
     <string name="storage_format_failure">Nu s-a putut formata %1$s</string>
     <string name="storage_format_success">%1$s a fost formatat cu succes</string>
     <string name="storage_item_apk_name">APKs</string>

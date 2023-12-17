@@ -44,7 +44,8 @@
     <string name="antispam_notification_text">Atingeți pentru a activa funcțiile inteligente Nu deranjați</string>
     <string name="antispam_notification_title">Număr necunoscut</string>
     <string name="antispam_provider">Identificat de %s</string>
-    <string name="areacode_set_default">Setați ca implicit</string>
+    <string name="app_disable_description_text">Dacă dezactivați această aplicație, nu veți putea efectua și primi apeluri și nu veți putea folosi alte funcții conexe. Această aplicație de sistem nu poate fi dezinstalată.</string>
+    <string name="app_disable_title_text">Dezactivați aplicația</string>
     <string name="bluetooth_permission_content">Permisiunile de sistem au fost actualizate. Permiteți acestei aplicații să acceseze numele dispozitivelor dvs. Bluetooth pentru a le putea vizualiza.</string>
     <string name="bluetooth_permission_grant_immediately">Permiteți</string>
     <string name="bluetooth_permission_later">Nu acum</string>
@@ -430,6 +431,7 @@
     <string name="remind_unlock_message">Telefonul dumneavoastră este blocat acum. \"%s\" va fi disponibilă după ce veți debloca telefonul. Îl deblocați acum?</string>
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
     <string name="satellite_call_failed">Semnal întrerupt. Încercați din nou.</string>
+    <string name="satellite_diable_earpiece">Nu pot folosi căștile în apelurile prin satelit</string>
     <string name="satellite_dialog_button">Fereastră plutitoare</string>
     <string name="satellite_dialog_cancel">Renunțați</string>
     <string name="satellite_guide_down">"Înclinați dispozitivul în jos
@@ -446,8 +448,11 @@ pentru a pune mingea în zona albastră"</string>
     <string name="satellite_incall_tip">Difuzor activ</string>
     <string name="satellite_service_provider">Furnizat de China Telecom</string>
     <string name="satellite_state">Nu mișcați dispozitivul</string>
+    <string name="satellite_state_auto_exit">Ieșiți (%ds)</string>
     <string name="satellite_state_connected">Conectat la satelit. Nu mișcați dispozitivul.</string>
     <string name="satellite_state_connected_floating">Nu mișcați dispozitivul</string>
+    <string name="satellite_state_connecting">Se conectează… (%ds)</string>
+    <string name="satellite_state_retry">Încercați din nou</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

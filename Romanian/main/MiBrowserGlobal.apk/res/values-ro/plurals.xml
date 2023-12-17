@@ -463,6 +463,10 @@
         <item quantity="one">"1. Atingeți pentru a porni cronometrul. Când timpul expiră, acest capitol va fi deblocat gratuit.
 2. Puteți aștepta să citiți gratuit %d dată pe zi."</item>
     </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d videoclipuri noi recomandate</item>
+        <item quantity="one">%d videoclip nou recomandat</item>
+    </plurals>
     <plurals name="scanning_notyfy">
         <item quantity="other">S-au găsit %d fișiere…</item>
         <item quantity="one">S-a găsit %d fișier…</item>

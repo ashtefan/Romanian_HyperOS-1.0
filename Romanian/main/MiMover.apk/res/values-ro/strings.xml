@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="PRD_summary_1">Dacă transferați date din aceste aplicații de pe vechiul dispozitiv pe cel nou, datele de pe noul dispozitiv (inclusiv istoricul chat-urilor) vor fi suprascrise.</string>
+    <string name="PRD_summary_4">Oprirea Wi-Fi sau comutarea rețelelor Wi-Fi în timpul procesului de transfer poate duce la eșecul procesului de transfer.</string>
+    <string name="PRD_summary_4_china">Oprirea Wi-Fi sau comutarea rețelelor Wi-Fi în timpul procesului de transfer poate duce la eșecul procesului de transfer.</string>
+    <string name="PRD_summary_5">Transferurile de mare viteză pot face ca dispozitivul să devină mai fierbinte decât în mod normal. Fiți sigur că dispozitivul se va răci când transferul se termină.</string>
+    <string name="PRD_title_1">1. Următoarele aplicații au deja date pe noul dispozitiv:</string>
+    <string name="PRD_title_2">WeChat</string>
+    <string name="PRD_title_3">QQ</string>
+    <string name="PRD_title_4">2. Operați cu grijă în timpul procesului de transfer</string>
+    <string name="PRD_title_5">3. Dispozitivul dvs. se poate încălzi în timpul procesului de transfer</string>
     <string name="abc_action_bar_home_description">Navigați acasă</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
     <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
@@ -44,8 +53,26 @@
     <string name="android_id_usage">Pentru recunoașterea versiunii aplicației și a compatibilității între dispozitivele vechi și noi</string>
     <string name="antispam">Lista blocărilor</string>
     <string name="app_name">Mutare Mi</string>
+    <string name="app_update_64_dialog_cancel">Nu acum</string>
+    <string name="app_update_64_dialog_confirm">Actualizați</string>
+    <string name="app_update_64_dialog_title">Actualizați la arhitectura pe 64 de biți</string>
+    <string name="app_update_64_notfication_body">Actualizați pentru a crește performanța aplicației</string>
     <string name="app_update_title">Actualizați toate aplicațiile</string>
+    <string name="apple_calendar">Evenimente din calendar</string>
+    <string name="apple_contacts">Contacte</string>
+    <string name="apple_image">Fotografii</string>
+    <string name="apple_install_background_downloading">Se descarcă aplicațiile în fundal…</string>
+    <string name="apple_install_get_data_faild">A apărut o eroare</string>
+    <string name="apple_install_install_immediately_default">Instalați</string>
+    <string name="apple_install_skip">Omiteți</string>
+    <string name="apple_install_sub_title">Aplicațiile selectate vor fi descărcate din GetApps</string>
+    <string name="apple_install_title">Aplicații de pe vechiul dispozitiv</string>
+    <string name="apple_video">Videoclipuri</string>
     <string name="appname_app_data_suffix">%1$s date ale aplicației</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Începeți</string>
+    <string name="apps_cannot_be_transfered_next_button">Următorul</string>
+    <string name="apps_cannot_be_transfered_summary">Aceste aplicații pe 64 de biți nu pot fi transferate pe un dispozitiv pe 32 de biți. Le puteți descărca direct din GetApps după transfer.</string>
+    <string name="apps_cannot_be_transfered_title">Nu se pot transfera aceste aplicații</string>
     <string name="audio">Audio</string>
     <string name="audio_video_document">Audio, video și documente</string>
     <string name="back">Înapoi</string>
@@ -162,6 +189,7 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a dezactiva"</stri
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_done">Finalizat</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
+    <string name="deselect_all">Deselectați tot</string>
     <string name="dialog_airplane_mode_button">Setări</string>
     <string name="dialog_airplane_mode_content">Mutare Mi nu poate rula cât timp Modul Avion este activ. Dezactivați-l mai întâi din Setări.</string>
     <string name="dialog_airplane_mode_title">Dezactivați Modul Avion</string>
@@ -534,17 +562,17 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="new_trans_intro_desc_6">Este posibil ca noul dvs. telefon Mi să nu aibă permisiunile necesare pentru a face acest lucru.</string>
     <string name="new_trans_intro_desc_7">Mi Mover va putea să reia procesul de unde ați rămas. Cu toate acestea, poate fi necesar să începeți din nou dacă problemele de compatibilitate ale dispozitivului vă împiedică să reluați transferul întrerupt.</string>
     <string name="new_trans_intro_desc_8">Istoricul WeChat de pe dispozitivul vechi va suprascrie istoricul WeChat al noului dispozitiv în timpul transferului.</string>
-    <string name="new_trans_intro_desc_new">1. Asigurați-vă că Mi Mover de pe noul dispozitiv este actualizat. Puteți descărca cea mai recentă versiune a Mi Mover în GetApps sau utilizați acest link: %1$s.</string>
+    <string name="new_trans_intro_desc_new">%1$d. Asigurați-vă că Mi Mover de pe noul dispozitiv este actualizat. Puteți descărca cea mai recentă versiune a Mi Mover în GetApps sau utilizați acest link: %1$s.</string>
     <string name="new_trans_intro_desc_new_click">Descărcați</string>
     <string name="new_trans_intro_desc_old">2. Dacă hotspotul încă nu apare în Mi Mover, deschideți setările Wi-Fi și verificați dacă îl puteți vedea acolo. Dacă da, mergeți înapoi la Mi Mover și atingeți numele hotspot-ului.</string>
-    <string name="new_trans_intro_question_1">1. De ce nu pot vedea hotspot-ul noului dispozitiv pe cel vechi?</string>
-    <string name="new_trans_intro_question_2">2. Care este parola hotspot-ului?</string>
-    <string name="new_trans_intro_question_3">3. De ce spune că nu există suficient spațiu de stocare pe dispozitivul vechi?</string>
-    <string name="new_trans_intro_question_4">4. De ce nu toate aplicațiile sunt transferate cu succes?</string>
-    <string name="new_trans_intro_question_5">5. De ce parolele unor conturi ale aplicațiilor terțe nu sunt transferate cu succes?</string>
-    <string name="new_trans_intro_question_6">6. De ce nu pot fi transferate datele aplicației de pe un dispozitiv terț?</string>
-    <string name="new_trans_intro_question_7">7. Dacă părăsesc Mi Mover în mijlocul unui transfer, va trebui să încep din nou data viitoare?</string>
-    <string name="new_trans_intro_question_8">8. De ce a dispărut istoricul meu WeChat pe noul dispozitiv?</string>
+    <string name="new_trans_intro_question_1">%d. De ce nu pot vedea hotspot-ul noului dispozitiv pe cel vechi?</string>
+    <string name="new_trans_intro_question_2">%d. Care este parola hotspot-ului?</string>
+    <string name="new_trans_intro_question_3">%d. De ce spune că nu există suficient spațiu de stocare pe dispozitivul vechi?</string>
+    <string name="new_trans_intro_question_4">%d. De ce nu toate aplicațiile sunt transferate cu succes?</string>
+    <string name="new_trans_intro_question_5">%d. De ce parolele unor conturi ale aplicațiilor terțe nu sunt transferate cu succes?</string>
+    <string name="new_trans_intro_question_6">%d. De ce nu pot fi transferate datele aplicației de pe un dispozitiv terț?</string>
+    <string name="new_trans_intro_question_7">%d. Dacă părăsesc Mi Mover în mijlocul unui transfer, va trebui să încep din nou data viitoare?</string>
+    <string name="new_trans_intro_question_8">%d. De ce a dispărut istoricul meu WeChat pe noul dispozitiv?</string>
     <string name="new_wait_link_first">"1. Deschideți Mi Mover pe dispozitivul vechi.
 2. Atingeți \ "Sunt expeditor \" și așteptați un moment.
 3. Selectați următorul hotspot pe dispozitivul vechi."</string>
@@ -713,6 +741,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
 - Stocare"</string>
     <string name="request_all_permission_title">Sunt necesare unele permisiuni</string>
     <string name="request_permission">Permiteți</string>
+    <string name="require_permission">Atingeți pentru a acorda permisiunea de a transfera articole</string>
     <string name="restore_data_to_device_content">"Elementele dvs. au fost sincronizate în Xiaomi Cloud.
 Conectați-vă la contul Xiaomi pentru a le restaura."</string>
     <string name="restore_data_to_device_title">Restaurați elementele pe acest dispozitiv</string>
@@ -742,7 +771,9 @@ Eliberați cel puțin %s."</string>
     <string name="scanner_send_dialog_btn">Am înțeles</string>
     <string name="scanner_send_dialog_message">Nu opriți Wi-Fi-ul și nu comutați între rețele în timpul transferului.</string>
     <string name="scanner_size_selected">Selectat: %s</string>
+    <string name="scanner_subtitle_prd">Citiți cu atenție următoarele informații înainte de a verifica fiecare articol și de a începe procesul de transfer.</string>
     <string name="scanner_time_remained">Timpul estimat pentru transfer: %s</string>
+    <string name="scanner_title_prd">Informații importante</string>
     <string name="scanner_title_tip">Selectați elementele de transferat</string>
     <string name="scanner_wechat_overwrite_hit">Datorită restricțiilor pentru aplicații terțe, istoricul chat-ului și alte date ale aplicațiilor de pe noul dispozitiv vor fi înlocuite cu cele de la cel vechi, după finalizarea transferului.</string>
     <string name="search_action_mode_cancel">Renunțați</string>
@@ -787,6 +818,7 @@ Eliberați cel puțin %s."</string>
     <string name="set_new_device_title">Se configurează noul dispozitiv…</string>
     <string name="set_new_device_wlan">Setați Wi-Fi-ul</string>
     <string name="settings_phone">Setările telefonului</string>
+    <string name="settings_photo">Setările Galeriei</string>
     <string name="settings_powerkeeper">Date numărare pași</string>
     <string name="settings_sms">Setări mesagerie</string>
     <string name="settings_system">Setări de sistem</string>

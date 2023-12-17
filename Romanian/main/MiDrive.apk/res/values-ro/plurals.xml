@@ -81,9 +81,28 @@
         <item quantity="other">Unele elemente lipsesc. Nu s-au putut muta %1$d elemente.</item>
         <item quantity="one">Unele elemente lipsesc. Nu s-a putut muta %1$d element.</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">cu o jumătate de oră în urmă</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">cu %1$d ore în urmă</item>
         <item quantity="one">cu %1$d oră în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">În 1 oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">în 1 minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d fișiere rămase de descărcat</item>
@@ -143,11 +162,15 @@
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">cu %1$d minute în urmă</item>
-        <item quantity="zero">cu %1$d minute în urmă</item>
         <item quantity="one">cu %1$d minut în urmă</item>
-        <item quantity="two">cu %1$d minute în urmă</item>
-        <item quantity="few">cu %1$d minute în urmă</item>
-        <item quantity="many">cu %1$d minute în urmă</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%1$d secunde</item>

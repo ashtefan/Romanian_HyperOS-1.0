@@ -128,4 +128,10 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu un minut în urmă</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"au trecut %d secunde fără conectarea la satelit.
+Puteți continua să încercați sau puteți ieși acum."</item>
+        <item quantity="one">"a trecut %d secundă fără conectarea la satelit.
+Puteți continua să încercați sau puteți ieși acum."</item>
+    </plurals>
 </resources>

@@ -409,6 +409,11 @@ Sănătate Xiaomi vă va notifica doar despre lucrurile importante."</string>
     <string name="dialog_sleep_goal_title">Ținta pentru durata somnului</string>
     <string name="dialog_sleep_record_auto_start">Pentru a vă monitoriza somnul mai precis, permiteți Sănătate Xiaomi să pornească în mod automat.</string>
     <string name="dialog_sure">OK</string>
+    <string name="dialog_upgrade_description">"1. Design nou.
+2. Sincronizați datele între dispozitive.
+3. Vizualizați datele de sănătate de la Sănătate, Xiaomi Wear și alte aplicații într-un singur loc."</string>
+    <string name="dialog_upgrade_positive_btn">Actualizați</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">Bine ați venit în aplicația Sănătate Xiaomi! Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, dar și pentru a sincroniza realizările dvs. în cloud.</string>
     <string name="dialog_user_agreement_purpose2">Bine ați venit în aplicația Sănătate Xiaomi. Puteți utiliza această aplicație pentru a vă număra pașii efectuați, monitoriza somnul, ciclurile menstruale și greutatea, serviciile Xiaomi Health Cloud și pentru alte funcții.</string>
     <string name="diastolic_pressure">Diasistolică</string>
@@ -1294,7 +1299,7 @@ Dacă nu doriți să partajați aceste informații, puteți dezactiva această f
     <string name="skipping_ready_hint_two">Antrenamentul va fi oprit și reluat automat în funcție de zgomotul produs.</string>
     <string name="skipping_ready_toast">Am crescut volumul pentru a putea auzi mai bine instrucțiunile.</string>
     <string name="skipping_reset_time">Odihnă</string>
-    <string name="skipping_start_counting">Start</string>
+    <string name="skipping_start_counting">Începeți</string>
     <string name="skipping_time">Durată</string>
     <string name="skipping_upload_dialog_agree_and_upload">Încărcați</string>
     <string name="skipping_upload_dialog_msg">Atunci când dispozitivul dvs. este conectat la %s, puteți alege să încărcați sunetul înregistrat în timpul antrenamentelor pentru a îmbunătăți precizia statisticilor de antrenament. Pentru a vă proteja confidențialitatea, fișierele audio vor fi criptate.</string>

@@ -1954,16 +1954,16 @@ o captură de ecran derulantă"</string>
     <string name="miui_keyboard_shortcut_system_dock">Afișează aplicația de andocare</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Comută între aplicațiile recente</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Deblocat de către un dispozitiv Bluetooth</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date">EEEE dd.MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
+dd.MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
+dd.MM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
+dd.MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+dd.MM"</string>
     <string name="miui_notification_menu_aggregate_feedback">Feedback</string>
     <string name="miui_notification_menu_allow">Permiteți</string>
     <string name="miui_notification_menu_feedback_success">Vă mulțumim pentru feedback!</string>
@@ -1971,7 +1971,7 @@ dd/MM"</string>
     <string name="miui_magazine_c_clock_style2_date">d/M EE</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
     <string name="miui_magazine_clock_date">d/M</string>
-    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+    <string name="miui_magazine_clock_date_content_description">dd.MM</string>
     <string name="miui_magazine_clock_week">EEE</string>
     <string name="miui_notification_menu_more_setting">Mai multe</string>
     <string name="miui_notification_menu_msg_fold">Grupați toate notificările de la %1$s?</string>

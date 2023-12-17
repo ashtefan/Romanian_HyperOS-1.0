@@ -29,6 +29,18 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d aplicațiile de pe acest dispozitiv pot fi actualizate de la arhitectura pe 32 de biți la 64 de biți. Actualizați aceste aplicații pentru a le crește performanța.</item>
+        <item quantity="one">%1$d aplicație de pe acest dispozitiv poate fi actualizată de la arhitectura pe 32 de biți la 64 de biți. Actualizați aplicația pentru a-i crește performanța.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Sunt disponibile versiuni pe 64 de biți pentru %1$d aplicații</item>
+        <item quantity="one">Este disponibilă o versiune pe 64 de biți pentru aplicația %1$d</item>
+    </plurals>
+    <plurals name="apple_install_install_immediately">
+        <item quantity="other">Instalați %d aplicații</item>
+        <item quantity="one">Instalați %d aplicație</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>

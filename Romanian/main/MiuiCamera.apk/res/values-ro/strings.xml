@@ -958,7 +958,7 @@ documentele scanate în mod automat"</string>
     <string name="exo_controls_cc_enabled_description">Dezactivează subtitrarea</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
-    <string name="exo_controls_fullscreen_description">Mod Ecran complet</string>
+    <string name="exo_controls_fullscreen_enter_description">Intrați în modul Ecran complet</string>
     <string name="exo_controls_fullscreen_exit_description">Ieșiți din modul Ecran complet</string>
     <string name="exo_controls_hide">Ascundeți comenzile playerului</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
@@ -2113,6 +2113,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_peak_entry_on">Activată</string>
     <string name="pref_camera_peak_title">Focusare maximă</string>
     <string name="pref_camera_picture_format_entry_raw">RAW</string>
+    <string name="pref_camera_picture_format_title">Formatul imaginii</string>
     <string name="pref_camera_picturesize_entry_1_1">1:1</string>
     <string name="pref_camera_picturesize_entry_3_4">3:4</string>
     <string name="pref_camera_picturesize_entry_8_9">8:9</string>
@@ -2430,13 +2431,21 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
     <string name="pref_video_quality_hfr_title">Rata de cadre și calitatea fotografiei</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
+    <string name="pref_video_quality_sub_1080p_new">1080P</string>
     <string name="pref_video_quality_sub_120fps">120fps</string>
+    <string name="pref_video_quality_sub_120fps_new">120FPS</string>
     <string name="pref_video_quality_sub_24fps">24fps</string>
+    <string name="pref_video_quality_sub_24fps_new">24FPS</string>
     <string name="pref_video_quality_sub_30fps">30fps</string>
+    <string name="pref_video_quality_sub_30fps_new">30FPS</string>
     <string name="pref_video_quality_sub_4k">UHD 4K</string>
+    <string name="pref_video_quality_sub_4k_new">4K</string>
     <string name="pref_video_quality_sub_60fps">60fps</string>
+    <string name="pref_video_quality_sub_60fps_new">60FPS</string>
     <string name="pref_video_quality_sub_720p">HD 720p</string>
+    <string name="pref_video_quality_sub_720p_new">720P</string>
     <string name="pref_video_quality_sub_8k">UHD 8K</string>
+    <string name="pref_video_quality_sub_8k_new">8K</string>
     <string name="pref_video_quality_title">Calitate video</string>
     <string name="pref_video_speed_entry_fast">Repede</string>
     <string name="pref_video_speed_entry_normal">Normal</string>
@@ -2979,7 +2988,7 @@ Puteți folosi butoanele de mai jos pentru a edita text, a previzualiza redarea 
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="video_shortcut_long">Video</string>
     <string name="video_shortcut_short">Video</string>
-    <string name="video_tag_flag_title">Etichete</string>
+    <string name="video_tag_flag_title">Etichetă</string>
     <string name="video_true_colour_tip">DOVI</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>

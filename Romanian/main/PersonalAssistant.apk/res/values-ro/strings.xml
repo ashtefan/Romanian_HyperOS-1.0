@@ -1709,9 +1709,9 @@ Atingeți de două ori pentru a vedea detaliile."</string>
     <string name="pa_base_hour_minute">%1$dh și %2$dm</string>
     <string name="pa_base_minute_second">mm:ss</string>
     <string name="pa_base_time_just_now">Chiar acum</string>
-    <string name="pa_base_time_month">dd/MM</string>
+    <string name="pa_base_time_month">dd.MM</string>
     <string name="pa_base_time_year">dd/MM/yyyy</string>
-    <string name="pa_base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+    <string name="pa_base_year_month_day_all_format_en">dd.MM/yyyy HH:mm:ss</string>
     <string name="pa_base_yesterday">Ieri</string>
     <string name="pa_cancel">Renunțați</string>
     <string name="pa_clear">Goliți</string>

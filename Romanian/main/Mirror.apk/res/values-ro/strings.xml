@@ -383,6 +383,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="notify_clip_title">De la %1$s</string>
     <string name="notify_connected_action_button">Deconectează</string>
     <string name="notify_connected_message">Puteți transfera fișiere și interacționa cu telefonul dvs. folosind acest computer</string>
+    <string name="notify_connected_message_pad">Continuați cu sarcinile aplicației pe computerul conectat sau utilizați acest dispozitiv ca extensie pentru ecran</string>
     <string name="notify_connected_title">Conectat la %1$s</string>
     <string name="ok">OK</string>
     <string name="ok_button">Am înțeles</string>
@@ -634,6 +635,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="sub_screen_lock_message">"Deblocați telefonul
 pentru a continua"</string>
+    <string name="subscreen_exception_hint">Dispozitivul nu este actualizat la cea mai recentă versiune. Pot apărea erori de afișare.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
