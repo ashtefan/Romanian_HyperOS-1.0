@@ -1400,7 +1400,6 @@ Vom folosi această permisiune numai pentru a găsi videoclipurile pe care le c�
     <string name="online_play_start_ready_loading_tip_mb">Se încarcă %.2f MB/s</string>
     <string name="online_play_title">Introduceți URL-ul</string>
     <string name="open_settings">Mergeți la Setări</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonări recente</string>
     <string name="order_recently_updated">Actualizate recent</string>
     <string name="out_of_memory_background_playback_is_suspended">S-a oprit redarea în fundal datorită memoriei insuficiente</string>

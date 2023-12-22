@@ -1803,7 +1803,6 @@ efecte pentru fotografii"</string>
     <string name="grant_permission_go_and_set">Setați</string>
     <string name="grant_permission_go_and_set_2">Setări</string>
     <string name="grant_permission_go_and_set_3">Setări</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Permisiuni necesare</string>
     <string name="grant_permission_manage_storage_unlock">Deblocați-vă dispozitivul și permiteți acestei aplicații să acceseze toate fișierele pentru a putea vedea elementele.</string>
     <string name="grant_permission_shortcut">Permiteți mai întâi acestei aplicații să creeze scurtături pe Ecranul principal.</string>
