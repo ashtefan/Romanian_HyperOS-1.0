@@ -612,7 +612,7 @@
     <string name="permgroupdesc_location">Accesarea informațiilor despre locație</string>
     <string name="permgroupdesc_microphone">Înregistrarea de sunete</string>
     <string name="permgroupdesc_phone">Realizarea de apeluri și gestionarea conversațiilor</string>
-    <string name="permgroupdesc_read_media_aural">Permiteți %1$s să acceseze fișierele audio stocate pe dispozitiv?</string>
+    <string name="permgroupdesc_read_media_aural">Permiteți aplicației %1$s să acceseze fișierele audio stocate pe dispozitiv?</string>
     <string name="permgroupdesc_read_media_visual">Permiteți %1$s să acceseze fotografiile și videoclipurile stocate pe dispozitiv?</string>
     <string name="permgroupdesc_read_media_visual_more">Permiteți %1$s să acceseze mai multe fotografii și videoclipuri?</string>
     <string name="permgroupdesc_read_media_visual_u">Permiteți %1$s să acceseze fotografiile și videoclipurile de pe acest dispozitiv?</string>

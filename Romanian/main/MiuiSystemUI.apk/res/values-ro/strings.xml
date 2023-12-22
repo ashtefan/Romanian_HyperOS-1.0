@@ -1387,13 +1387,20 @@ După ce sunt șterse, va trebui să configurați din nou Deblocarea cu amprent�
     <string name="guest_exit_button">Ieșiți din modul invitat</string>
     <string name="guest_exit_clear_data_button">Ștergeți</string>
     <string name="guest_exit_dialog_button">Ieșiți</string>
-    <string name="guest_exit_guest_dialog_message">Toate aplicațiile și datele din această sesiune vor fi șterse.</string>
-    <string name="guest_exit_guest_dialog_remove">Eliminați</string>
-    <string name="guest_exit_guest_dialog_title">Eliminați vizitatorul?</string>
+    <string name="guest_exit_dialog_message">Aceasta va șterge aplicațiile și datele din sesiunea curentă pentru invitați</string>
+    <string name="guest_exit_dialog_message_non_ephemeral">Puteți salva activitatea din sesiunea curentă sau puteți șterge toate aplicațiile și datele</string>
+    <string name="guest_exit_dialog_title">Ieși din modul Invitat?</string>
+    <string name="guest_exit_dialog_title_non_ephemeral">Salvați activitatea oaspeților?</string>
+    <string name="guest_exit_quick_settings_button">Ieșiți din modul Oaspete</string>
+    <string name="guest_exit_save_data_button">Salvați</string>
     <string name="guest_new_guest">Adăugați un vizitator</string>
-    <string name="guest_remove_guest_confirm_button">Eliminați</string>
-    <string name="guest_remove_guest_dialog_title">Eliminați vizitatorul?</string>
-    <string name="guest_reset_guest">Resetează oaspetele</string>
+    <string name="guest_notification_app_name">Modul Invitat</string>
+    <string name="guest_notification_ephemeral">Toată activitatea va fi ștearsă la ieșire</string>
+    <string name="guest_notification_non_ephemeral">Puteți salva sau șterge activitatea la ieșire</string>
+    <string name="guest_notification_non_ephemeral_non_first_login">Resetați pentru a șterge activitatea sesiunii acum sau puteți salva sau șterge activitatea la ieșire</string>
+    <string name="guest_notification_session_active">Sunteți în modul Invitat</string>
+    <string name="guest_reset_and_restart_dialog_message">Aceasta va începe o nouă sesiune pentru invitați și va șterge toate aplicațiile și datele din sesiunea curentă</string>
+    <string name="guest_reset_and_restart_dialog_title">Resetați sesiunea pentru invitați?</string>
     <string name="guest_reset_guest_confirm_button">Resetează</string>
     <string name="guest_reset_guest_dialog_title">Resetez oaspetele?</string>
     <string name="guest_resetting">Se resetează oaspetele…</string>
@@ -1433,6 +1440,7 @@ După ce sunt șterse, va trebui să configurați din nou Deblocarea cu amprent�
     <string name="gxzw_try_more_again">Încercați din nou</string>
     <string name="gxzw_use_password">Utilizați parola pentru a debloca</string>
     <string name="gxzw_use_password_to_unlock">Introduceți parola</string>
+    <string name="handle_text">Mâner</string>
     <string name="hdcp_checking_dialog_title">Setați comportamentul verificării HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
     <string name="hdmi_cec_set_menu_language_accept">Schimbați limba</string>
@@ -1540,8 +1548,10 @@ Continuați să le afișați?"</string>
     <string name="input_pin_hint_text_v11">Introduceți codul PIN</string>
     <string name="input_puk_code">Introduceți codul PUK</string>
     <string name="input_second_pattern_after_restart_msg">Confirmați parola pentru al doilea spațiu pentru a continua</string>
-    <string name="install_other_apps">Instalați aplicații necunoscute</string>
-    <string name="installer_cd_button_title">Instalați aplicația de Transfer de fișiere Android pentru Mac</string>
+    <string name="input_switch_input_language_next">Schimbați limba de introducere (limba următoare)</string>
+    <string name="input_switch_input_language_previous">Schimbați limba de introducere (limba anterioară)</string>
+    <string name="install_dialer_on_work_profile_action">Instalați o aplicație pentru telefonul de la serviciu</string>
+    <string name="install_type_instant">Aplicație instant</string>
     <string name="instant_apps">Aplicații instant</string>
     <string name="instant_apps_message">Aplicație deschisă fără a fi instalată.</string>
     <string name="instant_apps_message_with_help">Aplicație deschisă fără a fi instalată. Atingeți pentru a afla mai multe.</string>
@@ -1593,25 +1603,33 @@ prioritățile"</string>
     <string name="keyboard_key_page_up">Pagină în Sus</string>
     <string name="keyboard_key_space">Spațiu</string>
     <string name="keyboard_key_tab">Filă</string>
-    <string name="keyboard_layout_default_label">Implicită</string>
-    <string name="keyboard_layout_dialog_title">Alegeți aspectul tastaturii</string>
+    <string name="keyboard_shortcut_clear_text">Goliți textul</string>
     <string name="keyboard_shortcut_group_applications">Aplicații</string>
     <string name="keyboard_shortcut_group_applications_assist">Asistent</string>
     <string name="keyboard_shortcut_group_applications_browser">Browser</string>
+    <string name="keyboard_shortcut_group_applications_calculator">Calculator</string>
     <string name="keyboard_shortcut_group_applications_calendar">Calendar</string>
     <string name="keyboard_shortcut_group_applications_contacts">Contacte</string>
-    <string name="keyboard_shortcut_group_applications_email">E-mail</string>
+    <string name="keyboard_shortcut_group_applications_email">E-mail (Gmail implicit)</string>
+    <string name="keyboard_shortcut_group_applications_maps">Hărți</string>
     <string name="keyboard_shortcut_group_applications_music">Muzică</string>
     <string name="keyboard_shortcut_group_applications_sms">SMS</string>
-    <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
+    <string name="keyboard_shortcut_group_input">Introducere</string>
     <string name="keyboard_shortcut_group_system">Sistem</string>
     <string name="keyboard_shortcut_group_system_back">Înapoi</string>
     <string name="keyboard_shortcut_group_system_home">Acasă</string>
+    <string name="keyboard_shortcut_group_system_multitasking">Sistem multitasking</string>
     <string name="keyboard_shortcut_group_system_notifications">Notificări</string>
     <string name="keyboard_shortcut_group_system_recents">Recente</string>
     <string name="keyboard_shortcut_group_system_shortcuts_helper">Scurtături tastatură</string>
     <string name="keyboard_shortcut_group_system_switch_input">Schimbați dispunerea tastaturii</string>
-    <string name="keyboardview_keycode_delete">Ștergeți</string>
+    <string name="keyboard_shortcut_search_category_current_app">Aplicația curentă</string>
+    <string name="keyboard_shortcut_search_category_input">Introducere</string>
+    <string name="keyboard_shortcut_search_category_open_apps">Deschideți aplicații</string>
+    <string name="keyboard_shortcut_search_category_system">Sistem</string>
+    <string name="keyboard_shortcut_search_list_hint">Căutați comenzi rapide</string>
+    <string name="keyboard_shortcut_search_list_no_result">Nu s-au găsit comenzi rapide</string>
+    <string name="keyboard_shortcut_search_list_title">Comenzi rapide</string>
     <string name="keyboardview_keycode_enter">Introduceți</string>
     <string name="keyguard_accessibility_next_alarm">Următoarea alarmă este setată pentru %1$s</string>
     <string name="keyguard_accessibility_password">Parola dispozitivului</string>
@@ -1681,6 +1699,7 @@ prioritățile"</string>
     <string name="keyguard_plugged_in_charging_limited">%s • Încărcare limitată temporar</string>
     <string name="keyguard_plugged_in_charging_slowly">%s • Se încarcă lent</string>
     <string name="keyguard_plugged_in_dock">%s • Dock de încărcare</string>
+    <string name="keyguard_plugged_in_incompatible_charger">%s • Problemă cu accesoriul de încărcare</string>
     <string name="keyguard_plugged_in_wireless">%s • Se încarcă wireless</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Se încarcă rapid. Atingeți pentru a vedea detaliile.</string>
     <string name="keyguard_retry">Glisați în sus pentru a încerca din nou</string>
@@ -1689,9 +1708,9 @@ prioritățile"</string>
     <string name="keyguard_sim_puk_locked_message">Cartela SIM este blocată cu un cod PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Se deblochează cartela SIM…</string>
     <string name="keyguard_torch_cover_text">Pentru a menține lanterna pornită, apăsați butonul Pornire</string>
-    <string name="keyguard_try_fingerprint">Folosiți amprenta pentru a deschide</string>
+    <string name="keyguard_suggest_fingerprint">Utilizați în schimb amprenta digitală</string>
     <string name="keyguard_unlock">Glisați în sus pentru a debloca</string>
-    <string name="keyguard_unlock_press">Apăsați pictograma de deblocare pentru a deschide</string>
+    <string name="keyguard_unlock_to_customize_ls">Deblocați pentru a personaliza Ecranul de blocare</string>
     <string name="keyguard_widget_12_hours_format">h:mm</string>
     <string name="keyguard_widget_24_hours_format">kk:mm</string>
     <string name="keywords_adb_wireless">adb, depanare, dezvoltator</string>
@@ -1714,15 +1733,18 @@ prioritățile"</string>
     <string name="kg_invalid_puk">Reintroduceți codul PUK corect. Încercările repetate vor dezactiva permanent cartela SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Introduceți un cod PIN format din 4 până la 8 cifre.</string>
     <string name="kg_invalid_sim_puk_hint">Codul PUK trebuie să conțină %1$d cifre.</string>
-    <string name="kg_login_too_many_attempts">Prea multe încercări de desenare a modelului</string>
-    <string name="kg_password_instructions">Introduceți parola</string>
+    <string name="kg_password_default_pin_message">{count, plural, =1 {Introduceți PIN-ul SIM. Mai aveți # încercare înainte să vă contactați operatorul pentru a vă debloca dispozitivul.} other {Introduceți PIN-ul SIM. Mai aveți # încercări rămase.} }</string>
+    <string name="kg_password_default_puk_message">{count, plural, =1 {SIM-ul este acum dezactivat. Introduceți codul PUK pentru a continua. Mai aveți # încercare înainte ca SIM-ul să devină definitiv inutilizabil. Contactați operatorul pentru detalii.} other {SIM-ul este acum dezactivat. Introduceți codul PUK pentru a continua. Mai aveți # încercări înainte ca SIM-ul să devină definitiv inutilizabil. Contactați operatorul pentru detalii.} }</string>
     <string name="kg_password_pin_failed">Operațiunea PIN SIM a eșuat!</string>
     <string name="kg_password_puk_failed">Operațiunea PUK SIM a eșuat!</string>
+    <string name="kg_password_wrong_pin_code">{count, plural, =1 {Cod PIN SIM incorect, mai aveți # încercare înainte să vă contactați operatorul pentru a vă debloca dispozitivul.} other {Cod PIN SIM incorect, mai aveți # încercări. } }</string>
     <string name="kg_password_wrong_pin_code_pukked">Cod PIN incorect; acum trebuie să contactați operatorul pentru a debloca telefonul.</string>
+    <string name="kg_password_wrong_puk_code">{count, plural, =1 {Cod PUK SIM incorect, mai aveți # încercare înainte ca SIM-ul să devină inutilizabil definitiv.} other {Cod PUK SIM incorect, mai aveți # încercări înainte ca SIM-ul să devină inutilizabil definitiv.} }</string>
     <string name="kg_password_wrong_puk_code_dead">Cartelă SIM inutilizabilă. Contactați operatorul.</string>
-    <string name="kg_pattern_instructions">Desenați modelul de deblocare</string>
-    <string name="kg_pin_accepted">Cod acceptat!</string>
-    <string name="kg_pin_instructions">Introduceți codul PIN</string>
+    <string name="kg_prompt_after_update_password">Dispozitiv actualizat. Introduceți parola pentru a continua.</string>
+    <string name="kg_prompt_after_update_pin">Dispozitiv actualizat. Introduceți codul PIN pentru a continua.</string>
+    <string name="kg_prompt_after_user_lockdown_password">Parola este necesară după blocare</string>
+    <string name="kg_prompt_after_user_lockdown_pin">Codul PIN este necesar după blocare</string>
     <string name="kg_prompt_reason_device_admin">Dispozitiv blocat de către administrator</string>
     <string name="kg_prompt_reason_restart_password">Este necesară parola după ce repornește dispozitivul</string>
     <string name="kg_prompt_reason_restart_pattern">Este necesar modelul de deblocare după ce repornește dispozitivul</string>
@@ -1734,6 +1756,8 @@ prioritățile"</string>
     <string name="kg_prompt_reason_timeout_pattern">Modelul este necesar pentru o securitate sporită</string>
     <string name="kg_prompt_reason_timeout_pin">Codul PIN este necesar pentru o securitate sporită</string>
     <string name="kg_prompt_reason_user_request">Dispozitivul a fost blocat manual</string>
+    <string name="kg_prompt_unattended_update_password">Introduceți parola pentru a instala actualizarea mai târziu</string>
+    <string name="kg_prompt_unattended_update_pin">Introduceți codul PIN pentru a instala actualizarea mai târziu</string>
     <string name="kg_puk_enter_pin_hint">Introduceți noul cod PIN</string>
     <string name="kg_puk_enter_puk_hint">Cartela SIM este acum dezactivată. Introduceți codul PUK pentru a continua. Contactați operatorul pentru detalii.</string>
     <string name="kg_puk_enter_puk_hint_multi">Cartela SIM \"%1$s\" este acum dezactivată. Introduceți codul PUK pentru a continua. Contactați operatorul pentru detalii.</string>
@@ -1812,14 +1836,14 @@ prioritățile"</string>
     <string name="letterbox_education_dialog_title">Unele aplicații funcționează cel mai bine în modul portret</string>
     <string name="letterbox_education_got_it">Am înțeles</string>
     <string name="letterbox_education_reposition_text">Atingeți de două ori pe o aplicație pentru a o repoziționa</string>
-    <string name="letterbox_education_screen_rotation_text">Rotiți dispozitivul pentru a accesa Ecranul complet</string>
-    <string name="loading_injected_setting_summary">Doar o secundă…</string>
-    <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă ale Ecranului principal</string>
-    <string name="local_backup_password_summary_none">Copiile de rezervă complete ale Ecranului principal nu sunt protejate în prezent</string>
-    <string name="local_backup_password_title">Parolă copie de rezervă completă pentru Ecranul principal</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">Parolele nu se potrivesc</string>
-    <string name="local_backup_password_toast_success">Noua parolă pentru copia de rezervă a fost setată</string>
-    <string name="local_backup_password_toast_validation_failure">Nu s-a putut seta parola pentru copia de rezervă</string>
+    <string name="letterbox_education_split_screen_text">Trageți în altă aplicație pentru Ecranul scindat</string>
+    <string name="letterbox_reachability_reposition_text">"Atingeți de două ori pentru
+a muta această aplicație"</string>
+    <string name="letterbox_restart_cancel">Renunțați</string>
+    <string name="letterbox_restart_dialog_checkbox_title">Nu afișa din nou</string>
+    <string name="letterbox_restart_dialog_description">Puteți reporni aplicația astfel încât să arate mai bine pe ecran, dar este posibil să pierdeți progresul sau orice modificări nesalvate</string>
+    <string name="letterbox_restart_dialog_title">Reporniți pentru o vizualizare mai bună?</string>
+    <string name="letterbox_restart_restart">Reporniți</string>
     <string name="location_status">Se partajează locația</string>
     <string name="location_status_content_description">%1$s vă partajează locația</string>
     <string name="lock_screen_access_to_5G">Acces la 5G</string>
@@ -1838,6 +1862,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Deschideţi</string>
     <string name="lock_screen_no_sim_card_emergency_only">Doar apeluri de urgență</string>
     <string name="lock_screen_no_sim_card_no_service">Fără serviciu</string>
+    <string name="lock_screen_settings">Personalizați Blocarea ecranului</string>
     <string name="lock_screen_signature_msg">Afișează semnătura în Blocarea ecranului</string>
     <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
     <string name="lockscreen_access_pattern_area">Zonă model.</string>
@@ -1848,6 +1873,7 @@ d MMMM"</string>
     <string name="lockscreen_access_pattern_start">Pornire model</string>
     <string name="lockscreen_carrier_default">Niciun serviciu</string>
     <string name="lockscreen_charging_msg">Se încarcă</string>
+    <string name="lockscreen_clock_id_fallback">IMPLICIT</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Ați încercat fără succes să deblocați telefonul de %1$d ori. După încă %2$d încercări nereușite, telefonul va fi reveni la setările din fabrică iar toate datele de utilizator vor fi pierdute.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Ați introdus incorect parola de %1$d ori. După încă %2$d încercări nereușite, va trebui să deblocați telefonul utilizând autentificarea la contul Mi.
 
@@ -1859,22 +1885,21 @@ d MMMM"</string>
     <string name="lockscreen_sim_error_message_short">Cartela SIM nu este validă.</string>
     <string name="lockscreen_unlock_left">Scurtătura din stânga deblochează de asemenea</string>
     <string name="lockscreen_unlock_right">Scurtătura din dreapta deblochează de asemenea</string>
-    <string name="long_screenshot_guide_text">"Atingeți pentru a realiza
-o captură de ecran derulantă"</string>
-    <string name="long_screenshot_not_support_msg">Aplicația curentă nu suportă capturi de ecran derulante</string>
-    <string name="long_screenshot_out_of_memory_error">Dimensiunea imaginii este prea mare</string>
-    <string name="long_screenshot_processing">Procesare…</string>
-    <string name="long_screenshot_stop">Finalizat</string>
-    <string name="long_screenshot_top_msg">Creare captură de ecran…</string>
-    <string name="long_screenshot_top_msg_manual">Decupați captura de ecran și atingeți butonul pentru a finaliza</string>
-    <string name="low_temperature_button_ok">Am înțeles</string>
-    <string name="low_temperature_warning_message">Temperatura este prea scăzută; telefonul se poate opri în orice moment. Vă rugăm salvați datele.</string>
-    <string name="low_temperature_warning_title">Avertisment temperatură scăzută</string>
-    <string name="magnification_controls_title">Comenzi Mărire Fereastră</string>
-    <string name="magnification_mode_switch_click_label">Comutați</string>
+    <string name="log_access_confirmation_allow">Permiteți accesul o singură dată</string>
+    <string name="log_access_confirmation_body">"Jurnalele dispozitivului înregistrează ceea ce se întâmplă pe dispozitivul dvs. Aplicațiile pot folosi aceste jurnale pentru a găsi și remedia probleme.
+
+Unele jurnale pot conține informații sensibile, așa că permiteți numai aplicațiilor în care aveți încredere să acceseze toate jurnalele dispozitivului.
+
+Dacă nu permiteți acestei aplicații să acceseze toate jurnalele dispozitivului, poate accesa în continuare propriile jurnale. Este posibil ca producătorul dispozitivului să poată accesa în continuare unele jurnale sau informații de pe dispozitiv."</string>
+    <string name="log_access_confirmation_deny">Nu permiteți</string>
+    <string name="log_access_confirmation_learn_more">Aflați mai multe</string>
+    <string name="log_access_confirmation_learn_more_at">Aflați mai multe la %s</string>
+    <string name="log_access_confirmation_title">Permiteți %s să acceseze toate jurnalele dispozitivului?</string>
+    <string name="magnification_drag_corner_to_resize">Trageți colțul pentru a redimensiona</string>
     <string name="magnification_mode_switch_description">Comutattor magnificare</string>
     <string name="magnification_mode_switch_state_full_screen">Magnificați întregul ecran</string>
     <string name="magnification_mode_switch_state_window">Magnificați o parte a ecranului</string>
+    <string name="magnification_open_settings_click_label">Deschideți setările de mărire</string>
     <string name="magnification_window_title">Fereastră Magnificare</string>
     <string name="manage_bubbles_text">Gestionați</string>
     <string name="manage_notifications_history_text">Istoric</string>
@@ -1900,7 +1925,9 @@ o captură de ecran derulantă"</string>
     <string name="media_move_closer_to_start_cast">Apropiați-vă pentru a reda pe %1$s</string>
     <string name="media_output_broadcast">Difuzați</string>
     <string name="media_output_broadcast_code">Parolă</string>
+    <string name="media_output_broadcast_code_hint_no_less_than_min">Utilizați cel puțin 4 caractere</string>
     <string name="media_output_broadcast_dialog_save">Salvați</string>
+    <string name="media_output_broadcast_edit_hint_no_more_than_max">Folosiți mai puțin de %1$d caractere</string>
     <string name="media_output_broadcast_last_update_error">Nu se poate salva.</string>
     <string name="media_output_broadcast_name">Nume difuzare</string>
     <string name="media_output_broadcast_start_failed">Nu se poate difuza</string>
@@ -1919,29 +1946,51 @@ o captură de ecran derulantă"</string>
     <string name="media_output_dialog_pairing_new">Asociați dispozitivul nou</string>
     <string name="media_output_dialog_single_device">1 dispozitiv selectat</string>
     <string name="media_output_dialog_unknown_launch_app_name">Aplicație necunoscută</string>
+    <string name="media_output_dialog_volume_percentage">%1$d%%</string>
+    <string name="media_output_end_session_dialog_stop">Opriți</string>
+    <string name="media_output_end_session_dialog_summary">Opriți sesiunea partajată pentru a muta conținutul media pe alt dispozitiv</string>
     <string name="media_output_first_broadcast_title">Cum funcționează difuzarea</string>
     <string name="media_output_first_notify_broadcast_message">Persoanele din apropierea dvs. cu dispozitive Bluetooth compatibile pot asculta elementele media pe care le transmiteți</string>
+    <string name="media_output_group_title_speakers_and_displays">Difuzoare și Afișaje</string>
+    <string name="media_output_group_title_suggested_device">Dispozitive sugerate</string>
+    <string name="media_output_status_device_in_low_power_mode">Treziți dispozitivul pentru a reda aici</string>
+    <string name="media_output_status_not_support_downloads">Nu se se pot reda descărcări aici</string>
+    <string name="media_output_status_require_premium">Actualizați contul pentru a comuta</string>
+    <string name="media_output_status_track_unsupported">Nu se poate reda acest conținut media aici</string>
+    <string name="media_output_status_try_after_ad">Încercați din nou după reclamă</string>
+    <string name="media_output_status_unauthorized">Dispozitivul nu este aprobat pentru redare</string>
+    <string name="media_output_status_unknown_error">Nu se poate reda pe acest dispozitiv</string>
     <string name="media_projection_action_text">Începeți acum</string>
     <string name="media_projection_dialog_service_text">Serviciul care furnizează această funcție va avea acces la toate informațiile vizibile de pe ecran sau redate pe dispozitiv în timpul înregistrării sau al proiectării. Aceasta include informații precum parole, detalii de plată, fotografii, mesaje și sunete pe care le redați.</string>
     <string name="media_projection_dialog_service_title">Începeți înregistrarea sau proiectarea?</string>
     <string name="media_projection_dialog_text">%s va avea acces la toate informațiile care sunt vizibile pe ecran sau redate de pe dispozitiv în timpul înregistrării sau al proiectării. Aceasta include informații precum parole, detalii de plată, fotografii, mesaje și sunete pe care le redați.</string>
     <string name="media_projection_dialog_title">Începeți înregistrarea sau partajarea cu %s?</string>
-    <string name="media_projection_remember_text">Nu arăta din nou</string>
+    <string name="media_projection_dialog_warning">%s va avea acces la toate informațiile care sunt vizibile pe ecran sau redate de pe dispozitiv în timpul înregistrării sau al castării. Acestea includ informații precum parole, detalii de plată, fotografii, mesaje și sunete pe care le redați.</string>
+    <string name="media_projection_sys_service_dialog_title">Începeți să înregistrați sau să difuzați?</string>
+    <string name="media_projection_sys_service_dialog_warning">Serviciul care oferă această funcție va avea acces la toate informațiile care sunt vizibile pe ecran sau redate de pe dispozitiv în timpul înregistrării sau al castării. Acestea includ informații precum parole, detalii de plată, fotografii, mesaje și sunete pe care le redați.</string>
     <string name="media_seamless_other_device">Celălalt dispozitiv</string>
+    <string name="media_transfer_default_device_name">Dispozitivul conectat</string>
+    <string name="media_transfer_dock_speaker_device_name">Difuzor de andocare</string>
+    <string name="media_transfer_external_device_name">Dispozitivul extern</string>
     <string name="media_transfer_failed">Ceva n-a mers bine. Încearcați din nou.</string>
+    <string name="media_transfer_loading">Se încarcă</string>
     <string name="media_transfer_playing_different_device">Se redă pe %1$s</string>
     <string name="media_transfer_playing_this_device">Se redă pe acest telefon</string>
+    <string name="media_transfer_receiver_content_description_unknown_app">Se proiectează fișierul media</string>
+    <string name="media_transfer_receiver_content_description_with_app_name">Se proiectează %1$s</string>
     <string name="media_transfer_this_device_name">Acest dispozitiv</string>
     <string name="media_transfer_this_phone">Acest telefon</string>
     <string name="media_transfer_undo">Anulează</string>
     <string name="media_transfer_wired_device_name">Dispozitiv audio cu fir</string>
     <string name="media_transfer_wired_usb_device_name">Căști cu fir</string>
+    <string name="media_ttt_default_device_type">tabletă</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="messages_count_overflow_indicator">%d+</string>
     <string name="mic_and_camera_recording_announcement">Camera și microfonul înregistrează</string>
     <string name="mic_camera_stopped_recording_announcement">Camera și microfonul nu mai înregistrează</string>
     <string name="mic_recording_announcement">Microfonul înregistrează</string>
     <string name="mic_stopped_recording_announcement">Microfonul nu mai înregistrează</string>
+    <string name="microphone_blocked_dream_overlay_content_description">Microfon blocat</string>
     <string name="midnight">Noapte</string>
     <string name="missed_call">Apel pierdut</string>
     <string name="miui_clock_city_name_local">Local</string>
@@ -2039,7 +2088,9 @@ mm"</string>
     <string name="mobile_data_disable_title">Dezactivați datele mobile?</string>
     <string name="mobile_data_no_connection">Fără conexiune</string>
     <string name="mobile_data_off_summary">Datele mobile nu se vor conecta în mod automat</string>
+    <string name="mobile_data_poor_connection">Conexiune slabă</string>
     <string name="mobile_data_settings_title">Date mobile</string>
+    <string name="mobile_data_temp_connection_active">Conectat temporar</string>
     <string name="mobile_data_text_format">%1$s — %2$s</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>
     <string name="mock_location_app_not_set">Nicio aplicație cu locație fictivă setată</string>
@@ -2067,6 +2118,7 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Organizația dumneavoastră a instalat o autoritate certificată în profilul de servici. Traficul în rețea poate fi monitorizat sau modificat.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Aplicațiile dvs. de serviciu sunt conectate la internet prin %1$s. Activitatea dvs. în rețea în aplicațiile de serviciu, inclusiv e-mailurile și datele de navigare, este vizibilă administratorului IT și furnizorului VPN.</string>
     <string name="monitoring_description_managed_profile_network_logging">Administratorul dvs. a activat înregistrarea în rețea, care monitorizează traficul în profilul dvs. de serviciu, dar nu și în profilul dvs. personal.</string>
+    <string name="monitoring_description_managed_device_named_vpn">Acest dispozitiv este conectat la internet prin %1$s. Activitatea dvs. în rețea(inclusiv e-mailurile și datele de navigare) este vizibilă pentru administratorul IT.</string>
     <string name="monitoring_description_management">"Acest dispozitiv aparține organizației dumneavoastră.
 
 Administratorul IT poate monitoriza și gestiona setările, accesul la rețeaua companiei, aplicațiile, datele asociate dispozitivului dvs. și informațiile despre locația dispozitivului.
@@ -2229,6 +2281,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="new_status_content_description">%1$s are o actualizare de stare: %2$s</string>
     <string name="new_story_status">Mesaj nou</string>
     <string name="new_story_status_content_description">%1$s a împărtășit o nouă poveste</string>
+    <string name="next">Următorul</string>
     <string name="night">Seară</string>
     <string name="no_application">Niciuna</string>
     <string name="no_auto_saver_action">Nu, mulțumesc</string>
@@ -2247,6 +2300,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="not_set">Nesetat</string>
     <string name="not_support_multi_window">Aplicația curentă nu suportă modul Ecran scindat</string>
     <string name="notch_sos_status_bar_title">SOS</string>
+    <string name="note_task_button_label">Luarea de notițe</string>
     <string name="notif_inline_reply_remove_attachment_description">Eliminați atașamentul</string>
     <string name="notification_aggregate_text">Marcați notificările de la %1$s ca și neimportante</string>
     <string name="notification_alert_title">Implicit</string>
@@ -2299,6 +2353,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="notification_delegate_header">Notificare proxy</string>
     <string name="notification_disclosure_vpn_text">Via %1$s</string>
     <string name="notification_group_collapse_button_text">Restrângeți</string>
+    <string name="notification_group_overflow_description">{count, plural, =1 {încă # notificare în interior.} other {încă # notificări în interior.} }</string>
     <string name="notification_group_overflow_indicator">+ %s</string>
     <string name="notification_header_default_channel">Notificări</string>
     <string name="notification_header_title">Notificări</string>
@@ -2377,7 +2432,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="open_extreme_power_save_mode_title">Activați modul Extrem de economisire a acumulatorului</string>
     <string name="open_lock_screen_magazine_hint_text">Glisați spre dreapta pentru mai multe opțiuni</string>
     <string name="open_remote_center_hint_text">Glisați spre dreapta pentru a vedea scurtăturile</string>
-    <string name="open_xmyzl_hint_text">Glisați spre dreapta pentru a deschide Xiaomi Magic Control</string>
+    <string name="open_uwb_hint_text">Glisați spre dreapta pentru a deschide Xiaomi Magic Control</string>
     <string name="orb_search_action">Căutați Acțiunea</string>
     <string name="osu_completing_sign_up">Se finalizează înregistrarea…</string>
     <string name="osu_connect_failed">Nu se poate conecta</string>
@@ -2429,6 +2484,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="pip_edu_text">" Apăsați de două ori butonul "<annotation icon="home_icon"> ACASĂ </annotation>" pentru controale "</string>
     <string name="pip_expand">Extindeți</string>
     <string name="pip_fullscreen">Ecran complet</string>
+    <string name="pip_menu_accessibility_title">Meniu Imagine-în-Imagine</string>
     <string name="pip_menu_title">Meniu</string>
     <string name="pip_move">Mutați</string>
     <string name="pip_notification_message">Dacă nu doriți ca %s să utilizeze această caracteristică, atingeți pentru a accesa setările și dezactivați-o.</string>
@@ -2612,7 +2668,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="quick_settings_cellular_detail_data_usage">Utilizare date</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizați</string>
     <string name="quick_settings_cellular_detail_data_warning">%s avertisment</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Datele mobile (WCDMA/LTE) vor fi dezactivate. Dacă nu utilizați Wi-Fi, nu veți mai putea utiliza aplicații care necesită conexiune de date. Trimiterea sau primirea de mesaje multimedia va fi restricționată.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dacă dezactivați datele mobile, nu veți putea folosi internetul decât dacă vă conectați la Wi-Fi. Veți putea în continuare să trimiteți MMS-uri. Dezactivați oricum datele mobile?</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Datele mobile vor fi activate. Conectarea la date mobile poate duce la taxe suplimentare, în funcție de abonamentul dvs.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Renunțați</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
@@ -2674,6 +2730,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="quick_settings_googlepay_label">Google Pay</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Economisirea Datelor este activă</string>
+    <string name="quick_settings_hotspot_secondary_label_num_devices">{count, plural, =1 {# dispozitiv} other {# dispozitive} }</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Se activează…</string>
     <string name="quick_settings_hotspot_state_change_message_off">Hotspotul este dezactivat</string>
     <string name="quick_settings_hotspot_state_change_message_on">Hotspotul este activat</string>
@@ -2867,36 +2924,28 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="save">Salvați</string>
-    <string name="save_mode_btn_ok">OK</string>
-    <string name="saved_network">Salvată de %1$s</string>
-    <string name="screen_button_notification_text">Pentru a le activa, apăsați butoanele Acasă și Alimentare simultan.</string>
-    <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
-    <string name="screen_pinning_can_open_other_apps">Aplicația fixată poate porni alte aplicații.</string>
-    <string name="screen_pinning_description">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsate simultan butoanele Acasă și Prezentare generală pentru a anula fixarea.</string>
-    <string name="screen_pinning_description_accessible">Se ține la vedere până când anulaţi fixarea. Atingeți și țineți apăsat butonul Prezentare generală pentru a anula fixarea.</string>
-    <string name="screen_pinning_description_gestural">Se ține la vedere până când anulați fixarea. Glisați în sus și mențineți pentru a anula fixarea.</string>
-    <string name="screen_pinning_description_recents_invisible">Se ține la vedere până când anulați fixarea. Atingeți și mențineți apăsate butoanele Înapoi și Acasă pentru a anula fixarea.</string>
-    <string name="screen_pinning_description_recents_invisible_accessible">Se ține la vedere până când anulați fixarea. Atingeți și mențineți apăsat butonul Acasă pentru a anula fixarea.</string>
+    <string name="screen_capturing_disabled_by_policy_dialog_title">Blocat de administratorul IT</string>
+    <string name="screen_pinning_description_gesture_mode">Această aplicație va rămâne în Recente până când o anulați prin glisarea în sus din partea de jos a ecranului și întrerupând.</string>
+    <string name="screen_pinning_description_navigation_mode">Această aplicație va rămâne în Recente până când o anulați prin apăsarea lungă a butoanelor înapoi și previzualizare.</string>
     <string name="screen_pinning_exit">S-a anulat fixarea aplicației</string>
     <string name="screen_pinning_exposes_personal_data">Datele personale pot fi accesibile (cum ar fi contactele și conținutul e-mailurilor).</string>
     <string name="screen_pinning_negative">Nu, mulţumesc</string>
     <string name="screen_pinning_positive">Am înţeles</string>
-    <string name="screen_pinning_start">Aplicație fixată</string>
-    <string name="screen_pinning_title">Aplicația este fixată</string>
-    <string name="screen_pinning_toast">Pentru a anula fixarea acestei aplicații, atingeți și mențineți apăsate butoanele Înapoi și Prezentare generală</string>
-    <string name="screen_pinning_toast_gesture_nav">Pentru a anula fixarea acestei aplicații, glisați în sus și mențineți apăsat</string>
+    <string name="screen_pinning_title_gesture_mode">Această aplicație este fixată</string>
+    <string name="screen_pinning_title_navigation_mode">Această aplicație este fixată</string>
+    <string name="screen_pinning_toast_gesture_mode">Glisați în sus din partea de jos a ecranului și întrerupeți pentru a anula fixarea acestei aplicații</string>
+    <string name="screen_pinning_toast_navigation_mode">Apăsați lung butoanele înapoi și previzualizare pentru a anula fixarea acestei aplicații</string>
     <string name="screen_pinning_toast_recents_invisible">Pentru a anula fixarea acestei aplicații, atingeți și mențineți apăsate butoanele Înapoi și Acasă</string>
-    <string name="screen_zoom_summary_custom">Personalizat (%d)</string>
-    <string name="screen_zoom_summary_default">Implicit</string>
-    <string name="screen_zoom_summary_extremely_large">Cel mai mare</string>
-    <string name="screen_zoom_summary_large">Mare</string>
-    <string name="screen_zoom_summary_small">Mic</string>
-    <string name="screen_zoom_summary_very_large">Mai mare</string>
+    <string name="screen_pinning_toast_start">Această aplicație este fixată</string>
+    <string name="screen_recording_announcement">Înregistrarea ecranului a început</string>
+    <string name="screen_share_permission_app_selector_title">Partajați sau înregistrați o aplicație</string>
+    <string name="screen_stopped_recording_announcement">Înregistrarea ecranului s-a oprit</string>
     <string name="screenrecord_audio_label">Înregistrează sunete audio</string>
     <string name="screenrecord_background_processing_label">Se procesează înregistrarea ecranului</string>
     <string name="screenrecord_cancel_label">Renunțați</string>
     <string name="screenrecord_cancel_success">Înregistrarea ecranului a fost anulată</string>
     <string name="screenrecord_channel_description">Notificare în curs pentru o sesiune de înregistrare a ecranului</string>
+    <string name="screenrecord_continue">Începeți</string>
     <string name="screenrecord_delete_description">Înregistrarea ecranului a fost ștearsă</string>
     <string name="screenrecord_delete_error">Eroare la ștergerea înregistrării pe ecran</string>
     <string name="screenrecord_delete_label">Ștergeți</string>
@@ -2908,10 +2957,9 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="screenrecord_name">Înregistrare Ecran</string>
     <string name="screenrecord_ongoing_screen_and_audio">Se înregistrează ecranul și sunete audio</string>
     <string name="screenrecord_ongoing_screen_only">Se înregistrează ecranul</string>
-    <string name="screenrecord_pause_label">Pauză</string>
-    <string name="screenrecord_permission_error">Obținerea permisiunilor a eșuat</string>
-    <string name="screenrecord_resume_label">Reluați</string>
-    <string name="screenrecord_save_message">Înregistrarea ecranului a fost salvată, atingeți pentru a vizualiza</string>
+    <string name="screenrecord_permission_dialog_title">Începeți înregistrarea?</string>
+    <string name="screenrecord_permission_dialog_warning_entire_screen">În timp ce înregistrați, Android are acces la orice lucru vizibil pe ecran sau redat pe dispozitiv. Așadar, fiți atenți la lucruri precum parolele, detaliile de plată, mesajele, fotografiile și conținutul audio și video.</string>
+    <string name="screenrecord_save_error">Eroare la salvarea înregistrării ecranului</string>
     <string name="screenrecord_save_text">Atingeți pentru a vizualiza</string>
     <string name="screenrecord_save_title">Înregistrarea ecranului a fost salvată</string>
     <string name="screenrecord_share_label">Partajați</string>
@@ -2921,9 +2969,14 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="screenrecord_stop_label">Opriți</string>
     <string name="screenrecord_stop_text">Atingeți pentru a opri</string>
     <string name="screenrecord_taps_label">Afișează atingerile ecranului</string>
+    <string name="screenrecord_title">Înregistrare ecran</string>
     <string name="screenshot_blocked_by_admin">Realizarea de capturi de ecran este blocată de administratorul IT</string>
     <string name="screenshot_bottom_boundary_pct">Limita de jos %1$d la sută</string>
+    <string name="screenshot_default_files_app_name">Fișiere</string>
+    <string name="screenshot_detected_multiple_template">%1$s și alte aplicații deschise au detectat această captură de ecran.</string>
+    <string name="screenshot_detected_template">%1$s a detectat această captură de ecran.</string>
     <string name="screenshot_dismiss_description">Închideți captura de ecran</string>
+    <string name="screenshot_dismiss_work_profile">Închideți mesajul profilului de Serviciu</string>
     <string name="screenshot_edit_description">Editați captura de ecran</string>
     <string name="screenshot_edit_label">Editați</string>
     <string name="screenshot_failed_title">"Nu s-a putut realiza captura de ecran."</string>
@@ -2944,30 +2997,32 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="screenshot_saving_text">Se salvează captura de ecran…</string>
     <string name="screenshot_saving_ticker">Se salvează captura de ecran…</string>
     <string name="screenshot_saving_title">Se salvează captura de ecran…</string>
+    <string name="screenshot_saving_work_profile_title">Se salvează captura de ecran în profilul de serviciu…</string>
     <string name="screenshot_scroll_label">Captați mai mult</string>
     <string name="screenshot_share_description">Partajați captura de ecran</string>
+    <string name="screenshot_text">Captură de ecran</string>
     <string name="screenshot_top_boundary_pct">Limita superioară %1$d la sută</string>
-    <string name="search_menu">Setări căutare</string>
-    <string name="search_menu_title">Căutați</string>
+    <string name="screenshot_work_profile_notification">Salvat în %1$s în profilul de Servici</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message">Senzorul de amprentă este pe butonul de pornire. Este butonul plat de lângă butonul de volum ridicat de pe marginea telefonului.</string>
     <string name="see_all_networks">Vedeți toate</string>
     <string name="see_more_title">Vedeți mai multe</string>
     <string name="select_application">Selectați aplicația</string>
     <string name="select_conversation_text">Atingeți o conversație pentru a o adăuga pe Ecranul principal</string>
     <string name="select_conversation_title">Widgeturi de conversație</string>
-    <string name="select_logd_size_dialog_title">Selectați dimensiunea Jurnalelor tampon</string>
-    <string name="select_logd_size_title">Dimensiunea Jurnalelor tampon</string>
-    <string name="select_logpersist_dialog_title">Selectați jurnalele care să fie stocate pe dispozitiv</string>
-    <string name="select_logpersist_title">Stocați datele jurnalelor pe dispozitiv</string>
-    <string name="select_private_dns_configuration_dialog_title">Selectați modul DNS Privat</string>
-    <string name="select_private_dns_configuration_title">DNS Privat</string>
-    <string name="select_usb_configuration_dialog_title">Selectați configurația USB</string>
-    <string name="select_usb_configuration_title">Selectați configurația USB</string>
-    <string name="select_webview_provider_dialog_title">Setați implementarea WebView</string>
-    <string name="select_webview_provider_title">Implementare WebView</string>
-    <string name="select_webview_provider_toast_text">Această opțiune nu mai este disponibilă. Reîncercați.</string>
-    <string name="send">Trimiteți</string>
+    <string name="select_text">Selectați</string>
+    <string name="sensor_privacy_camera_blocked_dialog_content">Accesul la cameră este dezactivat pentru toate aplicațiile și serviciile.</string>
+    <string name="sensor_privacy_camera_turned_off_dialog_title">Camera este oprită</string>
+    <string name="sensor_privacy_camera_turned_on_dialog_title">Camera a fost pornită</string>
+    <string name="sensor_privacy_camera_unblocked_dialog_content">Camera este activată pentru toate aplicațiile și serviciile.</string>
     <string name="sensor_privacy_camera_unblocked_toast_content">Cameră disponibilă</string>
+    <string name="sensor_privacy_dialog_open_settings">Deschideți Setările</string>
+    <string name="sensor_privacy_htt_blocked_dialog_content">Pentru a utiliza butonul microfon, activați accesul la microfon din Setări.</string>
+    <string name="sensor_privacy_mic_blocked_no_exception_dialog_content">Accesul la microfon este dezactivat pentru toate aplicațiile și serviciile. Puteți activa accesul la microfon din Setări > Confidențialitate > Microfon.</string>
+    <string name="sensor_privacy_mic_blocked_with_exception_dialog_content">Accesul la microfon este dezactivat pentru toate aplicațiile și serviciile. Puteți modifica acest lucru din Setări > Confidențialitate > Microfon.</string>
     <string name="sensor_privacy_mic_camera_unblocked_toast_content">Microfon și cameră disponibile</string>
+    <string name="sensor_privacy_mic_turned_off_dialog_title">Microfonul este oprit</string>
+    <string name="sensor_privacy_mic_turned_on_dialog_title">Microfonul este pornit</string>
+    <string name="sensor_privacy_mic_unblocked_dialog_content">Microfonul este activat pentru toate aplicațiile și serviciile.</string>
     <string name="sensor_privacy_mic_unblocked_toast_content">Microfon disponibil</string>
     <string name="sensor_privacy_start_use_camera_blocked_dialog_content">Pentru a debloca, mutați comutatorul de confidențialitate de pe dispozitiv în poziția camerei pornite pentru a permite accesul camerei. Consultați manualul dispozitivului pentru a localiza comutatorul de confidențialitate de pe dispozitiv.</string>
     <string name="sensor_privacy_start_use_camera_blocked_dialog_title">Camera este blocată</string>
@@ -2981,6 +3036,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="sensor_privacy_start_use_mic_camera_dialog_title">Deblocați camera și microfonul dispozitivului?</string>
     <string name="sensor_privacy_start_use_mic_dialog_content">Aceasta deblochează accesul pentru toate aplicațiile și serviciile cărora le este permis să vă folosească microfonul.</string>
     <string name="sensor_privacy_start_use_mic_dialog_title">Deblocați microfonul dispozitivului?</string>
+    <string name="set_default_notes_app_toast_content">Setați aplicația de note implicită în Setări</string>
     <string name="settings_label">Setări</string>
     <string name="settingslib_learn_more_text">Aflați mai multe</string>
     <string name="shared_data_delete_failure_text">A apărut o eroare la ștergerea datelor partajate.</string>
@@ -3022,9 +3078,8 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="small_window_notification_text">Atingeți pentru a afla mai multe despre această funcție din MIUI %d</string>
     <string name="small_window_notification_title">Ferestre plutitoare</string>
     <string name="snooze_option_15_min">15 minute</string>
-    <string name="snooze_option_1_hour">1 oră</string>
-    <string name="snooze_option_2_hour">2 ore</string>
-    <string name="snooze_option_30_min">30 de minute</string>
+    <string name="snoozeHourOptions">{count, plural, =1 {# oră} =2 {# ore} few {# ore} other {# ore} }</string>
+    <string name="snoozeMinuteOptions">{count, plural, =1 {# minut} few {# minute} other {# minute} }</string>
     <string name="snooze_undo">ANULEAZĂ</string>
     <string name="snoozed_for_time">Redus la tăcere pentru %1$s</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
@@ -3059,6 +3114,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="speed_label_slow">Lent</string>
     <string name="speed_label_very_fast">Foarte rapid</string>
     <string name="speed_label_very_slow">Foarte lent</string>
+    <string name="split_screen_text">Ecran scindat</string>
     <string name="ssl_ca_cert_warning">"Rețeaua poate fi
 monitorizată"</string>
     <string name="standby_bucket_summary">Starea aplicației în standby: %s</string>
@@ -3126,6 +3182,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="storage_category">Stocare</string>
     <string name="stream_accessibility">Accesibilitate</string>
     <string name="stream_alarm">Alarmă</string>
+    <string name="stream_assistant">Asistent vocal</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Frecvență dual multiton</string>
     <string name="stream_music">Media</string>
@@ -3192,6 +3249,8 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="structure_face_unlock_not_same_person">"Trebuie să urmați singur toți pașii. Nu schimbați locul cu altcineva."</string>
     <string name="structure_face_unlock_really_person">"Se pare că v-ați înlocuit chipul cu un obiect."</string>
     <string name="structure_face_unlock_tof_covered">"Nu s-au putut adăuga datele faciale. Îndepărtați-vă de ecran."</string>
+    <string name="stylus_battery_low_percentage">%s acumulator disponibil</string>
+    <string name="stylus_battery_low_subtitle">Conectați stiloul la un încărcător</string>
     <string name="sud_back_button_label">Înapoi</string>
     <string name="sud_more_button_label">Mai mult</string>
     <string name="sud_next_button_label">Următorul</string>
@@ -3264,6 +3323,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
     <string name="theme">Temă</string>
+    <string name="thermal_protection_warning">Dispozitivul dvs. este supraîncălzit. Nu se poate folosi această funcție acum.</string>
     <string name="thermal_shutdown_dialog_help_text">Vedeți pașii de îngrijire</string>
     <string name="thermal_shutdown_dialog_message">"Telefonul era prea cald, așa că s-a oprit pentru a se răci. Acum acesta funcționează în mod normal.
 
@@ -3436,7 +3496,8 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori. 
 
 Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."</string>
     <string name="user_add_user_title">Aăugați un nou utilizator?</string>
-    <string name="user_add_user_type_title">Adăugați</string>
+    <string name="user_grant_admin_message">Administratorii au privilegii speciale pe care alți utilizatori nu le au. Un administrator poate să gestioneze toți utilizatorii, să actualizeze sau să resetați acest dispozitiv, să modifice setările, să vadă toate aplicațiile instalate și să acorde sau să revoce privilegii de administrator pentru alții.</string>
+    <string name="user_grant_admin_title">Faceți acest utilizator Administrator?</string>
     <string name="user_image_choose_photo">Selectați o imagine</string>
     <string name="user_image_photo_selector">Selectați fotografia</string>
     <string name="user_image_take_photo">Faceți o fotografie</string>
@@ -3466,8 +3527,7 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="uvi_format_desc">Indicele de ultraviolete: %1$s, %2$s</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
-    <string name="verify_apps_over_usb_summary">Verificați aplicațiile instalate prin ADB/ADT pentru comportament dăunător.</string>
-    <string name="verify_apps_over_usb_title">Verificați aplicațiile instalate prin USB</string>
+    <string name="video_camera">Camera video</string>
     <string name="video_status">Se vizionează</string>
     <string name="voice_assist_label">deschideți asistentul vocal</string>
     <string name="voice_hint">Glisați pictograma asistentului vocal</string>
@@ -3479,6 +3539,7 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="volume_odi_captions_hint_disable">dezactivați</string>
     <string name="volume_odi_captions_hint_enable">activați</string>
     <string name="volume_odi_captions_tip">Subtitrare în mod automat</string>
+    <string name="volume_panel_dialog_settings_button">Setări</string>
     <string name="volume_ringer_change">Atingeți pentru a schimba modul soneriei</string>
     <string name="volume_ringer_hint_mute">silențios</string>
     <string name="volume_ringer_hint_unmute">reactivați sunetul</string>
@@ -3645,6 +3706,7 @@ Adresa Wi-Fi (BSSID)
     <string name="wifi_status_no_internet">Fără internet</string>
     <string name="wifi_status_sign_in_required">Conectare necesară</string>
     <string name="wifi_tether_connected_summary">{count, plural, =0 {0 dispozitive conectate} =1 {1 dispozitiv conectat} other {# dispozitive conectate} }</string>
+    <string name="wifi_unavailable_dream_overlay_content_description">Wi-Fi indisponibil</string>
     <string name="wifi_unmetered_label">Nemonitorizată</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - conecatre automată</string>
     <string name="wifi_unsaved_network_linking_summary">Activați încercările de conectare automată la un nou SSID WPA / WPA2-PSK de 5 GHz cu WPA / WPA2-PSK 2 credite SSID conectate SSID și BSSID parțial potrivite</string>
@@ -3663,6 +3725,7 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="wifitrackerlib_admin_restricted_network">Nu este permis de organizația dvs</string>
     <string name="wifitrackerlib_auto_connect_disable">Conectarea automată este dezactivată</string>
     <string name="wifitrackerlib_available_via_app">Disponibil prin %1$s</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Se verifică accesul la internet...</string>
     <string name="wifitrackerlib_connected_via_app">Conectat prin %1$s</string>
     <string name="wifitrackerlib_imsi_protection_warning">Această rețea primește un ID SIM care poate fi utilizat pentru a urmări locația dispozitivului. <annotation id="url">Aflați mai multe</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Se finalizează înscrierea…</string>
@@ -3681,6 +3744,7 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Dezactivat</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Eroare de configurare IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problemă de autentificare</string>
+    <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Indisponibil cu setările de securitate actuale</string>
     <string name="wifitrackerlib_wifi_disconnected">Deconectat</string>
     <string name="wifitrackerlib_wifi_limited_connection">Conexiune limitată</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Nu se poate conecta. Încercați mai târziu.</string>

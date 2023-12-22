@@ -85,4 +85,12 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="card_style_tiles_mobile">
+        <item>wi-fi</item>
+        <item>celular</item>
+    </string-array>
+    <string-array name="card_style_tiles_wifi">
+        <item>wi-fi</item>
+        <item>bt</item>
+    </string-array>
 </resources>

@@ -3734,10 +3734,10 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="emergency_gesture_number_override_notes">"Dacă introduceți un număr care nu este de urgență:
   • Dispozitivul trebuie să fie deblocat pentru a utiliza SOS de urgență
   • Este posibil ca apelul dumneavoastră să nu primească răspuns"</string>
-    <string name="emergency_gesture_screen_summary">Apăsați rapid butonul de pornire de 5 ori sau mai multe pentru a începe acțiunile de mai jos</string>
+    <string name="emergency_gesture_screen_summary">Apăsați rapid butonul de pornire de 5 sau mai multe ori pentru a începe acțiunile de mai jos</string>
     <string name="emergency_gesture_screen_title">SOS de urgență</string>
     <string name="emergency_gesture_sound_setting_summary">Redă un sunet puternic când pornește SOS de urgență</string>
-    <string name="emergency_gesture_sound_setting_title">Redă p alarmă cu numărătoare inversă</string>
+    <string name="emergency_gesture_sound_setting_title">Redă o alarmă cu numărătoare inversă</string>
     <string name="emergency_gesture_switchbar_title">Utilizați SOS de urgență</string>
     <string name="emergency_info_summary">Informații și contacte pentru %1$s</string>
     <string name="emergency_info_title">Informații de urgență</string>

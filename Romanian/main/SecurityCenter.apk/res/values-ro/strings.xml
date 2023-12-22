@@ -3725,12 +3725,12 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_usetime_title">Activ</string>
     <string name="pc_battery_low_health_reminder">Este vremea să vă schimbați acumulatorul</string>
     <string name="pc_category_charge_settings">Setări încărcare</string>
-    <string name="pc_charged_auto_close_summary">Opriți când acumulatorul este ​%1$s sau complet încărcat</string>
+    <string name="pc_charged_auto_close_summary">Opriți când acumulatorul este la ​%1$s sau complet încărcat</string>
     <string name="pc_charged_auto_close_title">Opriți când este încărcat</string>
     <string name="pc_close_notifi_action">Dezactivați</string>
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Economisirea acumulatorului va fi dezactivată când %1$s este %2$s sau când este complet încărcat</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">S-a activat Economisirea acumulatorului pe %s</string>
-    <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s acumulatorul este mai mic decât %2$s. Activați Economisirea acumulatorului pentru a adăuga %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s acumulatorul este mai mic decât %2$s. Activați Economisirea acumulatorului pentru a adăuga %3$s și %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s acumulatorul este descărcat</string>
     <string name="pc_current_power_mode">Modul curent</string>
     <string name="pc_emergency_call">Urgență</string>
@@ -5680,8 +5680,8 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="summary_condition_missing_call">Apel pierdut</string>
     <string name="summary_condition_no_in_charge">Când nu se încarcă</string>
     <string name="summary_condition_open_absorbed_mode">După activarea modului Focusat</string>
-    <string name="summary_condition_reduce_to_target">Când acumulatorul este la nivelul setat</string>
-    <string name="summary_condition_reduce_to_target_percent">Când acumulatorul este la %d%%</string>
+    <string name="summary_condition_reduce_to_target">Când acumulatorul ajunge la nivelul setat</string>
+    <string name="summary_condition_reduce_to_target_percent">Când acumulatorul ajunge la %d%%</string>
     <string name="summary_condition_scan_rubbish">Curățare</string>
     <string name="summary_condition_scan_virus">Scanare pentru viruși</string>
     <string name="summary_condition_unplug_headset">Deconectați căștile cu fir</string>
@@ -5859,7 +5859,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="task_summary_open_system_touch">Activați feedbackul haptic</string>
     <string name="task_summary_open_wlan">Activați Wi-Fi-ul</string>
     <string name="task_summary_open_zen_mode">Activați modul Nu deranjați</string>
-    <string name="task_title_charge">Încărcați</string>
+    <string name="task_title_charge">Încărcare</string>
     <string name="task_title_nfc">NFC</string>
     <string name="tc_cmd_invalid">Modelul nu este valid</string>
     <string name="tc_diagnostic_all_error_notification_summary">Apăsați pentru a raporta o problemă</string>
@@ -6058,7 +6058,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_condition_bluetooth">Bluetooth</string>
     <string name="title_condition_bluetooth_device">Conectați-vă la dispozitivul Bluetooth</string>
     <string name="title_condition_bluetooth_disconnect_device">Deconectați-vă de la dispozitivul Bluetooth</string>
-    <string name="title_condition_charge">Se încarcă</string>
+    <string name="title_condition_charge">Încărcare</string>
     <string name="title_condition_connect_wlan">Conectați-vă la Wi-Fi</string>
     <string name="title_condition_disconnect_wlan">Opriți Wi-Fi-ul</string>
     <string name="title_condition_headset">Căști cu fir</string>
@@ -6070,7 +6070,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="title_condition_lock_screen">Blocare ecran</string>
     <string name="title_condition_meeting">Întâlnire</string>
     <string name="title_condition_message">Mesaj</string>
-    <string name="title_condition_mute">Silențios/Nu deranjați</string>
+    <string name="title_condition_mute">Modul Silențios/Nu deranjați</string>
     <string name="title_condition_nfc">NFC</string>
     <string name="title_condition_start_activity">Deschideți aplicația</string>
     <string name="title_condition_to_somewhere">Ajungeți într-o locație</string>

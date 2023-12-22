@@ -64,10 +64,10 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="auto_disable_screenbuttons_title">Dezactivați automat butoanele de navigare</string>
     <string name="back">Înapoi</string>
     <string name="back_button">Înapoi</string>
-    <string name="back_double_tap">Atingeți de două ori înapoi</string>
+    <string name="back_double_tap">Atingeți de două ori spatele</string>
     <string name="back_key">Înapoi</string>
-    <string name="back_tap">Atingeți înapoi</string>
-    <string name="back_triple_tap">Atingeți de trei ori Înapoi</string>
+    <string name="back_tap">Atingeți partea din spate</string>
+    <string name="back_triple_tap">Atingeți de trei ori Spatele</string>
     <string name="bind_device">Adaugă dispozitive</string>
     <string name="bottomsheet_action_collapse">Restrângeți foaia de jos</string>
     <string name="bottomsheet_action_expand">Extindeți foaia de jos</string>

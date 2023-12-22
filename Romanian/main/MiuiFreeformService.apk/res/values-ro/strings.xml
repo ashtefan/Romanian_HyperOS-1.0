@@ -39,10 +39,15 @@
     <string name="bubble_notification_switch">Afișează bule de conversație</string>
     <string name="bubble_notification_switch_desc">Când o aplicație de mesagerie într-o fereastră plutitoare este ascunsă la marginea ecranului, afișați mesajele primite în bule</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="close">Închideți</string>
     <string name="contentDescription">Mutarea ferestrei</string>
     <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
+    <string name="desktop_btn_cancel">Renunțați</string>
+    <string name="desktop_btn_continue">Începeți</string>
+    <string name="desktop_mode_guide_summary">Modul Stație de lucru vă permite să deschideți mai multe aplicații în ferestre plutitoare atingând pictogramele acestora pe dock-ul pentru aplicații.</string>
+    <string name="desktop_mode_guide_title">Stație de lucru</string>
     <string name="dock_location_left">Stânga</string>
     <string name="dock_location_right">Dreapta</string>
     <string name="dock_location_title">Locația de andocare a aplicației</string>
@@ -247,6 +252,9 @@ apoi trageți pentru a muta"</string>
     <string name="midnight">Noapte</string>
     <string name="miui_bubbles_notification">Baloane de conversație</string>
     <string name="miui_bubbles_notification_status_opened">Pornit</string>
+    <string name="miui_desktop_mode_settings">Stație de lucru</string>
+    <string name="miui_desktop_mode_settings_title">Stație de lucru</string>
+    <string name="miui_desktop_mode_video_description">Atingeți pictogramele aplicațiilor de pe andocare pentru a deschide aplicații în ferestre plutitoare. Puteți activa și dezactiva modul Stație de lucru în Centrul de control.</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>

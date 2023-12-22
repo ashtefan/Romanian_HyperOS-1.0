@@ -32,11 +32,15 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">blur</string>
+    <string name="call_notification_answer_action">Răspundeți</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Refuzați</string>
+    <string name="call_notification_hang_up_action">Închideți</string>
+    <string name="call_notification_incoming_text">Apel de intrare</string>
+    <string name="call_notification_ongoing_text">Apel în curs</string>
+    <string name="call_notification_screening_text">Afișarea unui apel primit</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="decline">Resping</string>
@@ -101,6 +105,8 @@
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -110,11 +116,14 @@
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -340,6 +349,7 @@ Această modificare poate permite ca locația dispozitivului dvs. să fie urmăr
     <string name="wifi_p2p_enter_pin_message">Introduceți codul PIN necesar:</string>
     <string name="wifi_p2p_frequency_conflict_message">Telefonul se va deconecta temporar de la Wi-Fi în timp ce este conectat la %1$s</string>
     <string name="wifi_p2p_from_message">De la:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Acceptați în # secundă.} other {Acceptați în # secunde.} }</string>
     <string name="wifi_p2p_invitation_sent_title">Invitație trimisă</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitație pentru conectare</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>

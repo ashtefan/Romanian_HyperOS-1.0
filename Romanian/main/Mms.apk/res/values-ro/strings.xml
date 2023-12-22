@@ -58,6 +58,7 @@ la lista blocărilor"</string>
 au fost adăugate în lista blocărilor"</string>
     <string name="add_to_block_by_tag_failed">"Nu s-au putut adăuga mesajele care conțin \"%s\" în lista blocărilor.
 Încercați din nou."</string>
+    <string name="add_to_block_cta_failed">Acordați aplicației Securitate permisiunile necesare pentru a putea adăuga articole la lista blocărilor</string>
     <string name="add_to_browser_favorite_failed">"Nu s-a putut adăuga"</string>
     <string name="add_to_browser_favorite_success">Adăugată cu succes</string>
     <string name="add_video">Adăugaţi un videoclip</string>
@@ -865,6 +866,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_collapse_sp_messages_summary">Grupaţi notificările operatorului în același fir</string>
     <string name="pref_delivery_ringtone">Sunet mesaj trimis</string>
     <string name="pref_edit_smsc_address">Centrul de servicii mesaje scurte(SMSC)</string>
+    <string name="pref_feedback_title">Feedback</string>
     <string name="pref_forward_title">Redirecţionaţi</string>
     <string name="pref_group_ad_mms_recognition">Grupați mesajele promoționale</string>
     <string name="pref_hide_verification_code_summary">Ascunde în mod automat notificările mesajelor ce conțin parole de unică utilizare în Blocarea ecranului</string>
@@ -979,7 +981,13 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="priority_label">"Prioritate: "</string>
     <string name="priority_low">Redusă</string>
     <string name="priority_normal">Normală</string>
-    <string name="privacy_mode_hint">Nu puteţi trimite mesaje în modul Vizitator</string>
+    <string name="privacy_dialog_error_service">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="privacy_dialog_text_policy_link">Politica de confidențialitate</string>
+    <string name="privacy_dialog_tips_revoke" formatted="false">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a %s. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece %s își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile %s. Retrageți consimțământul acum?</string>
+    <string name="privacy_dialog_tips_update" formatted="false">"%s Politica de confidențialitate a fost actualizată:
+%s
+Citiți și acceptați noua versiune a Politicii de confidențialitate înainte de a continua."</string>
+    <string name="privacy_dialog_title_update">Politica de confidențialitate actualizată</string>
     <string name="privacy_password_message1">Parola de protejare a confidențialității este utilizată pentru fotografii, notițe și dosarele ascunse.</string>
     <string name="privacy_password_message2">Utilizați parola de protejare a confidențialității. Aceasta este utilizată pentru fotografii, notițe și dosarele ascunse.</string>
     <string name="privacy_password_message3">Parola pentru mesajele private va fi înlocuită cu Parola de protejare a confidențialității care este utilizată și pentru fotografii, notițe și dosarele ascunse."</string>
@@ -989,6 +997,10 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="privacy_password_title3">Actualizați-vă parola</string>
     <string name="privacy_password_title4">Parolă actualizată</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_policy_name_5g_mms">Mesagerie 5G</string>
+    <string name="privacy_policy_name_mms">Mesagerie</string>
+    <string name="privacy_policy_name_smart_sms">Mesagerie inteligentă</string>
+    <string name="privacy_policy_name_websms">Mesagerie Mi</string>
     <string name="privacy_revoke_nonetwork_msg">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
     <string name="privacy_revoke_nonetwork_ok">Am înțeles</string>
     <string name="privacy_revoke_nonetwork_title">Nu se poate conecta la rețea</string>
@@ -1409,7 +1421,7 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="smart_messages_network_allow_title">Este necesară conexiunea la Internet</string>
     <string name="smart_msg_main_purpose">Mesageria Inteligentă permite recunoașterea ID-ului expeditorului și servicii suplimentare.</string>
     <string name="smart_msg_privacy_policy">Politica de Confidențialitate a Mesageriei Inteligente</string>
-    <string name="smart_msg_upgrade_main_purpose">Mesageria inteligentă funcționează acum si cu MMS-uri. Veți putea folosi mai multe servicii furnizate de expeditori, precum și primi mesaje în noi formate.</string>
+    <string name="smart_msg_privacy_policy_revoke">Retrageți consimțământul cu privire la Politica de confidențialitate a Mesageriei inteligente</string>
     <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">"Conţinut: "</string>
@@ -1508,22 +1520,34 @@ Aruncați o privire peste chatboții recomandați!"</string>
 Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație."</string>
     <string name="system_permission_declare_privacy_declare">%1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
     <string name="system_permission_declare_privacy_declare_new">Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a funcționa în mod normal:</string>
-    <string name="system_permission_declare_privacy_link">Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați %1s.</string>
+    <string name="system_permission_declare_rcs">Bun venit la Mesageria 5G!</string>
     <string name="system_permission_declare_revoke_path">Puteți revoca autorizarea și să dezactivați serviciile din setările Mesageriei.</string>
     <string name="system_permission_declare_single_link">Citiți și acceptați %1s înainte de a utiliza această caracteristică.</string>
-    <string name="system_permission_declare_triple_link" formatted="false">Citiți și acceptați %1s, %2s și %3s înainte de a utiliza aceste caracteristici.</string>
-    <string name="system_permission_declare_use_network">Conectarea la rețea</string>
-    <string name="system_permission_perm_answer_call">Realizarea de apeluri</string>
-    <string name="system_permission_perm_call_state">Pentru preluarea, terminarea și monitorizarea apelurilor</string>
-    <string name="system_permission_perm_location2">Pentru partajarea locației în mesaje</string>
+    <string name="system_permission_declare_smart_message">Bun venit în Mesageria inteligentă!</string>
+    <string name="system_permission_declare_user_agree">De acord</string>
+    <string name="system_permission_disabled">Nepermis</string>
+    <string name="system_permission_enabled">Permis</string>
+    <string name="system_permission_perm_agree_desc">Permiteți acestei aplicații să se conecteze la Internet și acordați permisiunile opționale pentru a putea folosi toate funcțiile sale.</string>
+    <string name="system_permission_perm_all_purpose">Bun venit la Mesagerie! Puteți folosi această aplicație pentru a trimite și primi mesaje text și multimedia.</string>
+    <string name="system_permission_perm_calendar">Pentru crearea evenimentelor din Calendar</string>
+    <string name="system_permission_perm_call_log">Pentru accesarea persoanelor de contact recente atunci când creați mesaje</string>
+    <string name="system_permission_perm_call_phone">Pentru efectuarea de apeluri</string>
+    <string name="system_permission_perm_get_phone_state">Pentru accesarea numărului de telefon și a stării dispozitivului</string>
+    <string name="system_permission_perm_location">Pentru accesarea și partajarea locației dvs.</string>
+    <string name="system_permission_perm_new_read_sms">Pentru accesarea conținutului mesajului</string>
+    <string name="system_permission_perm_new_receive_mms">Pentru accesarea conținutului mesajului</string>
+    <string name="system_permission_perm_rcs_call_phone">Pentru preluarea, terminarea și monitorizarea apelurilor</string>
+    <string name="system_permission_perm_read_contact">Pentru accesarea contactelor la crearea mesajelor</string>
     <string name="system_permission_perm_read_mms">Citirea MMS-urilor</string>
-    <string name="system_permission_perm_read_numbers">Citirea numerelor de telefon</string>
-    <string name="system_permission_perm_send_mms">Trimiterea de MMS-uri</string>
+    <string name="system_permission_perm_read_sms">Permiteți Mesageriei să citească SMS-urile</string>
+    <string name="system_permission_perm_record_audio">Pentru înregistrarea audio</string>
+    <string name="system_permission_perm_send_sms">Pentru trimiterea de mesaje text</string>
     <string name="system_permission_perm_storage">Pentru salvarea și încărcarea atașamentelor SMS</string>
+    <string name="system_permission_perm_takephoto">Pentru a face fotografii și videoclipuri</string>
+    <string name="system_permission_perm_write_contact">Pentru crearea și editarea contactelor</string>
     <string name="system_permission_prem_rcs_read_contact">Pentru afișarea stării de livrare a mesajelor către persoanele de contact din mesajele de grup 5G</string>
-    <string name="tab_finance">Financiare</string>
-    <string name="tab_message">Mesaje</string>
-    <string name="tab_promotions">Promoționale</string>
+    <string name="system_permission_requested">Întreabă</string>
+    <string name="system_permission_user_privacy">Înainte de a continua, citiți și acceptați următorii termeni și condiții.</string>
     <string name="text_in_popup_saved_to_clipboard">Copiat în clipboard</string>
     <string name="text_message">Mesaj text</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
@@ -1594,8 +1618,14 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="to_label">"Pentru "</string>
     <string name="to_send_wrapper">Se va trimite la %s</string>
     <string name="toast_failed_to_close_priv_auth">Nu s-a putut revoca autorizarea. Verificați setările rețelei și încercați din nou.</string>
-    <string name="toast_not_show_camera_perm_req">Permiteți serviciului de mesagerie să utilizeze camera foto pentru a putea utiliza această caracteristică</string>
-    <string name="toast_not_show_microphone_perm_req">Permiteți serviciului de mesagerie să utilizeze microfonul pentru a putea utiliza această caracteristică</string>
+    <string name="toast_new_not_show_microphone_perm_req">Permiteți Mesageriei să acceseze microfonul pentru a utiliza această funcție</string>
+    <string name="toast_not_show_calendar_perm_req">Permiteți Mesageriei să acceseze Calendarul pentru a utiliza această funcție</string>
+    <string name="toast_not_show_call_log_perm_req">Permiteți Mesageriei să vă acceseze istoricul apelurilor pentru a utiliza această funcție</string>
+    <string name="toast_not_show_call_perm_req">Permiteți Mesageriei să efectueze apeluri pentru a utiliza această funcție</string>
+    <string name="toast_not_show_camera_perm_req">Permiteți Mesageriei să utilizeze camera foto pentru a putea utiliza această caracteristică</string>
+    <string name="toast_not_show_location_perm_req">Permiteți Mesageriei să vă acceseze locația pentru a utiliza această funcție</string>
+    <string name="toast_not_show_read_mms_perm_req">Pentru a putea vizualiza mesajele primite, trebuie să acordați permisiunea de a citi mesajele SMS și MMS. Puteți acorda această permisiune din Setări.</string>
+    <string name="toast_not_show_send_sms_perm_req">Pentru a putea folosi această funcție, permiteți mai întâi acestei aplicații să trimită mesaje.</string>
     <string name="toast_not_show_storage_perm_req">Sunt necesare unele permisiuni pentru a utiliza această caracteristică. Puteți acorda aceste permisiuni din Setări.</string>
     <string name="toast_not_show_write_contacts_perm_req">Permiteți Mesageriei să editeze contactele pentru a utiliza această funcție</string>
     <string name="toast_pending_hangup_msg">Mesajul va fi trimis după încheierea apelului</string>

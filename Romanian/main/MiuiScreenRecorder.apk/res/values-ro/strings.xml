@@ -37,7 +37,7 @@
 Atingeți pentru a o vizualiza"</string>
     <string name="app_notification_title">Înregistrare ecran</string>
     <string name="auto_stop_title">Videoclip salvat cu succes</string>
-    <string name="battery_not_allowed" formatted="false">"Nu se poate înregistra când acumulatorul are mai puțin de 3% disponibil. Asigurați-vă că aveți măcar 20% disponibil."</string>
+    <string name="battery_not_allowed_warning">Nu se poate înregistra când acumulatorul are mai puțin de %1$s disponibil. Asigurați-vă că aveți măcar %2$s disponibil.</string>
     <string name="bit_rate">Calitatea videoclipului</string>
     <string name="bit_rate_summary">Calitate mai ridicată înseamnă fișiere mai mari</string>
     <string name="bubble_text">Atingeți pentru a începe înregistrarea</string>
@@ -53,16 +53,13 @@ Atingeți pentru a o vizualiza"</string>
     <string name="close">Închideți</string>
     <string name="close_screen_record">S-a oprit înregistrarea</string>
     <string name="copy">Copiați</string>
-    <string name="date_day" />
-    <string name="date_month">/</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
-    <string name="date_year">/</string>
-    <string name="description_content">"Aplicația Înregistrare ecran furnizează capabilități de înregistrare la nivel de sistem. Această acțiune înseamnă că renunțați la această caracteristică. Confirmați că doriți sa continuați."</string>
+    <string name="description_content">Aplicația Înregistrare ecran furnizează capabilități de înregistrare la nivel de sistem. Această acțiune înseamnă că renunțați la această caracteristică. Confirmați că doriți sa continuați.</string>
     <string name="description_title">Despre aplicația de Înregistrare ecran</string>
     <string name="deselect_all">Deselectați tot</string>
     <string name="early_morning">Dimineață</string>
-    <string name="error_open_file_failed_no_app_found">"Nu s-a găsit nicio aplicație pentru a deschide acest fișier"</string>
+    <string name="error_open_file_failed_no_app_found">Nu s-a găsit nicio aplicație pentru a deschide acest fișier</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansate</string>
     <string name="first_using_mic_dialog_message">Aplicația Înregistrare ecran trebuie să vă acceseze microfonul pentru înregistrări audio. Permiteți?</string>
@@ -146,6 +143,7 @@ Atingeți pentru a o vizualiza"</string>
     <string name="low_battery_warning">Acumulatorul este descărcat. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="low_memory">Aveți mai puțin de 1 GB spațiu de stocare disponibil. Mai puteți înregistra timp de 20 de minute.</string>
     <string name="low_memory_for_pad">Aveți mai puțin de %1$d GB spațiu de stocare disponibil. Mai puteți înregistra timp de %2$d de minute.</string>
+    <string name="low_memory_for_phone">Aveți mai puțin de %1$d GB spațiu de stocare disponibil. Mai puteți înregistra timp de %2$d de minute.</string>
     <string name="low_memory_title">Spațiu de stocare insuficient</string>
     <string name="low_momery_warning">Spațiu de stocare insuficient. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="memory_not_allowed">Spațiu de stocare insuficient. Eliberați spațiu de stocare pentru a putea înregistra.</string>
@@ -162,6 +160,7 @@ Atingeți pentru a o vizualiza"</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -233,6 +232,7 @@ Atingeți pentru a o vizualiza"</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_settings">Confidențialitate</string>
+    <string name="protect_oneself_when_recording">Înregistrare apel. Protejați-vă confidențialitatea și a celorlalți în timp ce utilizați această funcție.</string>
     <string name="quit_recording">Ieșiți din Înregistrare ecran</string>
     <string name="record_time_too_short">Videoclipul înregistrat este prea scurt</string>
     <string name="recording_failure">"Nu s-a putut înregistra; reluați înregistrarea"</string>

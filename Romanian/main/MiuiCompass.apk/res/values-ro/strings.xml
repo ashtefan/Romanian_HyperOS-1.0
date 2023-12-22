@@ -53,6 +53,7 @@
     <string name="calibrate_success">Calibrat</string>
     <string name="calibrate_tip">Înclinați dispozitivul astfel încât bila să se rostogolească în jurul cercului</string>
     <string name="calibrate_title">Calibrare busolă</string>
+    <string name="calibrating">Calibrare busolă</string>
     <string name="cancel">Renunțați</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
@@ -251,6 +252,7 @@
     <string name="open_perm_msg">Aplicația Busolă trebuie să acceseze informațiile despre locație și Camera foto. Acestea sunt necesare pentru a vă determina coordonatele și pentru a vă oferi vederi în direct. Permiteți?</string>
     <string name="open_perm_msg_no_camera">Aplicația Busolă trebuie să acceseze informațiile despre locație pentru a putea determina coordonatele. Permiteți?</string>
     <string name="open_perm_title">Permisiuni necesare</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Utilizarea nivelului de spirit?</string>
     <string name="permission_description">Detalii permisiuni</string>
     <string name="permission_location_desc">Afișarea coordonatelor și a presiunii atmosferice</string>
@@ -261,6 +263,7 @@
     <string name="preference_privacy_setting">Confidențialitate</string>
     <string name="preference_privacy_title">Politica de Confidențialitate</string>
     <string name="pressure">%.1f</string>
+    <string name="pressure_format">%.1f hPa</string>
     <string name="pressure_title">Presiune</string>
     <string name="pressure_unit">hPa</string>
     <string name="remove_icon_description_content">Busola este o aplicație de sistem. Nu o veți mai putea utiliza pentru verificarea direcțiilor, coordonatelor, presiunii atmosferice și altitudinii actuale după ce veți elimina comanda rapidă de pe Ecranul principal.</string>

@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
+    <string name="cancel">Renunțați</string>
     <string name="auto_crop_full_screen">Ecran complet</string>
     <string name="auto_crop_origin_photo">Original</string>
     <string name="auto_crop_photo_not_support">Nu se poate utiliza Xiaomi ProCut pentru această fotografie</string>
@@ -48,6 +49,7 @@
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="do_not_remind_me">Nu afișa din nou</string>
+    <string name="doc_photo_adjust_section_talkback">Decupați și editați</string>
     <string name="doc_photo_adjust_section_title">Trageți pentru a ajusta</string>
     <string name="doc_photo_cancel">Renunțați</string>
     <string name="doc_photo_close">Se oprește</string>

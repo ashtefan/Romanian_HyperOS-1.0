@@ -107,7 +107,7 @@
     <string name="branch_seal">Phocidae</string>
     <string name="branch_skua">Stercorariidae</string>
     <string name="branch_stork">Ciconiidae</string>
-    <string name="branch_toucan">Toucans</string>
+    <string name="branch_toucan">Tucani</string>
     <string name="branch_two_toed">Choloepus</string>
     <string name="branch_walrus">Odobenidae</string>
     <string name="branch_whipbird">Turdidae</string>
@@ -125,7 +125,7 @@
     <string name="cheetah">Ghepard</string>
     <string name="cheetah_info">Gheparzii sunt cele mai rapide animale terestre cu o structură socială flexibilă și complexă.</string>
     <string name="chinstrap_penguin">Pinguin cu bărbii</string>
-    <string name="class_amphibious">Amphibia</string>
+    <string name="class_amphibious">Amfibii</string>
     <string name="class_bird">Păsări</string>
     <string name="class_breast_feeding">Mamifere</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
@@ -373,7 +373,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="intelligent_recognition_item_summary">Utilizați un ton de apel desemnat pentru apeluri de la serviciile de livrare și taxi. Această caracteristică va funcționa când %s este setat ca ton de apel implicit.</string>
     <string name="intelligent_recognition_item_title">Identificare servicii</string>
     <string name="item_anura">Anura</string>
-    <string name="item_artiodactyla">Even-toed ungulates</string>
+    <string name="item_artiodactyla">Ungulate cu degete egale</string>
     <string name="item_buddhism">Coraciiformes</string>
     <string name="item_chick">Galliformes</string>
     <string name="item_crane_form">Gruiformes</string>

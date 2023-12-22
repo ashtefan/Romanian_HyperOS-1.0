@@ -91,6 +91,30 @@
         <item>Poluat sever</item>
         <item>Peste indice</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Uscat</item>
+        <item>Comfortabil</item>
+        <item>Umed</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Ridicată</item>
+        <item>Moderată</item>
+        <item>Redusă</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Frig</item>
+        <item>Rece</item>
+        <item>Comfortabil</item>
+        <item>Cald</item>
+        <item>Fierbinte</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Redus</item>
+        <item>Moderat</item>
+        <item>Puternic</item>
+        <item>Foarte puternic</item>
+        <item>Sever</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Senin</item>
         <item>Înnorat</item>
