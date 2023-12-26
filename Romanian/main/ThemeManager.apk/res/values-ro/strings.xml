@@ -364,7 +364,6 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="exo_download_paused_for_wifi">Descărcările așteaptă Wi-Fi</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternează</string>
     <string name="exo_track_role_closed_captions">CC</string>
@@ -620,7 +619,6 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="install_gallery_content">Nu ați instalat încă aplicația Galerie. O descărcați acum?</string>
     <string name="install_gallery_title">Instalați aplicația Galerie</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
