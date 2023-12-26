@@ -42,7 +42,7 @@
     <string name="account_crop_user_avatar">Decupaţi fotografia</string>
     <string name="account_empty_user_name">Introduceți numele de utilizator al contului Xiaomi</string>
     <string name="account_error_all_space_user_name">Numele nu poate conține numai spații goale</string>
-    <string name="account_error_invalid_user_name">Numele nu poate conține &lt;, >, /</string>
+    <string name="account_error_invalid_user_name">"Numele nu poate conține \"&lt;\", \">\", \"/\", sau \"%\""</string>
     <string name="account_error_longer_user_name">Numele nu poate depăși %d de caractere</string>
     <string name="account_error_shorter_user_name">Numele trebuie să conţină mai mult de %d caractere</string>
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
@@ -87,11 +87,12 @@
     <string name="account_user_name_dialog_title">Introduceţi numele de utilizator</string>
     <string name="account_user_other_info">Mai multe surse</string>
     <string name="account_user_phone">Număr de telefon pentru recuperare</string>
+    <string name="account_user_phone_show">Telefon: %s</string>
     <string name="account_user_region">Regiune</string>
-    <string name="account_user_using_facebook_avatar">Utilizați fotografia profilului Facebook</string>
-    <string name="account_user_using_qq_avatar">Utilizați fotografia de profil QQ</string>
-    <string name="account_user_using_weibo_avatar">Utilizați fotografia de profil Sina Weibo</string>
-    <string name="account_xiaomi_service">Servicii</string>
+    <string name="account_verify_guide_bind_mail_desc">Adăugați un e-mail de recuperare</string>
+    <string name="account_verify_guide_bind_phone_desc">Adăugați un telefon de recuperare</string>
+    <string name="account_verify_guide_set_password_desc">Setați o parolă</string>
+    <string name="account_verify_guide_verify_phone_desc">Confirmați telefonul de recuperare</string>
     <string name="action_add_phone">Adăugați numărul de telefon</string>
     <string name="action_retry">Încercați din nou</string>
     <string name="action_update_phone">Modificați numărul de telefon</string>
@@ -103,6 +104,8 @@
     <string name="agreement_and_privacy">Termenii și condițiile</string>
     <string name="am">AM</string>
     <string name="app_name">Cont Xiaomi</string>
+    <string name="area_code_no_search_result">Nu s-au găsit rezultate</string>
+    <string name="area_code_search_hint">Căutați țara sau regiunea</string>
     <string name="auth_fail_warning">Sesiunea a expirat, conectați-vă din nou mai târziu</string>
     <string name="authorize_title">Autorizare</string>
     <string name="auto_fill_not_sport_on_water_mark_version">Conectarea cu completare automată nu este acceptată în versiunile cu amprentă</string>
@@ -231,7 +234,7 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="delete_device_btn">Eliminaţi</string>
     <string name="delete_device_failed">Nu s-a putut elimina dispozitivul</string>
     <string name="delete_device_notice">După ce dispozitivul este eliminat, va fi deconectat din contul dvs. Xiaomi în mod automat. Nu veţi putea utiliza acest dispozitiv pentru a accesa fotografiile, mesajele sau alt conținut stocat în contul dvs.</string>
-    <string name="delete_lock_device_success">Eliminat cu succes</string>
+    <string name="deny">Refuzați</string>
     <string name="device_delete_success_message">Dacă nu v-ați conectat de pe acest dispozitiv, schimbaţi parola imediat.</string>
     <string name="device_delete_success_title">Deconectat</string>
     <string name="device_list__header">Dispozitivele mele</string>
@@ -349,6 +352,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="get_back_password">Resetați parola</string>
     <string name="get_back_pwd">Resetare parolă</string>
     <string name="get_device_list_failed">Nu se poate obține lista dispozitivelor</string>
     <string name="get_identity_auth_url_failed">Nu s-a putut verifica ID-ul</string>
@@ -556,11 +560,14 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="noon">Amiază</string>
     <string name="not_selected">Neselectat</string>
     <string name="not_set">Nesetat</string>
+    <string name="notify_bind_security_phone">Adăugați un telefon de recuperare</string>
+    <string name="notify_complete_security_info">Adăugați informațiile de recuperare</string>
     <string name="notify_network_restricted_content_bg_network">Conectarea la internet pentru Contul Xiaomi este restricționată. Atingeți pentru a permite conectarea.</string>
     <string name="notify_network_restricted_content_hidden_state">Rularea în fundal pentru Contul Xiaomi este restricționată. Atingeți pentru a permite.</string>
     <string name="notify_network_restricted_content_mobile_network">Conectarea la internet pentru Contul Xiaomi este restricționată. Atingeți pentru a permite conectarea.</string>
     <string name="notify_network_restricted_title">Aplicația Cont Xiaomi nu s-a putut conecta la rețea</string>
-    <string name="oauth_get_scopes_failed">Nu s-au putut obține informațiile contului</string>
+    <string name="notify_verify_again_security_phone">Confirmați</string>
+    <string name="notify_verify_security_phone">Telefon</string>
     <string name="oauth_getting_scopes">Verificare cont…</string>
     <string name="oauth_scopes_intro">" &lt;font color=#%1$s>%2$s&lt;/font> va obține următoarele permisiuni:&lt;br> &lt;br> %3$s "</string>
     <string name="oauth_title">Conectați-vă utilizând contul Xiaomi</string>
@@ -568,8 +575,15 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="ok">OK</string>
     <string name="on">Pornit</string>
     <string name="operator_broadnet">China Broadnet</string>
+    <string name="operator_mobile">China Mobile</string>
+    <string name="operator_mobile_agreement">Servicii de verificare oferite de China Mobile</string>
+    <string name="operator_other">Număr de telefon</string>
+    <string name="operator_telecom">China Telecom</string>
+    <string name="operator_telecom_agreement">Servicii de verificare oferite de contul eSurfing</string>
+    <string name="operator_unicom">China Unicom</string>
+    <string name="operator_unicom_agreement">Servicii de verificare oferite de China Unicom</string>
     <string name="optional_permissions">Permisiuni opționale</string>
-    <string name="page_load_failed">Pagina nu se poate deschide</string>
+    <string name="page_load_failed">Nu se poate deschide pagina</string>
     <string name="passport_Resend">Trimiteți din nou</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_crop_user_avatar">Decupați fotografia</string>
@@ -748,16 +762,27 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_login_recycle_account_yes">Da</string>
     <string name="passport_login_title">Conectaţi-vă la contul Xiaomi</string>
     <string name="passport_login_using_other_ways">Alte modalități de conectare</string>
+    <string name="passport_login_with_sns">Alte modalități de conectare</string>
+    <string name="passport_logout_account">Deconectați-vă</string>
     <string name="passport_message_dialog_title">SMS cu coduri de verificare</string>
-    <string name="passport_new_user_register">Creați un cont</string>
+    <string name="passport_mi_account_first_title">Vom crea un cont automat dacă utilizați numărul de telefon pentru prima dată.</string>
+    <string name="passport_mi_account_title">Conectați-vă cu contul Xiaomi</string>
+    <string name="passport_network_error">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="passport_network_error_hint">Verificați adresa URL și încercați din nou sau copiați adresa URL și deschideți-o în browser.</string>
+    <string name="passport_network_timeout">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="passport_next">Înainte</string>
-    <string name="passport_no">Nu</string>
-    <string name="passport_notification_title">Eroare de conectare pentru %1$s</string>
+    <string name="passport_no_account">Neconectat</string>
+    <string name="passport_open_settings">Setări</string>
+    <string name="passport_page_load_failed">Nu se poate deschide pagina</string>
+    <string name="passport_password_login_btn">Conectați-vă</string>
+    <string name="passport_password_not_show">Nu afișa parola</string>
     <string name="passport_password_phone_login">Conectare utilizând contul Xiaomi</string>
     <string name="passport_password_req_notice">Parola trebuie să aibă 8-16 caractere și să includă atât cifre cât și litere(diferențiere între litere mari și mici).</string>
+    <string name="passport_password_show">Afișează parola</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Creați un cont</string>
     <string name="passport_phone_num_hint_text">Număr de telefon</string>
     <string name="passport_phone_ticket_login">Conectare prin cod SMS</string>
-    <string name="passport_prev">Înapoi</string>
+    <string name="passport_photo_picker_not_found">Nicio fotografie disponibilă.</string>
     <string name="passport_privacy_policy">Politica de confidențialitate</string>
     <string name="passport_privacy_policy_required">Politica de confidențialitate (obligatoriu)</string>
     <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
@@ -765,6 +790,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_provision_input_email_register_prompt">Datele dvs. personale vor fi stocate în conformitate cu legile și reglementările din regiunea pe care o selectați.</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caractere de cel puțin <xliff id="min_pwd_type" refersto="2">%3$d</xliff> următoarele tipuri: litere, cifre, simboluri speciale</string>
     <string name="passport_pwd_generate_failure">Nu s-a putut genera parola</string>
+    <string name="passport_qq_login_btn_content_description">Conectați-vă cu QQ</string>
     <string name="passport_pwd_generating">Se generează…</string>
     <string name="passport_querying_phone_info">Se solicită informații despre cont…</string>
     <string name="passport_quick_login">Conectați-vă</string>
@@ -795,7 +821,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_register">Creaţi un cont</string>
     <string name="passport_register_account_goto_email">Mergeţi la căsuţa de e-mail</string>
     <string name="passport_register_account_verified_confirm">Contul dvs. a fost verificat</string>
-    <string name="passport_register_by_email"><u>Creaţi un cont utilizând adresa de e-mail</u></string>
+    <string name="passport_register_by_local_phone_long_text">Creați un cont</string>
+    <string name="passport_register_by_local_phone_short_text">Creați un cont</string>
     <string name="passport_register_restricted">Prea multe conturi au fost asociate cu acest număr, încercați altul</string>
     <string name="passport_register_restricted_title">Nu se poate utiliza acest număr de telefon</string>
     <string name="passport_register_using_other_ways">Alte modalități de a crea un cont</string>
@@ -808,7 +835,15 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_relogin_notice">Trebuie să vă conectați din nou</string>
     <string name="passport_remove_confirm">Deconectare</string>
     <string name="passport_remove_unactivated_account_notice">Contul dvs. nu a fost activat.</string>
+    <string name="passport_request_agree">Permiteți</string>
+    <string name="passport_request_camera_permission_message">"Vă vom proteja informațiile personale în conformitate cu legile și reglementările relevante. Această aplicație are nevoie de următoarele permisiuni pentru a funcționa normal:&lt;br>&lt;br>&lt;b>Folosirea camerei (pentru setarea fotografiei de profil)&lt;/b>&lt;br>&lt;br>Dacă nu sunteți de acord pentru a acorda astfel de permisiuni, nu veți putea folosi unele funcții ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs. Puteți oricând să restricționați permisiunile sau să vă revocați autorizarea din Setări."</string>
+    <string name="passport_request_cancel">Renunțați</string>
+    <string name="passport_request_error_invalid_token">Nu s-a putut verifica</string>
+    <string name="passport_request_error_network">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="passport_request_error_unknown">A apărut o eroare de sistem. Întoarceți-vă și încercați din nou.</string>
+    <string name="passport_request_gallery_permission_message">Permiteți accesul la Galerie:&lt;br />Pentru setarea fotografiilor de profil</string>
     <string name="passport_resend_active_email">Retrimitere e-mail</string>
+    <string name="passport_resend_ticket">Retrimitere cod</string>
     <string name="passport_reset_fail_title">Nu s-a putut reseta</string>
     <string name="passport_reset_password_prompt">Parola este incorectă</string>
     <string name="passport_reset_password_title">Resetaţi parola</string>
@@ -819,7 +854,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_select_reg_ways_title">Alte modalități de creare cont</string>
     <string name="passport_select_the_login_account">Selectați contul cu care vă conectați</string>
     <string name="passport_select_the_recycle_phone_login">Selectați contul dumneavoastră</string>
-    <string name="passport_select_the_register_phone">Selectați numărul de telefon pentru a crea un cont</string>
+    <string name="passport_send_sms_to">Cod trimis la %1$s</string>
     <string name="passport_send_too_many_code">Au fost trimise prea multe coduri de verificare la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="passport_send_vcode_failed">Nu s-a putut trimite codul</string>
     <string name="passport_sending_vcode">Se trimite codul…</string>
@@ -827,14 +862,13 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_set_password_no_phone_msg">Adăugați-vă numărul de telefon pentru a vă proteja contul.</string>
     <string name="passport_setting">Configurare…</string>
     <string name="passport_skip_login">Omiteţi</string>
+    <string name="passport_skip_query_account">Omiteţi</string>
     <string name="passport_skip_register">Omiteţi crearea</string>
     <string name="passport_skip_setup_account_msg">Conectarea la contul Xiaomi vă permite să utilizați serviciile Xiaomi Cloud. Omiteți acest pas oricum?</string>
     <string name="passport_skip_setup_account_title">Contul Xiaomi și Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Trimis</string>
-    <string name="passport_sms_verification_code_login">Autentificare prin cod SMS</string>
-    <string name="passport_sms_verification_code_login_or_register">Autentificați-vă sau creați un cont utilizând SMS-urile</string>
-    <string name="passport_sync_account_data">Sincronizare informații cont…</string>
-    <string name="passport_sync_account_data_failed_warning">Informațiile despre contul dumneavoastră se sincronizează acum, vă puteți conecta utilizând ID-ul contului Xiaomi. Dacă doriți să vă conectați utilizând numărul de telefon sau adresa de e-mail, așteptați până când informațiile sunt sincronizate în totalitate.</string>
+    <string name="passport_sns_bind_limit">Prea multe încercări. Încercați alte modalități de a vă conecta.</string>
+    <string name="passport_system_error">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="passport_talkback_image_captcha">Cod de verificare sub formă de imagine</string>
     <string name="passport_talkback_switch_image_captcha">Comutați la verificarea prin imagine cod</string>
     <string name="passport_talkback_switch_voice_captcha">Comutați la verificarea prin cod vocal</string>
@@ -843,9 +877,15 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Renunțați</string>
+    <string name="passport_ticket_send_by_second">Trimiteți în %d</string>
     <string name="passport_title_reg">Creaţi un cont</string>
+    <string name="passport_to_forget_password">Ați uitat parola?</string>
+    <string name="passport_to_password_login">Conectați-vă folosind parola</string>
+    <string name="passport_to_verify_code_login">Conectați-vă prin SMS</string>
     <string name="passport_trust_device">Adăugați acest telefon la dispozitivele verificate</string>
-    <string name="passport_trying_read_verify_code_sms">Se obține codul de verificare…</string>
+    <string name="passport_tz_invalid">Riscuri de securitate găsite. Este posibil ca acest dispozitiv să fi fost rootat sau flash. Încercați alte opțiuni de conectare.</string>
+    <string name="passport_unknown_error">Eroare necunoscută</string>
+    <string name="passport_unknown_host_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="passport_uplink_reg">Utilizați numărul de telefon</string>
     <string name="passport_uplink_send_sms_hint">Apăsați \"Trimite\" după ce sunteți redirecționat către pagina de compunere mesaj.</string>
     <string name="passport_uplink_slot1_reg">Utilizați SIM 1</string>
@@ -859,9 +899,22 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_use_generated_pwd_message">Asigurați-vă că țineți minte parola. O puteți folosi pentru a vă conecta la alte servicii Xiaomi.</string>
     <string name="passport_use_generated_pwd_title">Țineți minte parola!</string>
     <string name="passport_user_agreement">Acordul Utilizatorului</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Am citit și accept &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a contului Xiaomi."</Data></string>
+    <string name="passport_user_agreement_hint_first_login">Vom crea automat un cont dacă utilizați numărul de telefon pentru prima dată.</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
     <string name="passport_user_agreement_link"><Data>Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate Xiaomi&lt;/a>.</Data></string>
     <string name="passport_user_agreement_required">Acordul Utilizatorului (obligatoriu)</string>
-    <string name="passport_user_id_notice">ID-ul contului dvs Xiaomi este %s.</string>
+    <string name="passport_user_avatar_update_title">Schimbați fotografia de profil</string>
+    <string name="passport_user_avatar_uploading">Doar o secundă…</string>
+    <string name="passport_user_id_hint">E-mail/număr de telefon/ID-ul contului Xiaomi</string>
+    <string name="passport_user_name_phone_number">Număr de telefon</string>
+    <string name="passport_user_password_hint">Parolă</string>
     <string name="passport_user_reg_region">Țară/Regiune</string>
     <string name="passport_user_reg_region_warning">Nu veți mai putea modifica țara/regiunea odată ce contul este creat.</string>
     <string name="passport_vcode_email_send_prompt"><Data>Codul dvs. de verificare a fost trimis la &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
@@ -872,7 +925,10 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_verification_failed">Nu s-a putut verifica contul</string>
     <string name="passport_verify">Verificaţi</string>
     <string name="passport_verifying_activator_phone">Se verifică securitatea telefonului…</string>
+    <string name="passport_wechat_not_install">Instalați mai întâi WeChat</string>
     <string name="passport_wait_for_sms_prompt">Porniţi de la început acum? Livrarea mesajelor de verificare poate dura până la 10 minute, atunci când telefonul se află în raza rețelei operatorului dvs.</string>
+    <string name="passport_weibo_login_btn_content_description">Conectați-vă cu Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">Conectați-vă cu WeChat</string>
     <string name="passport_wrong_captcha">Codul introdus nu este corect</string>
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon introdus nu este valid</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
@@ -886,6 +942,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Stocare</string>
+    <string name="permission_instructions">Utilizarea permisiunii</string>
+    <string name="permission_withdraw">Retrageți</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="phone_register">Utilizați numărul de telefon</string>
     <string name="phone_ticket_login">Conectați-vă utilizând codul de verificare</string>
@@ -893,6 +951,10 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
+    <string name="privacy_policy_reject_confirm_msg">"Nu veți putea continua să utilizați Contul Xiaomi decât dacă sunteți de acord cu noua versiune a Politicii sale de confidențialitate. Sunteți de acord cu &lt;a href=%1$s>Politica de confidențialitate&lt;/a> actualizată a Contului Xiaomi acum?"</string>
+    <string name="privacy_policy_reject_confirm_title">Nu pot folosi contul Xiaomi</string>
+    <string name="privacy_policy_update_msg">Politica de confidențialitate a contului Xiaomi a fost actualizată:&lt;br/>%1$s&lt;br/>Citiți și acceptați noua versiune a &lt;a href=%2$s>&lt;u>Politicii de confidențialitate&lt;/u>&lt;/a> înainte de a continua.</string>
+    <string name="privacy_policy_update_title">Politica de confidențialitate actualizată</string>
     <string name="provision_back">Înapoi</string>
     <string name="provision_next">Următorul</string>
     <string name="provision_skip_underline">Omiteți</string>
@@ -915,16 +977,20 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="remove_trust_btn">Eliminați din lista dispozitivelor de încredere</string>
     <string name="remove_trust_notice">Eliminați din lista dispozitivelor de încredere și deconectaţi-vă</string>
     <string name="removing_account">Deconectare…</string>
-    <string name="rename_current_device">Schimbaţi numele dispozitivului</string>
-    <string name="replace_binded_phone">Înlocuiți telefonul</string>
-    <string name="resend_active_email">Retrimiteți</string>
-    <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Verificați ca e-mailul să nu fi ajuns în dosarul Spam.</string>
-    <string name="resend_email_reach_limit_title">Nu se poate trimite e-mailul</string>
-    <string name="resend_email_success">E-mail retrimis</string>
-    <string name="restart_action">Reluați</string>
-    <string name="restart_phone_bind_message">Este posibil să dureze ceva timp până primiți SMS-ul. Reluați procesul oricum?</string>
-    <string name="restart_phone_bind_title">Schimbaţi numărul de telefon pentru recuperare</string>
-    <string name="risky_pwd_not_allow">Noua parolă nu este sigură. Setați altă parolă.</string>
+    <string name="request_open_permission">Permisiuni necesare</string>
+    <string name="request_use_camera_message">Permiteți contului Xiaomi să acceseze camera telefonului dvs.?</string>
+    <string name="request_use_camera_title">Accesare cameră</string>
+    <string name="request_use_gallery_message">Permiteți contului Xiaomi să acceseze Galeria?</string>
+    <string name="request_use_gallery_title">Accesare Galerie</string>
+    <string name="request_use_writing_clipboard_message">Pentru a copia ID-ul contului Xiaomi, permiteți contului Xiaomi să salveze articole în clipboard.</string>
+    <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailul de verificare nu se află în dosarul Spam al căsuței dvs. de e-mail.</string>
+    <string name="restart_action">Începeți de la capăt</string>
+    <string name="restart_phone_bind_message">Poate dura ceva timp pentru a primi SMS-uri. O luați de la capăt oricum?</string>
+    <string name="restart_phone_bind_title">Schimbați telefonul de recuperare</string>
+    <string name="revoke_privacy_policy">Retragerea consimțământului</string>
+    <string name="revoke_privacy_policy_instructions">"Dacă veți continua, vă veți retrage consimțământul de la Politica de confidențialitate a contului Xiaomi. Vom înceta să colectăm informațiile dumneavoastră personale. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Întrucât Contul Xiaomi își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile Contului Xiaomi. Retrageți consimțământul acum?"</string>
+    <string name="revoke_privacy_policy_title">Retragerea consimțământului</string>
+    <string name="risky_pwd_not_allow">Parola nouă nu este sigură. Setați una diferită.</string>
     <string name="same_new_and_old_pwd">Noua parolă nu poate fi identică cu vechea parolă</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
@@ -1042,6 +1108,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="the_united_nations_day">Ziua Națiunilor Unite</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
+    <string name="third_party_login">Conturi de la terți</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
@@ -1091,6 +1158,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="user_agreement_wlan_permission_title_china">Activați și dezactivați Wi-Fi</string>
     <string name="user_avatar_update_title">Schimbaţi imaginea de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
+    <string name="user_license_with_3rd_app"><Data>"Conectându-mă cu contul meu Xiaomi, confirm că am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href=%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a> a contului Xiaomi."</Data></string>
     <string name="user_license_with_3rd_app_mobile"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> ale acestei aplicații, contul Xiaomi &lt;a href =%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a> și &lt;a href=%5$s>Termenii și condițiile pentru autentificarea mobilă din China&lt;/a>.
 "</Data></string>
     <string name="user_license_with_3rd_app_no_operator"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> ale acestei aplicații și cu contul Xiaomi &lt;a href =%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>.

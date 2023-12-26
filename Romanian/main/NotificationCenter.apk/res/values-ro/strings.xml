@@ -62,8 +62,6 @@
     <string name="enable_float_notification">Se permit notificări plutitoare</string>
     <string name="enable_lockscreen_notification">Se permit notificări în Blocarea ecranului</string>
     <string name="enable_show_badge_notification">Se permit insignele notificărilor</string>
-    <string name="eras_ad">CE</string>
-    <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
@@ -180,6 +178,7 @@
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -295,7 +294,7 @@
     <string name="notification_setting_menu_feedback_text">"Această notificare nu ar trebui să fie aici?
 Raportați această problemă &gt;"</string>
     <string name="notification_style_android">Android</string>
-    <string name="notification_style_miui">MIUI</string>
+    <string name="notification_style_miui">Clasic</string>
     <string name="off">Oprit</string>
     <string name="on">Pornit</string>
     <string name="password_toggle_content_description">Afișează parola</string>

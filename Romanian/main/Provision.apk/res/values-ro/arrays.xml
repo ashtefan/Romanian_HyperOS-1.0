@@ -9,4 +9,11 @@
         <item>Doar Wi-Fi</item>
         <item>Oprit</item>
     </string-array>
+    <string-array name="special_locale_names_global">
+        <item>简体中文</item>
+        <item>繁體中文 (台灣)</item>
+        <item>繁體中文 (香港)</item>
+        <item>Spaniolă (America)</item>
+        <item>Portugheză (Brazilia)</item>
+    </string-array>
 </resources>

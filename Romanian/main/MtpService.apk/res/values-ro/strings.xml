@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="accessing_notification_title">Accesarea fișierelor din %1$s</string>
     <string name="app_label">Gazdă MTP</string>
+    <string name="call_notification_answer_action">Răspundeți</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Refuzați</string>
+    <string name="call_notification_hang_up_action">Închideți</string>
+    <string name="call_notification_incoming_text">Apel de intrare</string>
+    <string name="call_notification_ongoing_text">Apel în curs</string>
+    <string name="call_notification_screening_text">Afișarea unui apel primit</string>
     <string name="downloads_app_label">Descărcări</string>
     <string name="error_busy_device">Celălalt dispozitiv este ocupat. Nu puteți transfera fișiere până când nu sunt disponibile.</string>
     <string name="error_locked_device">Niciun fișier găsit. Celălalt dispozitiv poate fi blocat. Dacă da, deblocați-l și încercați din nou.</string>

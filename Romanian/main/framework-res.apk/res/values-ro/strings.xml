@@ -285,7 +285,7 @@ Puteți modifica caracteristicile selectate din Setări> Accesibilitate."</strin
      <string name="app_running_notification_title">%1$s rulează</string>
     <string name="app_streaming_blocked_message">Acesta nu poate fi accesat pe %1$s. Încercați în schimb pe telefon.</string>
     <string name="app_streaming_blocked_message_for_fingerprint_dialog">Această aplicație solicită securitate suplimentară. Încercați în schimb pe telefon.</string>
-    <string name="app_streaming_blocked_message_for_permission_dialog">Acesta nu poate fi accesat pe %1$s dvs. în acest moment. Încercați în schimb pe telefon.</string>
+    <string name="app_streaming_blocked_message_for_settings_dialog">Acesta nu poate fi accesat pe %1$s dvs. Încercați în schimb pe telefon.</string>
     <string name="app_streaming_blocked_title">%1$s indisponibil</string>
     <string name="app_streaming_blocked_title_for_camera_dialog">Camera indisponibilă</string>
     <string name="app_streaming_blocked_title_for_fingerprint_dialog">Continuați pe telefon</string>
@@ -569,19 +569,19 @@ utilizând %s"</string>
     <string name="duration_days_relative">{count, plural, =1 {cu # zi în urmă} other {cu # zile în urmă} }</string>
     <string name="duration_days_relative_future">{count, plural, =1 {# zi} other {# zile} }</string>
     <string name="duration_days_shortest">%dd</string>
-    <string name="duration_days_shortest_future">in %dd</string>
+    <string name="duration_days_shortest_future">în %dd</string>
     <string name="duration_hours_relative">{count, plural, =1 {cu # oră în urmă} other {cu # ore în urmă} }</string>
     <string name="duration_hours_relative_future">{count, plural, =1 {# oră} other {# ore} }</string>
     <string name="duration_hours_shortest">%dh</string>
-    <string name="duration_hours_shortest_future">in %dh</string>
+    <string name="duration_hours_shortest_future">în %dh</string>
     <string name="duration_minutes_relative">{count, plural, =1 {cu # minut în urmă} other {cu # minute în urmă} }</string>
     <string name="duration_minutes_relative_future">{count, plural, =1 {# minut} other {# minute} }</string>
     <string name="duration_minutes_shortest">%dm</string>
-    <string name="duration_minutes_shortest_future">in %dm</string>
+    <string name="duration_minutes_shortest_future">în %dm</string>
     <string name="duration_years_relative">{count, plural, =1 {cu # an în urmă} other {cu # ani în urmă} }</string>
     <string name="duration_years_relative_future">{count, plural, =1 {# an} other {# ani} }</string>
     <string name="duration_years_shortest">%dy</string>
-    <string name="duration_years_shortest_future">in %dy</string>
+    <string name="duration_years_shortest_future">în %dy</string>
     <string name="dynamic_mode_notification_channel_name">Notificare informații Mod Rutină</string>
     <string name="dynamic_mode_notification_summary">Economisirea acumulatorului a fost activată pentru a extinde durata de viață a acumulatorului</string>
     <string name="dynamic_mode_notification_title">Este posibil ca acumulatorul să se descarce mai devreme decât în mod obișnuit</string>
@@ -2357,7 +2357,7 @@ Doriţi să o închideţi?"</string>
      <string name="work_profile_deleted_description_dpm_wipe">Profilul Servici nu mai este disponibil pe acest telefon</string>
      <string name="work_profile_deleted_details">Aplicația de administrare a Profilului Servici lipsește sau este coruptă. Ca rezultat, profilul dvs. pentru Servici și datele înrudite au fost șterse. Contactați administratorul pentru asistență.</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">Prea multe parole încercate</string>
-    <string name="work_profile_telephony_paused_text">Ați întrerupt aplicațiile de lucru. Nu veți primi apeluri telefonice sau mesaje text.</string>
+    <string name="work_profile_telephony_paused_text">Ați întrerupt aplicațiile de servici. Nu veți primi apeluri telefonice sau mesaje text.</string>
     <string name="work_profile_telephony_paused_title">Apelurile și mesajele sunt oprite</string>
     <string name="work_profile_telephony_paused_turn_on_button">Anulați întreruperea aplicațiilor de servici</string>
      <string name="write_fail_reason_cancelled">Anulat</string>

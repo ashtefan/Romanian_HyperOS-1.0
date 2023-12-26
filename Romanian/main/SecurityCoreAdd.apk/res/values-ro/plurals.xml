@@ -29,6 +29,14 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nu dezactiva niciodată pentru %d aplicații</item>
+        <item quantity="one">Nu dezactiva niciodată pentru %d aplicație</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Dezactivează întotdeauna pentru %d aplicații</item>
+        <item quantity="one">Dezactivează întotdeauna pentru %d aplicație</item>
+    </plurals>
     <plurals name="fileCount">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
@@ -59,6 +67,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>

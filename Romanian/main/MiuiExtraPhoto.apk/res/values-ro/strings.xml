@@ -43,7 +43,6 @@
     <string name="auto_crop_title">Xiaomi ProCut</string>
     <string name="auto_crop_water_mark_description">Amprentele nu vor fi afișate pe imaginile procesate cu Xiaomi ProCut. Folosiți această funcție oricum?</string>
     <string name="auto_crop_water_mark_title">Amprentele nu vor fi afișate</string>
-    <string name="cancel">Renunțați</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Oprit</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>

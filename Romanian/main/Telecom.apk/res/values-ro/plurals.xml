@@ -52,6 +52,10 @@
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
+    <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi AI a preluat %1$d apeluri pentru dvs.</item>
+        <item quantity="one">Mi AI a preluat %1$d apel pentru dvs.</item>
+    </plurals>
         <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Apeluri pierdute</item>
         <item quantity="one">Apel pierdut</item>

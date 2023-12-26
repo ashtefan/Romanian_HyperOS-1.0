@@ -335,6 +335,7 @@ Citiți și acceptați noua versiune a %2$s înainte de a continua."</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="global_aqi">ICA: %1$s %2$s</string>
     <string name="global_not_enable_warning">Nu se poate utiliza această aplicație. Nu a fost instalată din surse oficiale.</string>
     <string name="home_page_forecast_video_desc">Prognoză</string>
     <string name="hour_minute_time_format">HH:mm</string>

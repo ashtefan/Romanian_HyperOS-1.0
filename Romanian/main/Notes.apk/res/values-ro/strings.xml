@@ -1078,6 +1078,8 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toolbar_theme_description">Selectați o temă</string>
     <string name="toolbar_undo_description">Anulați</string>
     <string name="toolbar_voice_description">Voce</string>
+    <string name="toolbar_voice_done_description">Opriți</string>
+    <string name="toolbar_voice_mark_description">Marcați</string>
     <string name="trash_folder_name">Gunoi</string>
     <string name="trash_folder_reminder">Notițele pe care le ștergeți vor fi eliminate definitiv în %1$d de zile.</string>
     <string name="trash_folder_reminder_new">Notițele sunt păstrate în coșul de gunoi timp de %d de zile înainte de a fi șterse definitiv</string>

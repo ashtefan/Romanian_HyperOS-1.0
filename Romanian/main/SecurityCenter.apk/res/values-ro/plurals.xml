@@ -794,6 +794,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%1$s | Această aplicație a trimis SMS-uri de %2$d ori</item>
         <item quantity="one">%1$s | Această aplicație a trimis SMS-uri %2$d dată</item>
     </plurals>
+    <plurals name="permission_usage_allow_storage">
+        <item quantity="other">%1$s｜A accesat fotografii, videoclipuri, sunete audio și fișiere de %2$d ori</item>
+        <item quantity="one">%1$s｜A accesat fotografii, videoclipuri, sunete audio și fișiere %2$d dată</item>
+    </plurals>
     <plurals name="permission_usage_allow_w_calendar">
         <item quantity="other">%1$s | Această aplicație a editat calendarul de %2$d ori</item>
         <item quantity="one">%1$s | Această aplicație a editat calendarul %2$d dată</item>
@@ -918,6 +922,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă trimiterea de SMS-uri de %2$d ori</item>
         <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă trimiterea de SMS-uri %2$d dată</item>
     </plurals>
+    <plurals name="permission_usage_deny_storage">
+        <item quantity="other">"%1$s｜Nu a permis accesul la fotografii, videoclipuri, sunet și fișiere de %2$d ori"</item>
+        <item quantity="one">"%1$s｜Nu a permis accesul la fotografii, videoclipuri, sunet și fișiere %2$d dată"</item>
+    </plurals>
     <plurals name="permission_usage_deny_w_calendar">
         <item quantity="other">%1$s | Acestei aplicații i-a fost interzisă editarea calendarului de %2$d ori</item>
         <item quantity="one">%1$s | Acestei aplicații i-a fost interzisă editarea calendarului %2$d dată</item>
@@ -937,6 +945,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="permission_usage_deny_wakepath">
         <item quantity="other">%1$s | Refuzat de %2$d ori</item>
         <item quantity="one">%1$s | Refuzat %2$d dată</item>
+    </plurals>
+    <plurals name="permission_usage_projection_screen">
+        <item quantity="other">%1$s｜A accesat sau a înregistrat conținutul ecranului de %2$d ori</item>
+        <item quantity="one">%1$s｜A accesat sau a înregistrat conținutul ecranului %2$d dată</item>
     </plurals>
     <plurals name="permission_usage_recent_day">
         <item quantity="other">cu %1$d zile în urmă</item>
@@ -1241,6 +1253,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="st_show_num_number">
         <item quantity="other">%d numere</item>
         <item quantity="one">%d număr</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">Se editează %1$d permisiuni</item>
+        <item quantity="one">Se editează %1$d permisiune</item>
     </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmente</item>

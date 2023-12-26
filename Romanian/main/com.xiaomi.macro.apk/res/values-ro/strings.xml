@@ -67,6 +67,7 @@
     <string name="gb_game_macro_record_action">Atingeți pentru a începe înregistrarea</string>
     <string name="gb_game_macro_save">Salvați</string>
     <string name="gb_game_macro_save_exit">Salvați</string>
+    <string name="gb_macro_floatview_noti">Vă rugăm să permiteți MiMacro să fie afișată peste alte aplicații</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="multiple_times">Viteza</string>
     <string name="name_can_not_be_renamed">Un element cu acest nume există deja</string>

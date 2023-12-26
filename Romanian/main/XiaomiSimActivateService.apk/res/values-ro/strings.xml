@@ -85,13 +85,14 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_popup_desc_failed_phone_error">Numărul de telefon introdus este greşit.</string>
     <string name="activate_popup_desc_failed_query_info">"Imposibil de găsit numărul de telefon. Asigurați-vă că a fost activată cartela SIM."</string>
     <string name="activate_popup_desc_failed_query_info_msg">Nu s-a putut verifica numărul de telefon. Asigurați-vă că SIM-ul %d funcționează corect și încercați din nou.</string>
+    <string name="activate_popup_desc_failed_query_info_msg_one_sim">Nu s-a putut verifica numărul de telefon. Asigurați-vă că SIM-ul funcționează corect și încercați din nou.</string>
     <string name="activate_popup_desc_failed_receive_sms">Asiguraţi-vă că numărul introdus este corect și cartela SIM este activată.</string>
     <string name="activate_popup_desc_failed_send_sms">"Nu s-a reuşit trimiterea mesajului de activare. Asigurați-vă că a fost activată cartela SIM."</string>
     <string name="activate_popup_desc_failed_server">Verificați reţeaua şi încercaţi din nou.</string>
     <string name="activate_popup_desc_failed_server_msg">A apărut o eroare de server. Verificați setările de rețea și încercați din nou.</string>
     <string name="activate_popup_desc_find_device_postfix">Un mesaj SMS de activare poate fi trimis după ce înlocuiți cartelele SIM(TARIFARE DE LA OPERATOR!).</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Pentru a activa \"%3$s\", introduceți numărul de telefon al cartelei SIM %2$d. Dacă înlocuiți această cartelă SIM, va fi trimis un alt SMS de activare.</string>
-    <string name="activate_popup_desc_intl_sim_card">Un mesaj text internaţional va fi trimis pentru activarea %s (TARIFARE DE LA OPERATOR!).</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s Pentru a activa \"%2$s\", introduceți numărul dvs. de telefon. Dacă înlocuiți această cartelă SIM, va fi trimis un alt SMS de activare.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pentru a activa \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internațional cu plată&lt;/b> va fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
     <string name="activate_popup_desc_mi_account_user_manual">"%1$s
 "<Data>Consultați &lt;a href=https://account.xiaomi.com/helpcenter/faq>Manual de utilizare a contului Xiaomi&lt;/a> dacă aveți întrebări.</Data></string>
@@ -110,11 +111,14 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_popup_desc_sim_card">Un mesaj text va fi trimis pentru activarea %s (TARIFARE DE LA OPERATOR!).</string>
     <string name="activate_popup_desc_sim_card_downlink">Pentru activarea %s, introduceţi numărul de telefon</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Pentru a activa \"%2$s\", introduceți numărul de telefon al cartelei SIM %1$d.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Pentru a activa %s, introduceți numărul dvs. de telefon.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Pentru a activa \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>SMS cu plată&lt;/font> va fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
     <string name="activate_popup_desc_voip_privacy">Politica de Confidențialitate Weihui</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Serviciul VoIP este susținut de Weihui. Vizualizaţi "</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Pentru a activa \"%3$s\", introduceți numărul de telefon al SIM-ului %2$d. Suportul tehnic este oferit parțial de Weihuitel. Consultați Politica de confidențialitate Weihuitel pentru detalii.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s Pentru a activa \"%2$s\", introduceți numărul dvs. de telefon. Asistența tehnică este asigurată parțial de Weihuitel. Consultați Politica de confidențialitate Weihuitel pentru detalii.</string>
     <string name="activate_popup_failed_send_sms_desc">Nu s-a putut trimite SMS-ul de activare. Asigurați-vă că SIM-ul %d funcționează corect și încercați din nou.</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">Nu s-a putut trimite SMS-ul de activare. Asigurați-vă că SIM-ul funcționează corect și încercați din nou.</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Nu s-a putut găsi numărul</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Nu s-a putut trimite mesajul SMS</string>
     <string name="activate_popup_title_error_device_id">IMEI nevalid</string>
@@ -154,6 +158,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_status_desc_request_activation_sms">Solicitare SMS de activare…</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Eroare de server în timpul solicitării SMS-ului de activare</string>
     <string name="activate_status_desc_request_activation_sms_server_error_tip">Nu s-a putut primi SMS-ul de activare. Asigurați-vă că SIM-ul %d funcționează corect și încercați din nou.</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Nu s-a putut primi SMS-ul de activare. Asigurați-vă că SIM-ul funcționează corect și încercați din nou.</string>
     <string name="activate_status_desc_sending_sms">Trimitere SMS de activare…</string>
     <string name="activate_status_desc_sending_sms_fail">"Nu a reuşit trimiterea mesajului de activare"</string>
     <string name="activate_status_desc_sms_sent">Mesaj de activare trimis cu succes</string>
@@ -180,9 +185,9 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="error_network_io">A apărut o eroare de rețea</string>
     <string name="error_network_io_tip">Verificați setările de rețea ți încercați din nou</string>
     <string name="error_no_get_send_sms_permission">Permiteți mai întâi SIM-ului %d să trimită SMS-uri.</string>
-    <string name="error_no_send_sms_permission">Serviciul de Activare SIM al Xiaomi necesită permisiunea de trimitere SMS</string>
-    <string name="error_sim_not_in_service">"Nu se poate activa cartela SIM. Asigurați-vă că aveți credit suficient."</string>
+    <string name="error_no_get_send_sms_permission_one_sim">Permiteți mai întâi trimiterea de SMS-uri.</string>
     <string name="error_sim_not_in_service_tip">SIM-ul %d nu se poate conecta la rețea. Asigurați-vă că SIM-ul funcționează corect și încercați din nou.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">Nu se poate conecta la rețea. Asigurați-vă că SIM-ul funcționează corect și încercați din nou.</string>
     <string name="evening">După amiază</string>
     <string name="explain_activate_feature_server_title">Activați \"%s\"</string>
     <string name="explain_activate_register_xiaomi_account_title">Creați Contul Mi</string>
@@ -246,6 +251,8 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -261,6 +268,8 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -327,6 +336,9 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="saturday_shortest">Sâ</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
+    <string name="sim_activate_failed">Nu s-a putut activa serviciul</string>
+    <string name="sim_activate_notificat_channel">Notificări activare</string>
+    <string name="sim_activate_prepare">Activați serviciul</string>
     <string name="sim_activated_failed_msg">Nu s-a putut activa serviciul. Atingeți pentru a încerca din nou.</string>
     <string name="sim_unactivated_feature_title">\"%s\" nu a fost activat</string>
     <string name="sim_unactivated_msg">Acest serviciu nu este activat. Atingeți pentru a încerca din nou.</string>

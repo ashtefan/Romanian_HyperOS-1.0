@@ -38,9 +38,12 @@
     <string name="afternoon">După amiază</string>
     <string name="agree">De acord</string>
     <string name="agree_and_next">De acord</string>
+    <string name="agree_cookie">Acceptați cookie-urile</string>
     <string name="agree_terms">Am citit și sunt de acord cu Acordul de utilizare și Politica de Confidențialitate.</string>
     <string name="agree_terms_input_method_facemoji">Am citit și sunt de acord cu Politica de Confidențialitate Facemoji.</string>
     <string name="agree_terms_input_method_kika">Am citit și sunt de acord cu Politica de Confidențialitate Kika.</string>
+    <string name="agreement_declare_use_network_and_location_china">"În plus, următoarele servicii se vor conecta la rețea și vă vor accesa locația: "</string>
+    <string name="agreement_declare_use_network_china">se va conecta la rețea.</string>
     <string name="ai_button_desc">Butonul AI vă permite să declanșați Mi AI și să utilizați scurtăturile Mi AI</string>
     <string name="ai_button_double_press">Apăsare dublă</string>
     <string name="ai_button_double_press_desc">Atingeți de două ori butonul AI pentru a finaliza sarcinile personalizate</string>
@@ -57,16 +60,20 @@
     <string name="authority_introduction">Managerul de permisiuni este un serviciu de bază care vă permite să gestionați permisiunile aplicației pe acest dispozitiv.</string>
     <string name="back">Înapoi</string>
     <string name="backup_introduction">Puteți utiliza această aplicație pentru a crea copii de rezervă și restaura elemente pe dispozitiv.</string>
+    <string name="bluetooth_introduction">Bluetooth-ul este folosit de sistem pentru comunicații fără fir. Pentru a putea funcționa normal, Bluetooth-ul are nevoie de următoarele permisiuni:</string>
+    <string name="bluetooth_usage_desc">Configurarea inițială vă permite să setați preferințele de bază pentru acest dispozitiv. Pentru a vă configura cu succes dispozitivul, serviciile de sistem Bluetooth vor folosi următoarele permisiuni:</string>
     <string name="boot_video_replay">Redați din nou</string>
     <string name="boot_video_skip">Omiteți</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
+    <string name="camera_application_introduction">Puteți folosi această aplicație pentru a face fotografii și videoclipuri.</string>
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
     <string name="carousel_cookies_content"><Data>Când atingeți imagini și povești în Wallpaper Carusel, versiunile lor complete vor fi deschise în browser. Furnizorul nostru de conținut terț de încredere vă poate recomanda apoi conținut suplimentar și anunțuri adaptate intereselor dvs. Dacă sunteți de acord să activați această funcție, aceștia vor plasa cookie-uri în browser, așa cum este descris în această &lt;a href=\"%1$s\">Politica privind cookie-urile&lt;/a>. Dacă refuzați cookie-urile, Wallpaper Carusel va funcționa în continuare, dar conținutul și recomandările sale ar putea să nu mai fie relevante pentru dvs. Vă puteți schimba oricând preferințele în Setări.</Data></string>
     <string name="carousel_cookies_subtitle">Cookie-urile ne permit să vă personalizăm experiența cu ecranul de blocare.</string>
     <string name="carousel_cookies_title">Conținut personalizat și cookie-uri</string>
-    <string name="carousel_privacy"><Data>"Citiți și sunteți de acord cu &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul de utilizare&lt;/a a furnizorului nostru de servicii terț de încredere > înainte de a utiliza Caruselul de imagini de fundal."</Data></string>
+    <string name="carousel_privacy"><Data>"Citiți și acceptați &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul de utilizare&lt;/a a furnizorului nostru de servicii terț de încredere > înainte de a utiliza Caruselul de imagini de fundal."</Data></string>
     <string name="carousel_setting">Configurați blocarea ecranului</string>
     <string name="carousel_setting_sub">Caruselul de imagini de fundal vă va arăta povești noi de fiecare dată când vă deblocați dispozitivul</string>
+    <string name="carrier_introduction_china">Pentru a îmbunătăți calitatea serviciilor oferite, programele care rulează pe acest dispozitiv (inclusiv serviciile SystemHelper, RegService și Operator) ar putea trimite informații despre acest dispozitiv sau despre cartela SIM (inclusiv IMEI, IMSI, MSISDN, MEID, ICCID). , adresa MAC, versiunea sistemului, versiunea Android, modelul dispozitivului, configurația hardware de bază și numărul de telefon), precum și locația dvs. aproximativă (inclusiv regiunea, coordonatele, identificatorul cartierului și ID-ul stației de bază), către operatorul dvs. prin Wi-Fi , rețele mobile sau SMS. Operatorii de telefonie mobilă garantează că aceste informații vor fi utilizate numai pentru analiză, îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu vor fi niciodată partajate cu nimeni într-un mod care ar putea permite să vă identifice personal. Consultați declarația relevantă de la operatorul dvs. pentru detalii. Puteți întreba despre toate taxele de servicii aferente direct de la operatorul dvs.</string>
     <string name="check_box_label"><Data>"Prin activarea acestei funcții, sunteți de acord cu &lt;a href=%1$s>Politica de confidențialitate a serviciilor de interconectivitate Xiaomi&lt;/a >."</Data></string>
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
@@ -86,6 +93,9 @@
     <string name="content_description_start">Start</string>
     <string name="content_introduction">Content Center agregă conținutul și serviciile de pe mai multe canale. Aici puteți citi articole, viziona videoclipuri, vizualiza articole prezentate zilnic și să primiți recomandări de conținut.</string>
     <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>
+    <string name="cookies_content_one">"Când atingeți imaginile și poveștile din Caruselul de imagini de fundal, vom deschide versiunile lor complete în browser. Taboola, furnizorul nostru de conținut terță parte de încredere, vă poate recomanda apoi conținut suplimentar și anunțuri adaptate intereselor dvs. Dacă sunteți de acord să activați această funcție, Taboola va plasa cookie-uri pe dispozitivul dvs. prin intermediul browserului, așa cum este descris în &lt;a href =%1$s>Politica de cookie-uri&lt;/a> Taboola. Dacă refuzați utilizarea cookie-urilor, elementele din Caruselul de imagini de fundal vor continua să apară pe ecranul dvs. de blocare și poveștile complete vor fi deschise în browser, dar recomandări suplimentare nu vor fi selectate în mod special pentru dvs. Vă puteți schimba preferințele oricând din Setări."</string>
+    <string name="cookies_content_two">Decideți dacă doriți ca furnizorii noștri de conținut terți de încredere să folosească module cookie pentru a personaliza recomandările de conținut și anunțurile în funcție de interesele dvs.</string>
+    <string name="cookies_title">Conținut personalizat și cookie-uri</string>
     <string name="copy">Copiați</string>
     <string name="create_shortcut">Comandă rapidă pe Ecranul principal</string>
     <string name="data_traffic_enable_dialog_title">Dacă nu sunteți conectat la Wi-Fi acum, se va utiliza conexiunea de date mobile. Utilizarea datelor mobile poate genera taxe suplimentare de la operator.</string>
@@ -94,25 +104,35 @@
     <string name="default_font">Implicit</string>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
     <string name="desc_international_fingerprint">Utilizați amprenta digitală pentru a debloca dispozitivul sau pentru a vă autentifica în aplicații ori servicii.</string>
+    <string name="device_information_usage_desc">Acest serviciu vă permite să vizualizați informațiile despre dispozitiv, să vă conectați dispozitivul la diverse rețele și să configurați funcțiile acestuia.</string>
     <string name="diagnose_report">Trimiteți date de diagnosticare pentru a localiza și a analiza problemele sistemului și pentru a îmbunătăți experiența utilizatorului. Aceste date pot include informații personale (de ex. IP-ul, locația, etc.)</string>
-    <string name="disageement_abnormal_download">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
+    <string name="disageement_abnormal_download">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
     <string name="disagree">Anulaţi</string>
-    <string name="disagreement_abnormal_running">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
-    <string name="disagreement_abnormal_running_fast_pairing">Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza această aplicație. Puteți alege să restricționați permisiunile și să dezactivați această funcție din Setări în astfel de cazuri.</string>
-    <string name="disagreement_donnot_use_application">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație în astfel de cazuri.</string>
-    <string name="disagreement_donnot_use_product">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest produs. Puteți alege să nu utilizați acest produs în astfel de cazuri.</string>
-    <string name="disagreement_donnot_use_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu în astfel de cazuri.</string>
-    <string name="disagreement_exit_app">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
-    <string name="disagreement_function">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această caracteristică. Puteți alege să nu utilizați această caracteristică în astfel de cazuri.</string>
-    <string name="disagreement_location_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
-    <string name="disagreement_terminate_miuidaemon">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu sau să restricționați permisiunile din Setări în astfel de cazuri. Rețineți că vom folosi permisiunile numai atunci când începeți să transferați date de pe dispozitiv atunci când ecranul acestuia este deteriorat.</string>
-    <string name="disagreement_terminate_service">Dacă nu sunteți de acord să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
+    <string name="disagreement_abnormal_running">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Dacă nu doriți să acordați astfel de permisiuni, nu veți putea utiliza această aplicație. Puteți alege să restricționați permisiunile și să dezactivați această funcție din Setări în astfel de cazuri.</string>
+    <string name="disagreement_application_not_working_properly">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi această aplicație.</string>
+    <string name="disagreement_donnot_use_application">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație în astfel de cazuri.</string>
+    <string name="disagreement_donnot_use_product">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest produs. Puteți alege să nu utilizați acest produs în astfel de cazuri.</string>
+    <string name="disagreement_donnot_use_service">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu în astfel de cazuri.</string>
+    <string name="disagreement_exit_app">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
+    <string name="disagreement_fast_pairing_abnormal">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi această aplicație. Puteți activa sau dezactiva oricând acest serviciu din Setări > Bluetooth > Setări suplimentare > Mi Link.</string>
+    <string name="disagreement_function">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această caracteristică. Puteți alege să nu utilizați această caracteristică în astfel de cazuri.</string>
+    <string name="disagreement_location_service">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
+    <string name="disagreement_location_service_abnormal">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi serviciile de localizare. Puteți activa sau dezactiva oricând serviciile de localizare din Setări > Protecție confidențialitate.</string>
+    <string name="disagreement_mi_account_abnormal">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi serviciile contului Xiaomi. Puteți activa sau dezactiva oricând serviciile Contului Xiaomi din Setări > Cont Xiaomi.</string>
+    <string name="disagreement_service_not_working_properly">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi această aplicație.</string>
+    <string name="disagreement_service_not_working_properly_settings">Dacă nu doriți să acordați aceste permisiuni, acest serviciu nu va putea funcționa normal.</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">Dacă alegeți să nu acordați aceste permisiuni, serviciul nu va putea funcționa în mod normal.</string>
+    <string name="disagreement_terminate_bluetooth">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi Bluetooth. Puteți activa și dezactiva Bluetooth-ul și puteți adăuga dispozitive Bluetooth din Setări > Bluetooth.</string>
+    <string name="disagreement_terminate_miuidaemon">Dacă nu doriți să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să nu utilizați acest serviciu sau să restricționați permisiunile din Setări în astfel de cazuri. Rețineți că vom folosi permisiunile numai atunci când începeți să transferați date de pe dispozitiv atunci când ecranul acestuia este deteriorat.</string>
+    <string name="disagreement_terminate_service">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să o dezinstalați, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="download_introduction">\"Descărcări\" utilizează Xunlei pentru a descărca elemente în dispozitiv. Această unealtă funcționează pentru GetApps, actualizările de sistem, teme, videoclipuri și descărcările din browser.</string>
     <string name="early_morning">Dimineață</string>
     <string name="enable_accessibility_canceled">Accesibilitate dezactivată.</string>
     <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
     <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_or_disable_bluetooth">Pornirea și dezactivarea Bluetooth-ului</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
     <string name="fast_application_introduction">Quick Apps Framework vă permite să creați și să furnizați servicii în aplicații rapide.</string>
@@ -178,96 +198,88 @@
     <string name="font_use_case_text_example">Corp</string>
     <string name="font_use_case_title_example">Titlu</string>
     <string name="framework_introduction">Mi Services Framework vă permite să utilizați Contul Mi, Mi Push, Mi Stats și MIUI BI.</string>
-    <string name="framwork_base_service">Pentru a vă oferi aceste servicii, Mi Services Framework (Contul Mi, Mi Push, Mi Stats, MIUI BI) trebuie să se conecteze la internet, să vă acceseze numărul de telefon, IMEI-ul și IMSI-ul și să permită dispozitivului dvs. să primească notificări push.</string>
+    <string name="framwork_base_service">"Pentru a oferi funcționalitatea de notificare push, trebuie să colectăm identificatori de dispozitiv (OAID și ID Android criptat), informații despre aplicațiile care utilizează serviciul push (de exemplu, numele pachetului aplicației, versiunea și starea de rulare), producătorul dispozitivului, modelul dispozitivului, memoria dispozitivului, versiunea sistemului de operare, regiunea, numele operatorului cartelei SIM, tipul actual de rețea și starea Wi-Fi. Puteți schimba modul în care primiți notificări push din Setări și vă vom oferi notificări push în funcție de preferințele dvs., pentru care vom colecta și informații despre preferințele dvs., inclusiv dacă alegeți să blocați notificările sau nu și dacă le permiteți să apară pe ecranul de blocare.
+În scopul prevenirii riscurilor, al statisticilor și al procesării analitice, avem nevoie de permisiunea pentru a vă conecta la rețea și pentru a vă accesa locația, IMEI-ul dispozitivului, IMSI-ul dispozitivului, identificatorii dispozitivului (OAID, adresa MAC și ID-ul Android criptat), producătorul dispozitivului, dispozitivul modelul, memoria dispozitivului, versiunea sistemului de operare, regiunea și tipul actual de rețea. Informațiile de mai sus vor fi colectate o dată pe zi, atâta timp cât utilizați acest dispozitiv."</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="game_introduction">Suplimentul pentru jocuri vă permite să vă conectați, să creați comenzi, să plătiți, să utilizați cupoane și să participați la evenimente de promovare.</string>
     <string name="get_imei_information">Accesare IMEI</string>
+    <string name="get_imei_information_settings">Accesarea identificatorului unic al dispozitivului (IMEI)</string>
     <string name="google_service_introduction">Pentru a putea funcționa normal, Google Play trebuie să se conecteze la internet, să vă acceseze locația, să poată trimite SMS-uri și MMS-uri, să poată înregistra audio, să efectueze apeluri, să acceseze evenimentele din calendar, istoricul apelurilor, informațiile de la senzori, stocarea dispozitivului, camera foto, informațiile despre dispozitiv și conturi.</string>
     <string name="home_settings_miui_home">Clasic</string>
     <string name="home_settings_poco_launcher">Sertar de aplicații</string>
     <string name="home_settings_title">Selectați lansatorul implicit</string>
     <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
     <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s.</string>
+    <string name="ims_introduction">Serviciul IMS oferă capabilități de comunicare de bază și este utilizat pentru apeluri audio și video de înaltă definiție.</string>
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
     <string name="input_method_setting">Selectați tastatura prestabilită</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
     <string name="intent_filter_verification_service">Serviciul de verificare a filtrului de intenție</string>
     <string name="interconnection_communication_introduction">Serviciile de comunicare prin internet Xiaomi vă permit să descoperiți, să vă conectați și să comunicați cu alte dispozitive.</string>
-    <string name="interconnection_service_summary_china">"Serviciile de interconectivitate Xiaomi permit dispozitivelor dvs. să interacționeze între ele fără fir. Puteți utiliza Serviciile de interconectivitate Xiaomi pentru a controla dispozitivele, a transfera redarea audio și video, a combina funcțiile dispozitivului sau pentru a începe sarcini pe un dispozitiv și a continua cu ele în aceeași aplicație pe alte dispozitive conectate. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni:
-\u0009\u0009Partajare Mi:
-\u0009\u0009Accesați fotografiile și fișierele stocate pe dispozitiv
-\u0009\u0009Pentru trimiterea și primirea conținutului transferat
-\u0009\u0009Accesați informațiile despre locație
-\u0009\u0009Pentru transferul de fișiere prin Bluetooth sau Wi-Fi
-\u0009\u0009Activați sau dezactivați Bluetooth
+    <string name="interconnection_service_summary_china">"Serviciile de interconectivitate Xiaomi permit dispozitivelor dvs. să interacționeze între ele fără fir. Aceste servicii includ Mi Smart Play, proiectarea, transferul aplicațiilor, Ecranul principal+, clipboard partajat, captura de imagini pe mai multe dispozitive, asistența în rețea, tastaturi și mouse-uri partajate, cameră partajată și Mi Smart Hub. Pentru a putea funcționa normal, Serviciile de Interconectivitate Xiaomi trebuie să vă conecteze la internet și au nevoie de următoarele permisiuni:
+\u0009\u0009Mi Smart Play și casting:
+\u0009\u0009Activare sau dezactivare Bluetooth
 \u0009\u0009Pentru descoperirea dispozitivelor din apropiere la care să vă conectați prin Bluetooth
-\u0009\u0009Activați sau dezactivați Wi-Fi
+\u0009\u0009Activare sau dezactivare Wi-Fi
 \u0009\u0009Pentru descoperirea dispozitivelor din apropiere și transferul articolelor prin Wi-Fi
-\u0009\u0009Conectați-vă la dispozitivele din apropiere
-\u0009\u0009Pentru descoperirea și conectarea la dispozitivele din apropiere
-\u0009\u0009Transfer redare media (Mi Smart Play, casting):
-\u0009\u0009Activați sau dezactivați Bluetooth
-\u0009\u0009Pentru descoperirea dispozitivelor din apropiere la care să vă conectați prin Bluetooth
-\u0009\u0009Activați sau dezactivați Wi-Fi
-\u0009\u0009Pentru descoperirea dispozitivelor din apropiere și transferul articolelor prin Wi-Fi
-\u0009\u0009Transferă articole pe alte dispozitive
+\u0009\u0009Transferul articolelor pe alte dispozitive
 \u0009\u0009Pentru stabilirea unei conexiuni Bluetooth între dispozitive și transferul articolelor
-\u0009\u0009Accesați informațiile despre locație
+\u0009\u0009Accesarea informațiilor despre locație
 \u0009\u0009Pentru accesarea informațiilor despre dispozitivele din apropiere
-\u0009\u0009Înregistrați sunetul intern al dispozitivului
+\u0009\u0009Înregistrarea sunetului intern al dispozitivului
 \u0009\u0009Pentru transferul și redarea audio între dispozitive în timp ce proiectați și oglindiți
-\u0009\u0009Accesați fotografiile, videoclipurile și sunetul stocate pe dispozitiv
+\u0009\u0009Accesarea fotografiilor, a videoclipurilor și a sunetelor stocate pe dispozitiv
 \u0009\u0009Pentru trimiterea și primirea conținutului transferat
-\u0009\u0009Accesați adresa MAC a dispozitivului
+\u0009\u0009Accesarea adresei MAC a dispozitivului
 \u0009\u0009Pentru recunoașterea dispozitivelor conectate
-\u0009\u0009Accesați conținutul ecranului
+\u0009\u0009Accesarea conținutului ecranului
 \u0009\u0009Pentru accesarea conținutului de pe ecran în timpul înregistrării sau al proiecției, inclusiv informații sensibile, cum ar fi sunet, parole, parole de plată, fotografii, mesaje etc.
-\u0009\u0009Transfer aplicație (sarcini pentru aplicații pe mai multe dispozitive, Ecran de pornire+):
-\u0009\u0009Activați sau dezactivați Bluetooth
+\u0009\u0009Transferul aplicațiilor și Ecran de pornire+:
+\u0009\u0009Activarea sau dezactivarea Bluetooth
 \u0009\u0009Pentru descoperirea dispozitivelor din apropiere prin Bluetooth
-\u0009\u0009Activați sau dezactivați Wi-Fi
-\u0009\u0009Pentru a descoperi dispozitivele din apropiere pentru a proiecta prin Wi-Fi
-\u0009\u0009Accesați adresa MAC a dispozitivului
+\u0009\u0009Activarea sau dezactivarea Wi-Fi
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere și transferul articolelor prin Wi-Fi
+\u0009\u0009Accesarea adresei MAC a dispozitivului
 \u0009\u0009Pentru recunoașterea dispozitivelor conectate
-\u0009\u0009Accesați fotografiile, videoclipurile și sunetul stocate pe dispozitiv
+\u0009\u0009Accesarea fotografiilor, a videoclipurilor și a sunetelor stocate pe dispozitiv
 \u0009\u0009Pentru trimiterea și primirea conținutului transferat
-\u0009\u0009Transferă articole pe alte dispozitive
-\u0009\u0009Pentru stabilirea unei conexiuni Bluetooth între dispozitive și transferul de conținut
-\u0009\u0009Înregistrați sunetul intern al dispozitivului
+\u0009\u0009Transferul articolelor pe alte dispozitive
+\u0009\u0009Pentru stabilirea unei conexiuni Bluetooth între dispozitive și transferul articolelor
+\u0009\u0009Înregistrarea sunetului intern al dispozitivului
 \u0009\u0009Pentru transferul și redarea audio între dispozitive în timp ce proiectați și oglindiți
-\u0009\u0009Accesați conținutul ecranului
+\u0009\u0009Accesarea conținutului ecranului
 \u0009\u0009Pentru accesarea conținutului de pe ecran în timpul înregistrării sau al proiecției, inclusiv informații sensibile, cum ar fi sunet, parole, parole de plată, fotografii, mesaje etc.
-\u0009\u0009Operațiuni cu fișiere (clipboard partajat, folosind camera cu Note):
-\u0009\u0009Activați sau dezactivați Bluetooth
-\u0009\u0009Pentru descoperirea dispozitivelor din apropiere la care să vă conectați prin Bluetooth
-\u0009\u0009Activați sau dezactivați Wi-Fi
-\u0009\u0009Pentru a descoperi dispozitivele din apropiere pentru a proiecta prin Wi-Fi
-\u0009\u0009Accesați fotografiile, videoclipurile și sunetul stocate pe dispozitiv
+\u0009\u0009Clipboard partajat și captură de imagini pe mai multe dispozitive:
+\u0009\u0009Activarea sau dezactivarea Bluetooth
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere prin Bluetooth
+\u0009\u0009Activarea sau dezactivarea Wi-Fi
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere și transferul articolelor prin Wi-Fi
+\u0009\u0009Accesarea fotografiilor, a videoclipurilor și a sunetelor stocate pe dispozitiv
 \u0009\u0009Pentru trimiterea și primirea conținutului transferat
-\u0009\u0009Accesați clipboard
+\u0009\u0009Accesarea clipboardului
 \u0009\u0009Pentru a permite aplicațiilor să acceseze conținutul copiat
-\u0009\u0009Conectarea dispozitivelor între ele (creșterea vitezei rețelei, folosind tastaturi, șoareci și camere):
-\u0009\u0009Activați sau dezactivați Bluetooth
-\u0009\u0009Pentru descoperirea dispozitivelor din apropiere la care să vă conectați prin Bluetooth
-\u0009\u0009Activați sau dezactivați Wi-Fi
-\u0009\u0009Pentru a descoperi dispozitivele din apropiere pentru a proiecta prin Wi-Fi
-\u0009\u0009Accesați fotografiile, videoclipurile și sunetul stocate pe dispozitiv
+\u0009\u0009Asistență pentru rețea, tastaturi și mouse-uri partajate și cameră partajată:
+\u0009\u0009Activarea sau dezactivarea Bluetooth
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere prin Bluetooth
+\u0009\u0009Activarea sau dezactivarea Wi-Fi
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere și transferul articolelor prin Wi-Fi
+\u0009\u0009Accesarea fotografiilor, a videoclipurilor și a sunetelor stocate pe dispozitiv
 \u0009\u0009Pentru trimiterea și primirea conținutului transferat
-\u0009\u0009Accesați camera
+\u0009\u0009Accesarea camerei foto
 \u0009\u0009Pentru a face fotografii și a înregistra videoclipuri
-\u0009\u0009Controlul dispozitivelor:
-\u0009\u0009Activați și dezactivați Bluetooth
-\u0009\u0009Pentru descoperirea dispozitivelor din apropiere la care să vă conectați prin Bluetooth
-\u0009\u0009 Activați și dezactivați Wi-Fi
-\u0009\u0009Pentru a descoperi dispozitivele din apropiere pentru a proiecta prin Wi-Fi
-\u0009\u0009Înregistrați sunetul intern al dispozitivului
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Activarea sau dezactivarea Bluetooth
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere prin Bluetooth
+\u0009\u0009Activarea sau dezactivarea Wi-Fi
+\u0009\u0009Pentru descoperirea dispozitivelor din apropiere și transferul articolelor prin Wi-Fi
+\u0009\u0009Înregistrarea sunetului intern al dispozitivului
 \u0009\u0009Pentru transferul și redarea audio între dispozitive în timp ce proiectați și oglindiți
-\u0009\u0009Accesați fotografiile, videoclipurile și sunetul stocate pe dispozitiv
+\u0009\u0009Accesarea fotografiilor, a videoclipurilor și a sunetelor stocate pe dispozitiv
 \u0009\u0009Pentru trimiterea și primirea conținutului transferat
 Dacă nu sunteți de acord să acordați aceste permisiuni, nu veți putea folosi aceste servicii.
-Serviciile de interconectivitate disponibile pot diferi în funcție de versiunea sistemului și modelul dispozitivului. Găsiți mai multe informații la %s"</string>
+Serviciile de interconectivitate disponibile pot diferi în funcție de versiunea sistemului și modelul dispozitivului. Găsiți mai multe informații la %s."</string>
     <string name="interconnection_service_title">Serviciile de interconectivitate Xiaomi</string>
     <string name="item_contents_wwarning">Dacă vă pierdeți dispozitivul, nu veți putea împiedica alte persoane să îl folosească și să vă acceseze datele decât dacă setați o blocare a ecranului. Omiteți oricum?</string>
     <string name="item_facerecognition">Deblocare facială</string>
@@ -288,12 +300,20 @@ Serviciile de interconectivitate disponibile pot diferi în funcție de versiune
     <string name="location_introduction_qcom">Serviciile de localizare folosesc poziționarea pentru a furniza servicii specifice locației. Când serviciile de localizare sunt utilizate de dispozitivul dvs., modulul QCC se va conecta la rețea pentru a accelera procesul de poziționare.</string>
     <string name="location_location">Agențiile de salvare de urgență pot obține, la cerere, locația dvs. actuală</string>
     <string name="lockscreen_introduction">Caruselul imaginilor de fundal vă permite să obțineți imagini noi livrate zilnic pe ecranul de blocare.</string>
+    <string name="media_storage_devices">Dispozitive de stocare media</string>
+    <string name="media_storage_introduction">Acest serviciu permite aplicațiilor să acceseze și să salveze fotografii, videoclipuri, sunete și fișiere.</string>
+    <string name="message_introduction">Puteți folosi această aplicație pentru a trimite și primi SMS-uri.</string>
+    <string name="mi_account_introduction">Contul Xiaomi vă permite să vă înregistrați, să vă conectați la și să gestionați conturile de sistem.</string>
     <string name="midnight">Noapte</string>
     <string name="mint_keyboard_oobe_checkbox">Am citit și acceptat Politica de Confidențialitate a tastaturii Mint</string>
     <string name="mint_keyboard_oobe_terms">Politica de Confidențialitate a tastaturii Mint</string>
     <string name="miui14_start_up_slogan">Pe locuri. Fiți gata. Live.</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
+    <string name="miui_provision">Configurare inițială</string>
+    <string name="miui_settings">Setări</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Acordul Utilizatorului la %s.</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -303,11 +323,14 @@ Serviciile de interconectivitate disponibile pot diferi în funcție de versiune
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -366,6 +389,7 @@ Serviciile de interconectivitate disponibile pot diferi în funcție de versiune
     <string name="msim_setting_default_data">SIM pentru date</string>
     <string name="msim_setting_default_voice">Cartela SIM implicită pentru apeluri</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
+    <string name="multisim_settings_sb_title">%d cartelă SIM detectată</string>
     <string name="multisim_settings_title">2 cartele SIM detectate</string>
     <string name="navigation_picker_gesture_guide">Ghidare prin gesturi</string>
     <string name="navigation_picker_radio_text_full_screen">Gesturi Ecran complet</string>
@@ -384,6 +408,10 @@ Serviciile de interconectivitate disponibile pot diferi în funcție de versiune
     <string name="other_settings_ad_disable_summary">Activați anunțurile personalizate</string>
     <string name="other_settings_ad_enable">Anunțuri personalizate</string>
     <string name="other_settings_ad_enable_summary">Anunțuri personalizate în funcție de interesele dvs.</string>
+    <string name="other_settings_alarm_assistance">Locație de urgență</string>
+    <string name="other_settings_alarm_assistance_privacy">Politica de confidențialitate</string>
+    <string name="other_settings_alarm_assistance_summary">"Puteți trimite informațiile despre locația dvs. către Poliție folosind SMS-uri sau date mobile automat în timp ce sunați la 110, 120, 119 sau 122. Citiți și acceptați &lt;a href=\"%1$s\">Acordul nostru de utilizare&lt; ;/a> și &lt;a href=\"%2$s\">Politica de confidențialitate&lt;/a> înainte de a utiliza această funcție."</string>
+    <string name="other_settings_alarm_assistance_user">Acordul Utilizatorului</string>
     <string name="other_settings_auto_update">Actualizări automate ale sistemului</string>
     <string name="other_settings_auto_update_summary">MIUI va selecta cel mai bun moment pentru a descărca și instala actualizările. Dispozitivul dvs. va fi repornit automat pentru a aplica modificările.</string>
     <string name="other_settings_auto_update_summary_v1">Permiteți MIUI să selecteze cel mai bun moment pentru a descărca și instala actualizări. Dispozitivul dvs. va fi repornit automat pentru a aplica modificări.</string>
@@ -414,6 +442,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="permission_account">Accesare conturi din dispozitiv</string>
     <string name="permission_account_introduction">Pentru conectarea la contul Mi</string>
     <string name="permission_application_package_introduction">Pentru accesarea stocării ce va permite analizarea și scanarea pachetelor de instalare</string>
+    <string name="permission_application_scope_description">Folosim aceste permisiuni numai atunci când efectuăm verificări de securitate și nu le vom folosi în niciun alt scop.</string>
     <string name="permission_authority_describe">Accesarea listei de aplicații instalate pe acest dispozitiv</string>
     <string name="permission_authority_describe_applist_summary">Pentru gestionarea permisiunilor aplicației</string>
     <string name="permission_backup">Accesarea stocării</string>
@@ -443,6 +472,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="permission_enable_disable_bluetooth_summary">Pentru a găsi dispozitive în apropiere și pentru a vă conecta și a transfera date</string>
     <string name="permission_fast_pairing">Pentru a putea găsi dispozitive în apropiere, Mi Link trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
     <string name="permission_get_imei_information_summary">Pentru identificarea timpului de activare a dispozitivului</string>
+    <string name="permission_get_imei_information_summary_settings">Pentru afișarea informațiilor și specificațiilor dispozitivului</string>
     <string name="permission_imei_service">Pentru accesarea IMEI-ului ce va permite furnizarea serviciilor asociate dispozitivului dumneavoastră</string>
     <string name="permission_interaction_introduction">Pentru salvarea fotografiilor și a videoclipurilor pe dispozitiv</string>
     <string name="permission_location">Accesare informații despre locație:</string>
@@ -457,6 +487,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="permission_login_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
     <string name="permission_make_a_call">Realizarea de apeluri</string>
     <string name="permission_make_a_call_fast_application_summary">Pentru a permite aplicațiilor rapide să efectueze apeluri;</string>
+    <string name="permission_media_storage_summary">Pentru a verifica modul în care aplicațiile folosesc permisiunile legate de confidențialitate în timp ce accesează fișiere</string>
     <string name="permission_message_introduction">Pentru trimiterea mesajelor către contactele blocate</string>
     <string name="permission_number">Accesarea numărului de telefon</string>
     <string name="permission_number_introduction">Pentru stabilirea conexiunii Bluetooth cu sistemele auto și căștile Bluetooth</string>
@@ -536,17 +567,22 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
+    <string name="privacy_content_one">"Recomandările pentru Caruselul de imagini de fundal sunt furnizate de Taboola, furnizorul nostru de conținut terț de încredere. Pentru a furniza acest conținut, Taboola trebuie să acceseze și să stocheze date non-personale de pe dispozitivul dvs., inclusiv limba sistemului și tipul de browser. Puteți afla cum utilizează Taboola datele colectate în &lt;a href =%1$s>Politica de confidențialitate&lt;/a> și &lt;a href =%2$s>Acordul utilizatorului&lt;/a> Taboola. Citiți și acceptați termenii și condițiile prevăzute în aceste documente înainte de a continua. Dacă nu sunteți de acord, serviciile Carusel de imagini de fundal vor fi dezactivate."</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="privacy_provision_more">Aflați mai multe despre protejarea confidențialității</string>
     <string name="privacy_provision_summary">Protecția confidențialității este angajamentul din spatele designului produselor noastre</string>
     <string name="privacy_provision_text">Ne angajăm să respectăm și să vă protejăm confidențialitatea. Prioritizând cercetarea și dezvoltarea în domeniul securității informațiilor, Xiaomi lucrează constant la îmbunătățirea metodelor, practicilor și soluțiilor tehnice care vă protejează datele. Împărtășim, de asemenea, cele mai recente realizări ale noastre cu partenerii noștri, pentru a vă asigura confidențialitatea peste tot.</string>
     <string name="privacy_provision_title">Confidențialitate</string>
+    <string name="privacy_refuse">Nu sunt de acord</string>
+    <string name="privacy_title">Termeni și Politica de confidențialitate</string>
     <string name="protect_persoanl_info_statement">Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.</string>
     <string name="provision_back">Înapoi</string>
     <string name="provision_inputmethod_policy_description"><Data>Vedeți &lt;a href=%1$s>Politica de Confidențialitate&lt;/a > a tastaturii selectate.</Data></string>
     <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
     <string name="provision_next">Următorul</string>
     <string name="provision_skip_underline">Omiteți</string>
+    <string name="read_application_info">Accesarea informațiilor aplicației</string>
+    <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Recomandat</string>
     <string name="recorder_introduction">Puteți utiliza această aplicație pentru înregistrări audio și efectuarea de copii de rezervă în cloud.</string>
     <string name="refuse_cookie">Respingeți cookie-urile</string>
@@ -555,10 +591,13 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="require_base_authority_statement">"Pentru a furniza servicii de bază, sunt necesare următoarele permisiuni:
 \u0009\u0009\u0009Accesare IMEI și IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">Pentru a furniza servicii de bază, sunt necesare următoarele permisiuni:</string>
+    <string name="require_device_information_statement">Pentru a putea oferi servicii de bază, sunt necesare următoarele permisiuni:</string>
     <string name="require_miuidaemon_authority_statement">Pentru a ne permite să vă oferim acest serviciu, trebuie să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="require_network_and_authority_statement">Pentru a putea funcționa normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
     <string name="require_network_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să vă conectați la internet și să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="require_network_authority_statement_dual">Pentru a putea funcționa normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
+    <string name="safe_open_service">Servicii deschise securizate</string>
+    <string name="safe_open_service_introduction">Serviciile deschise securizate ajută dezvoltatorii și oferă capabilități de securitate la nivel de sistem pentru a proteja utilizatorii și confidențialitatea acestora.</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -702,13 +741,22 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="terms_of_use_label_package">Instalator pachete</string>
     <string name="terms_of_use_label_parallel_windows">Ferestre paralele</string>
     <string name="terms_of_use_label_phrase">, Fraze frecvente</string>
-    <string name="terms_of_use_label_gms">"Confidențialitatea este foarte importantă pentru noi. Citiți Termenii Serviciului și Politica de Confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni aveți la îndemână.
-
-Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate înainte de a utiliza MIUI. Serviciile Mi, Serviciile Mi de activare a cartelei SIM, Mi Cloud, Localizarea dispozitivului, Ecranul Acasă, Centrul de jocuri, componentele de sistem MAB ,MiuiDaemon și MSA, aplicațiile web, Asistentul inteligent, statisticile, smart cards, Mi Link, contul Mi și componentele serviciilor Google Play se vor conecta la internet și vă vor obține locația."</string>
-    <string name="terms_of_use_label_systemhelper">, Serviciul cu înregistrare proprie</string>
+    <string name="terms_of_use_label_power_detection">Detector de putere</string>
+    <string name="terms_of_use_label_power_performance">Acumulator și performanță</string>
+    <string name="terms_of_use_label_quickapp">Aplicații rapide</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
+    <string name="terms_of_use_label_secure">Aplicație Element Securizat</string>
+    <string name="terms_of_use_label_simcard">Serviciu de activare SIM</string>
+    <string name="terms_of_use_label_smart_service">Servicii inteligente</string>
+    <string name="terms_of_use_label_statistics">Statistici</string>
+    <string name="terms_of_use_label_system_quality_monitoring">Monitorizarea calității sistemului</string>
+    <string name="terms_of_use_label_systemhelper">Serviciul de înregistrare proprie</string>
+    <string name="terms_of_use_label_translation">Serviciul de traducere</string>
+    <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (versiunea Xiaomi)</string>
     <string name="terms_of_use_label_updater">, Actualizări</string>
-    <string name="terms_of_use_lable_apps">Servicii Mi, Servicii Mi de activare SIM, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, Daemon MIUI, componente de sistem MSA, Servicii de traducere, MIUI SDK, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Servicii Mi, Xiaomi Cloud, Găsire dispozitiv, Ecran de pornire, Jocuri, MIUI Daemon, componente de sistem MSA, Servicii de traducere, MIUI SDK, Aplicații rapide, Asistent inteligent, statistici, Mi Link</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Înainte de a utiliza sistemul, trebuie să citiți și să fiți de acord cu Acordul de utilizare și cu Politica noastră de confidențialitate. Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. Când dispozitivul dvs. este activat, următoarele servicii se vor conecta la rețea și vă vor accesa locația:</string>
+    <string name="terms_of_use_label_use_network_china">Înainte de a utiliza sistemul, trebuie să citiți și să fiți de acord cu Acordul de utilizare și cu Politica noastră de confidențialitate. Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. Când dispozitivul dvs. este activat, următoarele servicii se vor conecta la rețea:</string>
+    <string name="terms_of_use_label_wallpaper">Imagine de fundal</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
@@ -721,6 +769,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="terms_of_use_lable_gms">, Serviciile Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_lable_xmsf">Cadrul de servicii Xiaomi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Politica de Confidențialitate Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Politica de Confidențialitate Kika</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
@@ -781,10 +830,8 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="user_agreement_declare_wifi_device">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, Xiaomi Cloud, Serviciul Copie de rezervă, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de Comunicare prin Internet Xiaomi, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Aplicația Element Securizat, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O. și Actualizări se vor conecta la rețea. Cardurile inteligente, Gestionarea Permisiunilor și Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
-    <string name="voice_assist_advice">Mi AI vă permite să utilizați controale vocale, însă consumă mai multă energie (+1% în fiecare oră).</string>
-    <string name="voice_assist_condition">"Veți putea utiliza Mi AI în aceste cazuri:r
-1. Când ecranul este activ.r
-2. Când ascultați muzică cu ecranul stins."</string>
+    <string name="verify_application_security">Pentru verificarea securității aplicației</string>
+    <string name="verify_device_security">Pentru verificarea securității dispozitivului</string>
     <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
     <string name="voice_assist_title">Trezire prin voce</string>
     <string name="wc_dialog_agree">Accept</string>
@@ -800,6 +847,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="welcome">Bine aţi venit</string>
+    <string name="withdraw_consent">Dacă vă retrageți consimțământul, serviciile Caruselului de imagini de fundal vor fi dezactivate.</string>
     <string name="yesterday">Ieri</string>
     <string name="zone_picker_title">Selectați fusul orar</string>
 </resources>

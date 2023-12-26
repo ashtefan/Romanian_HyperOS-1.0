@@ -125,6 +125,7 @@
     <string name="activity_title_antivirus">Scanare de securitate</string>
     <string name="activity_title_antivirus_kddi">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
+    <string name="activity_title_apps_settings">Aplicaţii</string>
     <string name="activity_title_auto_start_manager">Pornire automată</string>
     <string name="activity_title_auto_start_manager_global">Pornire automată în fundal</string>
     <string name="activity_title_garbage_cleanup">Curăţare</string>
@@ -455,6 +456,8 @@
     <string name="app_classification_search_hint">Căutați aplicații</string>
     <string name="app_classification_suggest_app">Sugestii</string>
     <string name="app_detail">Detalii</string>
+    <string name="app_disable_dlg_positive">Dezactivați aplicația</string>
+    <string name="app_disable_dlg_text">Dacă dezactivați această aplicație, este posibil ca sistemul precum și alte aplicații să nu mai funcționeze corect. Această aplicație de sistem nu poate fi dezinstalată. Va fi ascunsă dacă decideți să o dezactivați.</string>
     <string name="app_error_tip_for_launcher">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face ca unele aplicații să se comporte necorespunzător, să se blocheze sau să se închidă forțat. Dacă întâmpinați astfel de probleme, împărtășiți-le dezvoltatorilor aplicației."</string>
     <string name="app_error_tip_for_store">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face imposibilă instalarea unor aplicații. Dacă întâmpinați astfel de probleme sau dacă unele aplicații se comportă necorespunzător, se blochează sau se închid forțat, așteptați rezolvarea acestor probleme de către dezvoltatori și încercați să reinstalați aplicația."</string>
     <string name="app_info_all_services_label">Toate serviciile</string>
@@ -574,6 +577,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
     <string name="app_manager_restricted_settings_title">Permiteți setări restricționate</string>
     <string name="app_manager_search_prompt">"Nu s-a găsit niciun rezultat? Încercați să afișați rezultatele din toate aplicațiile."</string>
+    <string name="app_manager_share_apk">Partajați</string>
     <string name="app_manager_shortcut_manager">Gestionați scurtăturile de pe Ecranul principal</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
     <string name="app_manager_show_all_apps_opened">Se afișează rezultatele din toate aplicațiile…</string>
@@ -1303,7 +1307,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="charger_detect_info2">Încărcarea poate încetini, de asemenea, dacă utilizați adaptoare și cabluri vechi sau necorespunzătoare.</string>
     <string name="charger_detect_no_remind">Nu afișa din nou</string>
     <string name="charger_detect_title">Încărcarea este lentă</string>
-    <string name="charging_text_battery_full_time">"Ultima încărcare a durat "</string>
+    <string name="charging_text_battery_full_time">"Ultima încărcare "</string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
     <string name="charging_text_battery_perfect">Încărcat complet</string>
     <string name="chip_text">Fragment de text</string>
@@ -1331,6 +1335,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="click_to_set_personalized_reminder">Setați avertismente</string>
     <string name="click_to_set_traffic">Atingeți pentru a seta</string>
     <string name="clipboard_ai_allow">Decide pentru mine</string>
+    <string name="clipboard_ai_allow_summary">Permite sistemului să determine dacă o aplicație poate accesa conținutul clipboard-ului și vă reamintește când o face</string>
     <string name="close">Închideți</string>
     <string name="close_callwait">Oprit</string>
     <string name="cmcc_app_check_dialog_message">Reporniți dispozitivul pentru a finaliza repararea.</string>
@@ -2041,6 +2046,10 @@ cutremure"</string>
     <string name="firewall_restrict_notify_title">"%s nu poate utiliza rețeaua"</string>
     <string name="firewall_restrict_wlan">Restricționați utilizarea conexiunii Wi-Fi</string>
     <string name="firewall_rule_group_title_roaming">Roaming internaţional</string>
+    <string name="firewall_statement_msg">Din cauza restricțiilor de sistem și a cerințelor de calitate ale operatorului, un număr mic de aplicații pot continua să utilizeze date mobile chiar și atunci când sunt oprite. Dacă întâmpinați această situație, anunțați-ne în secțiunea Feedback.</string>
+    <string name="firewall_statement_no_more">Nu-mi mai aduce aminte</string>
+    <string name="firewall_statement_ok">Am înțeles</string>
+    <string name="firewall_statement_title">Atenție</string>
     <string name="firewall_system_title">Conexiunile aplicațiilor de sistem</string>
     <string name="firewall_temp_rule_reason">%2$s a restricționat conexiunea la internet pentru %1$s​</string>
     <string name="firewall_wifi">Wi-Fi</string>
@@ -2225,6 +2234,9 @@ cutremure"</string>
     <string name="gallery_confirm_start_activity">%s nu are permisiunea de a accesa Galeria și aplicațiile de socializare. Această aplicație dorește să acceseze imaginile stocate pe acest dispozitiv pentru a partaja articole. Permiteți?</string>
     <string name="game_ad_recommendation">Toată lumea joacă</string>
     <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
+    <string name="game_balance_more_setting_title">Setări adiționale</string>
+    <string name="game_balance_vision_enhance_subtitle">Măriți contrastul și îmbunătățiți detaliile pentru jocuri</string>
+    <string name="game_balance_vision_enhance_title">Imagini vizuale îmbunătățite</string>
     <string name="game_booster">Jocuri Turbo</string>
     <string name="game_booster_close">Jocurile Turbo sunt dezactivate</string>
     <string name="game_booster_intro">Despre Jocurile Turbo</string>
@@ -2236,6 +2248,9 @@ cutremure"</string>
     <string name="game_manual_record_setting_setting">Setări</string>
     <string name="game_manual_record_setting_title">Momente cheie</string>
     <string name="game_more_improve">Restricționați activitățile din fundal și viteza de descărcare pentru a economisi acumulatorul și lățimea de bandă pentru jocuri</string>
+    <string name="game_performance_wild_mode">Mod Ultimate</string>
+    <string name="game_performance_wild_mode_tips">"Activați pentru a îmbunătăți performanța dispozitivului
+(Dispozitivul dvs. se va încălzi și va consuma mai multă energie)"</string>
     <string name="game_setting">Setări pentru jocuri</string>
     <string name="game_video_net_data">Date mobile</string>
     <string name="game_video_network_eror">"Nu s-a putut conecta la rețea. Verificați setările de rețea și reîncercați."</string>
@@ -2338,6 +2353,8 @@ cutremure"</string>
     <string name="gb_advance_settings_vibration_4d">Vibrație 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">Ilustrează acțiunile din jocuri utilizând vibrațiile</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrează când apar sincope în jocuri</string>
+    <string name="gb_all_hight_display">Rată de reîmprospătare ridicată</string>
+    <string name="gb_all_hight_display_sub_title">120 Hz pentru toate scenariile</string>
     <string name="gb_already_in_game_list_tips">Acest articol este deja printre jocurile adăugate. Nu se poate adăuga aici.</string>
     <string name="gb_already_in_video_list_tips">Acest articol este deja printre aplicațiile video adăugate. Nu se poate adăuga aici.</string>
     <string name="gb_application_not_find">Nimic aici deocamdată</string>
@@ -2367,6 +2384,8 @@ cutremure"</string>
     <string name="gb_collimator_size">Dimensiune</string>
     <string name="gb_collimator_style">Tip</string>
     <string name="gb_collimator_toast">Un vizor de ochire face țintirea mai precisă</string>
+    <string name="gb_cooler_device_toast">"Experiență vizuală îmbunătățită de
+Xiaomi Gaming Cooler"</string>
     <string name="gb_create_icon_summary">Crează o scurtătură pe Ecranul principal</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Răspundeți</string>
@@ -2472,6 +2491,8 @@ cutremure"</string>
     <string name="gb_performance_balance">Echilibrat</string>
     <string name="gb_performance_balance_tips">"Modul echilibrat economisește energie
 reducând în același timp rata de reîmprospătare și limitele de temperatură"</string>
+    <string name="gb_performance_enhance">Performanță ridicată</string>
+    <string name="gb_performance_enhance_sub_title">Prioritizați performanța față de consumul de energie</string>
     <string name="gb_performance_high">Performanță</string>
     <string name="gb_performance_mode">Mod Jocuri</string>
     <string name="gb_performance_tips">"Modul de performanță îmbunătățește performanța grafică,
@@ -2611,6 +2632,7 @@ Alegeți diferite caractere și efecte speciale."</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Abonamentul dvs. a expirat. Reînnoiți abonamentul acum pentru a obține beneficii!</string>
     <string name="gb_voice_changer_user_vip_expired">Expirat</string>
     <string name="gb_voice_changer_user_vip_remain_time">Data de expirare: %s</string>
+    <string name="gb_wild_mode_game_performance_enhance">Îmbunătățiți performanța pentru jocuri</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Înregistrați momentele cheie
 din sesiunile dvs. de joc"</string>
     <string name="gb_wonderful_video_cancel">Renunțați</string>
@@ -2693,6 +2715,7 @@ din sesiunile dvs. de joc"</string>
     <string name="group_head_data_location_desc">Dezactivați pentru a restricționa accesul la locație pentru toate aplicațiile</string>
     <string name="group_head_data_location_service">Servicii de localizare</string>
     <string name="group_head_data_mic_desc">Dezactivați pentru a restricționa accesul la microfon pentru toate aplicațiile</string>
+    <string name="group_head_data_screen_shots_clipboard">Copiați automat capturile de ecran în clipboard</string>
     <string name="group_image_video">Fotografii și videoclipuri</string>
     <string name="group_location">Locație</string>
     <string name="group_microphone">Microfon</string>
@@ -2782,6 +2805,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_guide_gtb_game_new">Nou</string>
     <string name="gtb_guide_gtb_line_new">Încercați modul Performanță în Jocuri Turbo!</string>
     <string name="gtb_guide_gtb_line_new_global">Glisați pentru a deschide Jocuri Turbo</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Încercați modul Ultimate în Jocuri Turbo pentru a vă duce jocul la următorul nivel</string>
     <string name="gtb_guide_gtb_line_xspace">Îmbunătățiți-vă jocul cu noul Jocuri Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Utilizați alte aplicații în timp ce jucați"</string>
     <string name="gtb_guide_small_window_app_title">Ferestre plutitoare</string>
@@ -2861,6 +2885,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular astăzi</string>
     <string name="i_know">Am înțeles</string>
+    <string name="i_know_time">Am înțeles (%d)</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="icon_created_settings_preference">Adăugată</string>
     <string name="icon_text_size_giga_byte">%.1f G</string>
@@ -3661,6 +3686,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="optmizingbar_title_clear">Goliți cache-ul</string>
     <string name="optmizingbar_title_security">Securitate</string>
     <string name="optmizingbar_title_system">Securitatea sistemului</string>
+    <string name="order_bh_net_empty">Nimic aici deocamdată</string>
     <string name="order_bh_net_error">Fără rețea</string>
     <string name="organization">Organizație</string>
     <string name="other">Alte setări</string>
@@ -3703,8 +3729,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_abnormal_scan_reason_use_GPS">Utilizează serviciile de localizare prea des</string>
     <string name="pc_abnormal_scan_reason_wake_system">Trezește sistemul prea des</string>
     <string name="pc_activity_title">Optimizați utilizarea acumulatorului</string>
+    <string name="pc_always_charge_protect_summary">Permiteți încărcarea doar până la %1$s pentru a menține starea acumulatorului</string>
+    <string name="pc_always_charge_protect_title">Încărcare limitată</string>
     <string name="pc_batery_information">Informații acumulator</string>
     <string name="pc_batery_protection">Protecție acumulator</string>
+    <string name="pc_battery_charge_protect">Protecție la încărcare</string>
     <string name="pc_battery_chart_loading">Doar o secundă…</string>
     <string name="pc_battery_detail_curve_reference_now">Acum</string>
     <string name="pc_battery_detail_device_item_title">Statistici utilizare acumulator</string>
@@ -3770,6 +3799,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_hidemode_performance">Performanță</string>
     <string name="pc_hidemode_performance_title">Mod performanță</string>
     <string name="pc_hidemode_power_save">Energie</string>
+    <string name="pc_high_temp_discharge_reminder">Încărcați-vă dispozitivul. Acumulatorul se poate deteriora dacă dispozitivul se supraîncălzește când acesta este descărcată.</string>
     <string name="pc_high_temp_protection_noti_bt_text">Am înțeles</string>
     <string name="pc_high_temp_protection_noti_summary">"Nu se pot folosi punctele de acces, datele mobile și serviciile de localizare acum"</string>
     <string name="pc_high_temp_protection_noti_summary2">Nu se pot folosi punctele de acces acum</string>
@@ -3778,6 +3808,22 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_hight_refresh_rate_reminder_summary">Se utilizează o rată de reîmprospătare mai mare. Acest lucru poate crește consumul de energie și temperatura dispozitivului.</string>
     <string name="pc_hight_refresh_rate_reminder_title">Vizionarea unui videoclip cu rate de cadre ridicate</string>
     <string name="pc_install_manager">Instalare prin USB</string>
+    <string name="pc_intellect_charge_protect_summary">Ajustați încărcarea în funcție de scenariile de utilizare</string>
+    <string name="pc_intellect_charge_protect_title">Încărcare optimizată</string>
+    <string name="pc_keywords_fast_charge">Încărcare rapidă</string>
+    <string name="pc_keywords_low_power_consumption_save">Economisire acumulator</string>
+    <string name="pc_keywords_low_power_mode">Mod Economisire acumulator</string>
+    <string name="pc_keywords_navigation_discharge">Opriți încărcarea în timp ce navigați</string>
+    <string name="pc_keywords_night_mode">Mod Noapte</string>
+    <string name="pc_keywords_night_protect">Protecția acumulatorului pe timp de noapte</string>
+    <string name="pc_keywords_reverse_charge">Încărcare inversă</string>
+    <string name="pc_keywords_sleep_mode">Mod Somn</string>
+    <string name="pc_keywords_sleep_protect">Protecția acumulatorului în timpul somnului</string>
+    <string name="pc_keywords_sleep_save_mode">Economisire acumulator peste noapte</string>
+    <string name="pc_keywords_summary_battery_protect">Pentru a reduce îmbătrânirea acumulatorului, sistemul învață din rutina zilnică de încărcare pentru a reduce încărcarea continuă inutilă.</string>
+    <string name="pc_keywords_summary_low_power_consume">Face conectivitatea 5G să consume mai puțin energie în anumite scenarii</string>
+    <string name="pc_keywords_summary_navigation">Când utilizați aplicațiile de navigare, încărcarea se va opri automat când acumulatorul atinge un nivel selectat</string>
+    <string name="pc_keywords_summary_night_save">Opriți automat unele funcții pentru a economisi acumulatorul atunci când este detectat somnul</string>
     <string name="pc_low_batterty_got_it">Am înțeles</string>
     <string name="pc_low_battery_fast_charge">Accelerează încărcarea</string>
     <string name="pc_low_battery_fast_charge_summary">Conectați încărcătorul furnizat pentru a accelera încărcarea atunci când ecranul este oprit și bateria este descărcată. Această caracteristică poate provoca încălzirea dispozitivului.</string>
@@ -3798,6 +3844,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_night_sleep_mode_summary">Opriți automat unele funcții pentru a economisi acumulatorul atunci când este detectat somnul</string>
     <string name="pc_night_sleep_mode_title">Mod Noapte</string>
     <string name="pc_no_more_remind">Nu-mi aminti</string>
+    <string name="pc_ordinary_charge_summary">Permiteți întotdeauna încărcarea până la %1$s</string>
+    <string name="pc_ordinary_charge_title">Încărcare obișnuită</string>
     <string name="pc_performance_mode_dialog_summary">Dispozitivul dvs. va putea lucra în Modul performanță timp de %s. Rețineți că modul Performanță crește consumul de energie și poate duce la supraîncălzire.</string>
     <string name="pc_performance_mode_dialog_summary2">Performanța dispozitivului se va îmbunătăți. Acest lucru ar putea crește consumul de energie și poate duce la probleme de supraîncălzire. Porniți oricum?</string>
     <string name="pc_performance_mode_dialog_title">Mod Performanță</string>
@@ -3830,6 +3878,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_statistics_battery_use_title">Utilizare acumulator</string>
     <string name="pc_suggest_open_fast_charge">Activați încărcarea rapidă cu %dW</string>
     <string name="pc_temperature_too_high">Dispozitiv supraîncălzit</string>
+    <string name="pc_timely_charging_summary">Acumulatorul este sub %1$s. Dacă dispozitivul se supraîncălzește în timp ce acumulatorul este descărcat, se poate deteriora acumulatorul.</string>
+    <string name="pc_timely_charging_title">Încărcați-vă dispozitivul</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="pc_toady_charge_time_title">Numărul de încărcări astăzi</string>
     <string name="pc_wait_device_cools_down">Așteptați până când dispozitivul se răcește pentru a putea folosi această funcție.</string>
@@ -3838,6 +3888,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_work_in_save_mode">Economisire acumulator</string>
     <string name="pc_work_in_super_save_mode">Ultra Economisire acumulator</string>
     <string name="pc_xiaoai_create_auto_task">Sarcină nouă de la Mi AI</string>
+    <string name="pc_xiaoai_voice_control_close">Dezactivați \"Trezirea vocală\" Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_symbol">%</string>
@@ -3845,6 +3896,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evitați supraîncălzirea și problemele legate de partea hardware</string>
     <string name="perfermance_optimization_title">Optimizarea performanței</string>
+    <string name="performance_frame_insert_super_display_tips">Rata de cadre inteligentă și super rezoluția nu pot fi în vigoare în același timp. Pornirea uneia o va opri pe celălaltă.</string>
     <string name="perm_intercept_content">Acordați acestei aplicații permisiunea următoare: %1s?</string>
     <string name="perm_intercept_notification_title">Permițând %1s să utilizeze notificări va permite aplicației efectuarea următoarelor acțiuni:</string>
     <string name="perm_intercept_privacy_content">Aceste acțiuni ar putea expune datele dvs. personale. Acordați permisiunea (%1s) oricum?</string>
@@ -3888,6 +3940,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_action_reject">Refuzaţi</string>
     <string name="permission_action_tag">Protejarea confidențialității</string>
     <string name="permission_action_virtual">Returnează mesaje goale</string>
+    <string name="permission_action_virtual_common_summary">Acordați aplicațiilor permisiunile necesare, dar returnați mesajele goale pentru a vă proteja confidențialitatea</string>
     <string name="permission_action_virtual_phone_summary">Acordați aplicațiilor permisiunile relevante, dar nu le permiteți să acceseze numărul de telefon real al cartelei SIM</string>
     <string name="permission_close_permission_control_dialog_msg">Atunci când Gestionare permisiuni este oprită, aplicațiile nu vor cere permisiunea înainte de a citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările de sistem sau de a accesa camera foto și alte resurse de pe dispozitiv.</string>
     <string name="permission_close_permission_control_dialog_title">Dezactivaţi?</string>
@@ -3926,6 +3979,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_instruction_install_shortcuts">Această permisiune dă dreptul aplicațiilor să creeze comenzi rapide pe Ecranul de pornire.</string>
     <string name="permission_instruction_install_unknown_source">Această permisiune dă dreptul aplicațiilor să instaleze alte aplicații pe dispozitivul dvs. Aplicațiile rău intenționate folosesc această permisiune pentru a instala aplicații fără confirmarea dvs.</string>
     <string name="permission_instruction_location">Când acordați această permisiune, aplicațiile vor folosi rețelele sau poziționarea prin satelit pentru a vă accesa locația. Puteți permite aplicațiilor care acceptă funcția să acceseze numai locația dvs. aproximativă.</string>
+    <string name="permission_instruction_mac_adress">Accesarea adresei MAC a dispozitivului</string>
     <string name="permission_instruction_media_audio">Această permisiune dă dreptul aplicațiilor să acceseze melodii și alte fișiere audio stocate pe acest dispozitiv. Aceste articole pot conține informații personale.</string>
     <string name="permission_instruction_media_files">Această permisiune dă dreptul aplicațiilor să acceseze fișierele și documentele stocate pe acest dispozitiv. Aceste articole pot conține informații personale.</string>
     <string name="permission_instruction_modify_audio_settings">Această permisiune dă dreptul aplicațiilor să modifice setările audio (de exemplu, să regleze volumul fără confirmarea dvs.). Este posibil să nu puteți regla volumul în unele aplicații decât dacă le acordați această permisiune.</string>
@@ -3940,6 +3994,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_instruction_read_clipboard">Această permisiune dă dreptul aplicațiilor să citească orice conținut pe care îl copiați, care poate include informații private (de exemplu, detalii de cont, numere de card bancar și parole).</string>
     <string name="permission_instruction_read_contacts">Această permisiune dă dreptul aplicațiilor să acceseze informațiile de contact stocate pe dispozitivul dvs. Aceste informații pot conține frecvența comunicării dvs. cu anumite contacte prin apeluri, e-mailuri și alte metode. Această permisiune permite, de asemenea, aplicațiilor să salveze contactele. Aplicațiile rău intenționate ar putea folosi această permisiune pentru a partaja contacte fără consimțământul dvs.</string>
     <string name="permission_instruction_read_history">Accesarea istoricului de navigare</string>
+    <string name="permission_instruction_read_imei">Accesarea IMEI-ului acestui dispozitiv</string>
     <string name="permission_instruction_read_media_pic">Această permisiune dă dreptul aplicațiilor să acceseze fotografiile și videoclipurile stocate pe acest dispozitiv. Aceste articole pot conține informații personale.</string>
     <string name="permission_instruction_read_notify_sms">Această permisiune dă dreptul aplicațiilor să citească mesajele text de notificare stocate pe dispozitivul dvs. sau pe cartela SIM.</string>
     <string name="permission_instruction_read_phone_state">Această permisiune dă dreptul aplicațiilor să vă acceseze numărul de telefon, IMEI, IMSI și alți identificatori de dispozitiv. Aplicațiile folosesc în mod normal această permisiune pentru a determina dacă apelurile dvs. sunt redirecționate. Dacă utilizați un ID de dispozitiv virtual, aplicațiile nu vor putea accesa identificatorii dvs. de dispozitiv.</string>
@@ -3970,9 +4025,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_instruction_write_clipboard">Această permisiune dă dreptul aplicațiilor să salveze articole în clipboard. Mesajele spam pot afecta utilizarea normală a clipboard-ului.</string>
     <string name="permission_instruction_write_contacts">Această permisiune dă dreptul aplicațiilor să editeze, să adauge și să șteargă informațiile de contact stocate pe dispozitivul dvs. Aceste informații pot conține frecvența comunicării dvs. cu anumite contacte prin apeluri, e-mailuri și alte metode. Această permisiune permite, de asemenea, aplicațiilor să vă șteargă contactele.</string>
     <string name="permission_instruction_write_settings">Această permisiune dă dreptul aplicațiilor să modifice setările sistemului. Aplicațiile rău intenționate pot utiliza această permisiune cu setările sistemului și pot afecta utilizarea normală a dispozitivului.</string>
+    <string name="permission_legacy_storage">Accesarea fotografiilor, a videoclipurilor, a sunetelor audio și a fișierelor</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Aplicațiile nu vă vor cere permisiunea înainte de a vă citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările sistemului sau de a accesa camera și alte resurse ale dispozitivului. Puteți activa această caracteristică în Setările permisiunilor.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestionare permisiuni</string>
     <string name="permission_precise_location">Locația precisă</string>
+    <string name="permission_precise_location_sumary">Când această funcție este dezactivată, aplicațiile vor putea accesa doar locația dvs. aproximativă</string>
     <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
     <string name="permission_share_uid">Locația precisă</string>
     <string name="permission_upgrade_more">Mai multe caracteristici pentru protejarea confidențialității</string>
@@ -4005,6 +4062,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_usage_allow_r_contacts_once">%1$s | Această aplicație v-a accesat contactele</string>
     <string name="permission_usage_allow_receive_sms_once">%1$s | Această aplicație a primit SMS-uri</string>
     <string name="permission_usage_allow_send_sms_once">%1$s | Această aplicație a trimis SMS-uri</string>
+    <string name="permission_usage_allow_storage_once">%1$s｜A accesat fotografiile, videoclipurile, sunetele audio și fișierele</string>
     <string name="permission_usage_allow_w_calendar_once">%1$s | Această aplicație a editat calendarul</string>
     <string name="permission_usage_allow_w_calllog_once">%1$s | Această aplicație a editat istoricul apelurilor</string>
     <string name="permission_usage_allow_w_contacts_once">%1$s | Această aplicație v-a editat contactele</string>
@@ -4036,6 +4094,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_usage_deny_r_contacts_once">%1$s | Această aplicație a fost împiedicată să vă acceseze contactele</string>
     <string name="permission_usage_deny_receive_sms_once">%1$s | Această aplicație a fost împiedicată să primească SMS-uri</string>
     <string name="permission_usage_deny_send_sms_once">%1$s | Această aplicație a fost împiedicată să trimită SMS-uri</string>
+    <string name="permission_usage_deny_storage_once">%1$s｜Nu a permis accesul la fotografii, videoclipuri, sunete și fișiere</string>
     <string name="permission_usage_deny_w_calendar_once">%1$s | Această aplicație a fost împiedicată să editeze calendarul</string>
     <string name="permission_usage_deny_w_calllog_once">%1$s | Această aplicație a fost împiedicată să editeze istoricul apelurilor</string>
     <string name="permission_usage_deny_w_contacts_once">%1$s | Această aplicație a fost împiedicată să vă editeze contactele</string>
@@ -4043,6 +4102,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_usage_deny_wakepath_once">%1$s | Refuzat</string>
     <string name="permission_usage_now">Acum</string>
     <string name="permission_usage_now_access">Se accesează acum</string>
+    <string name="permission_usage_projection_screen_once">%1$s｜A accesat sau a înregistrat conținutul ecranului</string>
+    <string name="permission_usage_projection_screen_use">A accesat sau a înregistrat conținutul ecranului</string>
     <string name="permission_usage_terminal_camera_once">%1$s | Această aplicație a folosit camera acestui dispozitiv</string>
     <string name="permission_usage_terminal_camera_use">Această aplicație folosește camera acestui dispozitiv</string>
     <string name="permission_usage_terminal_screen_once">%1$s Această aplicație a folosit ecranul acestui dispozitiv</string>
@@ -4074,6 +4135,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="phone_manager_edit_commonly_used_func_title">Editați caracteristicile comune</string>
     <string name="phone_manager_title">Trusa de unelte</string>
     <string name="phone_number_protect">Faceți numărul de telefon privat</string>
+    <string name="pin_toast">Glisați în sus din partea de jos a ecranului și întrerupeți pentru a anula fixarea acestei aplicații</string>
+    <string name="pin_toast_nav">Apăsați lung butoanele înapoi și previzualizare pentru a anula fixarea acestei aplicații</string>
     <string name="pkg_traffic">Setaţi limita de utilizare a datelor</string>
     <string name="pm">PM</string>
     <string name="pm_auto_start_by_other">Declanșare pornire</string>
@@ -5942,8 +6005,12 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
     <string name="tc_web_correct_error">"Nu s-a putut calibra"</string>
     <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
-    <string name="terminal_behavior_camera">%1s a accesat camera acestui dispozitiv</string>
-    <string name="terminal_behavior_screen">%1s a accesat ecranul acestui dispozitiv</string>
+    <string name="terminal_flars_current_camera">Folosirea camerei acestui dispozitiv</string>
+    <string name="terminal_flars_current_screen">Accesarea ecranului acestui dispozitiv</string>
+    <string name="terminal_flars_current_screen_camera">Folosind camera și ecranul acestui dispozitiv</string>
+    <string name="terminal_flars_recent_camera">A folosit recent camera acestui dispozitiv</string>
+    <string name="terminal_flars_recent_screen">A accesat recent ecranul acestui dispozitiv</string>
+    <string name="terminal_flars_recent_screen_camera">A folosit recent camera și ecranul acestui dispozitiv</string>
     <string name="terminal_privacy">Protecție a confidențialității pe dispozitiv</string>
     <string name="terminal_privacy_ability">Caracteristici și mecanisme</string>
     <string name="terminal_privacy_ability_img">Procesarea imaginii</string>
@@ -6298,6 +6365,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="untrust_app_perm_oaid">Permiteți accesarea ID-ului virtual</string>
     <string name="untrust_app_perm_title">Aplicație dintr-o sursă necunoscută</string>
     <string name="untrust_app_perm_warn">Această aplicație provine dintr-o sursă necunoscută și poate prezenta riscuri de securitate. Poate folosi permisiunile enumerate mai jos pentru a vă compromite confidențialitatea. Acordați aceste permisiuni după o analiză atentă.</string>
+    <string name="unused_apps_switch">Întrerupeți activitatea aplicației dacă nu este utilizată</string>
+    <string name="unused_apps_switch_summary">Eliminați permisiunile, ștergeți fișierele temporare și opriți notificările</string>
     <string name="upgrade_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., actualizați extensia Phone Key Component via Securitate.</string>
     <string name="upgrade_tvm_component_title">Actualizați extensia Phone Key Component</string>
     <string name="usage_sorted_activity_lable">Utilizare date</string>
@@ -6339,9 +6408,17 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_advanced_settings_after_open">După</string>
     <string name="vb_advanced_settings_before_open">Înainte</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Faceți obiectele în mișcare mai clare prin îmbunătățirea animațiilor. Această caracteristică necesită un consum mai mare de energie.</string>
+    <string name="vb_default_mode">Personalizat</string>
+    <string name="vb_dolby_effect">Dolby Atmos</string>
+    <string name="vb_dult_effect">3D LUT vision</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Rată de reîmprospătare automată</string>
     <string name="vb_fps_settings_tips">Această funcție ajustează rata de reîmprospătare a ecranului la rata cadrelor video, ceea ce economisește acumulatorul și face redarea mai fluidă. Activarea comentariilor plutitoare va dezactiva rata de reîmprospătare automată.</string>
+    <string name="vb_immerse_voice">Sunet captivant</string>
+    <string name="vb_movie_mode">Mod Teatru</string>
+    <string name="vb_movie_power_hint">"Modul Teatru oferă o experiență de vizionare captivantă.
+Este posibil ca dispozitivul dvs. să se încălzească și să consume mai multă energie."</string>
+    <string name="vb_movie_subtitle">Necesită o performanță ridicată</string>
     <string name="vb_power_performance_mode_conflict_toast">Nu se poate utiliza această funcție când modul Performanță este activat</string>
     <string name="vb_power_save_mode_conflict_toast">Nu se poate utiliza această funcție când Economisirea acumulatorului este activată</string>
     <string name="vb_quick_func_auto_bgm">Recunoaște muzica de fundal</string>
@@ -6351,6 +6428,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_quick_func_screening">Proiectați</string>
     <string name="vb_settings">Setări</string>
     <string name="vb_super_power_save_mode_conflict_toast">Nu se poate folosi această funcție când Ultra Economisirea acumulatorului este activată</string>
+    <string name="vb_theatre_switch_guide">Atingeți pentru a comuta la modul Teatru</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Aceste efecte sunt aplicate întregului ecran</string>
     <string name="vb_ve_settings_display_style_tips_new">*Efectele vor fi aplicate numai zonei de redare video</string>
@@ -6414,6 +6492,7 @@ Această caracteristică nu funcționează cu liniarizarea mișcării.
 Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="vb_video_super_division_tips">"Inadecvat de clar?
 Încercați creșterea rezoluției!"</string>
+    <string name="vb_voice_adjust">Audio Teatru</string>
     <string name="verify_shut_down_password_content">Solicitați confirmarea blocării ecranului dacă dispozitivul este oprit în timp ce este blocat</string>
     <string name="verify_shut_down_password_title">Confirmare oprire</string>
     <string name="verify_sms_ensure_allow">Trimiteți</string>

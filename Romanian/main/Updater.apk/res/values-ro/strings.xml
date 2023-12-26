@@ -10,7 +10,7 @@
     <string name="alpha_cancel_confirm">Părăsiți programul acum?</string>
     <string name="alpha_cancel_ok">OK</string>
     <string name="alpha_no_network">Conectați-vă la rețea pentru a vă înscrie</string>
-    <string name="app_name">Actualizări</string>
+    <string name="app_name">Actualizare</string>
     <string name="apply_title">Actualizare (%s)</string>
     <string name="apply_update_dialog_cancel_button">Anulaţi</string>
     <string name="apply_update_dialog_update_button">Actualizaţi</string>
@@ -105,6 +105,19 @@
     <string name="fastboot_desc">Dispozitivul va reporni în modul Fastboot acum. Dacă nu sunteți familiarizat cu modul, anulați acțiunile viitoare. Continuați?</string>
     <string name="fastboot_mode">Programul de actualizare este în modul Fastboot, puteți să instalați doar ROM-uri cu Terminal pe PC!</string>
     <string name="fastboot_update_warning">Această actualizare este doar pentru instalarea prin fastboot!</string>
+    <string name="fetch_notification_default_channel_name">Descărcări</string>
+    <string name="fetch_notification_download_cancel">Renunțați</string>
+    <string name="fetch_notification_download_complete">Finalizat</string>
+    <string name="fetch_notification_download_downloading">Se descarcă</string>
+    <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm și %3$ds rămas</string>
+    <string name="fetch_notification_download_eta_min">%1$dm și %2$ds rămas</string>
+    <string name="fetch_notification_download_eta_sec">%1$ds rămas</string>
+    <string name="fetch_notification_download_failed">Eșuat</string>
+    <string name="fetch_notification_download_pause">Pauză</string>
+    <string name="fetch_notification_download_paused">Pus în pauză</string>
+    <string name="fetch_notification_download_resume">Reluați</string>
+    <string name="fetch_notification_download_retry">Reîncercați</string>
+    <string name="fetch_notification_download_starting">Se pornește</string>
     <string name="fetching_data">Se obține linkul de descărcare; așteptați…</string>
     <string name="download_diff">Descărcare diferenţă (diff)</string>
     <string name="download_error">Ceva a mers prost. Așteptați un minut sau două și încercați din nou.</string>
@@ -177,7 +190,7 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="no_update">Aveți deja cea mai recentă versiune!</string>
     <string name="no_wifi_msg">Utilizarea conexiunii de date mobile va creşte traficul de date mobile. Conectați-vă la Wi-Fi pentru a descărca actualizările.</string>
     <string name="no_wifi_title">Conectați-vă la Wi-Fi</string>
-    <string name="no_xioamieu">"Nu utilizați un ROM MIUI creat de către echipa Xiaomi.eu!
+    <string name="no_xioamieu">"Nu utilizați un ROM HyperOS creat de către echipa Xiaomi.eu!
 Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
 
     <string name="not_open">Nu</string>

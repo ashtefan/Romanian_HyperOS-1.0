@@ -32,6 +32,7 @@
     <string name="alphabet">Alfabet</string>
     <string name="am">AM</string>
     <string name="app_name">Unelte SIM</string>
+    <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="button_cancel">Renunțați</string>
     <string name="button_no">Nu</string>
     <string name="button_ok">OK</string>
@@ -57,8 +58,9 @@
     <string name="disable_app">Dezactivată</string>
     <string name="early_morning">Dimineață</string>
     <string name="enable_app">Activată</string>
+    <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
-    <string name="expand_button_title">Avansat</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -118,7 +120,9 @@
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="item_view_role_description">Filă</string>
     <string name="lable_sim_not_ready">Setul de instrumente SIM nu este pregătit sau nu este acceptat</string>
-    <string name="menu_back">Înapoi</string>
+    <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="menu_end_session">Încheiere sesiune</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectat</string>
@@ -194,6 +198,7 @@
     <string name="mtrl_picker_a11y_next_month">Comutați la luna următoare</string>
     <string name="mtrl_picker_a11y_prev_month">Comutați la luna anterioară</string>
     <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
+    <string name="mtrl_picker_cancel">Renunțați</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selectați o Dată</string>

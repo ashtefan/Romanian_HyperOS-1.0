@@ -103,6 +103,8 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="can_not_switch_when_extreme_endurance_battery_active">Nu se poate folosi al doilea spațiu din cauza acumulatorului descărcat</string>
     <string name="can_not_switch_when_green_kid_active">Comutarea la Spațiul secundar este restricționată de către controlul parental</string>
     <string name="can_not_switch_when_green_kid_active_new">Nu se poate comuta la al doilea spațiu când Family Guard este activată</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Apăsați lung butoanele înapoi și previzualizare pentru a anula fixarea acestei aplicații</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Glisați în sus din partea de jos a ecranului și întrerupeți pentru a anula fixarea acestei aplicații</string>
     <string name="can_not_switch_when_super_power_active">"Nu se pot comuta spațiile de lucru cât timp este activă Ultra economisirea acumulatorului"</string>
     <string name="cancelClosePassword">"Nu opri"</string>
     <string name="cancel_button">Renunțați</string>
@@ -267,6 +269,7 @@ Asigurați-vă că numele companiei este corect. Citiți și acceptați politici
     <string name="fingerprint_double_tap">Atingeți de două ori senzorul de amprentă</string>
     <string name="fingerprint_number_upper_limit">Prea multe încercări nereușite de deblocare</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta"</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Acceptat numai pe ecranul interior</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -544,7 +547,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="launch_wechat_health_code_auto_close">Comanda rapidă pentru codul de sănătate WeChat nu mai este disponibilă. Puteți trece la o altă comandă rapidă.</string>
     <string name="launch_wechat_payment_code">Cod de plată WeChat</string>
     <string name="launch_wechat_scanner">Scaner WeChat</string>
-    <string name="list_empty_text">Empty</string>
+    <string name="list_empty_text">Gol</string>
     <string name="list_empty_text_xspace">Creați mai multe aplicații clonate și reîncercați.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_apps">Se încarcă aplicațiile…</string>
@@ -977,9 +980,12 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="stylus_connect_fail_not_open_gps">Nu s-a putut conecta. Activați serviciile de localizare și încercați din nou.</string>
     <string name="stylus_connecting">Se conectează…</string>
     <string name="stylus_default_percent">100</string>
+    <string name="stylus_dislocation_summary">Atașați stiloul aici</string>
     <string name="stylus_focus_welcome">Faceți cunoștință cu Xiaomi Focus Pen</string>
     <string name="stylus_function_and_action">Caracteristici</string>
-    <string name="stylus_keyboard_settings_title">Stylus și tastatură</string>
+    <string name="stylus_function_summary">Caracteristici</string>
+    <string name="stylus_guide_summary">Tutoriale</string>
+    <string name="stylus_keyboard_settings_title">Stilou și tastatură</string>
     <string name="stylus_language_summary">Recunoașteți cifrele și textul scris de mână în engleză și încă o limbă selectată</string>
     <string name="stylus_laser_key_name">În lumina reflectoarelor</string>
     <string name="stylus_laser_summary">Apăsați și mențineți apăsat butonul reflectoarelor pentru a încercui zonele de focalizare</string>

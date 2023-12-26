@@ -204,6 +204,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="copy">Copiați</string>
     <string name="count_down_tip">%ds rămas</string>
     <string name="create_home_icon">Scurtătură pe Ecranul principal</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">Super imaginile de fundal nu sunt acceptate pe acest dispozitiv</string>
     <string name="current_using">Curent</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
     <string name="current_using_float_wallpaper_text">Transparent</string>
@@ -257,6 +258,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="de_super_wp_land_position_default_des">Punct de aterizare</string>
     <string name="de_to_comment">Comentați</string>
     <string name="de_try">Încercați</string>
+    <string name="deep_sea">Marea adâncă</string>
+    <string name="deep_sea_resource_comment">Originea vieții pe Pământ</string>
     <string name="deleting">Ştergere…</string>
     <string name="desc_more_online_wallpaper">Mai multe imagini de fundal online</string>
     <string name="description_author">Autor</string>
@@ -361,6 +364,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="exo_download_paused_for_wifi">Descărcările așteaptă Wi-Fi</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternează</string>
     <string name="exo_track_role_closed_captions">CC</string>
@@ -441,6 +445,23 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_close_failed">Nu s-a putut dezactiva</string>
+    <string name="fold_close_incall_dialog_content">Videoclipurile de profil nu mai sunt acceptate. După aceasta, nu veți mai putea activa această funcție. Opriți oricum?</string>
+    <string name="fold_close_incall_dialog_title">Dezactivează videoclipurile de profil</string>
+    <string name="fold_close_success">Dezactivat cu succes</string>
+    <string name="fold_preference_btn_close">Dezactivați</string>
+    <string name="fold_preference_btn_restore">Restaurați</string>
+    <string name="fold_preference_close_incall">Dezactivează videoclipurile de profil</string>
+    <string name="fold_preference_restore_default_icon">Restabiliți pictogramele implicite</string>
+    <string name="fold_preference_restore_default_theme">Restabiliți tema implicită</string>
+    <string name="fold_restore_default_failed">Nu s-a putut restaura</string>
+    <string name="fold_restore_default_icon_dialog_content">Pictogramele nu pot fi personalizate acum pe acest dispozitiv. Dacă ați schimbat pictogramele înainte, puteți restabili pictogramele implicite acum. După aceasta, nu veți mai putea personaliza pictogramele.</string>
+    <string name="fold_restore_default_icon_dialog_title">Restabiliți pictogramele implicite</string>
+    <string name="fold_restore_default_success">Restaurat cu succes</string>
+    <string name="fold_restore_default_theme_dialog_agree">Restaurați</string>
+    <string name="fold_restore_default_theme_dialog_content">Temele nu pot fi folosite acum pe acest dispozitiv. Dacă v-ați schimbat tema înainte, puteți restabili tema implicită acum. După aceasta, nu vă veți mai putea schimba tema.</string>
+    <string name="fold_restore_default_theme_dialog_disagree">Nu, mulțumesc</string>
+    <string name="fold_restore_default_theme_dialog_title">Restaurați tema implicită</string>
     <string name="fold_sensor_video_wallpaper_group">Imagini de fundal dinamice pentru dispozitive pliabile</string>
     <string name="font_compat_dialog_buy_confirm">Cumpărați</string>
     <string name="font_compat_dialog_buy_content">Este posibil ca fonturile terților să nu fie acceptate de unele aplicații. Această problemă de compatibilitate va fi remediată de o viitoare actualizare a sistemului. Cumpărați oricum acest font?</string>
@@ -599,6 +620,7 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="install_gallery_content">Nu ați instalat încă aplicația Galerie. O descărcați acum?</string>
     <string name="install_gallery_title">Instalați aplicația Galerie</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
     <string name="item_resource_audio_optional_notification_ring">Notificări</string>
@@ -739,7 +761,7 @@ mm"</string>
     <string name="miuishare_timeline_title">Găsiți noua dvs. imagine de fundal</string>
     <string name="miuishare_title_more">Mai multe</string>
     <string name="miuishare_title_share">Partajați</string>
-    <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+    <string name="miuishare_wechat_timeline_title">Momente WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
@@ -1096,6 +1118,9 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="refresh_footer_release">Eliberați pentru a încărca mai multe</string>
     <string name="region_not_support">"Aplicația Teme nu este suportată în regiunea dumneavoastră."</string>
     <string name="reload">Încercați din nou</string>
+    <string name="repeat_exchange_dialog_content">Nu se poate valorifica codul. Verificați ce alte recompense sunt disponibile acum?</string>
+    <string name="repeat_exchange_dialog_positive_btn">Verificați</string>
+    <string name="repeat_exchange_dialog_title">Încercați din nou</string>
     <string name="request_time_out">Solicitarea a expirat. Încercați din nou.</string>
     <string name="resource_account_abnormal_state">Eroare de cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>
@@ -1273,7 +1298,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_search_color_hint_yellow">Galben</string>
     <string name="resource_search_history">Istoricul de căutare</string>
     <string name="resource_search_hot_tag">Populare</string>
-    <string name="resource_search_list_empty">Nu a fost găsit nimic.</string>
+    <string name="resource_search_list_empty">Nu s-a găsit nimic.</string>
     <string name="resource_see_more">Mai multe</string>
     <string name="resource_select">Selectaţi</string>
     <string name="resource_select_alarm_audio_confirm">Selectați acest sunet de notificare?</string>
@@ -1319,7 +1344,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_trial_fail_title">Nu a putut fi configurată o sesiune de încercare</string>
     <string name="resource_trial_hours">(perioadă de încercare: %1$dh)</string>
     <string name="resource_trial_hours_minutes">(perioada de încercare: %1$dh și %2$dm)</string>
-    <string name="resource_trial_time">(încercare pentru %1$d minute)</string>
+    <string name="resource_trial_minutes">(încercare: %1$dm)</string>
     <string name="resource_unknow_error">A apărut o eroare necunoscută</string>
     <string name="resource_update">Actualizaţi</string>
     <string name="resource_user_know">OK</string>
@@ -1379,6 +1404,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="share_content_text_first_theme">Hey! Tema \"%1$s\" dă telefonului o înfățișare complet nouă.</string>
     <string name="share_content_text_first_wallpaper">Hey! Imaginea de fundal \"%1$s\" dă telefonului o înfățișare complet nouă.</string>
     <string name="share_content_text_second">" Găsiți-vă stilul potrivit în %1$s!"</string>
+    <string name="share_content_topic">\#Teme Xiaomis#</string>
     <string name="share_copy_theme_url">Copiați linkul temei</string>
     <string name="share_copy_url_success">Copiat cu succes</string>
     <string name="share_copy_wallpaper_url">Copiați linkul imaginii de fundal</string>
@@ -1397,6 +1423,8 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="shortcut_message">Adăugați o scurtătură pe Ecranul principal!</string>
     <string name="shortcut_show_tip">"Nu arăta din nou"</string>
     <string name="shortcut_title">Vă plac imaginile noastre de fundal?</string>
+    <string name="show_exchange">Comandă rapidă pentru centrul de răscumpărare</string>
+    <string name="show_exchange_desc">Afișați sau ascundeți comanda rapidă din Centrul de răscumpărare</string>
     <string name="show_free_aod">Afișează temele gratuite</string>
     <string name="show_free_font">Afișează fonturile gratuite</string>
     <string name="show_free_icons">Afișează pictogramele gratuite</string>
@@ -1452,6 +1480,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="sunset_time_format">Apus %s</string>
     <string name="sunset_time_format_desc">Ora apusului: %s</string>
     <string name="super_wallpaper">Super imagini de fundal</string>
+    <string name="super_wallpaper_dialog_content">Economisirea acumulatorului va dezactiva funcțiile dinamice ale imaginilor de fundal.</string>
     <string name="super_wallpaper_download_progress">%1$d%%</string>
     <string name="super_wallpaper_list_footer_text">Rămâneți la curent cu noile noastre versiuni!</string>
     <string name="super_wallpaper_list_label">Super imagini de fundal</string>
@@ -1542,7 +1571,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="theme_bug_report">Comentariu</string>
     <string name="theme_changed_failed_message">Aplicare eşuată</string>
     <string name="theme_changed_message">Temă aplicată</string>
-    <string name="theme_changing_dialog_title">Aplicare…</string>
+    <string name="theme_changing_dialog_title">Se aplică…</string>
     <string name="theme_comment_detail_no_more">"Asta e tot până acum"</string>
     <string name="theme_comment_detail_sub_comment_title">Toate răspunsurile</string>
     <string name="theme_comment_detail_title">Detalii</string>
@@ -1625,6 +1654,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="theme_user_agreement_remind_never">Nu se afişează din nou</string>
     <string name="theme_user_agreement_remind_summary">Se afişează Condițiile de utilizare de fiecare dată când se deschide aplicația Teme. Această setare va avea efect după ce reporniți dispozitivul.</string>
     <string name="theme_user_agreement_title">Condiții de utilizare</string>
+    <string name="theme_version_need_update_prompt_dialog_content">Actualizați aplicația Teme la versiunea %s sau o versiune ulterioară pentru a continua</string>
     <string name="theme_wallpaper">Categorii imagini de fundal</string>
     <string name="theme_yes">Da</string>
     <string name="third_party_pickers_activity_title">Adăugați %1$s</string>
@@ -1734,6 +1764,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="video_not_support_message">Acest videoclip poate fi afișat incorect sau poate încetini dispozitivul. Aplicați oricum?</string>
     <string name="video_not_support_title">Acest videoclip este prea mare</string>
     <string name="video_silence_apply_success">Videoclip fără sunet configurat cu succes</string>
+    <string name="video_wallpaper_apply_warning">Această imagine de fundal va fi aplicată atât pe Ecranul de pornire, cât și pe Ecranul de blocare. Aplicați acum?</string>
     <string name="video_wallpaper_import">Atingeți pentru a adăuga elemente</string>
     <string name="voice_input">Introducere vocală</string>
     <string name="wallpaper_24h">24 h</string>

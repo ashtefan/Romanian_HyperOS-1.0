@@ -609,6 +609,8 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="btn_more">Mai multe</string>
     <string name="bus_code">Transport în comun</string>
     <string name="calc_convert">Convertiți</string>
+    <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="calc_currency">Rata de schimb</string>
     <string name="calc_name">Calculator științific</string>
     <string name="calc_num">Simboluri financiare</string>
@@ -2245,6 +2247,10 @@ Adăugați widget-uri pentru a începe."</string>
     <string name="pa_widget_menu_edit">Editați</string>
     <string name="pa_widget_menu_edit_card_in_stack">Editați \"%s\"</string>
     <string name="pa_widget_menu_edit_stack">Editați grupul</string>
+    <string name="pa_widget_menu_improve_edit">Editați</string>
+    <string name="pa_widget_menu_improve_remove">Eliminați</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">Eliminați \"%s\"</string>
+    <string name="pa_widget_menu_improve_replace">Înlocuiți</string>
     <string name="pa_widget_menu_remove">Eliminați</string>
     <string name="pa_widget_menu_remove_card_in_stack">Eliminați \"%s\"</string>
     <string name="pa_widget_menu_replace">Comutați</string>

@@ -353,7 +353,7 @@
     <string name="new_saf_permission_dialog_content">"Permisiunile pentru aplicația Înregistrare au fost actualizate. Permiteți aplicației Înregistrare să acceseze înregistrările apelurilor.
 
 Cum să acordați permisiunea
-Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
+Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Următorul</string>
     <string name="new_search_alll_records_hint">Căutați toate înregistrările</string>
     <string name="new_search_app_records_hint">Căutați înregistrările aplicațiilor</string>
@@ -412,9 +412,9 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="path_soundrecorder_setting">Aplicații de sistem/Înregistrare</string>
     <string name="pause">Pauză</string>
     <string name="pause_status_focus_notification">Pus în pauză</string>
-    <string name="pay_error_cancel">Plata a fost anulată</string>
-    <string name="pay_error_null">"Nu s-a putut finaliza plata. Verificați-vă contul."</string>
-    <string name="pay_error_unknown">Eroare necunoscută</string>
+    <string name="permission_bluetooth">Accesarea stării conexiunii Bluetooth</string>
+    <string name="permission_bluetooth_dialog_description">Permiteți acestui dispozitiv să se conecteze la dispozitivele din apropiere pentru a putea schimba dispozitivele atunci când redați înregistrări.</string>
+    <string name="permission_bluetooth_title">Permisiuni necesare</string>
     <string name="permission_desc">Detalii permisiuni</string>
     <string name="permission_dialog_cancel">Renunțați</string>
     <string name="permission_dialog_ok">Setări</string>
@@ -700,6 +700,7 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="the_united_nations_day">Ziua Națiunilor Unite</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
+    <string name="this_folder">Utilizați acest dosar</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
@@ -708,10 +709,11 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="timer_format_two_sections" formatted="false">%02d:%02d</string>
     <string name="toast_enter_silent_mode">Se înregistrează. Modul Silențios este activ.</string>
     <string name="toast_exit_silent_mode">S-a finalizat înregistrarea. Modul  Silențios este oprit.</string>
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
-    <string name="toast_uninstall_fileexplorer">Aplicaţia Explorer nu este instalată</string>
+    <string name="toast_uninstall_fileexplorer">Aplicaţia Gestionare fișiere nu este instalată</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="trash_box">Elemente șterse recent</string>

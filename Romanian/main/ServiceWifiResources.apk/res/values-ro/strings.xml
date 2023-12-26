@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Accept</string>
+    <string name="apm_enabled_first_time_message">Dispozitivul își amintește să mențină Wi-Fi activat în modul avion. Opriți Wi-Fi-ul dacă nu doriți să rămână activat.</string>
+    <string name="apm_enabled_first_time_title">Wi-Fi rămâne activat</string>
     <string name="decline">Refuz</string>
     <string name="dlg_ok">OK</string>
+    <string name="notification_channel_apm_alerts">Alerte APM</string>
     <string name="notification_channel_network_alerts">Alerte rețea</string>
     <string name="notification_channel_network_available">Rețea disponibilă</string>
     <string name="notification_channel_network_status">Starea rețelei</string>
@@ -86,15 +89,30 @@ Această modificare poate determina monitorizarea locației telefonului de cătr
     <string name="wifi_enable_request_dialog_negative_button">Nu permite</string>
     <string name="wifi_enable_request_dialog_positive_button">Permite</string>
     <string name="wifi_enable_request_dialog_title">Permiteți %1$s să activeze Wi-Fi?</string>
+    <string name="wifi_enabled_apm_first_time_message">Dacă păstrați Wi-Fi-ul activat, dispozitivul își va aminti să-l mențină pornit data viitoare când sunteți în modul Avion</string>
+    <string name="wifi_enabled_apm_first_time_title">Wi-Fi activ în modul Avion</string>
     <string name="wifi_interface_priority_approve">Permiteți</string>
+    <string name="wifi_interface_priority_interface_name_ap">Hotspot Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Hotspot Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi-Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">Acest lucru poate cauza probleme pentru %3$s.</string>
     <string name="wifi_interface_priority_message_plural">Acest lucru poate cauza probleme pentru aceste aplicații: %3$s.</string>
     <string name="wifi_interface_priority_reject">Nu permiteți</string>
     <string name="wifi_interface_priority_title">%1$s dorește să utilizeze o resursă de rețea</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
+    <string name="wifi_network_disabled_by_admin_button">Închideți</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s este dezactivat de administrator.</string>
+    <string name="wifi_network_disabled_by_admin_title">Rețea indisponibilă</string>
+    <string name="wifi_network_switch_dialog_negative_button">Nu comuta</string>
+    <string name="wifi_network_switch_dialog_positive_button">Comută</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s este de calitate scăzută. Comutați la %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">%1$s nu pare a fi conectat la internet. Comutați la %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">Introduceți codul PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">Telefonul se va deconecta temporar de la Wi-Fi cât timp este conectat la %1$s</string>
     <string name="wifi_p2p_from_message">De la:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Acceptați în # secundă.} other {Acceptați în # secunde.} }</string>
     <string name="wifi_p2p_invitation_sent_title">Invitație trimisă</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitație de conectare</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>

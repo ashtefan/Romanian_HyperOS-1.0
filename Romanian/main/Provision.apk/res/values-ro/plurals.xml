@@ -29,6 +29,10 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>

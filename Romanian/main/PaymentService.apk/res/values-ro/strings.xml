@@ -181,7 +181,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="loading">Doar o secundă…</string>
     <string name="logout_account">Deconectați-vă</string>
     <string name="mibi_account_disable_dialog_msg">Pentru a utiliza MiCoin, trebuie să vă conectați la contul XiaoXiaomi. Vă rugăm să activați serviciul contului XiaoXiaomi în Setări-Gestionare aplicații.</string>
+    <string name="mibi_account_disable_dialog_title">Înștiințare</string>
     <string name="mibi_all_license_message">"Sunteți pe cale să utilizați Monede Mi, un serviciu furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să acceptați Termenii Serviciului din %1$s. Atingeți butonul OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s și %1$s. Trebuie să vă conectați la internet și să permiteți localizarea dispozitivului pentru a utiliza Mi Credit."</string>
+    <string name="mibi_all_purpose">Bine ați venit în aplicația Monede Mi. Puteți folosi această aplicație pentru a reîncărca Monede Mi, pentru a vă verifica cardurile cadou etc.</string>
     <string name="mibi_app_name">Monede Mi</string>
     <string name="mibi_applock_config">"Nu se poate seta Blocarea aplicațiilor când se utilizează modul Ecran Scindat."</string>
     <string name="mibi_applock_dialog_cancel">Nu acum</string>
@@ -196,8 +198,10 @@ Trimiteți acest cod supervizorului."</string>
     <string name="mibi_bill_record">Transacții</string>
     <string name="mibi_bill_record_empty">Nicio înregistrare.</string>
     <string name="mibi_btn_agree">De acord</string>
+    <string name="mibi_btn_agree_continue">Accept și continui</string>
     <string name="mibi_btn_back">Înapoi</string>
     <string name="mibi_btn_count_down_auto">Întreabă după %1$s secunde</string>
+    <string name="mibi_btn_exit">Ieșiți din aplicație</string>
     <string name="mibi_btn_finish">finalizat</string>
     <string name="mibi_btn_mili_center_recharge">Reîncărcare Monede Mi</string>
     <string name="mibi_btn_net_connection_retry">Reîncercați</string>
@@ -208,6 +212,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="mibi_btn_recharge_large">Reîncărcați</string>
     <string name="mibi_btn_recharge_other">Reîncărcați</string>
     <string name="mibi_btn_recharge_success_quick">Reîncărcare finalizată</string>
+    <string name="mibi_btn_return_home">Reveniți Acasă</string>
     <string name="mibi_business_title">Alte servicii</string>
     <string name="mibi_button_bind_phone">Asociați acum</string>
     <string name="mibi_button_call">Apelați</string>
@@ -215,6 +220,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="mibi_button_confirm">Confirmați</string>
     <string name="mibi_button_count_down_finish">OK(%1$s)</string>
     <string name="mibi_button_custom_service_phone">Am înțeles</string>
+    <string name="mibi_button_disagree">Nu sunt de acord</string>
     <string name="mibi_button_next">Următorul</string>
     <string name="mibi_button_pay">Confirmați</string>
     <string name="mibi_button_reget">Retrimiteți</string>
@@ -299,8 +305,10 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_fee">%1$s Monede Mi</string>
     <string name="mibi_forget_password"><u>Am uitat parola</u></string>
     <string name="mibi_format_bill_date">d/M/yyyy</string>
+    <string name="mibi_format_bill_time">dd-MM-yyyy HH:mm</string>
     <string name="mibi_format_date">dd, MMM. yyyy</string>
     <string name="mibi_format_time">dd MMM, yyyy hh:mmaa</string>
+    <string name="mibi_format_time_giftcard">dd-MM-yyyy HH:mm:ss</string>
     <string name="mibi_frozen">Blocat</string>
     <string name="mibi_frozen_prim">Cont blocat</string>
     <string name="mibi_frozen_sub">Activitate anormală detectată</string>
@@ -319,7 +327,9 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_giftcard_discount">Cupoane</string>
     <string name="mibi_giftcard_discount_detail">Cupon(ați utilizat %1$s Monede Mi)</string>
     <string name="mibi_giftcard_discount_detail2">(Cheltuiți %1$s Monede Mi pentru a răscumpăra)</string>
+    <string name="mibi_giftcard_discount_detail3">Cheltuiți %1$s Monede Mi pentru a răscumpăra</string>
     <string name="mibi_giftcard_empty_detail">Nu există %1$s cupoane.</string>
+    <string name="mibi_giftcard_expire_soon">Expiră în curând</string>
     <string name="mibi_giftcard_has_expired">Expirat pe %1$s</string>
     <string name="mibi_giftcard_has_unavailable">Expirat</string>
     <string name="mibi_giftcard_has_used">Răscumpărați</string>
@@ -334,13 +344,19 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_giftcard_use_now">Răscumpărați</string>
     <string name="mibi_giftcard_used">Răscumpărat</string>
     <string name="mibi_giftcard_vaild_util">valabil până la %1$s</string>
+    <string name="mibi_giftcard_valid_time_last">Expiră în %1$s zile</string>
     <string name="mibi_giftcard_will_expire">Expiră pe %1$s</string>
     <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700>&lt;xliff:g id=value>%1$d&lt;/xliff:g> Monede Mi disponibile&lt;/font></Data></string>
     <string name="mibi_header_network_error">"Nu s-a putut conecta la rețea."</string>
     <string name="mibi_illegal_intent">Solicitare de intenție ilegală</string>
+    <string name="mibi_incognito_mode_dialog_cancel">Renunțați</string>
+    <string name="mibi_incognito_mode_dialog_summary_camera">Nu se poate folosi camera acum. Dezactivați modul incognito din Setări pentru a putea folosi camera.</string>
+    <string name="mibi_incognito_mode_dialog_title">Sunteți incognito</string>
+    <string name="mibi_incognito_mode_dialog_to_close">Setări</string>
     <string name="mibi_is_what">Ce puteți cumpăra cu Monedele Mi?</string>
     <string name="mibi_label_balance">Balanță</string>
     <string name="mibi_label_giftcard">Card cadou</string>
+    <string name="mibi_label_giftcard_with_num">Card cadou(%1$s)</string>
     <string name="mibi_label_pay_remain">Sold: %1$s Monede Mi</string>
     <string name="mibi_license_message_span">Acordul utilizatorului Monede Mi</string>
     <string name="mibi_license_title">Termenii și condițiile</string>
@@ -384,6 +400,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_order_balance_lable">Monede Mi</string>
     <string name="mibi_order_balance_lable_append">Monede Mi + cupon</string>
     <string name="mibi_order_balance_title">Monedele mele Mi</string>
+    <string name="mibi_order_discount_giftcard_title">Cupoane(Utilizați câte unul odată)</string>
+    <string name="mibi_order_mibi_to_money_rate">1 Monedă Mi = 1 RMB</string>
     <string name="mibi_order_no_use_balance">Neutilizate</string>
     <string name="mibi_order_pay_back">Confirmați</string>
     <string name="mibi_order_pay_type">Metoda de plată</string>
@@ -404,6 +422,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_payment_recharge_group_title">Selectați metoda de reîncărcare</string>
     <string name="mibi_payment_success_title">Plată primită</string>
     <string name="mibi_payment_with_login_title">Verificați contul Xiaomi</string>
+    <string name="mibi_paymnet_failed_title">Tranzacție eșuată</string>
     <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_app_not_installed">"Nu ați instalat %1$s. O descărcați și instalați acum?"</string>
     <string name="mibi_paytool_error_install">A eșuat instalarea %1$s extensiei de securitate mobilă</string>
@@ -417,6 +436,11 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Permiteți accesul la camera foto din Setări pentru a utiliza această funcție.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Permiteți trimiterea de mesaje SMS din Setări pentru a utiliza această funcție.</string>
+    <string name="mibi_permission_des_camera">Folosit pentru OCR pentru a identifica numărul cardului de reîncărcare a telefonului mobil etc.</string>
+    <string name="mibi_prepaid_card_hint">Toate reîncărcările sunt o singură dată, iar valoarea nominală selectată trebuie să fie în concordanță cu cardul de reîncărcare. O selecție greșită va duce la pierderea de fonduri.</string>
+    <string name="mibi_prepaid_card_hint_input_card_num">Vă rugăm să introduceți numărul cardului</string>
+    <string name="mibi_prepaid_card_hint_input_pwd">Vă rugăm să introduceți parola</string>
+    <string name="mibi_prepaid_card_info">Informații despre cardul de reîncărcare</string>
     <string name="mibi_prepaid_card_order_info">%1$s card cadou: CNY %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Selectați operatorul</string>
     <string name="mibi_prepaid_dialog_content">Orice pierdere cauzată de discrepanța dintre numărul cardului, valoarea nominală, parola și informațiile reale va fi suportată de dvs. Verificați de două ori informațiile pe care le furnizați înainte de a continua.</string>
@@ -439,7 +463,10 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_prepaid_picker_title_default">Selectați suma</string>
     <string name="mibi_prepaid_picker_title_selected">suma</string>
     <string name="mibi_privacy_license_name">Politica de Confidențialitate</string>
+    <string name="mibi_privacy_manage_revoke_agreement">Retrageți consimțământul</string>
+    <string name="mibi_privacy_manage_user_license">Acordul Utilizatorului</string>
     <string name="mibi_privacy_policy">Politica de Confidențialitate</string>
+    <string name="mibi_privacy_setting">Setări de confidențialitate</string>
     <string name="mibi_privacy_tip_message">"Nu mai puteți utiliza Monedele Mi după ce ați revocat autorizarea."</string>
     <string name="mibi_privacy_tip_title">Permiteți autorizarea mai întâi</string>
     <string name="mibi_process_expired">"Unde ați plecat? Această operațiune a expirat."</string>
@@ -481,23 +508,67 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_push_set_alias_success">Setarea pseudonimului \"%1$s\" s-a realizat cu succes.</string>
     <string name="mibi_push_unset_alias_fail">Resetarea pseudonimului a eșuat pentru %1$s.</string>
     <string name="mibi_push_unset_alias_success">Resetarea pseudonimului \"%1$s\" s-a realizat cu succes.</string>
+    <string name="mibi_recharge_amount_list_mibi_unit">Mi</string>
     <string name="mibi_recharge_grid_error_denomination">Suma trebuie să fie între %1$s și %2$s Monede Mi.</string>
     <string name="mibi_recharge_grid_item_more">Mai multe</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Selectați suma</string>
     <string name="mibi_recharge_grid_money_picker_hint">Selectați suma</string>
+    <string name="mibi_recharge_input_amount_hint">Vă rugăm să introduceți suma</string>
     <string name="mibi_recharge_label">Suplimentați</string>
     <string name="mibi_recharge_mibi_title">Monede Mi</string>
+    <string name="mibi_recharge_more_channels_title">Mai multe</string>
     <string name="mibi_recharge_novalid_method">Nicio metodă validă de reîncărcare.</string>
     <string name="mibi_recharge_other">Vedeți celelalte metode</string>
+    <string name="mibi_recharge_other_amount">Altă sumă</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d a adăugat %2$s Monede Mi în contul dvs.</string>
     <string name="mibi_recharge_push_notification_sub_title">Reîncărcare completă.</string>
     <string name="mibi_recharge_value_money">Achiziționați Monede Mi în valoare de %s CNY</string>
     <string name="mibi_recharge_value_money_special_unit">Achiziționați Monede Mi în valoare de %1$s %2$s</string>
     <string name="mibi_recharge_warn_text">"Nu puteți achiziționa bunuri utilizând Monedele Mi."</string>
+    <string name="mibi_return">Reveniți</string>
+    <string name="mibi_review_model_btn_entry">Intrați în modul Doar pentru navigare</string>
+    <string name="mibi_review_model_btn_use">Experimentați serviciul Monede Mi</string>
+    <string name="mibi_review_model_icon_1">Temă</string>
+    <string name="mibi_review_model_icon_2">Serviciul Cloud</string>
+    <string name="mibi_review_model_icon_3">Citiți</string>
+    <string name="mibi_review_model_icon_4">Video</string>
+    <string name="mibi_review_model_icon_5">Muzică</string>
+    <string name="mibi_review_model_icon_6">Joc</string>
+    <string name="mibi_review_model_introduction_description">"Dacă nu sunteți de acord cu Politica de confidențialitate, vă vom oferi un mod doar de navigare. În acest mod, vă vom arăta introducerea serviciilor legate de Micoin.
+
+În acest mod, trebuie doar să solicităm acces la internet și nu vom colecta, stoca, partaja sau folosi informațiile dumneavoastră personale.
+
+În timpul procesului de navigare, dacă doriți să desfășurați afaceri legate de Micoin, trebuie să fiți de acord cu regulile relevante de prelucrare a informațiilor personale. Vom procesa informațiile dumneavoastră personale în conformitate cu autorizația dumneavoastră și cu prevederile relevante ale legilor și reglementărilor."</string>
+    <string name="mibi_review_model_introduction_title">Aflați despre modul doar navigare</string>
+    <string name="mibi_review_model_mibi_function">Controlul soldului de reîncărcare MiCoin Gestionarea voucherelor cadou</string>
+    <string name="mibi_review_model_mibi_introduction">"MiCoin este o casă de marcat agregată pentru afaceri virtuale din cadrul Grupului Xiaomi. Acceptă metode de plată precum Alipay, WeChat și Mi Wallet. De asemenea, oferă carduri preplătite și produse de marketing, cum ar fi Mi Coin Card și MiCoin Gift Vouchers.
+
+Servicii furnizate:"</string>
+    <string name="mibi_review_model_tips">Modul actual este doar de navigare, vă rugăm să faceți clic pe butonul pentru a experimenta serviciul Micoin.</string>
+    <string name="mibi_review_model_title">Modul numai pentru navigare</string>
+    <string name="mibi_review_model_use_tips">Experimentați acum serviciul Micoin</string>
+    <string name="mibi_revoke_agreement_failed_msg">Nu s-a retras consimțământul, vă rugăm să încercați din nou</string>
+    <string name="mibi_revoke_agreement_msg">"Dacă vă retrageți consimțământul pentru politica de confidențialitate a aplicației Mibibi, vom opri colectarea informațiilor dumneavoastră personale și vom șterge informațiile personale colectate de aplicație în conformitate cu legea, cu excepția cazului în care alte legi și reglementări specifică perioada de păstrare a informațiilor personale.
+Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor personale necesare, dacă vă retrageți consimțământul, se va considera că nu sunteți de acord că vă oferim în continuare serviciile MiCoin și renunțăm la activele și drepturile dumneavoastră în aplicația MiCoin. . Cauzați o anumită pierdere și informațiile personale nu pot fi recuperate, vă rugăm să alegeți cu atenție."</string>
+    <string name="mibi_revoke_agreement_title">Avertisment de risc</string>
+    <string name="mibi_revoke_service_failed_msg">Nu s-a putut deconecta de la serviciu, vă rugăm să încercați din nou</string>
+    <string name="mibi_revoke_service_msg">"Dacă vă deconectați de la serviciul MiCoin, vom înceta colectarea informațiilor dumneavoastră personale și vom șterge informațiile personale colectate de aplicație în conformitate cu legea, cu excepția altor legi și reglementări care stipulează în mod clar perioada de păstrare a informațiilor personale.
+Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor personale necesare, dacă anulați serviciul, se va considera că nu sunteți de acord că vă oferim în continuare serviciile MiCoin și renunțăm la activele și drepturile dumneavoastră în aplicația MiCoin. Cauzați o anumită pierdere și informațiile personale nu pot fi recuperate, vă rugăm să alegeți cu atenție."</string>
     <string name="mibi_scan_prompt_number">Scanați numărul cardului preplătit %1$s</string>
     <string name="mibi_scan_prompt_password">Scanați parola cardului preplătit %1$s</string>
     <string name="mibi_scan_prompt_voucher">Scanați parola Monede Mi</string>
     <string name="mibi_security_setting">Setări</string>
+    <string name="mibi_setting_authorization_management">Managementul Autorizării</string>
+    <string name="mibi_setting_cache_deleted_privacy">Retragerea consimțământului a fost finalizată și datele locale au fost șterse</string>
+    <string name="mibi_setting_cache_deleted_service">Serviciul de deconectare a fost finalizat, iar datele locale au fost șterse.</string>
+    <string name="mibi_setting_cancel_revoke_agreement">Anulați retragerea</string>
+    <string name="mibi_setting_cancel_revoke_service">Anulați deconectarea</string>
+    <string name="mibi_setting_confirm_revoke_agreement">Confirmați retragerea</string>
+    <string name="mibi_setting_confirm_revoke_service">Confirmați deconectarea</string>
+    <string name="mibi_setting_perm_setting_dialog_confirm">Da, știu</string>
+    <string name="mibi_setting_perm_setting_dialog_title">Sfaturi de setare</string>
+    <string name="mibi_setting_privacy_management">Managementul politicii de confidențialitate</string>
+    <string name="mibi_setting_revoke_service">Anularea serviciului MiCoin</string>
     <string name="mibi_shurtcut_create_success">Plasată pe ecranul principal</string>
     <string name="mibi_signing_pay_group_title">Selectați metoda de plată</string>
     <string name="mibi_signing_success_sub">Plățile de reînnoire vor fi făcute utilizând %1$s</string>
@@ -526,12 +597,15 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_voucher_card_text">Vă rugăm să răzuiți talonul</string>
     <string name="mibi_voucher_error_password">Cod invalid.</string>
     <string name="mibi_voucher_input_password_prompt">Introduceți codul</string>
+    <string name="mibi_voucher_password">Parola cardului Mi Coin</string>
     <string name="mibi_web_login">Conectare</string>
     <string name="mibi_web_login_app_description">Conectare %1$s</string>
     <string name="mibi_web_login_description">Conectare</string>
     <string name="mibi_web_login_waiting">Așteptați vă rog…</string>
     <string name="mibi_web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -547,6 +621,8 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

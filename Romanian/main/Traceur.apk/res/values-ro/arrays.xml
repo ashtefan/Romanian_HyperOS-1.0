@@ -243,7 +243,7 @@
         <item>Sursă Audio</item>
         <item>MIDI</item>
     </string-array>
-    <string-array name="wifi_status">
+    <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>Scanare…</item>
         <item>Conectare…</item>

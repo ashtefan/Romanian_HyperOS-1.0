@@ -32,6 +32,7 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">Extensie xiaomi.eu</string>
+    <string name="auto">Automat</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
     <string name="confirm_reset">Confirmați resetarea</string>
@@ -116,6 +117,7 @@
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -176,6 +178,7 @@
     <string name="no_apps">Nicio aplicație</string>
     <string name="no_icons">Fără pictograme</string>
     <string name="noon">Amiază</string>
+    <string name="other_ime">Alte tastaturi</string>
     <string name="pm">PM</string>
     <string name="reset">Resetați</string>
     <string name="saturday">Sâmbătă</string>
@@ -267,5 +270,6 @@
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="wifi_region">Regiune Wi-Fi</string>
     <string name="yesterday">Ieri</string>
 </resources>

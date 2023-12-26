@@ -393,7 +393,7 @@
         <item>Dezactivați codecurile opționale</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -1212,8 +1212,8 @@
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>Nu verifica</item>
-        <item>Solicitați starea certificatului</item>
-        <item>Solicitați statutul certificatului</item>
+        <item>Solicită starea certificatului</item>
+        <item>Solicită statutul certificatului</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Niciuna</item>
@@ -1345,7 +1345,7 @@
     </string-array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>Scurtă</item>
-        <item>Mediem</item>
+        <item>Medie</item>
         <item>Lungă</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">

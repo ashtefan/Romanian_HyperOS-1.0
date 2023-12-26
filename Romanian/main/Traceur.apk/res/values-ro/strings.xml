@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accessibility_banner_message_dismiss">Respingeți</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Corecția culorilor poate fi utilă atunci când doriți să:&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Vedeți culorile mai precis&lt;/li> &lt;li>&amp;nbsp;Eliminați culorile pentru a vă ajuta să vă concentrați&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_manual_zen_less_time">Mai puțin timp.</string>
@@ -78,6 +79,7 @@
     <string name="add_user_failed">Nu s-a putut crea un utilizator nou</string>
     <string name="alarm_template">la %1$s</string>
     <string name="alarm_template_far">pe %1$s</string>
+    <string name="all_recordings_will_be_deleted">Toate înregistrările vor fi șterse din /data/local/traces</string>
     <string name="all_traces_will_be_deleted">Toate urmele vor fi șterse din /data/local/traces</string>
     <string name="allow_mock_location">Permiteți locațiile fictive</string>
     <string name="allow_mock_location_summary">Permiteți locațiile fictive</string>
@@ -87,6 +89,11 @@
     <string name="apn_settings_not_available">Setările Numelui Punctului de Acces nu sunt disponibile pentru acest utilizator</string>
     <string name="app_process_limit_title">Limitare procese de sistem</string>
     <string name="applications">Aplicații</string>
+    <string name="attach_to_bug_report">Atașați înregistrări la rapoartele de erori</string>
+    <string name="attach_to_bug_report_summary">Trimiteți automat înregistrări în curs către BetterBug atunci când este colectat un raport de eroare</string>
+    <string name="attached_to_report">Urmă atașată raportului de eroare</string>
+    <string name="attached_to_report_summary">Atingeți pentru a deschide BetterBug</string>
+    <string name="attaching_to_report">Atașarea urmei la raportul de eroare</string>
     <string name="auto_connect_disable">Conectarea automată este oprită</string>
     <string name="available_via_app">Disponibil via %1$s</string>
     <string name="available_via_carrier">Disponibil via %1$s</string>
@@ -214,6 +221,7 @@ Selecție"</string>
     <string name="bluetooth_talkback_imaging">Imaging</string>
     <string name="bluetooth_talkback_input_peripheral">Periferic de introducere</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
+    <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="bt_hci_snoop_log">Activați Bluetooth HCI snoop log</string>
     <string name="bt_hci_snoop_log_summary">Captează toate pachetele bluetooth într-un fișier. (Comutați Bluetooth-ul după modificarea setării)</string>   
     <string name="bt_le_audio_broadcast_dialog_different_output">Schimbați ieșirea</string>
@@ -232,13 +240,20 @@ Selecție"</string>
     <string name="categories">Categorii</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
+    <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charge_length_format">%1$s în urmă</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear">Goliți</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
+    <string name="clear_saved_files">Ștergeți fișierele salvate</string>
+    <string name="clear_saved_files_question">Ștergeți fișierele salvate?</string>
+    <string name="clear_saved_files_summary">Înregistrările sunt șterse după o lună</string>
     <string name="clear_saved_traces">Eliminați monitorizările salvate</string>
     <string name="clear_saved_traces_question">Eliminați monitorizările salvate?</string>
     <string name="clear_saved_traces_summary">Monitorizările sunt golite după o lună</string>
+    <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="config_rat_2g">2G</string>
     <string name="config_rat_3g">3G</string>
     <string name="config_rat_4g">4G</string>
@@ -347,7 +362,9 @@ Selecție"</string>
     <string name="enabled_by_admin">Activată de către administrator</string>
     <string name="enhanced_connectivity">Conectivitate Îmbunătățită</string>
     <string name="enhanced_connectivity_summary">Activează caracteristica de Conectivitate Îmbunătățită.</string>
+    <string name="error_icon_content_description">Eroare</string>
     <string name="expand_button_title">Avansat</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="external_source_trusted">Permisă</string>
     <string name="external_source_untrusted">Nepermisă</string>
     <string name="failed_attempts_now_wiping_device">Prea multe încercări incorecte. Datele acestui dispozitiv vor fi șterse.</string>
@@ -389,6 +406,8 @@ Selecție"</string>
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
     <string name="install_other_apps">Instalați aplicații necunoscute</string>
+    <string name="install_type_instant">Aplicație instant</string>
+    <string name="item_view_role_description">Filă</string>
     <string name="keep_screen_on">Ecran activ</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
     <string name="keyboard_layout_default_label">Implicită</string>
@@ -436,6 +455,7 @@ Selecție"</string>
     <string name="lb_search_bar_hint_speech">Rostiți pentru a căuta</string>
     <string name="lb_search_bar_hint_with_title">Căutați %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Rostiți pentru a căuta %1$s</string>
+    <string name="link_to_traces">Vedeți fișierele salvate</string>
     <string name="loading_injected_setting_summary">Se încarcă…</string>
     <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă</string>
     <string name="local_backup_password_summary_none">Copiile de rezervă complete nu sunt protejate în prezent</string>
@@ -506,6 +526,7 @@ Selecție"</string>
     <string name="mtrl_picker_a11y_next_month">Comutați la luna următoare</string>
     <string name="mtrl_picker_a11y_prev_month">Comutați la luna anterioară</string>
     <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
+    <string name="mtrl_picker_cancel">Renunțați</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selectați o Dată</string>
@@ -551,6 +572,7 @@ Selecție"</string>
     <string name="osu_sign_up_complete">Înregistrare finalizată. Se conectează…</string>
     <string name="osu_sign_up_failed">Nu s-a putut finaliza înregistrarea. Atingeți pentru a încerca din nou.</string>
     <string name="overlay_display_devices_title">Simulează ecrane secundare</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="physical_keyboard_title">Tastatura fizică</string>
     <string name="picture_color_mode">Mod culoare fotografie</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
@@ -577,6 +599,9 @@ Selecție"</string>
     <string name="power_remaining_only_more_than_subtext">Mai mult de %1$s disponibil</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">Este posibil ca acumulatorul să se descarce %1$s</string>
+    <string name="pref_category_misc">Diverse</string>
+    <string name="pref_category_saved_files">Fișiere salvate</string>
+    <string name="pref_category_trace_settings">Setări de urmărire</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_broken">Serverul DNS Privat nu poate fi accesat</string>
@@ -588,8 +613,11 @@ Selecție"</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problemă la conectare. Opriți și apoi reporniți dispozitivul</string>
     <string name="profile_info_settings_title">Informații de profil</string>
+    <string name="record_stack_samples">Înregistrați profilul CPU</string>
+    <string name="record_stack_samples_summary">Eșantionarea callstack poate fi, de asemenea, activată în urme prin verificarea categoriei \"cpu\".</string>
     <string name="record_system_activity">Înregistrează activitatea sistemului și analizează ulterior pentru a îmbunătăți performanța</string>
     <string name="record_trace">Înregistrează monitorizarea</string>
+    <string name="record_trace_summary">Captează o urmă de sistem utilizând configurația setată în \"Setări de urmărire\"</string>
     <string name="remaining_length_format">%1$s rămas</string>
     <string name="restore_default_categories">Restaurați categoriile implicite</string>
     <string name="retail_demo_reset_message">Introduceți parola pentru a reveni la setările din fabrică în modul demo</string>
@@ -599,6 +627,7 @@ Selecție"</string>
     <string name="runningservices_settings_summary">Vedeți și controlați serviciile care rulează în prezent</string>
     <string name="runningservices_settings_title">Servicii active</string>
     <string name="saved_network">Salvată de %1$s</string>
+    <string name="saving_stack_samples">Se salvează stiva de mostre</string>
     <string name="saving_trace">Se salvează monitorizarea</string>
     <string name="screen_zoom_summary_custom">Personalizat (%d)</string>
     <string name="screen_zoom_summary_default">Implicit</string>
@@ -623,6 +652,7 @@ Selecție"</string>
     <string name="settings_label">Setări</string>
     <string name="settingslib_learn_more_text">Aflați mai multe</string>
     <string name="share">Partajaţi</string>
+    <string name="share_file">Partajați fișierul?</string>
     <string name="share_trace">Partajați monitorizarea?</string>
     <string name="shared_data_delete_failure_text">A apărut o eroare la ștergerea datelor partajate.</string>
     <string name="shared_data_no_accessors_dialog_text">Nu există licențe achiziționate pentru aceste date partajate. Doriți să le ștergeți?</string>
@@ -653,10 +683,13 @@ Selecție"</string>
     <string name="speed_label_slow">Lent</string>
     <string name="speed_label_very_fast">Foarte Rapid</string>
     <string name="speed_label_very_slow">Foarte Lent</string>
+    <string name="stack_samples_are_being_recorded">Se înregistrează stiva de mostre</string>
+    <string name="stack_samples_saved">Stivă mostre salvate</string>
     <string name="standby_bucket_summary">Starea aplicației în standby: %s</string>
     <string name="start_new_trace">Începeți o nouă urmărire</string>
-    <string name="status_unavailable">Indisponibil</string>
-    <string name="stop_tracing">Opriți monitorizarea</string>
+    <string name="stop_on_bugreport">Opriți înregistrarea pentru rapoartele de erori</string>
+    <string name="stop_on_bugreport_summary">Încheie înregistrările active când este pornit un raport de eroare</string>
+    <string name="stop_tracing">Opriți urmărirea</string>
     <string name="storage_category">Stocare</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Afișează operațiunile lungi pe firul principal</string>
@@ -670,7 +703,7 @@ Selecție"</string>
     <string name="system_tracing">Monitorizare Sistem</string>
     <string name="tap_to_renew_subscription_and_connect">Atingeți pentru a reînnoi abonamentul și a vă conecta</string>
     <string name="tap_to_share">Atingeți pentru a partaja monitorizarea</string>
-    <string name="tap_to_sign_up">Atingeți pentru a vă înregistra</string>
+    <string name="tap_to_stop_stack_sampling">Atingeți pentru a opri eșantionarea stivei</string>
     <string name="tap_to_stop_tracing">Atingeți pentru a opri monitorizarea</string>
     <string name="ten_gb">10 GB</string>
     <string name="ten_minutes">10 minute</string>
@@ -746,6 +779,8 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="user_add_user_title">Adăugați un nou utilizator?</string>
     <string name="user_add_user_type_title">Adăugați</string>
     <string name="user_guest">Gazdă</string>
+    <string name="user_image_choose_photo">Alegeți o imagine</string>
+    <string name="user_image_take_photo">Faceți o fotografie</string>
     <string name="user_info_settings_title">Informații utilizator</string>
     <string name="user_need_lock_message">Înainte de a putea crea un profil restricționat, va trebui să configurați o metodă de blocare a ecranului pentru a vă proteja aplicațiile și datele personale.</string>
     <string name="user_new_profile_name">Profil nou</string>
@@ -877,6 +912,7 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="wifitrackerlib_admin_restricted_network">Nu este permis de organizația dvs</string>
     <string name="wifitrackerlib_auto_connect_disable">Conectarea automată este dezactivată</string>
     <string name="wifitrackerlib_available_via_app">Disponibil prin %1$s</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Se verifică accesul la internet...</string>
     <string name="wifitrackerlib_connected_via_app">Conectat prin %1$s</string>
     <string name="wifitrackerlib_imsi_protection_warning">Această rețea primește un ID SIM care poate fi utilizat pentru a urmări locația dispozitivului. <annotation id="url">Aflați mai multe</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">Se finalizează înscrierea…</string>
@@ -894,13 +930,14 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Dezactivat</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Eroare de configurare IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Problemă de autentificare</string>
+    <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Indisponibil cu setările de securitate actuale</string>
     <string name="wifitrackerlib_wifi_disconnected">Deconectat</string>
     <string name="wifitrackerlib_wifi_limited_connection">Conexiune limitată</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Nu se poate conecta. Încercați mai târziu.</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated">Rețeaua este peste capacitate. Încercați mai târziu.</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Semnal slab. Încercați să vă apropiați de router.</string>
     <string name="wifitrackerlib_wifi_metered_label">Contorizat</string>
-    <string name="wifitrackerlib_wifi_network_not_found">Nu se poate conecta. Încercați mai târziu.</string>
+    <string name="wifitrackerlib_wifi_network_not_found">Nu se poate conecta. Reîncercați mai târziu.</string>
     <string name="wifitrackerlib_wifi_no_internet">Fără acces la internet</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Nu se va conecta în mod automat</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Expirat</string>

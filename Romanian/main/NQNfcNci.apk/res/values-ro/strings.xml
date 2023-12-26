@@ -294,7 +294,7 @@
     <string name="pairing_peripheral">Se asociază %1$s</string>
     <string name="pairing_peripheral_failed">Nu s-a putut asocia %1$s</string>
     <string name="password_toggle_content_description">Afișează parola</string>
-    <string name="pay_with">"Metoda de plată: "</string>
+    <string name="pay_with">Plătiți cu</string>
     <string name="pm">PM</string>
     <string name="prompt_connect_to_network">Vă conectați la rețeaua %1$s?</string>
     <string name="saturday">Sâmbătă</string>

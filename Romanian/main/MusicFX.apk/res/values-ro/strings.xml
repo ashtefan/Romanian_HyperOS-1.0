@@ -35,6 +35,6 @@
     <string name="smallroom">Cameră mică</string>
     <string name="toggle_button_off">Oprit</string>
     <string name="toggle_button_on">Pornit</string>
-    <string name="user">Personalizat</string>
+    <string name="user">Utilizator</string>
     <string name="virtualizer_strength">Efect 3D</string>
 </resources>

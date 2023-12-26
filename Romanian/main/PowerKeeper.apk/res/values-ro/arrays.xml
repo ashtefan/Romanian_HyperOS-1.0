@@ -6,18 +6,6 @@
         <item>Alte aplicații</item>
         <item>Aplicațiile selectate</item>
     </string-array>
-    <string-array name="hmode_app_classify1">
-        <item>Personalizat</item>
-        <item>Economisire acumulator MIUI</item>
-    </string-array>
-    <string-array name="hmode_app_classify2">
-        <item>Aplicații active</item>
-        <item>Aplicații în hibernare</item>
-    </string-array>
-    <string-array name="pc_manage_active_app_items">
-        <item>Puneți aplicațiile în hibernare</item>
-        <item>Economisiți energia</item>
-    </string-array>
         <string-array name="power_mode_entries">
         <item>Performanță</item>
         <item>Echilibrat</item>
@@ -84,6 +72,15 @@
         <item>Personalizat</item>
         <item>Economisire acumulator</item>
     </string-array>
+        <string-array name="hmode_app_classify1">
+        <item>Personalizat</item>
+        <item>Economisire acumulator</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aplicații active</item>
+        <item>Aplicații în hibernare</item>
+    </string-array>
+
     <string-array name="power_checker_group_prefix">
         <item>Acum</item>
         <item>În fundal</item>
@@ -97,6 +94,11 @@
         <item>Utilizare CPU</item>
         <item>Trezire frecventă a telefonului</item>
     </string-array>
+        <string-array name="pc_manage_active_app_items">
+        <item>Puneți aplicațiile în hibernare</item>
+        <item>Economisiți energia</item>
+    </string-array>
+
     <string-array name="power_checker_recent_group_titles">
         <item>Blocare mod Deep Sleep</item>
         <item>Blocare mod Sleep</item>

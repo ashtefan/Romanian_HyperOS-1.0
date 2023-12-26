@@ -46,6 +46,13 @@
     <string name="blocked_notification_title_template">Tipărire blocată: %1$s</string>
     <string name="button_delete">Ștergeți</string>
     <string name="button_ok">OK</string>
+    <string name="call_notification_answer_action">Răspundeți</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Refuzați</string>
+    <string name="call_notification_hang_up_action">Închideți</string>
+    <string name="call_notification_incoming_text">Apel de intrare</string>
+    <string name="call_notification_ongoing_text">Apel în curs</string>
+    <string name="call_notification_screening_text">Afișarea unui apel primit</string>
     <string name="cancel">Anulați</string>
     <string name="cancel_print">Anulați sarcina</string>
     <string name="cancelling_notification_title_template">Se anulează %1$s</string>
@@ -60,7 +67,7 @@
     <string name="copy">Copiați</string>
     <string name="could_not_create_file">Nu s-a putut crea fișierul</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
-    <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="delete_saved_printer_content">Ștergeți imprimantele selectate acum?</string>
     <string name="destination_default_text">Selectați o imprimantă</string>
     <string name="disabled_services_title">Servicii dezactivate</string>
