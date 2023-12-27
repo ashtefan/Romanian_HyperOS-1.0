@@ -749,7 +749,6 @@ This doesn't affect other permissions this app may have, like location, camera, 
     <string name="set_auto_delete_button">Set auto-delete</string>
     <string name="set_units_label">Set data units</string>
     <string name="settings_and_help_header">Settings &amp; help</string>
-    <string name="settingslib_config_headlineFontFamily">@string/config_headlineFontFamily</string>
     <string name="settingslib_learn_more_text">Learn more</string>
     <string name="sexual_activity_lowercase_label">sexual activity</string>
     <string name="sexual_activity_protected">Protected</string>
