@@ -260,7 +260,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="findlost_contact">Recuperaţi contactele</string>
     <string name="findlost_contact_online">Restabiliţi contactele din cloud</string>
     <string name="flash_drive_backup_btn">Copie de rezervă pe dispozitiv USB</string>
-    <string name="flash_drive_backup_note">"Faceți o copie de rezervă a aplicațiilor pe un dispozitiv USB.
+    <string name="flash_drive_backup_note">"Faceți o copie de rezervă a conținutului pe un dispozitiv USB.
 Înainte de a începe, asigurați-vă că dispozitivul USB are spațiu de stocare suficient."</string>
     <string name="flash_drive_backup_restore">Copii de rezervă USB</string>
     <string name="flash_drive_connection_failed">Dispozitiv USB deconectat</string>
@@ -549,7 +549,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_britem_other">Altele</string>
     <string name="new_britem_pic">Imagini</string>
     <string name="new_britem_video">Videoclipuri</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI asociază copiile de rezervă criptate contului dvs. Mi. Va trebui să vă conectați la contul Mi pentru a restaura elementele din aceste copii de rezervă.</string>
+    <string name="new_confirm_enable_encrypt_content">Copiile de rezervă criptate sunt asociate contului dvs. Xiaomi. Va trebui să vă conectați la contul dvs. Xiaomi pentru a restaura elementele din astfel de copii de rezervă.</string>
     <string name="new_confirm_enable_encrypt_title">Criptați</string>
     <string name="new_local_button_backup">Creați o copie de rezervă</string>
     <string name="new_local_button_restore">Restaurați</string>
@@ -595,8 +595,8 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="new_tab_pc_restore">Restaurați</string>
     <string name="new_task_finished">Finalizat</string>
     <string name="new_usb_detail_description">"Notă:
-%1$d. Această metodă vă permite să faceți o copie de rezervă pentru aplicațiile terțe și datele aplicațiilor.
-%2$d. Asigurați-vă că aveți suficient spațiu de stocare în stocarea USB pentru copiile de rezervă."</string>
+%1$d. Faceți o copie de rezervă a conținutului pe un dispozitiv USB.
+%2$d. Asigurați-vă că unitatea USB are suficient spațiu de stocare înainte de a începe."</string>
     <string name="new_usb_disconnect_dialog_message">Conectați mai întâi stocarea USB.</string>
     <string name="new_usb_disconnect_dialog_title">Nu s-a găsit niciun mediu de stocare USB</string>
     <string name="new_usb_select_data_no_space">Aveți doar %s spațiu de stocare disponibil în stocarea USB. Eliberați spațiu de stocare.</string>

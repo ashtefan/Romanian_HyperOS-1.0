@@ -446,13 +446,13 @@ pentru a pune pictograma satelit în zona albastră"</string>
     <string name="satellite_guide_up">"Înclinați dispozitivul în sus
 pentru a pune mingea în zona albastră"</string>
     <string name="satellite_incall_tip">Difuzor activ</string>
-    <string name="satellite_service_provider">Furnizat de China Telecom</string>
+    <string name="satellite_service_provider">Serviciu furnizat de China Telecom</string>
     <string name="satellite_state">Nu mișcați dispozitivul</string>
     <string name="satellite_state_auto_exit">Ieșiți (%ds)</string>
     <string name="satellite_state_connected">Conectat la satelit. Nu mișcați dispozitivul.</string>
     <string name="satellite_state_connected_floating">Nu mișcați dispozitivul</string>
     <string name="satellite_state_connecting">Se conectează… (%ds)</string>
-    <string name="satellite_state_retry">Încercați din nou</string>
+    <string name="satellite_state_retry">Încercați în continuare</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

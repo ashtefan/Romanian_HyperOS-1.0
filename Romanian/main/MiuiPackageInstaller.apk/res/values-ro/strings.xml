@@ -686,8 +686,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="material_hour_suffix">"%1$s o'clock"</string>
     <string name="material_minute_selection">Selectați minutele</string>
     <string name="material_minute_suffix">%1$s minute</string>
-    <string name="material_slider_range_end">Sfârșitul intervalului,</string>
-    <string name="material_slider_range_start">Începutul intervalului,</string>
+    <string name="material_slider_range_end">Sfârșitul intervalului</string>
+    <string name="material_slider_range_start">Începutul intervalului</string>
     <string name="material_slider_value">Valoarea</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Comutați în modul ceas pentru introducerea orei.</string>
@@ -878,6 +878,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="mtrl_picker_a11y_prev_month">Comutați la luna anterioară</string>
     <string name="mtrl_picker_announce_current_range_selection">Selectarea datei de începere: %1$s – Selectarea datei de încheiere: %2$s</string>
     <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">nimic</string>
     <string name="mtrl_picker_cancel">Renunțați</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
@@ -907,9 +908,9 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_today_description">Astăzi %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere calendar</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la vizualizarea Calendar</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul introducere text</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la vizualizarea anilor</string>
     <string name="mtrl_timepicker_cancel">Renunțați</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="net_work_error_msg">Nu s-a putut conecta la rețea pentru a efectua o verificare de securitate</string>
@@ -1661,11 +1662,11 @@ aplicațiile"</string>
     <string name="unknown_source_risk_not_credible_description">Această aplicație provine dintr-o sursă care nu este de încredere. Dacă înțelegeți și acceptați riscurile și doriți să continuați instalarea, puteți permite data aceasta.</string>
     <string name="unlock_failed">Eroare internă</string>
     <string name="unrecorded_app_dialog_tips_clickable_msg_default">Aflați mai multe despre politica de înregistrare a aplicațiilor</string>
-    <string name="unrecorded_app_dialog_tips_help">Dacă aveți încredere în această aplicație, apăsați butonul ︙ din colțul din dreapta sus și selectați „Permiteți o dată”</string>
-    <string name="unrecorded_app_dialog_tips_msg_default">Această aplicație nu a fost listată în conformitate cu cerințele de conformitate cu politicile. Este posibil să nu puteți contacta dezvoltatorul acestei aplicații în cazul în care interesele dvs. sunt încălcate. Instalați această aplicație cu precauție. Aflați mai multe despre politica de înregistrare a aplicațiilor</string>
+    <string name="unrecorded_app_dialog_tips_help">Dacă aveți încredere în această aplicație, apăsați butonul ︙ din colțul din dreapta sus și selectați \"Permiteți o dată\"</string>
+    <string name="unrecorded_app_dialog_tips_msg_default">Această aplicație nu a fost listată în conformitate cu cerințele politicilor de conformitate. Este posibil să nu puteți contacta dezvoltatorul acestei aplicații în cazul în care interesele dvs. sunt încălcate. Instalați această aplicație cu precauție. Aflați mai multe despre politica de înregistrare a aplicațiilor</string>
     <string name="unrecorded_app_dialog_tips_title_default">Riscuri detectate</string>
     <string name="unrecorded_app_tips_des_1_clickable_default">Aflați mai multe despre politica de înregistrare a aplicațiilor</string>
-    <string name="unrecorded_app_tips_des_1_default">Aplicațiile care vin fără informațiile de conformitate necesare pot prezenta riscuri de securitate. Această aplicație nu a fost testată sau verificată de Xiaomi. Descărcați-l cu precauție. Aflați mai multe despre politica de înregistrare a aplicațiilor</string>
+    <string name="unrecorded_app_tips_des_1_default">Aplicațiile care vin fără informațiile de conformitate necesare pot prezenta riscuri de securitate. Această aplicație nu a fost testată sau verificată de către Xiaomi. Descărcați-o cu precauție. Aflați mai multe despre politica de înregistrare a aplicațiilor</string>
     <string name="unrecorded_app_tips_des_2_clickable_default">recurs</string>
     <string name="unrecorded_app_tips_des_2_default">Dacă ați furnizat deja lista acestei aplicații autorităților de reglementare în calitate de dezvoltator, puteți trimite o contestație</string>
     <string name="unrecorded_app_tips_title_default">Nu s-a putut găsi lista acestei aplicații</string>

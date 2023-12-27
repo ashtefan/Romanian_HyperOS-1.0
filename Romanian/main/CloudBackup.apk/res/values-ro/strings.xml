@@ -466,7 +466,7 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="provision_error_connect_title">"Nu se poate conecta"</string>
     <string name="provision_next">Următorul</string>
     <string name="provision_restore_data">Se restaurează elementele</string>
-    <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">Omiteți</string>
     <string name="query_restore_description">Dacă restabiliți aspectul și setările Ecranului principal, aplicațiile care sunt deja instalate vor fi restabilite la pozițiile inițiale de pe ecranul de pornire. Aplicațiile care nu fac parte din această copie de rezervă vor fi mutate în ultima pagină a Ecranului principal.</string>
     <string name="query_restore_summary">A fost găsită o copie de rezervă Xiaomi Cloud pentru acest dispozitiv. Restaurați aplicațiile și setările din ecranul principal sau utilizați ca dispozitiv nou și ștergeți copiile de rezervă anterioare din Xiaomi Cloud?</string>

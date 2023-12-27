@@ -221,7 +221,8 @@
     <string name="decompress_corrupt">"Nu s-au putut dezarhiva fișierele. Pachetul este corupt."</string>
     <string name="decompress_destination_error">Nu se pot extrage fişierele în această locaţie.</string>
     <string name="decompress_encrypted_rar_not_supported">Fișierele rar criptate nu sunt acceptate.</string>
-    <string name="decompress_fail">"Dezarhivarea a eşuat."</string>
+    <string name="decompress_fail">Nu s-a putut extrage.</string>
+    <string name="decompress_fail_contains_special_characters">Nu se poate comprima. Numele fișierelor comprimate nu pot conține caractere speciale.</string>
     <string name="decompress_input_password">Introduceţi parola</string>
     <string name="decompress_password_error">Parolă greşită</string>
     <string name="decompress_success">Dezarhivare finalizată</string>
@@ -751,6 +752,7 @@
     <string name="operation_decompressing">Dezarhivare…</string>
     <string name="operation_del_fav">Eliminare din favorite…</string>
     <string name="operation_delete">Ştergeţi</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM este un dosar al aplicației Galerie. Dacă ștergeți acest dosar, toate elementele din el vor fi, de asemenea, șterse definitiv din Galerie. Ștergeți oricum acest dosar?</string>
     <string name="operation_delete_confirm_message">Ştergeţi?</string>
     <string name="operation_delete_confirm_message_folder">"Tot conținutul dosarului va fi șters.
 "</string>

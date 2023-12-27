@@ -685,8 +685,6 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="category_telephone_charge">Comunicații</string>
     <string name="category_tenement">Închiriere</string>
     <string name="category_traffic">Transport</string>
-    <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limita caracterelor a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_network">Verificați setările de rețea</string>
     <string name="check_network_retry">Vă rugăm să verificați setările de rețea și încercați din nou</string>
