@@ -151,9 +151,12 @@
     <string name="ai_confirm_delete_image_title">Ștergeți imaginea AI?</string>
     <string name="ai_continue_create_btn">Continuați</string>
     <string name="ai_continue_update_image_btn">Continuați</string>
+    <string name="ai_continue_upload_photo">Continuați</string>
     <string name="ai_create_ai_image">Creați o imagine AI</string>
-    <string name="ai_create_image_deal_file_text">Se calculează timpul de așteptare…</string>
     <string name="ai_create_image_fail">Nu s-a putut crea imaginea AI din cauza unei erori de server. Încercați din nou.</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Se pare că fotografiile pe care le-ați încărcat încalcă standardele comunității noastre.
+Încercați să creați imaginea AI cu alte fotografii."</string>
+    <string name="ai_create_image_fail_by_net">Nu s-a putut crea imaginea AI. Serverele noastre sunt prea ocupate acum. Încercați din nou.</string>
     <string name="ai_create_image_photo_tip">Fotografiile vor fi șterse de pe serverele noastre după ce imaginea AI este creată</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
     <string name="ai_create_image_tip">Fotografiile vor fi șterse de pe serverele noastre după ce imaginea AI este creată</string>
@@ -170,13 +173,22 @@
     <string name="ai_creation_save_failed_msg">Nu s-a putut salva. Încercați din nou.</string>
     <string name="ai_creation_save_success_msg">Salvat cu succes</string>
     <string name="ai_creation_wait_message">Se crează… | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">Permiteți</string>
+    <string name="ai_cta_dialog_message">Permiteți Galeriei să se conecteze la internet pentru a putea crea portrete AI.</string>
+    <string name="ai_cta_dialog_title">Permisiuni necesare</string>
+    <string name="ai_cta_refuse_btn">Nu, mulțumesc</string>
     <string name="ai_deal_file_tip">Nu părăsiți această pagină</string>
     <string name="ai_deal_file_title">Se procesează fotografiile…</string>
     <string name="ai_deal_tile_text">Se calculează timpul necesar…</string>
     <string name="ai_delete_image_fail">Nu s-a putut șterge. Încercați din nou.</string>
     <string name="ai_delete_image_progress_message">Se șterge…</string>
     <string name="ai_delete_image_success">Imaginea AI a fost ștearsă cu succes</string>
-    <string name="ai_enhance_bar_default">Generați imagine HD</string>
+    <string name="ai_download_filter_photo_so_confirm_btn">Descărcați</string>
+    <string name="ai_download_filter_photo_so_downloading">Se descarcă extensia…</string>
+    <string name="ai_download_filter_photo_so_message">Pentru a putea folosi toate funcțiile portret AI, descărcați mai întâi extensia.</string>
+    <string name="ai_download_filter_photo_so_title">Descărcați extensia</string>
+    <string name="ai_download_filter_so_fail_toast">Nu s-a putut descărca extensia. Încercați din nou.</string>
+    <string name="ai_enhance_bar_default">Generați imaginea HD</string>
     <string name="ai_enhance_bar_failed">Nu s-a putut genera imaginea HD</string>
     <string name="ai_ensure_exit_select_message">Va trebui să selectați fotografiile din nou data viitoare.</string>
     <string name="ai_ensure_exit_select_title">Ieșiți acum?</string>
@@ -187,6 +199,7 @@
     <string name="ai_free_creation_button">Creați</string>
     <string name="ai_free_creation_container_msg">De exemplu: O plimbare pe plajă</string>
     <string name="ai_free_creation_container_title">Introduceți descrierea</string>
+    <string name="ai_free_creation_illegal_text_toast">Acest text încalcă standardele comunității noastre. Rescrieți mesajul.</string>
     <string name="ai_free_creation_random_button">Aleatoriu</string>
     <string name="ai_free_creation_text_container_tips">Generatorul nostru de imagini AI se îmbunătățește constant. Dacă nu sunteți mulțumit de rezultate, puteți oricând să încercați din nou un pic mai târziu!</string>
     <string name="ai_free_creation_text_count_exceed_limit">Textul introdus este prea lung</string>
@@ -209,7 +222,7 @@ Selectați alte fotografii și încercați din nou."</string>
     <string name="ai_image_over_limit_button_create">Continuați</string>
     <string name="ai_image_over_limit_title">Nu se poate crea imaginea AI</string>
     <string name="ai_image_privacy_detail"><Data>"Am citit și accept &lt;a href=\"%1$s\">Acordul imaginilor AI&lt;/a>."</Data></string>
-    <string name="ai_image_privacy_message">" "<Data>" Bun venit la Portrete AI!&lt;br/>Pentru a vă putea oferi servicii, trebuie să colectăm informațiile personale necesare:&lt;br/>1. Pentru a crea portrete AI, va trebui să încărcați &lt;b>fotografii cu persoane&lt;/b> pe serverele noastre. Vom colecta și procesa informațiile despre &lt;b>fețele&lt;/b> acestora pentru a genera un model AI.&lt;br/>2. Când încărcați &lt;b>fotografii cu persoane&lt;/b>, vom sincroniza &lt;b>numele și fotografiile de profil&lt;/b> ale acestora&lt;/b> din albumele corespunzătoare și vom asocia aceste informații cu imagini AI.&lt;br/>3 . Când creați imagini AI bazate pe text, vom colecta &lt;b>descrierea&lt;/b> pe care o furnizați pentru a genera imagini.&lt;br/>Colectăm numai informații personale necesare pentru caracteristicile specifice ale noastre produsele și serviciile pe care le utilizați. Puteți afla cum colectăm și procesăm informațiile personale în &lt;a href=\"%1$s\">Politica de confidențialitate AI Portraits&lt;/a>.&lt;br/>Citiți și sunteți de acord cu &lt;a href=\ „%2$s\">Acordul utilizatorului AI Portraits&lt;/a> și &lt;a href=\"%3$s\">Politica de confidențialitate AI Portraits&lt;/a> înainte de a continua. "</Data>" "</string>
+    <string name="ai_image_privacy_message"><Data>"Bun venit la Portrete AI!&lt;br/>Pentru a vă putea oferi servicii, trebuie să colectăm informațiile personale necesare:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Pentru a crea portrete AI, va trebui să încărcați &lt;b>fotografiile persoanelor&lt;/b> pe serverele noastre. Vom colecta și procesa informațiile despre &lt;b>chipurile&lt;/b> acestora pentru a genera un model AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Atunci când încărcați &lt;b>fotografiile persoanelor&lt;/b>, le vom sincroniza &lt;b>numele și fotografiile de profil&lt;/b> din albumele corespunzătoare și vom asocia aceste informații cu imaginile AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Când creați imagini AI bazate pe text, vom colecta &lt;b>descrierea&lt;/b> pe care o furnizați pentru a genera imagini.&lt;br/>Colectăm doar informațiile personale care sunt necesare pentru caracteristicile specifice ale produselor și serviciilor noastre pe care le utilizați. Puteți afla cum colectăm și procesăm informațiile personale în &lt;a href=\"%4$s\">Politica de confidențialitate a Portrete AI&lt;/a>.&lt;br/>Citiți și acceptați &lt;a href=\"%5$s\">Acordul utilizatorului Portrete AI&lt;/a> și &lt;a href=\"%6$s\">Politica de confidențialitate Portrete AI&lt;/a> înainte de a continua."</Data></string>
     <string name="ai_input_name_hint">Introduceți numele</string>
     <string name="ai_loading">Doar o secundă…</string>
     <string name="ai_multi_window_tip">Această pagină nu poate fi vizualizată în Ecran împărțit</string>
@@ -220,7 +233,7 @@ Selectați alte fotografii și încercați din nou."</string>
     <string name="ai_no_net_toast">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="ai_normal_theme_button">Creați</string>
     <string name="ai_photo_upload_fail">Nu s-a putut încărca. Încercați din nou.</string>
-    <string name="ai_please_agree_privacy_toast">Acceptați mai întâi termenii și condițiile noastre</string>
+    <string name="ai_photos_upload_fail_tip">Fotografiile lui %s nu au fost încărcate încă. Puteți continua să încărcați fotografii acum.</string>
     <string name="ai_preview_failed_retry_button">Încercați din nou</string>
     <string name="ai_privacy_tip_1">ID-ul fotografiei</string>
     <string name="ai_privacy_tip_2">Portret de ziua de naștere</string>
@@ -229,6 +242,10 @@ Selectați alte fotografii și încercați din nou."</string>
     <string name="ai_privacy_title">Declarația de confidențialitate</string>
     <string name="ai_re_create_image">Încercați din nou</string>
     <string name="ai_ready_to_have_try">Începeți</string>
+    <string name="ai_recreate_image_cancel_text_btn">Continuați</string>
+    <string name="ai_recreate_image_confirm_text_btn">Selectați</string>
+    <string name="ai_recreate_image_dialog_msg">Puteți continua să încărcați fotografii sau să selectați altele noi.</string>
+    <string name="ai_recreate_image_dialog_title">Fotografiile lui %s nu au fost încărcate</string>
     <string name="ai_refuse_update_toast">Selectați fotografii noi pentru a putea actualiza această imagine AI</string>
     <string name="ai_select_people_sub_title" formatted="false">cele mai bune %1d–%2d fotografii vor fi selectate automat</string>
     <string name="ai_select_people_title">Selectați o persoană pentru a-i crea imaginea AI</string>
@@ -246,6 +263,7 @@ Cele mai bune fotografii au fost selectate automat. Puteți adăuga mai multe fo
     <string name="ai_select_photo_manual">Selectați manual</string>
     <string name="ai_select_photo_need_select_manual">Nu sunt suficiente fotografii. Adăugați mai mult.</string>
     <string name="ai_select_photo_next_step">Următorul</string>
+    <string name="ai_select_photo_no_result_toast">Nu se poate crea o imagine AI pe baza acestor fotografii. În schimb, selectați alte fotografii.</string>
     <string name="ai_select_photo_over_time_toast">Cele mai bune fotografii au fost selectate automat. Adăugați mai multe fotografii manual.</string>
     <string name="ai_select_photo_right_guide_angel">Unghiuri multiple</string>
     <string name="ai_select_photo_right_guide_expression">Expresii faciale variate</string>
@@ -548,6 +566,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="btn_sure">OK</string>
     <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
     <string name="burst_photo_enter">Rafală</string>
+    <string name="burst_photo_preview_thumbnail_content_description">Fotografia %d</string>
     <string name="burst_preview_title">Fotografiere în rafală</string>
     <string name="burst_save_all">Păstrați toate fotografiile</string>
     <string name="burst_save_choice_title">Au fost selectate %1$d din %2$d</string>

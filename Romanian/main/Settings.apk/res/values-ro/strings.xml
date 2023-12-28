@@ -9688,6 +9688,7 @@ Atingeți de două ori pentru a deschide Recente.</string>
     <string name="skip_lock_screen_confirm_msg">"Notificările, controalele playerului muzical și scurtăturile nu vor fi afișate în Blocarea ecranului."</string>
     <string name="skip_lock_screen_dialog_button_label">Omiteți</string>
     <string name="skip_step">Omiteţi</string>
+    <string name="slave_wifi_menu_p2p">SLAVE Wi-Fi Direct</string>
     <string name="slider_app_open">Deschideți aplicația</string>
     <string name="slider_app_open_name">Deschideți %1$s</string>
     <string name="slider_app_open_none">Nimic</string>

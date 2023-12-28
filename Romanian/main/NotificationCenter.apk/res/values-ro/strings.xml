@@ -74,7 +74,7 @@
     <string name="feedback_tip_title">Feedback despre categoriile notificărilor</string>
     <string name="float_notification_snooze_strategy">Ascunde temporar</string>
     <string name="float_notification_snooze_summary">Glisați în sus o notificare plutitoare pentru a le ascunde temporar pe cele viitoare</string>
-    <string name="float_notification_snooze_summary_1_min">Glisați în sus pe o notificare plutitoare pentru a le ascunde pe cele viitoare pentru %d</string>
+    <string name="float_notification_snooze_summary_1_min">Glisați în sus pe o notificare plutitoare pentru a le ascunde pe cele viitoare pentru %d minut</string>
     <string name="float_notification_snooze_summary_always_float">Afișează întotdeauna notificările plutitoare</string>
     <string name="float_notification_snooze_summary_until_unlock">Glisați în sus pe o notificare plutitoare pentru a le ascunde pe cele viitoare până când dispozitivul este blocat</string>
     <string name="float_notifications">Notificări plutitoare</string>

@@ -50,6 +50,8 @@
     <string name="bluetooth_permission_grant_immediately">Permiteți</string>
     <string name="bluetooth_permission_later">Nu acum</string>
     <string name="bluetooth_permission_title">Permisiuni necesare</string>
+    <string name="calibrate_rotate_again">Încercați din nou</string>
+    <string name="calibrate_rotate_tip">Înclinați dispozitivul brusc pentru a face ca bila să se rotească într-un cerc</string>
     <string name="callFailed_cb_enabled">Nu puteţi efectua apeluri în timp ce blocarea apelurilor este activă.</string>
     <string name="callFailed_congestion">Reţea ocupată</string>
     <string name="callFailed_dialToDial">Solicitarea de apel a fost modificată în apel cu număr diferit.</string>
