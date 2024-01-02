@@ -344,6 +344,24 @@ dispozitivele dvs?"</string>
     <string name="close_invisible_mode_dialog_message">Nu se poate folosi Mi Smart Play acum. Dezactivați modul incognito din Setări pentru a putea folosi această funcție.</string>
     <string name="close_invisible_mode_dialog_ok">Setări</string>
     <string name="close_invisible_mode_dialog_title">Sunteți în modul Incognito</string>
+    <string name="common_google_play_services_enable_button">Activați</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Instalați</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
+    <string name="common_google_play_services_install_title">Obțineți serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare la serviciile Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme cu serviciile Google Play. Vă rugăm să încercați din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de către dispozitivul dvs.</string>
+    <string name="common_google_play_services_update_button">Actualizați</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care se actualizează în prezent.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se va actualiza în mod automat în scurt timp.</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_signin_button_text">Conectați-vă</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">Nu s-a putut conecta la dispozitiv</string>
@@ -385,6 +403,7 @@ dispozitivele dvs?"</string>
     <string name="controller_auth_cancel">Renunțați</string>
     <string name="controller_auth_title">Verificați telecomanda</string>
     <string name="copy">Copiați</string>
+    <string name="copy_toast_msg">Link copiat în clipboard</string>
     <string name="current_wifi_tv">Rețeaua curentă</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinez</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
@@ -461,6 +480,9 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
+    <string name="fallback_menu_item_copy_link">Copiați linkul</string>
+    <string name="fallback_menu_item_open_in_browser">Deschideți în browser</string>
+    <string name="fallback_menu_item_share_link">Partajați linkul</string>
     <string name="file_read_des">Pentru afișarea fotografiilor și a altor fișiere pe monitoare externe</string>
     <string name="find_device_close">Am înțeles</string>
     <string name="find_device_notification_content_phone">%1$s caută acest dispozitiv folosind %2$s. Deblocați pentru a opri redarea sunetului.</string>
@@ -665,6 +687,32 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="help_page_text_55_global">"Dacă nu vă puteți conecta la rețea, asigurați-vă că dispozitivul extern (de ex. televizorul) suportă funcția Miracast și că aceasta este activă. La unele modele, această funcție este numită Wireless Display, Oglindire Ecran sau Ecrane multiple.
 4. În cazul în care întâmpinați probleme, le puteți raporta prin intermediul aplicației \"Servicii și feedback\"."</string>
     <string name="help_page_text_end">"Dacă modelul dispozitivului dvs. nu este listat aici, contactați producătorul pentru a afla mai multe despre funcția de proiectare."</string>
+    <string name="hm_always">Reține</string>
+    <string name="hm_conflict_title">Model întrerupt: %1$s</string>
+    <string name="hm_conflict_toast">Aveți o scenă de casă inteligentă sau o automatizare conflictuală. Editați-o mai întâi în aplicație.</string>
+    <string name="hm_go_to_help">Vedeți secțiunea de ajutor</string>
+    <string name="hm_go_to_login">Conectați-vă</string>
+    <string name="hm_go_to_open_setting">Activați</string>
+    <string name="hm_habit_info_describe">"Lăsați dispozitivele să se adapteze nevoilor dvs
+învățând modul în care le folosiți"</string>
+    <string name="hm_habit_info_empty_describe">"Continuați să vă folosiți dispozitivele
+astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</string>
+    <string name="hm_habit_info_list_empty">Se învață modelele…</string>
+    <string name="hm_help">Ajutor</string>
+    <string name="hm_knew">Am înțeles</string>
+    <string name="hm_pause_habit">Pauză</string>
+    <string name="hm_please_login_mi_account">Conectați-vă la contul dvs. Xiaomi pentru a începe</string>
+    <string name="hm_remember">Reține</string>
+    <string name="hm_resume_habit">Reia</string>
+    <string name="hm_setup">Setări</string>
+    <string name="hm_time_has_paused">Pus în pauză</string>
+    <string name="hm_time_just_remembered">Învățat chiar acum</string>
+    <string name="hm_time_long_ago">Cu mult timp în urmă</string>
+    <string name="hm_time_not_executed">Neutilizat încă</string>
+    <string name="hm_time_recent_week">În această săptămână</string>
+    <string name="hm_time_today">Astăzi</string>
+    <string name="hm_time_yesterday">Ieri</string>
+    <string name="hm_toast_log_in">Conectați-vă mai întâi la contul dvs. Xiaomi</string>
     <string name="hyper_mind_close_warning">Atenție</string>
     <string name="hyper_mind_close_warning_checkbox">Nu afișa din nou</string>
     <string name="hyper_mind_close_warning_content">HyperMind va înceta să colecteze date și să învețe tiparele de utilizare după ce îl dezactivați. Dacă trebuie să ștergeți datele care au fost deja colectate, &lt;a href=%1$s>apăsați aici&lt;/a>.</string>
@@ -1207,6 +1255,7 @@ Asigurați-vă că ați activat Jocuri Turbo înainte de a proiecta jocuri."</st
     <string name="trust_device_manager">Gestionați dispozitivele de încredere</string>
     <string name="trust_device_none">Nu există dispozitive de încredere aici</string>
     <string name="trust_device_title">Dispozitive de încredere</string>
+    <string name="try_multipurpose_equipment">Continuați să utilizați dispozitive pentru a le adapta nevoilor dvs.</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>

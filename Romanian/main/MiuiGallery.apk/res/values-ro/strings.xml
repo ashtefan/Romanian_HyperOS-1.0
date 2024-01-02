@@ -2158,6 +2158,7 @@ pentru a personaliza Galeria"</string>
     <string name="mark_operation_succeeded">Adăugat cu succes</string>
     <string name="mark_people_ignore_info_message">Atingeți și mențineți apăsate fotografiile persoanelor pentru a le grupa</string>
     <string name="media_type_burst_photo">Rafală</string>
+    <string name="media_type_cinematic">Mod Film</string>
     <string name="media_type_clone_photo">Clone</string>
     <string name="media_type_doc_photo">Documente</string>
     <string name="media_type_fast_motion_video">Interval de timp</string>
@@ -3267,7 +3268,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="send_public_url">Trimiteţi URL album</string>
     <string name="send_secret_file_failed">"Nu s-a putut partaja"</string>
     <string name="send_secret_file_space_low">Nu există suficient spațiu de stocare</string>
-    <string name="send_too_many_files_error">Se pot trimite cel mult %d elemente odată</string>
+    <string name="send_special_video_duration_more_than_40s">Videoclipurile procesate mai lungi de %d minute pot fi partajate numai în formatul lor original, care ar putea să nu fie compatibil cu dispozitivul țintă. Continuați oricum?</string>
     <string name="service_error">Eroare de server</string>
     <string name="service_is_provided_by_miui_cloud_service">Acest serviciu este furnizat de către Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Setaţi ca imagine de fundal a blocării ecranului</string>
@@ -3825,6 +3826,8 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="tip_capture_time">Captată pe:</string>
     <string name="tip_file_info">Informații fișier:</string>
     <string name="tip_file_path">Calea fișierului:</string>
+    <string name="tip_leica_authentic">Leica Autentic</string>
+    <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">Nicio descărcare. Se va descărca din Xiaomi Cloud în timpul rulării.</string>
     <string name="tip_screenshot_package_info">Numele aplicației:</string>
     <string name="tips_for_photo_page_selection">Puteți atinge elementele pentru a le vizualiza</string>
