@@ -627,7 +627,6 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 10 minute după ce opriți telefonul"</string>
     <string name="shutdown_alarm_title">Alarmă oprire</string>
     <string name="silent_alarm_summary">Silenţios</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
     <string name="sleep_analysis">Statistici</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
