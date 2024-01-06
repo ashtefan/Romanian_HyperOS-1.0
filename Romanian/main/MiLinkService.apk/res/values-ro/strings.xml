@@ -289,6 +289,9 @@ dispozitivele dvs?"</string>
     <string name="circulate_open_in_tv">Deschideți pe TV</string>
     <string name="circulate_pad_app_continuity">Se utilizează %1$s a telefonului</string>
     <string name="circulate_pad_card_being_used_camera">Se utilizează camera telefonului pe tabletă</string>
+    <string name="circulate_pad_card_being_used_cellular">Tableta utilizează datele mobile</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Semnal Wi-Fi partajat cu tableta</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Semnal Wi-Fi partajat cu tableta</string>
     <string name="circulate_pad_card_use_camera">Utilizați camera tabletei</string>
     <string name="circulate_pad_card_use_desktop">Partajați ecranul de pornire pe tabletă</string>
     <string name="circulate_pad_card_using_camera">Se utilizează camera tabletei</string>
@@ -301,8 +304,12 @@ dispozitivele dvs?"</string>
     <string name="circulate_phone_app_continuity">Se utilizează %1$s pe tabletă</string>
     <string name="circulate_phone_card_being_used_camera">Se utilizează camera tabletei pe telefon</string>
     <string name="circulate_phone_card_use_camera">Utilizați camera telefonului</string>
+    <string name="circulate_phone_card_use_cellular">Utilizați datele mobile de pe telefon</string>
     <string name="circulate_phone_card_use_desktop">Vizualizați Ecranul principal al telefonului</string>
     <string name="circulate_phone_card_using_camera">Se utilizează camera telefonului…</string>
+    <string name="circulate_phone_card_using_cellular">Se utilizează datele mobile de pe telefon</string>
+    <string name="circulate_phone_card_using_cellular_wifi">Se utilizează semnalul Wi-Fi de pe telefon</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">Se utilizează semnalul Wi-Fi de pe telefon</string>
     <string name="circulate_phone_card_using_desktop">Se vizualizează Ecranul principal al telefonului…</string>
     <string name="circulate_public_device_title_format">"%1$s's %2$s"</string>
     <string name="circulate_ringfind_button_hint_play">Redați sunetul</string>
@@ -370,6 +377,7 @@ dispozitivele dvs?"</string>
     <string name="connect_settings_base">Interconectivitate</string>
     <string name="connect_settings_category_connection_car">Caracteristicile mașinii</string>
     <string name="connect_settings_category_personal_device">Dispozitive personale</string>
+    <string name="connect_settings_communication_sharing">Tethering wireless</string>
     <string name="connect_settings_connect_permission">Interconectivitate și permisiuni</string>
     <string name="connect_settings_connect_privacy">Confidențialitate</string>
     <string name="connect_settings_connection_service">Interconectivitate Xiaomi</string>
@@ -386,7 +394,7 @@ dispozitivele dvs?"</string>
     <string name="connect_settings_summary"><Data>Descoperiți automat dispozitivele din apropiere conectate la contul dvs. Xiaomi și conectați-le între ele pentru a efectua o varietate de sarcini pe mai multe dispozitive. &lt;a href=%1$s>Aflați mai multe&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Permiteți dispozitivelor dvs. să interacționeze între ele fără fir</string>
     <string name="connect_settings_summary_corp_phone">Răspundeți la apeluri de pe tabletele sau computerele din apropiere conectate la contul dvs. Xiaomi</string>
-    <string name="connect_settings_summary_hyper_mind">Adaptați automat dispozitivele din apropiere la nevoile dvs. în funcție de tiparele dvs. de utilizare. Această funcție este furnizată de Mi AI.</string>
+    <string name="connect_settings_summary_hyper_mind">Această funcție vă învață tiparele și le folosește pentru a vă controla dispozitivele inteligente de acasă. Susținut de Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continuați sarcinile în aceeași aplicație pe alt dispozitiv</string>
     <string name="connect_settings_summary_share_clipboard">Lipiți text și imagini pe alte dispozitive în %d minute după ce le-ați copiat pe acest dispozitiv</string>
     <string name="connect_settings_summary_share_launcher_pad">Vizualizați și interacționați cu ecranele de pornire ale telefoanelor din apropiere conectate la contul dvs. Xiaomi</string>
@@ -715,7 +723,7 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="hm_toast_log_in">Conectați-vă mai întâi la contul dvs. Xiaomi</string>
     <string name="hyper_mind_close_warning">Atenție</string>
     <string name="hyper_mind_close_warning_checkbox">Nu afișa din nou</string>
-    <string name="hyper_mind_close_warning_content">HyperMind va înceta să colecteze date și să învețe tiparele de utilizare după ce îl dezactivați. Dacă trebuie să ștergeți datele care au fost deja colectate, &lt;a href=%1$s>apăsați aici&lt;/a>.</string>
+    <string name="hyper_mind_close_warning_content">Dacă dezactivați această funcție, HyperMind nu va mai putea învăța sau utiliza tiparele dvs. Dacă doriți să vă retrageți consimțământul pentru colectarea datelor dvs., atingeți &lt;a href=%1$s>aici&lt;/a>.</string>
     <string name="hyper_mind_close_warning_ok">Am înțeles</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Pictogramă Dialog</string>

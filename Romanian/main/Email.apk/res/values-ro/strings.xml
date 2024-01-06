@@ -1136,7 +1136,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="server_cet_title">Detaliile certificatului</string>
     <string name="service_protocol_title">Termenii serviciului</string>
     <string name="set_network">Setaţi reţeaua</string>
-    <string name="setting_kids_subtitle">Vârstă confirmată</string>
+    <string name="setting_kids_subtitle">Vârstă utilizator confirmată</string>
     <string name="setting_kids_title">Peste 16 ani</string>
     <string name="settings_activity_title">Setări</string>
     <string name="settings_attachment">Atașamente</string>

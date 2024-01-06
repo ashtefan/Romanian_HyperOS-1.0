@@ -251,10 +251,10 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="midnight">Noapte</string>
     <string name="mirror_call_closed">La acest apel s-a răspuns de pe alt dispozitiv</string>
     <string name="mirror_have_been_opened">Ecranul de pornire+ este activat</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_content">Puteți activa serviciile de interconexiune din Setări > Interconectivitate.</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_title">Activați serviciile de interconectivitate pe tabletă</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_content">Puteți activa serviciile de interconexiune din Setări > Interconectivitate.</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_title">Activați serviciile de interconectivitate pe computer</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_content">Puteți activa Serviciile de interconectivitate Xiaomi pe tabletă din Setări > Interconectivitate.</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_title">Serviciul de interconectivitate Xiaomi este dezactivat</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_content">Puteți activa Serviciile de interconectivitate Xiaomi pe computer din Setări > Interconectivitate.</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_title">Serviciul de interconectivitate Xiaomi este dezactivat</string>
     <string name="mirror_to_settings_phone_content">Activați Ecranul de pornire+ acum?</string>
     <string name="mirror_to_settings_remote_pad_content">Puteți activa Ecranul de pornire din Setări > Interconectivitate.</string>
     <string name="mirror_to_settings_remote_pad_title">Activați Ecranul de pornire+ pe tabletă</string>
@@ -375,7 +375,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="notification_channel_name_download">Afișează progresul descărcării</string>
     <string name="notification_mirror">Cealaltă persoană își partajează ecranul. Încercați mai târziu.</string>
     <string name="notification_state_cancel">Deconectați-vă</string>
-    <string name="notification_state_content">Acest dispozitiv este conectat la computerul lui %1$s. Puteți partaja acum dispozitive de intrare, fișiere și imagini.</string>
+    <string name="notification_state_content">Acest dispozitiv este conectat la computerul lui %1$s. Puteți partaja acum fișiere și imagini, precum și utilizar controalele între dispozitive.</string>
     <string name="notification_state_title">Conectat cu succes</string>
     <string name="notify_clip_action_browser">Vizitați</string>
     <string name="notify_clip_action_call">Apelați</string>
@@ -402,7 +402,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="pad_pc_mirror_introduction_summary">Oglindiți ecranul computerului pe tabletă</string>
     <string name="pad_pc_mirror_introduction_title">Oglindire ecran</string>
     <string name="pad_pc_share_introduction_summary">Utilizați mouse-ul și tastatura computerului cu această tabletă</string>
-    <string name="pad_pc_share_introduction_title">Dispozitive de intrare</string>
+    <string name="pad_pc_share_introduction_title">Comenzi pe mai multe dispozitive</string>
     <string name="pad_settings_bluetooth_enable_summary">Activați Bluetooth-ul pentru a putea găsi dispozitive în apropiere. Porniți acum?</string>
     <string name="pad_settings_bluetooth_enable_title">Activați Bluetooth-ul</string>
     <string name="pad_settings_click_toast_msg">Conectați-vă folosind Mi Smart Hub pe computer</string>
@@ -589,8 +589,8 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="share_pc_folder_multi_error_dialog_ok">Am înțeles</string>
     <string name="share_pc_folder_multi_error_dialog_title">Nu s-au putut transfera toate elementele</string>
     <string name="share_stop_share_to_start_screen">Opriți proiectarea pentru a vă putea partaja ecranul</string>
-    <string name="share_to_settings_phone_content">Activați acum serviciile de interconexiune?</string>
-    <string name="share_to_settings_title">Activați serviciile de interconexiune</string>
+    <string name="share_to_settings_phone_content">Activați acum Serviciile de interconectare Xiaomi?</string>
+    <string name="share_to_settings_title">Interconectivitate Xiaomi</string>
     <string name="sink_pc_click_again_to_finish_extent">Atingeți din nou pentru a dezactiva extensia ecranului</string>
     <string name="sink_pc_click_again_to_finish_mirror">Atingeți din nou pentru a opri oglindirea ecranului</string>
     <string name="size_byte">B</string>

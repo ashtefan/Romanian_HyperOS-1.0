@@ -2440,7 +2440,7 @@ Dacă această permisiune este activată, aplicația va fi disponibilă ca opți
     <string name="change_security_lock">Încercați alte modalități de deblocare</string>
     <string name="change_storage">Modificați locația de stocare</string>
     <string name="change_theme_reboot">Schimbarea temei necesită repornirea telefonului.</string>
-    <string name="change_wifi_state_app_detail_summary">Permiteți acestei aplicații să activeze sau să dezactiveze Wi-Fi-ul, să scaneze și să se conecteze la rețelele Wi-Fi, să adauge sau să elimine rețele, sau să pornească un hotspot doar local</string>
+    <string name="change_wifi_state_app_detail_summary">Permiteți acestei aplicații să activeze sau să dezactiveze Wi-Fi-ul, să scaneze și să se conecteze la rețelele Wi-Fi, să adauge sau să elimine rețele, sau să pornească un hotspot doar local.</string>
     <string name="change_wifi_state_app_detail_switch">Permiteți aplicației să controleze Wi-Fi-ul</string>
     <string name="change_wifi_state_title">Control asupra Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">La solicitarea dumneavoastră, Android blochează afișarea pe dispozitiv a acestui grup de notificări</string>
@@ -4408,7 +4408,7 @@ Pentru a afla mai multe, contactați furnizorul dvs. de credit."</string>
 "</string>
     <string name="font_size_summary1">"Dacă textul sistemului dvs. este încă prea mic, încercați "</string>
     <string name="font_size_summary2">Modul Uşor</string>
-    <string name="footer_description_full_screen_intent">Permiteți acestei aplicații să afișeze notificări care ocupă întregul ecran atunci când dispozitivul este blocat. Aplicațiile le pot folosi pentru a evidenția alarme, apeluri primite sau alte notificări urgente.</string>
+    <string name="footer_description_full_screen_intent">Permiteți acestei aplicații să afișeze notificări care ocupă întregul ecran atunci când dispozitivul este blocat. Aplicația poate folosi notificări pe ecran complet pentru a afișa alarme, apeluri primite sau alte notificări urgente. Această setare se bazează pe permisiunea de a deschide ferestre noi în timp ce rulează în fundal și poate fi utilizată numai atunci când această permisiune este acordată.</string>
     <string name="footer_learn_more_content_description">Aflați mai multe despre %1$s</string>
     <string name="for_diagnosis_usage_only">Folosiți aceste informații numai pentru diagnosticare.</string>
     <string name="forbidden_network">(interzisă)</string>

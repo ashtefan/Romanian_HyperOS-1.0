@@ -30,7 +30,7 @@
     <string name="HIPS_Perm_SendSMS_Desc">Trimitere directă de mesaje SMS</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Activarea/dezactivarea Wi-Fi-ului</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Adăugare mesaje vocale de sistem</string>
-    <string name="HIPS_Perm_get_accounts_Desc">Accesare conturi stocate în dispozitiv</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Accesarea conturilor stocate pe dispozitiv</string>
     <string name="HIPS_Perm_process_nfc_Desc">Utilizarea NFC-ului</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesarea aplicației Telefon</string>
     <string name="HIPS_Perm_tencentControl">Accesarea mesajelor din aplicațiile de socializare</string>

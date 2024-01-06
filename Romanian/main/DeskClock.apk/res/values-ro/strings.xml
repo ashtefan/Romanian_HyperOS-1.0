@@ -61,6 +61,7 @@
     <string name="alarm_notify_text">Amânaţi sau anulaţi alarma</string>
     <string name="alarm_permanent_alert">Sună</string>
     <string name="alarm_repeat">Repetare</string>
+    <string name="alarm_repeat_self_define">Personalizați</string>
     <string name="alarm_repeat_self_define_button">Personalizați</string>
     <string name="alarm_ringtone_picker">Alarme</string>
     <string name="alarm_set_new">Alarma se va declanșa în mai puțin de %d minut.</string>
@@ -84,13 +85,13 @@
     <string name="app_label">Ceas</string>
     <string name="app_name">miuiclock</string>
     <string name="auto_silence_entries1">Niciodată</string>
-    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minut</string>
-    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minute</string>
-    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minute</string>
-    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minute</string>
-    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> de minute</string>
-    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> de minute</string>
-    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> de minute</string>
+    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> minut</string>
+    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> minute</string>
+    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> minute</string>
+    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> minute</string>
+    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> minute</string>
+    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> minute</string>
+    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> minute</string>
     <string name="auto_silence_never">Niciodată</string>
     <string name="auto_silence_summary">Setați timpul după care alarmele și temporizatoarele vor fi reduse la tăcere</string>
     <string name="auto_silence_title">Dezactivare automată a sunetului</string>
@@ -560,7 +561,7 @@ mm"</string>
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="privacy_settings_title">Confidențialitate</string>
     <string name="query_privacy_policy">Consultați Politica de Confidențialitate</string>
-    <string name="reach_upper_limit">Nu se mai pot adăuga temporizatoare</string>
+    <string name="read_device_internal_storage">Accesare spațiu de stocare</string>
     <string name="read_external_storage_permission_desc">Pentru setarea sunetelor de apel personalizate</string>
     <string name="read_internal_storage">Acces la stocare</string>
     <string name="read_phone_state">Acces la informațiile despre dispozitiv</string>
@@ -626,6 +627,7 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 10 minute după ce opriți telefonul"</string>
     <string name="shutdown_alarm_title">Alarmă oprire</string>
     <string name="silent_alarm_summary">Silenţios</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
     <string name="sleep_analysis">Statistici</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
