@@ -411,15 +411,15 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="path_soundrecorder_setting">Aplicații de sistem/Înregistrare</string>
     <string name="pause">Pauză</string>
-    <string name="pause_status_focus_notification">Pus în pauză</string>
+    <string name="pause_status_focus_notification">Înregistrare în pauză</string>
     <string name="permission_bluetooth">Accesarea stării conexiunii Bluetooth</string>
     <string name="permission_bluetooth_dialog_description">Permiteți acestui dispozitiv să se conecteze la dispozitivele din apropiere pentru a putea schimba dispozitivele atunci când redați înregistrări.</string>
     <string name="permission_bluetooth_title">Permisiuni necesare</string>
     <string name="permission_desc">Detalii permisiuni</string>
     <string name="permission_dialog_cancel">Renunțați</string>
     <string name="permission_dialog_ok">Setări</string>
-    <string name="permission_notification_description">Pentru trimiterea de alerte la înregistrarea, redarea și descărcarea conținutului</string>
-    <string name="permission_notification_dialog_description">Pentru trimiterea de alerte privind starea actuală a aplicației</string>
+    <string name="permission_notification_description">Această aplicație are nevoie de permisiunea de a trimite notificări pentru a putea trimite alerte la înregistrarea, redarea și descărcarea conținutului.</string>
+    <string name="permission_notification_dialog_description">Această aplicație are nevoie de permisiunea de a trimite notificări pentru a putea trimite alerte despre starea actuală a aplicației.</string>
     <string name="permission_notification_title">Permisiuni necesare</string>
     <string name="permission_read_phone_state">Accesarea informațiilor despre dispozitiv</string>
     <string name="permission_read_phone_state_description">Pentru accesarea stării apelului pentru a opri automat înregistrarea la primirea apelurilor</string>
@@ -632,7 +632,7 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="status_bar_back">Atingeți pentru a reveni la Înregistrare</string>
     <string name="status_bar_recording">Înregistrare…</string>
     <string name="status_bar_recording_pause">Pauză înregistrare</string>
-    <string name="stop_status_focus_notification">Finalizat</string>
+    <string name="stop_status_focus_notification">Înregistrare finalizată</string>
     <string name="storage_permission_dialog_title">Sunt necesare permisiuni pentru stocare</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>

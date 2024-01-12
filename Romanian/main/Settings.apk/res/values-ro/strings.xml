@@ -1629,7 +1629,7 @@ Puteți debloca cu ceasul atunci când fața sau amprenta nu sunt recunoscute."<
     <string name="bluetooth_broadcast_dialog_broadcast_app">Difuzați %1$s</string>
     <string name="bluetooth_broadcast_dialog_broadcast_message">Transmiteți conținut media către dispozitivele din apropiere sau ascultați emisiunea altcuiva</string>
     <string name="bluetooth_broadcast_dialog_find_message">Ascultați emisiunile care rulează în apropierea dvs</string>
-    <string name="bluetooth_broadcast_dialog_text">Audio partajat va fi criptat și disponibil pentru dispozitivele compatibile. În timpul difuzării, sunetul nu va fi redat pe acest dispozitiv și pe dispozitivele Bluetooth conectate.</string>
+    <string name="bluetooth_broadcast_dialog_text">Sunetul audio va fi criptat automat și disponibil pe durata difuzărilor. Numai dispozitivele din apropiere care acceptă difuzarea audio pot găsi și asculta emisiunile dvs. Difuzoarele acestui dispozitiv și alte dispozitive Bluetooth conectate care nu acceptă transmisia audio vor rămâne silențioase.</string>
     <string name="bluetooth_broadcast_dialog_title">Difuzare</string>
     <string name="bluetooth_broadcast_pin_configure">Difuzare: Cod de confidențialitate Bluetooth</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Difuzare: Configurați codul de confidențialitate Bluetooth</string>
@@ -2324,6 +2324,8 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="camera_front">Frontală %s</string>
     <string name="camera_gesture_desc">Deschidere a aplicației de Cameră foto prin rotirea de două ori a încheieturii mâinii</string>
     <string name="camera_gesture_title">Rotire dublă a încheieturii pentru deschiderea Camerei</string>
+    <string name="camera_grip_firmware_update_describe">Păstrați mânerul conectat pe tot parcursul procesului de actualizare</string>
+    <string name="camera_grip_firmware_update_ongoing">Se actualizează. Nu deconectați mânerul.</string>
     <string name="camera_key_action_app_title">Deschideţi aplicaţia</string>
     <string name="camera_key_action_category_title">Imposibil de utilizat Camera</string>
     <string name="camera_key_action_none_title">Nicio acţiune</string>
@@ -3503,9 +3505,11 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="display_cutout_emulation_keywords">decupare ecran</string>
     <string name="display_dashboard_nowallpaper_summary">Închidere, dimensiune font</string>
     <string name="display_dashboard_summary">Imagine de fundal, închidere, dimensiune font</string>
-    <string name="display_dashboard_summary_with_style">Stiluri, imagini de fundal, închidere ecran, dimensiune font</string>
-    <string name="display_label">Ecran</string>
-    <string name="display_order_text">Sortaţi după:</string>
+    <string name="display_notification_icon_0">Nimic</string>
+    <string name="display_notification_icon_1">%d pictogramă</string>
+    <string name="display_notification_icon_3">%d pictograme</string>
+    <string name="display_notification_icon_5">%d pictograme</string>
+    <string name="display_notification_icon_7">%d pictograme</string>
     <string name="display_prompt_confirm">Am înțeles</string>
     <string name="display_settings">Afişaj</string>
     <string name="display_settings_new">Afișaj și iluminare</string>
@@ -10744,6 +10748,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_quick_control_all_devices">Afișați comenzile pentru dispozitivele din apropiere</string>
     <string name="title_regional_pref_footer">Dacă o aplicație nu acceptă preferințele regionale, aplicația va folosi setările locale implicite.</string>
     <string name="title_show_notification_icon">Afișează pictogramele de notificare</string>
+    <string name="title_show_notification_icon_count">Numărul de pictograme de notificare afișat</string>
     <string name="title_smart_device_control">Comenzi inteligente ale dispozitivului</string>
     <string name="title_special_features_health_global">Ritm cardiac</string>
     <string name="title_unavailable_locale">%s indisponibil</string>

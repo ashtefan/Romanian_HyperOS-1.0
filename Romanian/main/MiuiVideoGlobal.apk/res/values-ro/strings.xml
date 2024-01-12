@@ -202,6 +202,7 @@
     <string name="chromecast_playing">Urmăriți acest videoclip cu Chromecast</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="click_to_open_ad">Atingeți pentru a afla mai multe</string>
     <string name="click_to_open_pip">Atingeți pentru a comuta la imagine-în-imagine</string>
     <string name="click_to_play_video_push_context">Atingeți pentru a reda videoclipul</string>
     <string name="click_to_reload_more">Atingeţi pentru a încărca mai mult</string>
@@ -933,6 +934,8 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="local_subtitle_input_keyword_text">Căutați cuvinte cheie</string>
     <string name="local_tip_act_for_android_u">Editați</string>
     <string name="local_tip_info_for_android_u">Ați permis ca doar Mi Video să afișeze unele videoclipuri.</string>
+    <string name="local_tip_info_for_no_audio">Nu pot accesa fișierele audio salvate pe dispozitiv. Acordați mai întâi permisiunile necesare.</string>
+    <string name="local_tip_info_for_no_video">Nu pot accesa videoclipurile salvate pe dispozitivul dvs. Acordați mai întâi permisiunile necesare.</string>
     <string name="local_video_create_a_new_playlist">Listă de redare nouă</string>
     <string name="local_video_date">Dată</string>
     <string name="local_video_dialog_default">Implicit</string>
@@ -1758,6 +1761,7 @@ Spori securitatea contului dvs."</string>
     <string name="popup_pip_activate_button">Setări</string>
     <string name="popup_pip_not_activated">Permiteți mai întâi Mi Video pentru a utiliza imagine-în-imagine.</string>
     <string name="popup_recommend_text">Descoperiți mai multe videoclipuri care vă vor plăcea</string>
+    <string name="popup_window_small_tag_tip">Atingeți o etichetă pentru a vedea toate videoclipurile din categoria respectivă</string>
     <string name="pre_ad">·RECLAMĂ</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_agree_subtitle">Consimțământul pentru Politica de confidențialitate vă permite să utilizați toate funcțiile Mi Video</string>
@@ -1922,6 +1926,8 @@ Verificați alte videoclipuri!"</string>
     <string name="settings_inline_auto_play_wify">Redare automată numai pe Wi-Fi</string>
     <string name="settings_inline_title">Redare automată a paginii de pornire</string>
     <string name="settings_manager_hidden_folder">Gestionați videoclipurile ascunse</string>
+    <string name="shake_or_click_to_open_ad">Agitați sau atingeți pentru a afla mai multe</string>
+    <string name="shake_to_open_ad">Agitați pentru a afla mai multe</string>
     <string name="share">Partajați</string>
     <string name="share_text_before_link">Vizionați și descărcați videoclipuri grozave gratuit în Mi Video</string>
     <string name="share_ugc_content">Uitați-vă și la %1$s! #%2$s (%3$s)</string>
@@ -1938,9 +1944,9 @@ Verificați alte videoclipuri!"</string>
     <string name="sign_in_title">Conectați-vă cu contul dvs. Mi</string>
     <string name="skip_ad">Omiteți</string>
     <string name="slid_fail_message">Nu s-a putut salva</string>
+    <string name="slide_or_click_to_open_ad">Glisați sau atingeți pentru a afla mai multe</string>
     <string name="slide_save_message">Se generează videoclipul…</string>
-    <string name="small_video_cancel_button">Renunțați</string>
-    <string name="small_video_download_button">Descărcați</string>
+    <string name="slide_to_open_ad">Glisați pentru a afla mai multe</string>
     <string name="small_video_load_more_hint">Glisați în sus pentru a reda mai multe videoclipuri</string>
     <string name="small_video_snack_download_description">Descărcați SnackVideo pentru a vedea cele mai recente videoclipuri de la creatorii tăi preferați.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>

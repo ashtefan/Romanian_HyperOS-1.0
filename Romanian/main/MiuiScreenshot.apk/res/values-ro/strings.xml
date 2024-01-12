@@ -80,7 +80,7 @@
     <string name="cta_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii enumerate mai sus.</string>
     <string name="cta_btn_agree">De acord</string>
     <string name="cta_btn_disagree">Refuz</string>
-    <string name="cta_main_purpose">Bun venit la Editorul de capturi de ecran! Puteți folosi această aplicație pentru a decupa și edita capturile de ecran.</string>
+    <string name="cta_main_purpose">Bun venit la Editorul de capturi de ecran! Puteți folosi această aplicație pentru a decupa și edita capturile de ecran. Această aplicație trebuie să se conecteze la internet și să acceseze fișierele audio și video de pe dispozitiv pentru a putea furniza serviciile necesare.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru salvarea capturilor de ecran</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
@@ -410,6 +410,7 @@ o captură de ecran derulantă"</string>
     <string name="screenshot_long_screenshot">Derulați</string>
     <string name="screenshot_save">Salvați</string>
     <string name="screenshot_send">Trimiteți</string>
+    <string name="screenshot_succeed">Captură de ecran realizată cu succes</string>
     <string name="screenshot_thumbnail">Miniatura capturii de ecran</string>
     <string name="scroll_annotation">Derulați și adnotați</string>
     <string name="scroll_annotation_btn_quit">Părăsiți adnotările</string>

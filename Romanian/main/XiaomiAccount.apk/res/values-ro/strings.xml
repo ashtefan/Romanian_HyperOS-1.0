@@ -35,6 +35,7 @@
     <string name="access_token_invalid_warning">Contul Weibo nu este valid</string>
     <string name="account">Cont</string>
     <string name="account_and_password">Parolă</string>
+    <string name="account_auth_failed_message">Credențialele de conectare ale Contului Xiaomi %1$s au expirat. Încercați din nou.</string>
     <string name="account_bind_devices">Dispozitive</string>
     <string name="account_bind_secure_email_title">Adăugaţi un e-mail</string>
     <string name="account_bind_secure_phone_title">Adăugaţi un număr de telefon</string>
@@ -266,6 +267,23 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Xiaomi.</string>
     <string name="family_service">Servicii pentru familie</string>
     <string name="family_service_not_open">Invitați membri</string>
+    <string name="fido2_client_for_fingerprint_auth">Atingeți pentru a verifica prin amprentă</string>
+    <string name="fido2_close_fingerprint_auth">Se oprește</string>
+    <string name="fido2_close_fingerprint_auth_desc">Dezactivați acum verificarea amprentei?</string>
+    <string name="fido2_err_already_registered">Acest cont a activat deja această funcție</string>
+    <string name="fido2_err_def">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="fido2_err_not_regisetered">Acest cont nu a activat încă această funcție</string>
+    <string name="fido2_err_not_support">Această funcție nu este acceptată pe acest dispozitiv</string>
+    <string name="fido2_err_security">Riscuri de securitate detectate. Nu se poate folosi această funcție.</string>
+    <string name="fido2_err_service_exception">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="fido2_err_timeout">Cererea a expirat. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="fido2_fingerprint_auth">Verificarea amprentei</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Folosiți-vă amprenta digitală pentru a vă conecta la contul Xiaomi și pentru a vă verifica identitatea &lt;a href=>Aflați mai multe&lt;/a></Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">Amprenta dispozitivului dvs. s-a schimbat. Verificați-vă contul din nou pentru a putea activa verificarea amprentelor digitale.</string>
+    <string name="fido2_fingerprint_verify">Verificarea amprentei</string>
+    <string name="fido2_psw_changed_and_afresh_register">Parola dvs. s-a schimbat. Verificați-vă amprenta din nou.</string>
+    <string name="fido2_setting_ps_notify">Va trebui să setați o parolă de cont pentru a putea folosi verificarea amprentei. Puteți face acest lucru din Setări > Cont Xiaomi > Securitatea contului > Parolă.</string>
+    <string name="fido2_verify_fingerprint">Verificați amprenta</string>
     <string name="find_device">Găsiți dispozitivul</string>
     <string name="find_device_access_denied">Nu s-a putut verifica starea; accesul a fost refuzat</string>
     <string name="find_device_account_error">Nu s-a putut obține starea datorită unei erori de cont</string>
@@ -358,6 +376,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="get_identity_auth_url_failed">Nu s-a putut verifica ID-ul</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia cel mult %d conturi Xiaomi cu un număr de telefon. Nu se pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">Nu se mai pot trimite coduri de verificare la acest număr.</string>
+    <string name="go_to_setting">Setări</string>
     <string name="google">Google</string>
     <string name="google_login">Conectați-vă prin Google</string>
     <string name="goto_accept">OK</string>
@@ -380,6 +399,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="indeterminate">Nici bifat, nici nebifat</string>
     <string name="input_email_address_notice">Vă vom trimite un e-mail cu un cod de verificare la adresa pe care ne-o furnizați.</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
+    <string name="input_ps">Introduceți parola</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="item_view_role_description">Filă</string>
     <string name="just_a_second">Doar o secundă…</string>
@@ -399,6 +419,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="login_notification_button_text">Conectați-vă</string>
     <string name="login_notification_desc">Bucurați-vă de servicii cloud, spațiu de stocare pentru familie și multe altele</string>
     <string name="login_notification_title">Conectați-vă la contul dvs. Xiaomi</string>
+    <string name="login_or_register_by_other_way">Utilizați altă metodă</string>
     <string name="login_with_other">Mai multe opțiuni</string>
     <string name="logout_account">Deconectare</string>
     <string name="logout_failed">Nu se poate deconecta</string>
@@ -967,7 +988,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="qrcode_login_entry_text"><Data>V-ați conectat pe un alt dispozitiv? Utilizați &lt;a href=>conectare rapidă&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Acest cod QR a expirat. Atingeți pentru a &lt;a href=>reîmprospăta&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Nu s-a putut încărca. &lt;a href=>Încercați din nou&lt;/a>."</Data></string>
-    <string name="qrcode_login_message">Scanați cu aplicația Scanner a telefonului sau tabletei Xiaomi, Mi Home sau altă aplicație Xiaomi pentru a vă conecta</string>
+    <string name="qrcode_login_message">Scanați cu aplicația Mi AI Scanner sau cu o altă aplicație Xiaomi pentru a vă conecta la Contul Xiaomi</string>
     <string name="qrcode_login_title">Scanați pentru a vă conecta</string>
     <string name="range_end">Sfârșitul intervalului</string>
     <string name="range_start">Începutul intervalului</string>
@@ -977,6 +998,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="remove_trust_btn">Eliminați din lista dispozitivelor de încredere</string>
     <string name="remove_trust_notice">Eliminați din lista dispozitivelor de încredere și deconectaţi-vă</string>
     <string name="removing_account">Deconectare…</string>
+    <string name="reopen">Activați</string>
     <string name="request_open_permission">Permisiuni necesare</string>
     <string name="request_use_camera_message">Permiteți contului Xiaomi să acceseze camera telefonului dvs.?</string>
     <string name="request_use_camera_title">Accesare cameră</string>
@@ -1021,7 +1043,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="service_error">Eroare serviciu</string>
     <string name="set_success">Modificat cu succes</string>
     <string name="setting_later">Nu acum</string>
-    <string name="setting_now">Adăugați</string>
+    <string name="setting_ps">Setările parolei</string>
     <string name="sign_in">Autentificare</string>
     <string name="sim_card">Cartelă SIM</string>
     <string name="sim_changed_notification_msg">Atingeți pentru a actualiza numărul de telefon pentru recuperare și pentru a vă menține contul în siguranță.</string>

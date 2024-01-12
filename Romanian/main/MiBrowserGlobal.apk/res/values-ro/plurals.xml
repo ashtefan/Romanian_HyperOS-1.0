@@ -281,6 +281,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF>%1$d&lt;/font> secunde rămase</item>
+        <item quantity="one">&lt;font color=#0D84FF>%1$d&lt;/font> secundă rămasă</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">cu %1$d minute în urmă</item>
         <item quantity="one">cu %1$d minut în urmă</item>
@@ -600,8 +604,8 @@
         <item quantity="other">%s ori</item>
         <item quantity="one">%s dată</item>
     </plurals>
-    <plurals name="welcome_skip_count_down">
-        <item quantity="other">%d secs</item>
-        <item quantity="one">%d sec</item>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Săptămâna trecută, Mi Browser a crescut viteza de încărcare a paginii web pentru dvs. de %d ori!</item>
+        <item quantity="one">Săptămâna trecută, Mi Browser a crescut viteza de încărcare a paginii web pentru dvs. %d dată!</item>
     </plurals>
 </resources>

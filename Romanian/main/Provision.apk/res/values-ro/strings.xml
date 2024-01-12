@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="access_calendar">Accesarea calendarului</string>
     <string name="access_non_personal_data">Dacă vă retrageți consimțământul pentru accesul și utilizarea datelor nepersonale de pe dispozitivul dvs., serviciile Wallpaper Carousel vor fi dezactivate și orice date colectate vor fi șterse în perioada specificată în legile și reglementările aplicabile.</string>
     <string name="accessibility_enabled">Accesibilitate activată.</string>
     <string name="actionbar_button_up_description">Înapoi</string>
@@ -55,6 +56,8 @@
     <string name="album_introduction">Aplicația Galerie vă permite să gestionați, să optimizați și să editați fotografii și videoclipuri pe dispozitivul dvs., precum și să le sincronizați cu Xiaomi Cloud.</string>
     <string name="am">AM</string>
     <string name="app_name">Provision</string>
+    <string name="application_extension_service">Servicii de extensie a aplicațiilor</string>
+    <string name="application_extension_service_introduction">Serviciile de extensie a aplicațiilor vă vor oferi funcții de conectare și verificare. Pentru a oferi servicii de bază, această aplicație are nevoie de următoarele permisiuni:</string>
     <string name="application_package_introduction">Această aplicație vă permite să instalați aplicații terțe, să le scanați înainte de instalare și să primiți recomandări ulterior.</string>
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="aquire_device_info">Accesarea informațiilor despre dispozitiv</string>
@@ -66,6 +69,7 @@
     <string name="boot_video_replay">Redați din nou</string>
     <string name="boot_video_skip">Omiteți</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
+    <string name="calendar_storage">Stocarea calendarului</string>
     <string name="camera_application_introduction">Puteți folosi această aplicație pentru a face fotografii și videoclipuri.</string>
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
     <string name="carousel_cookies_content"><Data>Când atingeți imagini și povești în Wallpaper Carusel, versiunile lor complete vor fi deschise în browser. Furnizorul nostru de conținut terț de încredere vă poate recomanda apoi conținut suplimentar și anunțuri adaptate intereselor dvs. Dacă sunteți de acord să activați această funcție, aceștia vor plasa cookie-uri în browser, așa cum este descris în această &lt;a href=\"%1$s\">Politica privind cookie-urile&lt;/a>. Dacă refuzați cookie-urile, Wallpaper Carusel va funcționa în continuare, dar conținutul și recomandările sale ar putea să nu mai fie relevante pentru dvs. Vă puteți schimba oricând preferințele în Setări.</Data></string>
@@ -109,6 +113,7 @@
     <string name="diagnose_report">Trimiteți date de diagnosticare pentru a localiza și a analiza problemele sistemului și pentru a îmbunătăți experiența utilizatorului. Aceste date pot include informații personale (de ex. IP-ul, locația, etc.)</string>
     <string name="disageement_abnormal_download">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu.</string>
     <string name="disagree">Anulaţi</string>
+    <string name="disagree_unable_serve">Dacă nu sunteți de acord cu permisiunile de mai sus, nu veți putea folosi acest serviciu.</string>
     <string name="disagreement_abnormal_running">Dacă nu doriți să acordați astfel de permisiuni sau să partajați și să încărcați informațiile dvs. personale, nu veți putea utiliza această aplicație. Puteți alege să nu utilizați această aplicație sau să restricționați permisiunile din Setări în astfel de cazuri.</string>
     <string name="disagreement_abnormal_running_fast_pairing">Dacă nu doriți să acordați astfel de permisiuni, nu veți putea utiliza această aplicație. Puteți alege să restricționați permisiunile și să dezactivați această funcție din Setări în astfel de cazuri.</string>
     <string name="disagreement_application_not_working_properly">Dacă nu doriți să acordați aceste permisiuni, nu veți putea folosi această aplicație.</string>
@@ -490,6 +495,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="permission_make_a_call_fast_application_summary">Pentru a permite aplicațiilor rapide să efectueze apeluri;</string>
     <string name="permission_media_storage_summary">Pentru a verifica modul în care aplicațiile folosesc permisiunile legate de confidențialitate în timp ce accesează fișiere</string>
     <string name="permission_message_introduction">Pentru trimiterea mesajelor către contactele blocate</string>
+    <string name="permission_not_agree_service_not_working">Dacă nu sunteți de acord cu permisiunile necesare menționate mai sus, nu veți putea utiliza acest serviciu.</string>
     <string name="permission_number">Accesarea numărului de telefon</string>
     <string name="permission_number_introduction">Pentru stabilirea conexiunii Bluetooth cu sistemele auto și căștile Bluetooth</string>
     <string name="permission_phone_imei_device">Pentru accesarea IMEI-ului ce va permite identificarea dispozitivelor</string>
@@ -538,6 +544,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="permission_recording_introduction">Pentru înregistrare audio în timpul înregistrării video</string>
     <string name="permission_screen_shoot_introduction">Pentru accesarea și salvarea înregistrărilor ecranului</string>
     <string name="permission_send_message">Trimitere SMS</string>
+    <string name="permission_sms_verification_code_login">Pentru furnizarea SMS-urilor de verificare pentru conectare rapidă</string>
     <string name="permission_uniquely_identifiable_information">Accesarea identificatorilor unici ai acestui dispozitiv</string>
     <string name="permission_uniquely_identifiable_information_summary">Accesarea adresei MAC și OAID-ul dispozitivului pentru a descoperi, conecta și comunica cu alte dispozitive</string>
     <string name="permission_use_bluetooth">Utilizarea Bluetooth</string>
@@ -577,12 +584,14 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="privacy_refuse">Nu sunt de acord</string>
     <string name="privacy_title">Termeni și Politica de confidențialitate</string>
     <string name="protect_persoanl_info_statement">Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.</string>
+    <string name="provide_date_management_service">Acest serviciu vă permite să verificați data și să gestionați evenimente.</string>
     <string name="provision_back">Înapoi</string>
     <string name="provision_inputmethod_policy_description"><Data>Vedeți &lt;a href=%1$s>Politica de Confidențialitate&lt;/a > a tastaturii selectate.</Data></string>
     <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
     <string name="provision_next">Următorul</string>
     <string name="provision_skip_underline">Omiteți</string>
     <string name="read_application_info">Accesarea informațiilor aplicației</string>
+    <string name="read_sms_and_mms">Accesarea SMS-urilor și a MMS-urilor</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Recomandat</string>
     <string name="recorder_introduction">Puteți utiliza această aplicație pentru înregistrări audio și efectuarea de copii de rezervă în cloud.</string>
@@ -597,6 +606,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="require_network_and_authority_statement">Pentru a putea funcționa normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
     <string name="require_network_authority_statement">Pentru a ne permite să vă oferim servicii de bază, trebuie să vă conectați la internet și să acordați următoarele permisiuni pentru ca noi să putem colecta informațiile dvs. personale:</string>
     <string name="require_network_authority_statement_dual">Pentru a putea funcționa normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
+    <string name="require_statement">Pentru a furniza servicii de bază, avem nevoie de următoarele permisiuni:</string>
     <string name="safe_open_service">Servicii deschise securizate</string>
     <string name="safe_open_service_introduction">Serviciile deschise securizate ajută dezvoltatorii și oferă capabilități de securitate la nivel de sistem pentru a proteja utilizatorii și confidențialitatea acestora.</string>
     <string name="saturday">Sâmbătă</string>
@@ -826,6 +836,7 @@ Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
+    <string name="used_date_viewing">Pentru verificarea datei</string>
     <string name="user_agreement">Acordul Utilizatorului</string>
     <string name="user_agreement_declare">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, aplicațiile: Serviciul Mi de activare SIM, Xiaomi Cloud, Serviciul Copie de rezervă, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O., Manager de Permisiuni și Actualizări se vor conecta la rețea. Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
     <string name="user_agreement_declare_wifi_device">Înainte de a utiliza MIUI, trebuie să citiți și să acceptați Acordul Utilizatorului și Politica noastră de confidențialitate. În timp ce dispozitivul dvs. este activat, Xiaomi Cloud, Serviciul Copie de rezervă, Găsire dispozitiv, Ecran de pornire, Fraze frecvente, Serviciul de Comunicare prin Internet Xiaomi, Serviciul de traducere, Daemon MIUI, Vizualizare HTML, MIUI SDK, Aplicația Element Securizat, Asistentul AI, Acumulator și performanță, Detector energie, Joyose, Setări AI S.O. și Actualizări se vor conecta la rețea. Cardurile inteligente, Gestionarea Permisiunilor și Serviciile inteligente se vor conecta la rețea și vă vor accesa locația.</string>
