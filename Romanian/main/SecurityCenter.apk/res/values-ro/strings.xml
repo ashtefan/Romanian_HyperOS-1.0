@@ -5447,7 +5447,7 @@ Retrageți consimțământul acum?"</string>
     <string name="special_perm_intercept_risk_app_msg">Unele aplicații terțe vă pot ataca dispozitivul, punând în pericol datele și confidențialitatea dvs.</string>
     <string name="special_perm_intercept_risk_app_title">Instalarea aplicațiilor periculoase</string>
     <string name="special_perm_intercept_screen_msg">Monitorizează și înregistrează tot conținutul afișat pe ecran</string>
-    <string name="special_perm_intercept_screen_title">Monitorarea și înregistrarea conținutului afișat pe ecran</string>
+    <string name="special_perm_intercept_screen_title">Monitorizarea și înregistrarea conținutului afișat pe ecran</string>
     <string name="special_perm_intercept_setting_msg">Inclusiv operatorul, limba și alte setări</string>
     <string name="special_perm_intercept_setting_title">Citirea setărilor dispozitivului</string>
     <string name="special_perm_intercept_significance_msg">Accesează informațiile despre dispozitiv (poate include datele personale)</string>

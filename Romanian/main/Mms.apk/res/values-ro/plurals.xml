@@ -56,7 +56,7 @@
         <item quantity="one">Mesaj primit de %1$s și încă %2$d persoană</item>
     </plurals>
     <plurals name="group_message_failed_title">
-        <item quantity="other">"Nu s-a putut trimite la %d persoane"</item>
+        <item quantity="other">"Nu s-a putut trimite la %d contacte"</item>
         <item quantity="one">"Nu s-a putut trimite la %d contact"</item>
     </plurals>
     <plurals name="half_hour_ago">
@@ -132,8 +132,8 @@
         <item quantity="one">%1$s persoană</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%1$s rezultate pentru „%2$s”</item>
-        <item quantity="one">%1$s rezultat pentru „%2$s”</item>
+        <item quantity="other">%1$s rezultate pentru \"%2$s\"</item>
+        <item quantity="one">%1$s rezultat pentru \"%2$s\"</item>
     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">S-au trimis %1$s mesaje</item>

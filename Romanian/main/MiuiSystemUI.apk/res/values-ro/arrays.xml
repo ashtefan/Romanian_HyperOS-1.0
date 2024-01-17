@@ -242,9 +242,11 @@
         <item>Grindină</item>
         <item>Praf</item>
         <item>Negură</item>
+        <item>Ploaie ce îngheaţă</item>
+    </string-array>
     <string-array name="battery_options">
-        <item>Arată întotdeauna procentul</item>
-        <item>Arată procentajul când se încarcă (implicit)</item>
+        <item>Afișează întotdeauna procentul</item>
+        <item>Afișează procentajul când se încarcă (implicit)</item>
         <item>Nu afișa această pictogramă</item>
     </string-array>
     <string-array name="clock_options">
@@ -275,9 +277,6 @@
         <item>Compact</item>
         <item>Înclinat spre stânga</item>
         <item>Înclinat spre dreapta</item>
-    </string-array>
-        <item>Ploaie ce îngheaţă</item>
-        <item></item>
     </string-array>
     <string-array name="tile_states_airplane">
         <item>Indisponibil</item>

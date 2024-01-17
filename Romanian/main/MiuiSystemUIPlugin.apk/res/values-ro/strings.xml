@@ -76,7 +76,6 @@
     <string name="close_invisible_mode_dialog_ok">Setări</string>
     <string name="close_invisible_mode_dialog_title">Sunteți în modul Incognito</string>
     <string name="control_center_notification_switch_guide">Glisați pentru a comuta între Centrul de control și Perdeaua de notificare</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="controls_add_device_guide">Nu ați adăugat niciun dispozitiv inteligent pentru casă încă</string>
     <string name="controls_click_to_add_device">Adăugați</string>
     <string name="controls_confirmation_message">Confirmați modificarea pentru %s</string>
@@ -224,7 +223,7 @@
     <string name="loading">Stare necunoscută</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Hub inteligent Mi</string>
     <string name="midnight">Noapte</string>
     <string name="miplay_accessibility_cast">Selectați dispozitivul</string>
     <string name="miplay_accessibility_cover">Copertă</string>
@@ -361,7 +360,7 @@ Utilizatori de căști non-Xiaomi: resetați-vă căștile în setările Bluetoo
     <string name="mr_controller_no_media_selected">Niciun fișier media selectat</string>
     <string name="mr_controller_pause">Pauză</string>
     <string name="mr_controller_play">Redă</string>
-    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop">Oprește</string>
     <string name="mr_controller_stop_casting">Opriți proiecția</string>
     <string name="mr_controller_volume_slider">Cursor volum</string>
     <string name="mr_dialog_default_group_name">Grup</string>
@@ -409,7 +408,7 @@ Utilizatori de căști non-Xiaomi: resetați-vă căștile în setările Bluetoo
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_control_center">Notificări și Centrul de Control</string>
-    <string name="offline">Offline</string>
+    <string name="offline">Deconectat</string>
     <string name="online">Online</string>
     <string name="open_system_optimization">Activați mai întâi optimizarea sistemului</string>
     <string name="password_toggle_content_description">Afișează parola</string>
@@ -479,7 +478,7 @@ Utilizatori de căști non-Xiaomi: resetați-vă căștile în setările Bluetoo
     <string name="quick_settings_pcmode_turn_off_description">Conținutul de pe ecranul telefonului va fi afișat pe monitorul extern. Dezactivați modul PC?</string>
     <string name="quick_settings_pcmode_turn_on_description">Conținutul de pe ecranul computerului va fi afișat pe monitorul extern. Activați modul PC?</string>
     <string name="quick_settings_powermode_label">Mod performanță</string>
-    <string name="quick_settings_quietmode_label">DND</string>
+    <string name="quick_settings_quietmode_label">Nu deranjați</string>
     <string name="quick_settings_rotationlock_label">Blocare rotire</string>
     <string name="quick_settings_scanner_label">Scaner</string>
     <string name="quick_settings_screenbutton_label">Butoane</string>

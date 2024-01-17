@@ -1676,7 +1676,6 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="user_term">Acordul utilizatorului</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
-    <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Coduri de verificare</string>
     <string name="verification_code_safety_warning">Nu furnizați aceste coduri altor persoane</string>
     <string name="video_compress_failed">Videoclipul nu a putut fi comprimat</string>

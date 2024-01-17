@@ -894,6 +894,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="notification_action_undo_delete">Şters</string>
     <string name="notification_action_undo_remove_label">Etichetă eliminată</string>
     <string name="notification_message">Notific doar pentru mesajele noi din dosarele selectate?</string>
+    <string name="notification_mutli_message_content">Click pentru a vedea</string>
     <string name="notification_off">Oprite</string>
     <string name="notification_on">Pornite</string>
     <string name="notify_channel_new_mail">Notifică despre mesajele noi</string>

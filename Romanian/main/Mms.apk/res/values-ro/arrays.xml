@@ -107,31 +107,10 @@
         <item>Notă</item>
         <item>Relație</item>
     </string-array>
-    <string-array name="dialog_choice_specific_correct_as_normal">
-        <item>Mesaje promoționale de la %s</item>
-        <item>Mesaje operator de servicii de la %s</item>
-        <item>Mesaje financiare de la %s</item>
-    </string-array>
-    <string-array name="entries_mms_validity_period">
-        <item>Maximă</item>
-        <item>2 zile</item>
-    </string-array>
-    <string-array name="entries_sms_validity_period">
-        <item>Nesetată</item>
-        <item>1 oră</item>
-        <item>6 ore</item>
-        <item>12 ore</item>
-        <item>1 zi</item>
-        <item>Maxim</item>
-    </string-array>
     <string-array name="message_sending_method">
         <item>Serviciu de mesagerie propus</item>
         <item>SMS, MMS</item>
         <item>Chat RCS, Transfer de fișiere RCS</item>
-    </string-array>
-    <string-array name="message_type">
-        <item>RCS</item>
-        <item>SMS/MMS</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
@@ -162,16 +141,38 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Mesaje promoționale de la %s</item>
+        <item>Mesaje operator de servicii de la %s</item>
+        <item>Mesaje financiare de la %s</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximă</item>
+        <item>2 zile</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Întotdeauna</item>
         <item>Doar în modul Silențios</item>
         <item>Niciodată</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Nesetată</item>
+        <item>1 oră</item>
+        <item>6 ore</item>
+        <item>12 ore</item>
+        <item>1 zi</item>
+        <item>Maxim</item>
     </string-array>
     <string-array name="rcs_ft_fallback">
         <item>Nu întreba niciodată și trimite întotdeauna ca link SMS</item>
         <item>Nu întreba niciodată și nu trimite niciodată ca link SMS</item>
         <item>Întreabă mereu</item>
     </string-array>
+    <string-array name="message_type">
+        <item>RCS</item>
+        <item>SMS/MMS</item>
+    </string-array>
+
     <string-array name="rcs_message_fallback">
         <item>Nu întreba niciodată și trimite întotdeauna ca SMS</item>
         <item>Nu întreba niciodată și nu trimite niciodată ca SMS</item>
