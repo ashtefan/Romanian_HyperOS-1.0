@@ -816,7 +816,6 @@ Atingeți pentru a remonta"</string>
     <string name="connected_via_passpoint">Conectat via %1$s</string>
     <string name="content_description_menu_button">Meniu</string>
     <string name="control_center_notification_switch_guide">Glisați pentru a comuta între Centrul de Control și Perdeaua de Notificări</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,captură de eran,vibrații</string>
     <string name="controls_added_tooltip">Țineți apăsat butonul de pornire pentru a vedea comenzile noi</string>
     <string name="controls_confirmation_confirming">Confirmare…</string>
     <string name="controls_confirmation_message">Confirmați modificarea pentru %s</string>
