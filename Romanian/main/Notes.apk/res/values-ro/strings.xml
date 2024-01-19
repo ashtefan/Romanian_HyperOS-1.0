@@ -974,6 +974,7 @@
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="to_view_alarm_content">Atingeți pentru a vizualiza</string>
     <string name="toast_cancel_to_insert_image">"Nu s-a putut adăuga imaginea."</string>
     <string name="toast_excerpt_end">Extras creat cu succes</string>
     <string name="toast_excerpt_no_content">Niciun extras aici</string>

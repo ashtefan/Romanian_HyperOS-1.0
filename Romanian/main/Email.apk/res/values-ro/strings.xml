@@ -359,10 +359,10 @@ căii pentru accesul IMAP</string>
     <string name="default_opening_attchemnt_mode">Deschideți atașamentele utilizând aplicațiile implicite</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">SETĂRI PRESTABILITE</string>
-    <string name="default_signature">Trimis de pe dispozitivul Xiaomi</string>
+    <string name="default_signature">Trimis de pe Mi 12</string>
     <string name="default_signature_2">Trimis de pe %s</string>
     <string name="default_signature_pad">Trimis de pe dispozitivul meu Xiaomi</string>
-    <string name="default_signature_phone">Trimis de pe dispozitivul meu Xiaomi</string>
+    <string name="default_signature_phone">Trimis de pe Mi 12</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_contact_content">Ștergeți acest contact acum?</string>
     <string name="delete_message_dialog_content">Doriți să ștergeți acest e-mail și să blocați expeditorul?</string>

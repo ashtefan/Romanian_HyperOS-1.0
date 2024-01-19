@@ -81,10 +81,16 @@
   <string name="audio_rule">Audio xml parser</string>
     <string name="audio_spk_cal_wait">Calibrare; vă rugăm așteptați...</string>
     <string name="audio_spk_def">Calibrați difuzoarele, vă rog</string>
+    <string name="auto_bottom_left_high_speaker">Tweeterul din partea stângă jos</string>
+    <string name="auto_bottom_left_low_speaker">Tweeterul din partea stângă jos</string>
+    <string name="auto_bottom_right_low_speaker">Tweeterul din partea dreapta jos</string>
     <string name="auto_frontflash_description">Toate luminile blițului din față sunt aprinse, faceți clic dacă trece, în caz contrar faceți clic pentru eșec</string>
     <string name="auto_frontflash_title">Test bliț al camerei frontale</string>
     <string name="auto_rearflash_description">Toate luminile blițului camerei din spate sunt aprinse, faceți clic pentru a trece, în caz contrar faceți clic pentru a eșua</string>
     <string name="auto_rearflash_title">Test bliț al camerei din spate</string>
+    <string name="auto_top_left_high_speaker">Tweeterul din partea stângă sus</string>
+    <string name="auto_top_left_low_speaker">Tweeterul din partea stângă sus</string>
+    <string name="auto_top_right_low_speaker">Tweeterul din partea dreapta sus</string>
     <string name="aux_mic_check_record_tip">Se înregistrează, vă rog rostiți ceva în microfonul AUX MIC din partea de jos a dispozitivului</string>
     <string name="back_mic_check_record_tip">Se înregistrează, vă rog rostiți ceva în microfonul de pe spatele telefonului</string>
     <string name="battery_authentic">BatteryAuthentic</string>
@@ -227,30 +233,33 @@ Este posibil ca echipamentul de testare să nu accepte %1$s, se recomandă să r
     <string name="cit_audio_hw_check_title">Test de verificare a hardware-ului audio</string>
     <string name="cit_audio_lb_auxmic_to_earpiece_title">Test de feedback pentru difuzorul microfonului auxiliar</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Test de feedback pentru difuzorul microfonului din spate</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Test de feedback pentru difuzorul microfonului din spate</string>
+    <string name="cit_audio_lb_check_track_tip">Acum redați înregistrarea, vă rugăm să verificați dacă se aude vreun sunet</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test microfon principal</string>
+    <string name="cit_audio_lb_mainmic_to_speaker_title">Test de feedback pentru difuzorul microfonului principal</string>
+    <string name="cit_audio_lb_sidebottommic_to_speaker_title">Test de feedback al difuzorului microfonului lateral inferior</string>
+    <string name="cit_audio_lb_sidetopmic_to_speaker_title">Test de feedback pentru difuzorul mic lateral de sus</string>
     <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Test de feedback pentru microfonul auxiliar la receptor.
 
 Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul auxiliar, ar trebui să auziți vocea de la receptor"</string>
     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Test feedback microfon din spate către receptor.
 
 Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul posterior, ar trebui să auziți vocea de la receptor"</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test microfon principal.
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Test de feedback dintre microfonul din spate la difuzor.
 
-Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfonul principal și ar trebui să auziți vocea de la receiver"</string>
+Vorbiți la microfonul din spate, ar trebui să auziți vocea din difuzor"</string>
     <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test feedback microfon de sus către receptor.
 
 Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul din partea superioară, ar trebui să auziți vocea de la receptor"</string>
-    <string name="cit_audio_lb_topmic_to_earpiece_title">Test feedback pentru difuzorul de sus</string>
-    <string name="cit_audio_left_caldata">"Date calibrare PA stânga:
-"</string>
-    <string name="cit_audio_left_calfail">Calibrarea PA stânga a eșuat!</string>
-    <string name="cit_audio_loopback_check_one_title">Test microfon principal și receiver</string>
-    <string name="cit_audio_loopback_check_summary_first">"Test microfon principal și receiver
+    <string name="cit_audio_lb_summary_mainmic_to_speaker">"Test de feedback de la microfonul principal la difuzor.
 
-Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfon și ar trebui să auziți vocea în receiver."</string>
-    <string name="cit_audio_loopback_check_summary_second">"Test microfon secundar și difuzor.
+Vorbiți la microfonul principal, ar trebui să auziți vocea din difuzor"</string>
+    <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Test de feedback de la microfon lateral inferior la difuzor.
 
-Țineți telefonul cu difuzorul în partea de jos. Vorbiți în receptor. Ar trebui să auziți vocea prin difuzorul extern."</string>
+Vorbiți în microfonul lateral de jos, ar trebui să auziți vocea din difuzor"</string>
+    <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Test de feedback de la microfon lateral la difuzor.
+
+Vorbiți în microfonul lateral de sus, ar trebui să auziți vocea din difuzor"</string>
     <string name="cit_audio_loopback_check_two_title">Test microfon secundar și difuzor</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test reducere zgomot ambiental</string>
     <string name="cit_audio_loopback_next">Următorul</string>
@@ -1092,6 +1101,8 @@ După succesul calibrării, controlați dispozitivul aproape și departe de disp
     <string name="test_horn_motor_summary">"Veți auzi două numere aleatorii
 Vă rugăm să faceți click pe butonul corespunzător în funcție de numărul pe care îl auziți
 Selectați butonul corect în funcție de diferitele condiții de vibrație"</string>
+    <string name="test_integration_speaker">Test de integrare a difuzorului</string>
+    <string name="test_integration_summary">Cele șase difuzoare parcurg sunetul în secvență. Acordați atenție sunetului și stabiliți dacă este anormal, menținând în același timp o stare verticală a ecranului</string>
     <string name="test_main_mic">Microfon principal</string>
     <string name="test_second_flash">Testul flashului secundar</string>
     <string name="test_sidebottom_mic">Microfonul din partea de jos</string>

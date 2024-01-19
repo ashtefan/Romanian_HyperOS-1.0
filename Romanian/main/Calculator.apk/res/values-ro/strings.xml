@@ -123,7 +123,7 @@
     <string name="convertion_unit">Convertor unități de măsură</string>
     <string name="convertion_unit_area">Convertor pentru arie</string>
     <string name="convertion_unit_data">Convertor de date</string>
-    <string name="convertion_unit_finance">Calcul financiar</string>
+    <string name="convertion_unit_finance">Financiare</string>
     <string name="convertion_unit_length">Convertor unități de lungime</string>
     <string name="convertion_unit_radix">Sistemul numeral</string>
     <string name="convertion_unit_temperature">Convertor temperatură</string>
@@ -306,7 +306,7 @@
     <string name="interest_rate_hint">Introduceți rata dobânzii</string>
     <string name="investment_invalid_duration">Durata investiției trebuie să fie mai mare de zero</string>
     <string name="investment_loan_result">Detalii</string>
-    <string name="investment_type">Tip</string>
+    <string name="investment_type">Tip investiție</string>
     <string name="investment_type_once">Singulară</string>
     <string name="investment_type_recurring">Recurentă</string>
     <string name="item_page_title_investment">Calculator investiții</string>
@@ -1151,7 +1151,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Taiwan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>

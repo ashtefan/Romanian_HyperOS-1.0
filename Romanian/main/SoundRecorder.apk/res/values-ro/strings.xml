@@ -713,6 +713,7 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="toast_enter_silent_mode">Se înregistrează. Modul Silențios este activ.</string>
     <string name="toast_exit_silent_mode">S-a finalizat înregistrarea. Modul  Silențios este oprit.</string>
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
+    <string name="toast_stop">S-a finalizat înregistrarea</string>
     <string name="toast_uninstall_fileexplorer">Aplicaţia Gestionare fișiere nu este instalată</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>

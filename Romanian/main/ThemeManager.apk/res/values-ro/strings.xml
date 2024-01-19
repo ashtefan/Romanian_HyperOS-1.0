@@ -141,7 +141,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="backup_theme_progress_message">Creare copie de rezervă…</string>
     <string name="backup_theme_success_message">Copia de rezervă a fost creată</string>
     <string name="basic_mode">Mod offline</string>
-    <string name="basic_mode_desc">Aplicația Teme nu se va conecta la Internet și va folosi doar conținutul local. Informațiile personale nu vor fi colectate.</string>
+    <string name="basic_mode_desc">Nu permiteți acestei aplicații să se conecteze la internet, accesați și utilizați numai elemente de pe dispozitiv (de exemplu, fotografii, sunet și videoclipuri). Nicio informație personală nu va fi colectată.</string>
     <string name="boot_audio_dialog_cancel">Renunțați</string>
     <string name="boot_audio_dialog_confirm">OK</string>
     <string name="boot_audio_dialog_content">Sunetul de pornire este dezactivat acum. Îl porniți din nou și aplicați acest sunet?</string>
@@ -150,7 +150,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="browse_mode">Mod online</string>
-    <string name="browse_mode_desc">Aplicația Teme se va conecta la Internet și va folosi atât conținut local cât și conținut online. Informațiile personale nu vor fi colectate.</string>
+    <string name="browse_mode_desc">Permiteți acestei aplicații să se conecteze la internet, să acceseze conținut online și să folosească elemente de pe dispozitiv (de exemplu, fotografii, sunet și videoclipuri). Nicio informație personală nu va fi colectată.</string>
     <string name="browser_local_resource">Resurse locale</string>
     <string name="can_not_apply">Nu se poate aplica</string>
     <string name="can_not_apply_error">Acest format video nu este suportat</string>

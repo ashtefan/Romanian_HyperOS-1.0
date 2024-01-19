@@ -1809,13 +1809,13 @@ Suport tehnic de la Xiaomi și ICL"</string>
     <string name="ew_guide_start">Activați</string>
     <string name="ew_guide_start_agree">Activați</string>
     <string name="ew_guide_start_find_area">Căutați arealuri</string>
-    <string name="ew_guide_start_warning_range">Sunt furnizate avertismente timpurii pentru zonele acoperite de rețeaua de avertizare a cutremurelor continentală al Institutului de reducere a dezastrelor de înaltă tehnologie din Chengdu. Puteți găsi zonele de acoperire specifice în Setări.</string>
-    <string name="ew_guide_statement_text_new">"Această declinare de responsabilitate se aplică tuturor utilizatorilor (denumiți în continuare „voi”) care activează funcția de avertizare a cutremurului. Acceptând această declinare de responsabilitate, încheiați un contract obligatoriu din punct de vedere juridic cu Xiaomi Inc. și afiliații săi (denumit în continuare „Xiaomi”). Recunoașteți că ați citit tot conținutul acestei clauze de declinare a responsabilității și că înțelegeți și acceptați pe deplin toți termenii și condițiile acestei clauze de declinare a responsabilității; în caz contrar, ar trebui să dezactivați imediat caracteristica de avertizare la cutremur.
-În conformitate cu legile și reglementările relevante, Xiaomi vă va oferi servicii de avertizare timpurie bazate pe domeniul de aplicare al zonei de monitorizare a avertizărilor timpurii de cutremur acoperite de agențiile relevante. Adică, când activați funcționalitatea de avertizare de cutremur, veți putea primi avertismente de cutremur emise pentru anumite zone. Puteți găsi zonele de acoperire specifice în Setări.
+    <string name="ew_guide_start_warning_range"><Data>Sunt furnizate avertismente timpurii pentru zonele acoperite de Rețeaua continentală de avertizare a cutremurelor a Institutului de Reducere a Dezastrelor Hi-Tech din Chengdu. Puteți găsi o listă de zone de acoperire acceptate &lt;a href=%s>aici&lt;/a>.</Data></string>
+    <string name="ew_guide_statement_text_new"><Data>"Această declinare a răspunderii se aplică tuturor utilizatorilor (denumiti în continuare „dvs.”) care activează funcția de avertizare cutremur. Fiind de acord cu această declinare a răspunderii, încheiați un contract obligatoriu din punct de vedere legal cu Xiaomi Inc. și afiliații săi (denumite în continuare „Xiaomi\”). Recunoașteți că ați citit tot conținutul acestei clauze de declinare a răspunderii și că înțelegeți pe deplin și sunteți de acord cu toți termenii și condițiile acestui declinare a răspunderii; în caz contrar, ar trebui să dezactivați imediat funcția de avertizare cutremur.
+În conformitate cu legile și reglementările relevante, Xiaomi vă va oferi servicii de avertizare timpurie bazate pe domeniul de aplicare al zonei de monitorizare a avertismentului timpuriu cutremur acoperit de agențiile relevante. Adică, când activați funcționalitatea de avertizare de cutremur, veți putea primi avertismente de cutremur emise pentru anumite zone. Puteți găsi o listă de zone de acoperire specifice &lt;a href=%s>aici&lt;/a>. Mai multe zone de acoperire vor fi adăugate periodic.
 Această caracteristică vă oferă funcționalități de avertizare de cutremur. Trebuie să înțelegeți că informațiile de avertizare împotriva cutremurului sunt furnizate de Institutul de reducere a dezastrelor de înaltă tehnologie din Chengdu. Xiaomi nu supraveghează această organizație și nu are niciun control asupra acesteia.
 Xiaomi nu promite și nu garantează acuratețea, validitatea și actualitatea informațiilor de avertizare împotriva cutremurelor și nici nu garantează că serviciul de avertizare împotriva cutremurelor va satisface toate nevoile dvs.
 Pentru a primi informații de avertizare de cutremur, este necesar să vă păstrați dispozitivul conectat la rețeaua mobilă. Defecțiuni ale liniei de comunicații terțe, probleme tehnice, defecțiuni ale echipamentului de rețea sau terminal, instabilitate a sistemului și alte evenimente de forță majoră vă pot împiedica să primiți informații de avertizare de cutremur. Xiaomi nu își asumă nicio responsabilitate pentru orice pierderi cauzate de astfel de evenimente.
-Trebuie să înțelegeți că această caracteristică este furnizată doar pentru referință. Avertismentul pe care îl primiți poate veni cu câteva secunde înainte de apariția unui cutremur. Sunteți singurul responsabil pentru riscurile și consecințele oricăror acțiuni pe care le efectuați pe baza informațiilor furnizate de această caracteristică."</string>
+Trebuie să înțelegeți că această caracteristică este furnizată doar pentru referință. Avertismentul pe care îl primiți poate veni cu câteva secunde înainte de apariția unui cutremur. Sunteți singurul responsabil pentru riscurile și consecințele oricăror acțiuni pe care le efectuați pe baza informațiilor furnizate de această caracteristică."</Data></string>
     <string name="ew_guide_tips_1">"Veți fi anunțat despre cutremurele viitoare și veți auzi un sunet de avertizare"</string>
     <string name="ew_guide_tips_2">Informațiile și sunetul de avertizare vor fi actualizate pe durata cutremurului</string>
     <string name="ew_guide_tips_3">"Veți putea găsi cel mai apropiat adăpost, să apelați contactul dvs. de urgență și veți putea prezenta cardul de sănătate, dacă este necesar"</string>
@@ -2708,6 +2708,7 @@ din sesiunile dvs. de joc"</string>
     <string name="group_clipboard">Clipboard</string>
     <string name="group_connect_device">Interconectivitate</string>
     <string name="group_file">Fișiere și documente</string>
+    <string name="group_file_less_t">Accesare fișiere și articole media</string>
     <string name="group_head_data_ai_clipboard">Protecție clipboard</string>
     <string name="group_head_data_ai_clipboard_desc">Permiteți sistemului să decidă dacă aplicațiile pot accesa elementele din clipboard</string>
     <string name="group_head_data_camera_desc">Dezactivați pentru a restricționa accesul la cameră pentru toate aplicațiile</string>
@@ -3241,6 +3242,9 @@ Viteza telefonului a crescut cu %s."</string>
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>
     <string name="mic">Microfon</string>
+    <string name="mic_noise_reduction_mode_standard">Standard</string>
+    <string name="mic_noise_reduction_mode_ultimate">Selectați</string>
+    <string name="mic_noise_reduction_voiceprint_desc">Păstrați sunete audio numai de la un utilizator specificat</string>
     <string name="midnight">Noapte</string>
     <string name="midrop_post_notification_contentText">Transferați fișiere la viteze de până la 50 Mbps cu Mi Drop.</string>
     <string name="midrop_post_notification_contentTitle">Trebuie să transferați fișiere?</string>
@@ -3753,6 +3757,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
     <string name="pc_battery_low_health_reminder">Este vremea să vă schimbați acumulatorul</string>
+    <string name="pc_button_go_to_setting">Setări</string>
     <string name="pc_category_charge_settings">Setări încărcare</string>
     <string name="pc_charged_auto_close_summary">Opriți când acumulatorul este la ​%1$s sau complet încărcat</string>
     <string name="pc_charged_auto_close_title">Opriți când este încărcat</string>
@@ -3792,6 +3797,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_going_to_exit_extreme_mode">Se părăsește modul Hibernare</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Dispozitivul dvs. se încarcă. Modul Hibernare este dezactivat.</string>
     <string name="pc_going_to_extreme_mode">Se intră în modul Hibernare</string>
+    <string name="pc_handle_battery_level">Prindere</string>
     <string name="pc_have_no_battery_issue">Nicio problemă</string>
     <string name="pc_hide_more_power_rank_apps">Ascundeți</string>
     <string name="pc_hidemode_normal">Echilibrat</string>
@@ -3839,7 +3845,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh și %2$sm rămase</string>
     <string name="pc_more_battery_feature">Caracteristici suplimentare</string>
     <string name="pc_more_power_rank_apps">Mai multe aplicații</string>
-    <string name="pc_night_charge_protect_summary">Reglați automat durata de încărcare pentru a păstra longevitatea acumulatorului</string>
+    <string name="pc_night_charge_protect_summary">Reglați automat durata de încărcare pentru a încetini îmbătrânirea acumulatorului</string>
     <string name="pc_night_charge_protect_title">Protecție la încărcarea pe timp de noapte</string>
     <string name="pc_night_sleep_mode_summary">Opriți automat unele funcții pentru a economisi acumulatorul atunci când este detectat somnul</string>
     <string name="pc_night_sleep_mode_title">Mod Noapte</string>
@@ -3851,11 +3857,14 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_performance_mode_dialog_title">Mod Performanță</string>
     <string name="pc_performance_mode_noti_summary">Modul Performanță poate crește consumul de energie și poate duce la probleme de supraîncălzire</string>
     <string name="pc_performance_mode_noti_title">Performanță îmbunătățită a dispozitivului</string>
+    <string name="pc_phone_battery_level">Telefon</string>
     <string name="pc_power_consume_check">Verificarea acumulatorului</string>
     <string name="pc_power_consume_check_ing">Se verifică…</string>
+    <string name="pc_power_mode_has_performance">Modul Performanță este activ</string>
     <string name="pc_power_save_settings_new">Setări economisire acumulator</string>
     <string name="pc_remind_close_cover_to_charge_summary">Pliați dispozitivul înainte de încărcare pentru o experiență de încărcare mai rapidă și mai stabilă.</string>
     <string name="pc_remind_close_cover_to_charge_title">Pliați pentru a încărca</string>
+    <string name="pc_reminder_always_protect_summary">Treceți la încărcare limitată pentru a reduce deteriorarea acumulatorului</string>
     <string name="pc_save_charge">Se încarcă</string>
     <string name="pc_save_other_setting">Alte setări</string>
     <string name="pc_save_power">Economisire acumulator</string>
@@ -3866,7 +3875,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
     <string name="pc_search_keywords_property">Performanță</string>
     <string name="pc_settings_title">Acumulator</string>
-    <string name="pc_smart_discharge_checkbox_summary">Când utilizați aplicațiile de navigare, încărcarea se va opri automat când bateria atinge un nivel selectat. Această funcție nu va funcționa când Economisirea acumulatorului sau Ultra Economisirea acumulatorului sunt activate.</string>
+    <string name="pc_smart_discharge_checkbox_summary">Când utilizați funcțiile de navigare, încărcarea se va opri automat când acumulatorul atinge un procent selectat. Economisirea acumulatorului va fi dezactivată.</string>
     <string name="pc_smart_discharge_checkbox_title">Deconectare automată la încărcare</string>
     <string name="pc_smart_discharge_drop_down_title">Setări auto-deconectare</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Pentru a proteja acumulatorul, încărcarea se va opri automat la un nivel selectat atunci când utilizați aplicațiile de navigare</string>
@@ -3885,6 +3894,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_wait_device_cools_down">Așteptați până când dispozitivul se răcește pentru a putea folosi această funcție.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Așezați-l pe încărcătorul wireless</string>
     <string name="pc_wireless_charge_adjust_position_title">Încărcați-vă dispozitivul mai repede</string>
+    <string name="pc_wireless_charging_special_stand_summary1">Instalați dispozitivul pe suportul livrat împreună cu încărcătorul fără fir</string>
+    <string name="pc_wireless_charging_special_stand_summary2">Instalați-vă dispozitivul pe suportul livrat împreună cu încărcătorul fără fir pentru o performanță optimă de încărcare</string>
+    <string name="pc_wireless_charging_special_stand_title">Utilizați suportul de încărcare furnizat</string>
+    <string name="pc_wireless_handle_connected">Dispozitiv conectat</string>
+    <string name="pc_wireless_handle_title">Mâner pentru camera wireless</string>
     <string name="pc_work_in_save_mode">Economisire acumulator</string>
     <string name="pc_work_in_super_save_mode">Ultra Economisire acumulator</string>
     <string name="pc_xiaoai_create_auto_task">Sarcină nouă de la Mi AI</string>
@@ -3951,6 +3965,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_group_camera">Această permisiune dă dreptul aplicațiilor să folosească camera pentru a face fotografii sau pentru a înregistra videoclipuri.</string>
     <string name="permission_group_contact">Această permisiune dă dreptul aplicațiilor să acceseze sau să editeze contacte, precum și să vadă contactele din aplicație create pe acest dispozitiv.</string>
     <string name="permission_group_file">Această permisiune dă dreptul aplicațiilor să acceseze toate fișierele stocate pe acest dispozitiv.</string>
+    <string name="permission_group_file_less_t">Această permisiune dă dreptul aplicațiilor să acceseze fotografii, videoclipuri, audio și alte fișiere stocate pe acest dispozitiv.</string>
     <string name="permission_group_image_video">Această permisiune dă dreptul aplicațiilor să acceseze fotografiile și videoclipurile stocate pe acest dispozitiv.</string>
     <string name="permission_group_location">Această permisiune dă dreptul aplicațiilor să acceseze informații despre locație prin rețea sau prin satelit.</string>
     <string name="permission_group_microphone">Această permisiune dă dreptul aplicațiilor să folosească microfonul pentru înregistrarea audio.</string>
@@ -4194,7 +4209,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_batteryrank_all">Toate utilizările acumulatorului</string>
     <string name="power_center_batteryrank_hardware">Utilizare acumulator Hardware %s</string>
     <string name="power_center_batteryrank_software">Utilizare acumulator Software %s</string>
-    <string name="power_center_batteryscan_normal">Nu există probleme de utilizare a acumulatorului. Vedeți rezultatele.</string>
+    <string name="power_center_batteryscan_normal">Totul arată bine. Vedeți rezultatele.</string>
     <string name="power_center_charge_status">Încărcare</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_consume_fast">Descărcare</string>
@@ -4227,7 +4242,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_optimize_title">Sugestii</string>
     <string name="power_center_power_save_summary_text">Creșteți timpul rămas cu până la %1$dh și %2$dm</string>
     <string name="power_center_power_save_title_text">Economisire acumulator</string>
-    <string name="power_center_problem_title">Reparați problemele</string>
+    <string name="power_center_problem_title">Consum crescut de energie</string>
     <string name="power_center_reduce_dpi_summary">QHD+ consumă mai multă energie</string>
     <string name="power_center_reduce_resolution">Scădeți rezoluția ecranului</string>
     <string name="power_center_repeat">Repetare</string>
@@ -4316,6 +4331,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_main_battery_last_hour_minute">%1$sh și %2$sm rămase</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s durată de ecran activ rămas</string>
     <string name="power_main_open_last_hour_minute_screen_on">Activați pentru a adăuga %1$s %2$s timp de ecran activ</string>
+    <string name="power_ntc_dialog_btn_finish">Am înțeles</string>
+    <string name="power_ntc_dialog_msg">Deconectați încărcătorul acum. Curățați și uscați portul de încărcare înainte de al utiliza din nou.</string>
+    <string name="power_ntc_dialog_title">Obiect străin sau un lichid detectat</string>
     <string name="power_off_warning_button_ok">Am înțeles</string>
     <string name="power_off_warning_message">Acumulatorul este descărcat. Telefonul se va opri în %d secunde. Conectați încărcătorul.</string>
     <string name="power_off_warning_notification_title">Pe cale să se închidă</string>
@@ -4495,6 +4513,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_manage_apps_location_information">Permiteți aplicațiilor să vă acceseze locația</string>
     <string name="pp_manage_track">Monitorizați trackere</string>
     <string name="pp_manage_track_summary">Detectați și dezactivați diferite tipuri de trackere încorporate în aplicații. Astfel de instrumente de urmărire ar putea partaja identificatorii dvs. personale accesând și salvând elemente în stocarea internă sau utilizând SDK-uri partajate pentru urmărirea activității dvs.</string>
+    <string name="pp_none_read_clipboard_item">Nu trimite notificare</string>
     <string name="pp_one_app_two_use">Folosiți două conturi fără a vă deconecta</string>
     <string name="pp_one_phone_two_space">Folosiți un dispozitiv ca și cum ați avea două</string>
     <string name="pp_only_allow_permission_during_this_run">Permiteți aplicațiilor să utilizeze permisiunile o singură dată</string>
@@ -4526,6 +4545,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_private_photo_album_detail">Criptați și protejați articolele cu o metodă de blocare a ecranului</string>
     <string name="pp_prohibit_use_camera_in_background">Limitați utilizarea camerei în fundal</string>
     <string name="pp_prohibit_use_camera_in_background_detail">Aplicațiile nu vor putea folosi camera în fundal, în mod prestabilit</string>
+    <string name="pp_protect_read_clipboard_item">Protejați</string>
     <string name="pp_read_phone_info_summary">Accesare informații SIM</string>
     <string name="pp_record_msg">Înregistrarea audio</string>
     <string name="pp_safe_box">Spațiu de lucru privat</string>
@@ -4540,6 +4560,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_special_permission_settings">Permisiuni speciale</string>
     <string name="pp_special_permission_settings_detail">Controlați modul în care aplicațiile utilizează permisiunile speciale</string>
     <string name="pp_storage_msg">Stocare</string>
+    <string name="pp_toast_read_clipboard">Notificați când aplicațiile accesează elemente din clipboard</string>
+    <string name="pp_toast_read_clipboard_item">Notifică</string>
     <string name="pp_understanding_privacy">Conștientizare</string>
     <string name="pp_virtual_identity_manager">ID virtual</string>
     <string name="pp_virtual_identity_summary">Un ID virtual (OAID) poate fi furnizat aplicațiilor în loc de identificatorul dvs. real. Vă protejează confidențialitatea și vă permite să controlați modul în care aplicațiile vă urmăresc comportamentul.</string>
@@ -4832,7 +4854,8 @@ Retrageți consimțământul acum?"</string>
     <string name="privacy_risk_result_photo_sensitive">Fotografiile dvs. conțin informații private</string>
     <string name="privacy_risk_result_protection">Protecția confidențialității</string>
     <string name="privacy_risk_result_screen_fuzzy">Previzualizări blurate ale aplicațiilor</string>
-    <string name="privacy_risk_result_screen_fuzzy_msg">Estompați previzualizările aplicațiilor sensibile care sunt afișate în Recente</string>
+    <string name="privacy_risk_result_screen_fuzzy_msg">Estompați previzualizările aplicațiilor sensibile care sunt afișate în fila Recente</string>
+    <string name="privacy_risk_result_screen_shield_msg">Aplicațiile care conțin informații personale sensibile vor fi afișate în fila Recente cu previzualizările mascate</string>
     <string name="privacy_risk_result_set_btn">Setări</string>
     <string name="privacy_risk_result_success_empty_msg">Totul arată bine!</string>
     <string name="privacy_risk_result_success_msg">Au fost reparate toate problemele. Ura!</string>
@@ -4917,10 +4940,10 @@ Retrageți consimțământul acum?"</string>
     <string name="qucick_replay_instrument">Utilizați răspunsuri rapide în notificările aplicațiilor de mesagerie selectate (de ex. WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Scanare</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"Nu s-a putut extinde durata de viață a acumulatorului"</string>
-    <string name="quick_optimize_no_fix_issue_title">"Nu s-au putut rezolva problemele legate de acumulator"</string>
+    <string name="quick_optimize_no_fix_issue_title">Nu s-au putut optimiza articolele cu un consum mare de energie</string>
     <string name="quick_optimize_no_issue">Nicio problemă a acumulatorului</string>
     <string name="quick_optimize_no_issue_subtitle">Totul pare în regulă</string>
-    <string name="quick_optimize_no_issue_title">"Nu s-au găsit probleme legate de acumulator"</string>
+    <string name="quick_optimize_no_issue_title">Fără articole cu un consum mare de energie</string>
     <string name="quick_optimize_sub_battery_text">Aproximativ %s rămas</string>
     <string name="quick_optimize_sub_summary_text">S-a prelungit durata de viață a acumulatorului cu %s</string>
     <string name="quick_optimize_sub_summary_with_battery_text">S-a adăugat %1$s, aproximativ %2$s rămas</string>
@@ -5119,7 +5142,7 @@ Retrageți consimțământul acum?"</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
     <string name="settings_battery_consume_abnormal_title">Notificări descărcare acumulator</string>
-    <string name="settings_battery_power_save_suggest_title">Sugestii și avertismente privind economisirea acumulatorului</string>
+    <string name="settings_battery_power_save_suggest_title">Sugestii privind economisirea acumulatorului</string>
     <string name="settings_camera_subtitle_no">Fără metadate</string>
     <string name="settings_category_other">Alte setări</string>
     <string name="settings_category_overheat">Supraîncălzire</string>
@@ -5792,6 +5815,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="summary_usb">Evitați raspândirea viruşilor de la alte dispozitive</string>
     <string name="summary_virus">Eliminați virușii pentru a vă păstra telefonul în siguranță</string>
     <string name="summary_virus_cloudscan">Încărcaţi numele aplicaţiilor și detaliile și scanaţi utilizând definiții de viruși on-line</string>
+    <string name="summary_virus_scan_model">Eliminați aceste riscuri de securitate cât mai curând posibil</string>
     <string name="summary_virus_update">Obțineți ultimele definiții pentru viruși în mod automat</string>
     <string name="summary_xiaomi_roaming">0.01 RON/MB pentru traficul de date în roaming.</string>
     <string name="sunday">Duminică</string>
@@ -6419,6 +6443,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_movie_power_hint">"Modul Teatru oferă o experiență de vizionare captivantă.
 Este posibil ca dispozitivul dvs. să se încălzească și să consume mai multă energie."</string>
     <string name="vb_movie_subtitle">Necesită o performanță ridicată</string>
+    <string name="vb_mv_style_close_toast">Stilul este dezactivat</string>
     <string name="vb_power_performance_mode_conflict_toast">Nu se poate utiliza această funcție când modul Performanță este activat</string>
     <string name="vb_power_save_mode_conflict_toast">Nu se poate utiliza această funcție când Economisirea acumulatorului este activată</string>
     <string name="vb_quick_func_auto_bgm">Recunoaște muzica de fundal</string>
@@ -6492,6 +6517,7 @@ Această caracteristică nu funcționează cu liniarizarea mișcării.
 Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="vb_video_super_division_tips">"Inadecvat de clar?
 Încercați creșterea rezoluției!"</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">Animațiile îmbunătățite sunt dezactivate</string>
     <string name="vb_voice_adjust">Audio Teatru</string>
     <string name="verify_shut_down_password_content">Solicitați confirmarea blocării ecranului dacă dispozitivul este oprit în timp ce este blocat</string>
     <string name="verify_shut_down_password_title">Confirmare oprire</string>

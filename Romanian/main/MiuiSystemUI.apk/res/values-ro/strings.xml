@@ -2117,7 +2117,6 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Organizația dumneavoastră a instalat o autoritate certificată în profilul de servici. Traficul în rețea poate fi monitorizat sau modificat.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Aplicațiile dvs. de serviciu sunt conectate la internet prin %1$s. Activitatea dvs. în rețea în aplicațiile de serviciu, inclusiv e-mailurile și datele de navigare, este vizibilă administratorului IT și furnizorului VPN.</string>
     <string name="monitoring_description_managed_profile_network_logging">Administratorul dvs. a activat înregistrarea în rețea, care monitorizează traficul în profilul dvs. de serviciu, dar nu și în profilul dvs. personal.</string>
-    <string name="monitoring_description_managed_device_named_vpn">Acest dispozitiv este conectat la internet prin %1$s. Activitatea dvs. în rețea(inclusiv e-mailurile și datele de navigare) este vizibilă pentru administratorul IT.</string>
     <string name="monitoring_description_management">"Acest dispozitiv aparține organizației dumneavoastră.
 
 Administratorul IT poate monitoriza și gestiona setările, accesul la rețeaua companiei, aplicațiile, datele asociate dispozitivului dvs. și informațiile despre locația dispozitivului.

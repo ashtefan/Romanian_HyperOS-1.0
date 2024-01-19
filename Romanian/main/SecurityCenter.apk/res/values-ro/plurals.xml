@@ -559,8 +559,8 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="one">Ștergeți %d .apk rezidual</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d probleme de utilizare a acumulatorului</item>
-        <item quantity="one">%d problemă de utilizare a acumulatorului</item>
+        <item quantity="other">%d articole cu un consum mare de energie</item>
+        <item quantity="one">%d articol cu un consum mare de energie</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Optimizați %d elemente pentru a salva acumulatorul</item>
@@ -999,8 +999,8 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="one">dată</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d probleme de utilizare a acumulatorului</item>
-        <item quantity="one">%d problemă de utilizare a acumulatorului</item>
+        <item quantity="other">%d articole cu un consum mare de energie</item>
+        <item quantity="one">%d articol cu un consum mare de energie</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d zile "</item>
@@ -1035,8 +1035,8 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="one">Reparați %d problemă de utilizare a acumulatorului</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Puteți repara %d probleme de utilizare a acumulatorului</item>
-        <item quantity="one">Puteți repara %d problemă de utilizare a acumulatorului</item>
+        <item quantity="other">Puteți optimiza consumul de energie pentru %d elemente</item>
+        <item quantity="one">Puteți optimiza consumul de energie pentru %d element</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d elemente pot fi optimizate"</item>
@@ -1089,6 +1089,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">Activați pentru a adăuga %s minute de timp ecran activ</item>
         <item quantity="one">Activați pentru a adăuga %s minut de timp ecran activ</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Am înțeles (%d)</item>
+        <item quantity="one">Am înțeles (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Am înțeles (%ds)</item>
@@ -1191,8 +1195,8 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="one">A fost găsită %d problemă a acumulatorului; reparați-o</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">S-au rezolvat %d probleme ale acumulatorului</item>
-        <item quantity="one">A fost rezolvată o problemă legată de acumulator</item>
+        <item quantity="other">S-au optimizat %d articole cu un consum mare de energie</item>
+        <item quantity="one">S-a optimizat %d %d articol cu un consum mare de energie</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Resetare la valorile de fabrică (%ds)</item>
@@ -1305,6 +1309,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="title_virus_clean">
         <item quantity="other">S-au eliminat %d viruși</item>
         <item quantity="one">S-a eliminat %d virus</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d viruși sau aplicații riscante</item>
+        <item quantity="one">%d virus sau aplicație riscantă</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d aplicații</item>
