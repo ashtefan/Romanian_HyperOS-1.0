@@ -1948,8 +1948,10 @@ Verificați alte videoclipuri!"</string>
     <string name="slide_save_message">Se generează videoclipul…</string>
     <string name="slide_to_open_ad">Glisați pentru a afla mai multe</string>
     <string name="small_video_load_more_hint">Glisați în sus pentru a reda mai multe videoclipuri</string>
-    <string name="small_video_snack_download_description">Descărcați SnackVideo pentru a vedea cele mai recente videoclipuri de la creatorii tăi preferați.</string>
-    <string name="small_video_snack_download_title">SnackVideo</string>
+    <string name="small_video_report">Raportați</string>
+    <string name="small_video_report_dialog_title">Selectați un motiv</string>
+    <string name="small_video_report_submit">Trimiteți</string>
+    <string name="small_video_report_success">Vă mulțumim pentru comentariu!</string>
     <string name="small_video_tab_expose_hint">Atingeți pentru mai multe videoclipuri scurte</string>
     <string name="sms_send_success">Trimis cu succes</string>
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>

@@ -104,6 +104,7 @@
     <string name="add_to_secret_successful">Adăugat în albumul privat</string>
     <string name="add_to_share_album_not_delete">Nu se poate șterge fotografia din Albumul Partajat</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
+    <string name="added_to_clipboard_description">Acest videoclip nu a fost descărcat pe dispozitivul dvs. Descărcați și copiați în clipboard acum?</string>
     <string name="added_to_clipboard_toast">Copiat cu succes</string>
     <string name="added_to_favorites">Adăugată la Favorite</string>
     <string name="added_to_favorites_desc">Adăugată la Favorite</string>
@@ -1658,7 +1659,7 @@ efecte pentru fotografii"</string>
     <string name="filter_sky_cloudy">Înnorat</string>
     <string name="filter_sky_cumulus">Cumulus</string>
     <string name="filter_sky_dawn">Zori de zi</string>
-    <string name="filter_sky_detect_forbidden_tips">"Nu s-a putut detecta cerul"</string>
+    <string name="filter_sky_detect_forbidden_tips">Nu s-a putut detecta cerul</string>
     <string name="filter_sky_double_rainbow">Curcubeu dublu</string>
     <string name="filter_sky_download_failed">"Nu s-a putut descărca extensia. Verificați setările de rețea și încercați din nou."</string>
     <string name="filter_sky_download_failed_msg">Nu s-a putut descărca. Verificați setările de rețea și încercați din nou.</string>

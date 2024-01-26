@@ -51,7 +51,7 @@
     <string name="bluetooth_permission_later">Nu acum</string>
     <string name="bluetooth_permission_title">Permisiuni necesare</string>
     <string name="calibrate_rotate_again">Încercați din nou</string>
-    <string name="calibrate_rotate_tip">Înclinați dispozitivul brusc pentru a face ca bila să se rotească într-un cerc</string>
+    <string name="calibrate_rotate_tip">Înclinați dispozitivul brusc pentru a face ca bila să se rotească în jurul cercului</string>
     <string name="callFailed_cb_enabled">Nu puteţi efectua apeluri în timp ce blocarea apelurilor este activă.</string>
     <string name="callFailed_congestion">Reţea ocupată</string>
     <string name="callFailed_dialToDial">Solicitarea de apel a fost modificată în apel cu număr diferit.</string>
@@ -433,11 +433,19 @@
     <string name="remind_unlock_message">Telefonul dumneavoastră este blocat acum. \"%s\" va fi disponibilă după ce veți debloca telefonul. Îl deblocați acum?</string>
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
     <string name="satellite_call_failed">Semnal întrerupt. Încercați din nou.</string>
+    <string name="satellite_debug_antenna">Antenă</string>
+    <string name="satellite_debug_azimuth">Azimut</string>
+    <string name="satellite_debug_compass">Busolă</string>
+    <string name="satellite_debug_evevation">Evevație</string>
+    <string name="satellite_debug_rssi">Putere semnal RSSI</string>
+    <string name="satellite_debug_satellite">Satelit</string>
     <string name="satellite_diable_earpiece">Nu pot folosi căștile în apelurile prin satelit</string>
     <string name="satellite_dialog_button">Fereastră plutitoare</string>
     <string name="satellite_dialog_cancel">Renunțați</string>
+    <string name="satellite_guide_azimuth">Mutați până când pictograma satelitului se află în zona albastră</string>
     <string name="satellite_guide_down">"Înclinați dispozitivul în jos
 pentru a pune mingea în zona albastră"</string>
+    <string name="satellite_guide_elevation">Mutați până când pictograma satelitului se află în cercul albastru</string>
     <string name="satellite_guide_found">Satelit găsit</string>
     <string name="satellite_guide_left">"Înclinați dispozitivul spre stânga
 pentru a pune pictograma satelit în zona albastră"</string>
@@ -448,6 +456,7 @@ pentru a pune pictograma satelit în zona albastră"</string>
     <string name="satellite_guide_up">"Înclinați dispozitivul în sus
 pentru a pune mingea în zona albastră"</string>
     <string name="satellite_incall_tip">Difuzor activ</string>
+    <string name="satellite_satellite_accessory">Folosesc accesorii de îmbunătățire a semnalului Tiantong Satellite</string>
     <string name="satellite_service_provider">Serviciu furnizat de China Telecom</string>
     <string name="satellite_state">Nu mișcați dispozitivul</string>
     <string name="satellite_state_auto_exit">Ieșiți (%ds)</string>

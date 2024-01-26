@@ -752,7 +752,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="unit">Unități de măsură</string>
     <string name="unit_temperature">Unitatea de măsură pentru temperatură</string>
     <string name="unit_wind">Unitatea de măsură pentru viteza vântului</string>
-    <string name="update_night_setting_summary_text">Actualizează datele meteo între %1$s și %2$s</string>
+    <string name="update_night_setting_summary_text">Actualizează datele meteo între 23:00 și 07:00</string>
     <string name="update_night_setting_title_text">Actualizare automată peste noapte</string>
     <string name="update_notification_info">Se actualizează datele în fundal…</string>
     <string name="update_setting_title_text">Actualizează informațiile meteo</string>

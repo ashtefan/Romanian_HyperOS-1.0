@@ -9730,6 +9730,7 @@ Atingeți de două ori pentru a deschide Recente.</string>
     <string name="slight_pause">,</string>
     <string name="slot_number">" (Slot %1$d)"</string>
     <string name="slot_status_title">Informaţie IMEI</string>
+    <string name="small_window_not_support_add_data_toast">Nu se pot înregistra date din ferestre plutitoare. Comutați la Ecran complet și încercați din nou.</string>
     <string name="smallwindow_smartcover_title">Husă frontală cu fantă pentru ecran</string>
     <string name="smart_battery_footer">Când Gestionarea Acumulatorului detectează că aplicațiile descarcă acumulatorul, aveți opțiunea de a le restricționa. Aplicațiile restricționate ar putea funcționa necorespunzător iar notificările ar putea fi întârziate.</string>
     <string name="smart_battery_manager_title">Gestionarea Acumulatorului</string>

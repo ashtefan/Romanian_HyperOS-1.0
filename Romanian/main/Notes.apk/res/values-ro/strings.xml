@@ -1094,6 +1094,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="view_all_notes">Vedeți tot</string>
+    <string name="warn_cannot_add_more_content">Această notiță a atins lungimea maximă. Orice conținut suplimentar pe care îl adăugați nu va fi salvat.</string>
     <string name="warn_cannot_add_new_bullet">Nu se poate adăuga o nouă listă cu marcatori, deoarece notița este prea lungă</string>
     <string name="warn_cannot_add_new_checkbox">Nu se poate adăuga o nouă casetă de selectare deoarece notița este prea lungă</string>
     <string name="warn_cannot_add_new_content">Nu se poate adăuga conținut nou, deoarece notița este prea lungă</string>

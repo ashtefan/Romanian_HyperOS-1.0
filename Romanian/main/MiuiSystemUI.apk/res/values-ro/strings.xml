@@ -1335,8 +1335,8 @@ După ce sunt șterse, va trebui să configurați din nou Deblocarea cu amprent�
     <string name="format_minute_desc">%s</string>
     <string name="format_month_day_desc">%1$s %2$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data conform calendarului tradițional Chinezesc: %3$s, vacanță: %4$s</string>
-    <string name="format_month_day_style1">d/MMM</string>
-    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_style1">d.MMM</string>
+    <string name="format_month_day_style2">d.M</string>
     <string name="format_month_day_week">dd MMM, EEE</string>
     <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data conform calendarului tradițional Chinezesc: %4$s</string>
@@ -2015,9 +2015,9 @@ dd.MM"</string>
     <string name="miui_notification_menu_allow">Permiteți</string>
     <string name="miui_notification_menu_feedback_success">Vă mulțumim pentru feedback!</string>
     <string name="miui_magazine_c_clock_style1_week">EEEE</string>
-    <string name="miui_magazine_c_clock_style2_date">d/M EE</string>
+    <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
-    <string name="miui_magazine_clock_date">d/M</string>
+    <string name="miui_magazine_clock_date">d.M</string>
     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
     <string name="miui_magazine_clock_week">EEE</string>
     <string name="miui_notification_menu_more_setting">Mai multe</string>
@@ -2034,7 +2034,7 @@ dd.MM"</string>
     <string name="miui_rhombus_clock_week">EEE</string>
     <string name="miui_rhombus_clock_week_full">EEEE</string>
     <string name="miui_screen_rotation_freeze_message">S-a blocat orientarea ecranului în modul peisaj</string>
-    <string name="miui_smart_frame_clock_date">d/M</string>
+    <string name="miui_smart_frame_clock_date">d.M</string>
     <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_snooze_always_float">Nu ascunde</string>
     <string name="miui_snooze_cancel">Renunțați</string>

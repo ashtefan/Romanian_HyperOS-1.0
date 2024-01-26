@@ -306,6 +306,8 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_apps_settings">Bazat pe setările aplicațiilor</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
+    <string name="footer_global_fps">"
+%1$d. Când activați modul Performanță, rata de reîmprospătare va fi comutată la maximul de sistem de %2$d Hz. Setările aplicației cu rată mare de reîmprospătare vor fi temporar indisponibile."</string>
     <string name="footer_max_fps" formatted="false">"
 %d. Rata de reîmprospătare poate fi ajustată până la %s Hz pentru aplicațiile și jocurile acceptate."</string>
     <string name="force_rest">Folosiți pauzele de sesiune</string>
