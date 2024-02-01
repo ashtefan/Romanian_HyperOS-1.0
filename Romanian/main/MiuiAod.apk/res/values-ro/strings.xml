@@ -220,7 +220,7 @@ dd.MM"</string>
     <string name="format_month_day_desc">%1$s %2$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, data conform calendarului tradițional Chinezesc: %3$s, vacanță: %4$s</string>
     <string name="format_month_day_style1">d.MMM</string>
-    <string name="format_month_day_style2">d.M</string>
+    <string name="format_month_day_style2">dd.MM</string>
     <string name="format_month_day_week">dd.MMM, EEE</string>
     <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, data conform calendarului tradițional Chinezesc: %4$s</string>
@@ -408,15 +408,15 @@ d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d/M"</string>
     <string name="miui_magazine_c_clock_style1_week">EEEE</string>
-    <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+    <string name="miui_magazine_c_clock_style2_date">dd.MM EE</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
-    <string name="miui_magazine_clock_date">d.M</string>
+    <string name="miui_magazine_clock_date">dd.MM</string>
     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
     <string name="miui_magazine_clock_week">EEE</string>
     <string name="miui_rhombus_clock_date">dd MMMM</string>
     <string name="miui_rhombus_clock_week">EEE</string>
     <string name="miui_rhombus_clock_week_full">EEEE</string>
-    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_date">dd.MM</string>
     <string name="miui_smart_frame_clock_week">EEE</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>

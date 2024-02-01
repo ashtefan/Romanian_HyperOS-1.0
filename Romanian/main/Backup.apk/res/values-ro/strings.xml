@@ -138,7 +138,6 @@
     <string name="category_message_contacts">Mesaje și Contacte</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_privacy_policy">Vedeți Politica de Confidențialitate</string>
     <string name="chip_text">Fragment de text</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
@@ -168,7 +167,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="cloud_restore_title">Restabiliţi datele</string>
     <string name="cloud_restore_window_title">Restabilire din Xiaomi Cloud</string>
     <string name="cloud_search">Căutare…</string>
-    <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Preluarea informaţiilor…</string>
     <string name="compute_delete_contact_info">Obținere informații…</string>
     <string name="confirm_exit_link">Părăsiți</string>
@@ -393,7 +391,6 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="local_main_backup">Copii de rezervă locale</string>
     <string name="local_main_backup_and_restore">Pe acest dispozitiv</string>
     <string name="local_main_backup_detail_title">Setări de sistem, conturi și datele aplicațiilor</string>
-    <string name="local_main_backup_manage_null">%s</string>
     <string name="local_main_backup_manager">Gestionați copiile de rezervă locale</string>
     <string name="local_main_backup_manager_title">Gestionați copiile de rezervă</string>
     <string name="local_main_backup_settings">Setări pentru copiile de rezervă locale</string>
@@ -537,7 +534,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="mtrl_timepicker_confirm">OK</string>
-    <string name="multi_select_title">%1$s selectate</string>
+    <string name="multi_select_title">%1$s elemente selectate</string>
     <string name="multi_user_mode_backup_message">"Nu se poate utiliza aplicația de Creare copie de siguranță în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_message">"Nu se poate utiliza Mutare Mi în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_title">"Sunteți în modul Multi-user"</string>
@@ -754,7 +751,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="sc_precondition_failed">Trebuie să asociați o adresă de e-mail la contul dvs. Mi mai întâi</string>
     <string name="sc_request_timeout">Solicitarea a expirat</string>
     <string name="sc_service_unavailable">Xiaomi Cloud inaccesibil</string>
-    <string name="sc_unaccess_password_file">"Nu s-a găsit parola rețelei Wi-Fi"</string>
+    <string name="sc_unaccess_password_file">Nu s-a găsit parola rețelei Wi-Fi</string>
     <string name="sc_unauthorized">Conectaţi-vă din nou</string>
     <string name="scan_soft_ap">Se caută noul dispozitiv…</string>
     <string name="scan_soft_ap_label">Conectați-vă la vechiul dispozitiv</string>
@@ -778,10 +775,10 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="send">Trimiteți</string>
     <string name="service_stoped">Serviciu oprit</string>
     <string name="settings_summary">Setările telefonului şi ale mesageriei</string>
-    <string name="size_byte"> B</string>
-    <string name="size_giga_byte"> GB</string>
-    <string name="size_kilo_byte"> KB</string>
-    <string name="size_mega_byte"> MB</string>
+    <string name="size_byte">" B"</string>
+    <string name="size_giga_byte">" GB"</string>
+    <string name="size_kilo_byte">" KB"</string>
+    <string name="size_mega_byte">" MB"</string>
     <string name="sms_title">Mesagerie</string>
     <string name="soft_ap_create_failed">"Nu s-a putut crea hotspot-ul"</string>
     <string name="soft_ap_creating">Se crează hotspot-ul…</string>
@@ -818,7 +815,6 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="storage_usb">Dispozitiv USB</string>
     <string name="succ_description">Succes</string>
     <string name="succeed">Finalizată</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_err_backup_encrypting">Conectaţi-vă la contul dvs. Mi.</string>
     <string name="summary_err_backup_no_network">"Nu s-a putut conecta la rețea"</string>
     <string name="summary_err_restore_encrypting">"Nu s-a putut restabili. Asigurați-vă că această copie de rezervă a fost făcută utilizând contul dvs. Mi."</string>
@@ -831,7 +827,7 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="task_backup_cancel_progress">Anulare creare copie de rezervă…</string>
     <string name="task_backup_finished_local">"Rezervat "</string>
     <string name="task_canceled">Creare copie de rezervă anulată</string>
-    <string name="task_canceled_all_local">Anulate</string>
+    <string name="task_canceled_all_local">Anulată</string>
     <string name="task_canceled_local">Copie de rezervă  incompletă (%s).</string>
     <string name="task_cloud_backup_cancel_dialog">"Crearea copiei de rezervă nu s-a finalizat. Anulaţi oricum?"</string>
     <string name="task_failed">"Nu s-a putut crea copia de rezervă"</string>
@@ -903,7 +899,6 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
-    <string name="total_size">, %s</string>
     <string name="trans_backingup">Creare copie de rezervă…</string>
     <string name="trans_backingup_no_items">Sincronizare…</string>
     <string name="trans_button_cancel">Renunțați</string>
@@ -1108,7 +1103,7 @@ Se așteaptă transferul…"</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
-    <string name="unit_byte"> B</string>
+    <string name="unit_byte">" B"</string>
     <string name="unknown_hint">Necunoscut</string>
     <string name="usb_backup_select_data_too_large">"Fișierele selectate sunt mari. Asigurați-vă că dispozitivul USB are suficient spațiu de stocare disponibil.
 Transferați doar elementele importante."</string>

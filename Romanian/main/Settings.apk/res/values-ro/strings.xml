@@ -4274,7 +4274,7 @@ Pentru a afla mai multe, contactați furnizorul dvs. de credit."</string>
     <string name="firmware_version">Versiune Android</string>
     <string name="first_day_of_week_preferences_title">Prima zi a săptămânii</string>
     <string name="fiveg_nrca_switch_summary">Îmbunătățiți conexiunea 5G pentru mediile de testare</string>
-    <string name="fiveg_nrca_switch_title">agregarea operatorului 5G</string>
+    <string name="fiveg_nrca_switch_title">Agregarea operatorului 5G</string>
     <string name="fiveg_sa_switch_summary">Utilizați rețeaua SA pe SIM-ul secundar (numai pentru testare)</string>
     <string name="fiveg_sa_vice_switch_title">SA pe SIM-ul secundar</string>
     <string name="fiveg_vonr_switch_summary">Utilizați VoNR în mediile de rețea 5G pentru a îmbunătăți experiența de apelare. Această caracteristică este oferită numai în scopuri de testare.</string>
@@ -4461,7 +4461,7 @@ Pentru a afla mai multe, contactați furnizorul dvs. de credit."</string>
     <string name="found_new_version">Actualizare disponibilă</string>
     <string name="fourhours">2 ore</string>
     <string name="fp_nav_center_back_to_home_title">Apăsați butonul Acasă pentru a merge la ecranul principal</string>
-    <string name="free_memory">Liberă</string>
+    <string name="free_memory">Neutilizată</string>
     <string name="free_wifi_agreement_remind_never">Nu mai afişa din nou</string>
     <string name="free_wifi_confirm">Am înțeles</string>
     <string name="free_wifi_connect">Conectaţi-vă</string>
@@ -6172,7 +6172,7 @@ Această operație nu poate fi anulată!"</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">Utilizare memorie</string>
     <string name="memory_usage_apps">Memorie utilizată de către aplicații</string>
-    <string name="memory_usage_apps_summary">{count, plural, =1 {1 aplicație a folosit memoria în ultima {time}} other {# aplicații au folosit memoria în ultimele {time}} }</string>
+    <string name="memory_usage_apps_summary">{count, plural, =1 {1 aplicație a utilizat memoria în ultimele {time}} other {# aplicații au utilizat memoria în ultimele {time}} }</string>
     <string name="memory_use_summary">%1$s memorie utilizată în medie în ultimele 3 ore</string>
     <string name="memorycard_calculating">Se calculează…</string>
     <string name="memtag_footer">Va trebui să reporniți dispozitivul pentru a activa sau dezactiva Protecția avansată a memoriei. Când este activată, este posibil să observați o performanță mai lentă a dispozitivului.</string>
@@ -8088,6 +8088,7 @@ Apăsați pe pornire și creșteți volumul în același timp."</string>
     <string name="privacy_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
     <string name="private_dns_broken">Serverul DNS privat nu poate fi accesat</string>
     <string name="private_dns_help_message"><annotation id="url">Aflați mai multe</annotation> despre caracteristicile DNS Privat</string>
+    <string name="private_dns_host_name">Numele gazdă al furnizorului de DNS privat</string>
     <string name="private_dns_mode_off">Oprit</string>
     <string name="private_dns_mode_on">Pornit</string>
     <string name="private_dns_mode_opportunistic">Automat</string>
@@ -8096,6 +8097,7 @@ Apăsați pe pornire și creșteți volumul în același timp."</string>
     <string name="private_dns_mode_provider_exposed_hostname">Descoperibil</string>
     <string name="private_dns_mode_provider_failure">Nu se poate conecta</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduceți numele gazdă al furnizorului DNS</string>
+    <string name="private_dns_title">DNS Privat</string>
     <string name="private_gallery_need_to_unlock">Introduceți parola</string>
     <string name="private_gallery_recording_intro_header">Desenați un model de deblocare</string>
     <string name="private_gallery_reset_by_account">Pentru a reseta parola, conectați-vă la contul dvs. Xiaomi</string>
@@ -12367,7 +12369,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori."</string>
     <string name="wifi_type_approval_dialog_title">Număr NTC.</string>
     <string name="wifi_type_approval_title">Omologare tip</string>
     <string name="wifi_type_title">Tip</string>
-    <string name="wifi_unchanged">(neschimbate)</string>
+    <string name="wifi_unchanged">(neschimbat)</string>
     <string name="wifi_unmetered_label">Necontorizată</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - Conectare automată</string>
     <string name="wifi_unsaved_network_linking_summary">Activați încercările de conectare automată la un nou SSID WPA / WPA2-PSK de 5 GHz cu WPA / WPA2-PSK 2 credite SSID conectate SSID și BSSID parțial potrivite</string>

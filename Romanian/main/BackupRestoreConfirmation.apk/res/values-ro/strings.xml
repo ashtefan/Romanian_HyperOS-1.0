@@ -20,8 +20,8 @@ Dacă nu aţi solicitat dvs. această restabilire, nu permiteţi continuarea ope
     <string name="restore_confirm_title">Restabilire completă</string>
     <string name="restore_enc_password_text">Dacă datele pentru restabilire sunt criptate, introduceţi parola mai jos:</string>
     <string name="toast_backup_ended">Crearea copiei de rezervă a fost finalizată</string>
-    <string name="toast_backup_started">Se începe crearea copiei de rezervă...</string>
+    <string name="toast_backup_started">Se începe crearea copiei de rezervă…</string>
     <string name="toast_restore_ended">Restabilirea s-a încheiat</string>
-    <string name="toast_restore_started">Se porneşte restabilirea...</string>
+    <string name="toast_restore_started">Se porneşte restabilirea…</string>
     <string name="toast_timeout">Operaţiunea a expirat</string>
 </resources>

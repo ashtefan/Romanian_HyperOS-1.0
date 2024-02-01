@@ -1636,6 +1636,7 @@ Numărul de telefon pentru situația când nu se poate accesa"</string>
     <string name="mobile_network_settings_not_available">Setările rețelei mobile nu sunt accesibile acestui cont de utilizator</string>
     <string name="mobile_networks">Setările reţelei mobile</string>
     <string name="mobile_property">Proprietățile reţelei mobile</string>
+    <string name="mobile_settings_screen_title">Date mobile</string>
     <string name="mobile_special_network_optimization_config_summary">Când rețeaua se comportă anormal, încercați să reparați automat</string>
     <string name="mobile_special_network_optimization_config_title">Optimizare Specială a Rețelei</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>

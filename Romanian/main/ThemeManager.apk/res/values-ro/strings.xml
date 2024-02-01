@@ -1350,7 +1350,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_waiting_pause">Pauză</string>
     <string name="resource_wallpaper_download">Descărcați imaginea de fundal</string>
     <string name="restore_default_change_wallpaper_when_special_lockscreen">În prezent, utilizați un șablon de ecran de blocare. Dacă veți continua, ecranul de blocare va fi restabilit la valoarea implicită, iar imaginile de fundal ale ecranului de pornire și de blocare vor fi înlocuite. Aplicați acum?</string>
-    <string name="restore_default_lock_style_apply_superwallpaper">Acest șablon de ecran de blocare nu acceptă imagini de fundal super. Odată aplicat, ecranul de blocare va reveni la valoarea implicită, iar imaginile de fundal ale ecranului de pornire și de blocare vor fi înlocuite. Aplicați acum?</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">Acest șablon de Ecran de blocare nu acceptă super imagini de fundal. Odată aplicat, Ecranul de blocare va reveni la valoarea implicită, iar imaginile de fundal ale Ecranului de pornire și de blocare vor fi înlocuite. Aplicați acum?</string>
     <string name="restore_default_lockscreen_when_special_lock_style">În prezent, utilizați un șablon de ecran de blocare. Dacă veți continua, ecranul de blocare va fi restabilit la valoarea implicită. Aplicați acum?</string>
     <string name="restore_history_lock_screen_when_apply_theme">În prezent, utilizați o temă terță parte. Dacă schimbați imaginea de fundal a ecranului de blocare, aceasta poate face ca ceasul ecranului de blocare să fie restabilit la implicit. Aplicați acum?</string>
     <string name="restore_home_icon_text">Adăugați o scurtătură pe Ecranul principal</string>
