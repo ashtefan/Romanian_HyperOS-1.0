@@ -1146,6 +1146,9 @@
     <string name="my_playlist_create_self_playlist">Creați liste de redare cu melodiile dvs. preferate</string>
     <string name="my_playlist_set_to_private">Faceți privată</string>
     <string name="my_playlist_set_to_public">Faceți publică</string>
+    <string name="native_body">Corp</string>
+    <string name="native_headline">Titlu</string>
+    <string name="native_media_view">Vizualizare Media</string>
     <string name="nav_app_bar_navigate_up_description">Navigați în sus</string>
     <string name="nav_app_bar_open_drawer_description">Deschideți sertarul de navigare</string>
     <string name="need_to_close">Arată mai puțin</string>
@@ -1199,7 +1202,9 @@
     <string name="notification_recommend_summary">Aflați trendurile noi în muzică și promoții ale aplicațiilor</string>
     <string name="notification_recommend_title">Notificări importante</string>
     <string name="notification_setting">Setări notificări</string>
-    <string name="notification_title_no_song">"Verificați ce se ascultă acum!"</string>
+    <string name="notifications_permission_confirm">Permiteți</string>
+    <string name="notifications_permission_decline">Nu sunt de acord</string>
+    <string name="notifications_permission_title">Permiteți aplicației să vă trimită notificări?</string>
     <string name="nowplaying_circle_style">Stil buton de redare</string>
     <string name="nowplaying_circle_style_rainbow">Curcubeu</string>
     <string name="nowplaying_circle_style_wave">Val</string>
@@ -2064,9 +2069,16 @@ Fiți fericit"</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="version_info">Versiune</string>
     <string name="vhigh_sound_quality">HD</string>
+    <string name="video_dislike">Nu îmi place</string>
+    <string name="video_dislike_toast">Vă vom recomanda mai puțin din acest tip de conținut</string>
     <string name="video_loading_fail">Nu s-a putut încărca videoclipul</string>
     <string name="video_play_cellular">"Dispozitivul dvs. nu este conectat la Wi-Fi. Utilizați datele mobile?"</string>
     <string name="video_replay_btn">Redați din nou</string>
+    <string name="video_report">Raportați</string>
+    <string name="video_report_reason_one">Nuditate sau conținut sexual</string>
+    <string name="video_report_reason_three">Violență fizică sau amenințări</string>
+    <string name="video_report_reason_two">Crimă violentă</string>
+    <string name="video_report_toast">Vă mulțumim pentru feedback-ul dumneavoastră</string>
     <string name="video_retry_btn">Încercați din nou</string>
     <string name="view_album">Vedeți albumul</string>
     <string name="vip_after_tomorrow_auto_renew_message">Abonamentul de Muzică se va reînnoi în mod automat poimâine seară. Asigurați-vă că aveți suficiente credite Mi în cont pentru a finaliza plata.</string>
@@ -2085,6 +2097,7 @@ Fiți fericit"</string>
     <string name="warning_tip_ok">Opriți</string>
     <string name="warning_tip_title">Avertisment utilizare date mobile</string>
     <string name="watch_video">Urmăriți videoclipul</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="web_reward_dialog_cancle">Renunțați</string>
     <string name="web_reward_dialog_ok">Ieșiți</string>
     <string name="wednesday">Miercuri</string>

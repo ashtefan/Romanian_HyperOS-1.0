@@ -267,6 +267,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Xiaomi.</string>
     <string name="family_service">Servicii pentru familie</string>
     <string name="family_service_not_open">Invitați membri</string>
+    <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="fido2_client_for_fingerprint_auth">Atingeți pentru a verifica prin amprentă</string>
     <string name="fido2_close_fingerprint_auth">Se oprește</string>
     <string name="fido2_close_fingerprint_auth_desc">Dezactivați acum verificarea amprentei?</string>

@@ -15,8 +15,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Conturi</item>
-        <item>Adăugați și gestionați conturile terțe</item>
-        <item>Conturi;SNS;WeChat;QQ;Weibo;Cont Xiaomi;Cont</item>
+        <item>Vizualizați conturile dvs. WeChat și alte SNS conectate</item>
+        <item>permisiuni;SNS;WeChat;Cont Xiaomi;cont</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Modificați parola</item>
