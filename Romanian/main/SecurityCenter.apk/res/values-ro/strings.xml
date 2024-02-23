@@ -2168,6 +2168,7 @@ cutremure"</string>
     <string name="fod_finger_notice_title">Plasați degetul pe ecran</string>
     <string name="fod_finger_windows_tips">Verificați amprenta</string>
     <string name="fod_tips_split_screen_more_than_half">Introduceți parola</string>
+    <string name="fold_application_mode_name">Dispunerea aplicațiilor</string>
     <string name="forbid_autobright_summary">"Iluminarea automată a ecranului va fi dezactivată când vă jucați și va fi restaurată atunci când terminați jocul"</string>
     <string name="forbid_autobright_title">Depanați iluminarea ecranului</string>
     <string name="foreground_traffic">În prim plan: %s</string>
@@ -3898,7 +3899,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_wireless_charging_special_stand_summary2">Instalați-vă dispozitivul pe suportul livrat împreună cu încărcătorul fără fir pentru o performanță optimă de încărcare</string>
     <string name="pc_wireless_charging_special_stand_title">Utilizați suportul de încărcare furnizat</string>
     <string name="pc_wireless_handle_connected">Dispozitiv conectat</string>
-    <string name="pc_wireless_handle_title">Mâner pentru camera wireless</string>
+    <string name="pc_wireless_handle_title">Mâner pentru cameră</string>
     <string name="pc_work_in_save_mode">Economisire acumulator</string>
     <string name="pc_work_in_super_save_mode">Ultra Economisire acumulator</string>
     <string name="pc_xiaoai_create_auto_task">Sarcină nouă de la Mi AI</string>
@@ -6565,6 +6566,7 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="virus_wait_network_dialog_message">"Telefonul nu este conectat la Wi-Fi. Utilizați conexiunea de date mobile?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_ai_subtitle">Subtitrări</string>
+    <string name="vtb_ai_subtitle_intl">Subtitrări AI</string>
     <string name="vtb_func_desc">Despre această funcție</string>
     <string name="vtb_func_display_style_desc0">AI poate recunoaște persoane, animale, plante, cer, clădiri și alte obiecte prezentate în videoclipuri și le poate îmbunătăți dinamic.</string>
     <string name="vtb_func_display_style_desc1">Efectele selectate nu vor fi aplicate videoclipurilor HDR pe dispozitivele selectate.</string>

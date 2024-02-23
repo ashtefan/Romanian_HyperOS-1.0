@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Reactivare sincronizare</string>
     <string name="activating">Activare…</string>
     <string name="address">Adresă</string>
-    <string name="after_reset_need_restore_system_app">Se pare că ați efectuat o revenire la setările din fabrică. Conectați-vă la rețea și restaurați elementele de sistem pentru a putea utiliza MIUI în mod normal.</string>
+    <string name="after_reset_need_restore_system_app">Se pare că ați efectuat o revenire la setările din fabrică. Conectați-vă la rețea și restaurați elementele de sistem pentru a putea utiliza dispozitivul în mod normal.</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="birthday">Zi de naştere</string>
@@ -19,7 +19,7 @@
     <string name="check_phone_error_title">Sincronizare oprită</string>
     <string name="check_phone_io_error">Nu se poate conecta la rețea</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
-    <string name="click_to_restore">Restaurați elementele de sistem pentru a putea utiliza MIUI în mod normal după o revenire la setările din fabrică. Atingeți pentru a începe.</string>
+    <string name="click_to_restore">Restaurați elementele de sistem pentru a putea utiliza dispozitivul în mod normal după o revenire la setările din fabrică. Atingeți pentru a începe.</string>
     <string name="close">Închideţi</string>
     <string name="com_android_deskclock">Ceas</string>
     <string name="com_android_download_ui">Descărcări</string>
@@ -124,7 +124,7 @@
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Închideți</string>
     <string name="instruction">Informații importante de securitate</string>
-    <string name="label">MIUI SDK</string>
+    <string name="label">Sistem SDK</string>
     <string name="midnight">AM</string>
     <string name="mobile_data_consume">Descărcarea elementelor acum necesită %1$s MB date mobile. Descărcați oricum?</string>
     <string name="mobile_data_remind">Avertisment utilizare date</string>

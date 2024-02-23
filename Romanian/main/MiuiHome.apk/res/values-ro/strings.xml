@@ -595,7 +595,7 @@ Securitate sporită."</string>
     <string name="mi_wallpaper">Magazin Teme MIUI</string>
     <string name="midnight">Noapte</string>
     <string name="minus_one_screen">Asistentul inteligent</string>
-    <string name="miui_screen_config_title">Setări pentru Ecranul principal</string>
+    <string name="miui_screen_config_title">Dispunere Ecran principal</string>
     <string name="miui_setting_config_title">Setări pentru Ecranul principal</string>
     <string name="miui_widget_menu_replace_text">Comutați</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"Asistentul inteligent nu acceptă widget-uri de această dimensiune"</string>
@@ -861,6 +861,7 @@ Securitate sporită."</string>
     <string name="recent_menu_item_unlock">Deblocați</string>
     <string name="recent_menu_item_worldcirculate">Transferați sarcinile aplicației</string>
     <string name="recent_menu_item_worldcirculate_disable">Nu se pot transfera sarcinile aplicației pe dispozitivele conectate</string>
+    <string name="recent_pin_text">Fixați</string>
     <string name="recents_app_info_button_label">Informații despre aplicație</string>
     <string name="recents_clear_all_tasks">Goliți tot</string>
     <string name="recents_config_title">Recente</string>
@@ -1013,11 +1014,12 @@ Securitate sporită."</string>
     <string name="swipe_the_desktop_to_the_right">Glisați spre dreapta în Ecranul principal</string>
     <string name="switch_on_button">Activați</string>
     <string name="switch_personal_assistant_app_vault">Asistent inteligent</string>
-    <string name="switch_personal_assistant_google">Google Discover</string>
+    <string name="switch_personal_assistant_google">Descoperire Google</string>
     <string name="switch_personal_assistant_none">Niciunul</string>
     <string name="switch_personal_assistant_summary">Glisați spre dreapta pe Ecranul de pornire pentru a deschide Google Discover</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
     <string name="switch_screen_button_order_desc">Butoanele Înapoi și Meniu poziționate în oglindă</string>
+    <string name="system_sdk_disabled_toast">Systemul SDK a fost dezactivat. Activați-l mai întâi.</string>
     <string name="system_shortcuts_edit">Editați</string>
     <string name="system_shortcuts_icon_remove">Eliminați</string>
     <string name="system_shortcuts_more_operation">Informații aplicație</string>

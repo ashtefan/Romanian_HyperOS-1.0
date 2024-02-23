@@ -1916,6 +1916,7 @@ Verificați alte videoclipuri!"</string>
     <string name="sending">Se trimite…</string>
     <string name="service_error">Eroare de server</string>
     <string name="set_success">Modificat cu succes</string>
+    <string name="setting_privacy_title">Termeni și condiții</string>
     <string name="settings_inline_auto_play">Redare automată întotdeauna</string>
     <string name="settings_inline_auto_play_close">Redare automată dezactivată</string>
     <string name="settings_inline_auto_play_tip_close_forever">Întotdeauna oprit</string>

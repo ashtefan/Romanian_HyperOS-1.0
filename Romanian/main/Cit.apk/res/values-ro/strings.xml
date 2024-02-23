@@ -589,7 +589,12 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_soft_light_check_title">Lumină slabă</string>
     <string name="cit_soft_torch_off">Dezactivați blițul redus</string>
   <string name="cit_start_calibration">Calibrate</string>
-  <string name="cit_stop_calibration">Stop calibrating</string>
+    <string name="cit_sub_display_check_title">Afișaj secundar</string>
+    <string name="cit_sub_touch_panel_test_title">Senzor de sub atingere</string>
+    <string name="cit_tele_5x_cali">Calibrare Tele Camera PdfOffset</string>
+    <string name="cit_tele_5x_cali_reset">Resetați</string>
+    <string name="cit_tele_5x_cali_reset_success_toast">Resetat cu succes</string>
+    <string name="cit_tele_5x_cali_success_toast">Calibrare cu succes</string>
     <string name="cit_tele_camera_check_title">Camera Tele</string>
     <string name="cit_tfcard_no_support">Acest dispozitiv nu suportă carduri TF.</string>
     <string name="cit_tfcard_support">Cardurile TF sunt suportate pe acest dispozitiv.</string>

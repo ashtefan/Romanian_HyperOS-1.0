@@ -852,14 +852,14 @@ Motivul: \"%s\""</string>
     <string name="exporting_vcard_canceled_title">Exportul %s a fost anulat.</string>
     <string name="exporting_vcard_finished_title">S-a finalizat exportul %s.</string>
     <string name="external_profile_title">Profilul meu %1$s</string>
-    <string name="fail_reason_could_not_initialize_exporter">Nu s-a putut iniţializa instrumentul de export: \"%s\"</string>
-    <string name="fail_reason_could_not_open_file">Nu s-a putut deschide \"%1$s\": %2$s.</string>
-    <string name="fail_reason_error_occurred_during_export">A apărut o eroare în timpul exportului: \"%s\".</string>
+    <string name="fail_reason_could_not_initialize_exporter">Nu s-a putut iniţializa exportul: %s</string>
+    <string name="fail_reason_could_not_open_file">Nu s-a putut deschide \"%1$s\": %2$s</string>
+    <string name="fail_reason_error_occurred_during_export">A apărut o eroare în timpul exportului: %s.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Nu s-au putut colecta metainformaţiile pentru fişierele vCard indicate.</string>
     <string name="fail_reason_failed_to_read_files">Unul sau mai multe fişiere nu s-au putut importa (%s).</string>
     <string name="fail_reason_io_error">Eroare I/O</string>
     <string name="fail_reason_low_memory_during_import">Memorie insuficientă (probabil fişierul este prea mare).</string>
-    <string name="fail_reason_no_exportable_contact">Niciun contact exportabil</string>
+    <string name="fail_reason_no_exportable_contact">Nu s-a găsit niciun contact exportabil</string>
     <string name="fail_reason_not_supported">Formatul nu este acceptat</string>
     <string name="fail_reason_too_long_filename">Numele de fişier solicitat este prea lung (\"%s\").</string>
     <string name="fail_reason_too_many_vcard">Prea multe fişiere vCard pe cardul SD</string>
@@ -964,8 +964,9 @@ Motivul: \"%s\""</string>
   <string name="heduohao_popup_txt">Sub%d</string>
     <string name="hide_app_description_content">Contacte este o aplicație de sistem. O veți putea utiliza în continuare prin intermediul aplicației Telefon după ce eliminați scurtătura de pe Ecranul principal.</string>
     <string name="hide_app_description_title">Eliminați \"Contacte\" de pe Ecranul principal?</string>
+    <string name="hint_distance">Păstrați cele două dispozitive aproape unul de celălalt în timpul procesului de import pentru a vă asigura că rămân conectate.</string>
     <string name="hint_findContacts">Găsiţi contacte</string>
-    <string name="hint_more_contact">Îmbinați contactele dublate</string>
+    <string name="hint_more_contact">Dacă importul creează contacte duplicate, utilizați funcția \"Îmbinare contacte duplicate\".</string>
     <string name="hybrid_check_network">Setări de rețea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_locating_fail">"Nu s-a putut găsi locația dumneavoastră"</string>
@@ -1005,7 +1006,7 @@ Motivul: \"%s\""</string>
     <string name="import_to_xiaomi_account_title">Importaţi în contul Xiaomi</string>
     <string name="import_vcard_description">"Importaţi contacte din stocarea telefonului"</string>
     <string name="import_vcard_dialog_message">Importați vCard?</string>
-    <string name="importing_sim_contacts_miui">Se importă contacte de pe cartela SIM…</string>
+    <string name="importing_sim_contacts_miui">Se importă contacte de pe cartela SIM</string>
     <string name="importing_sim_contacts_miui_prepare">Pregătire contacte…</string>
     <string name="importing_vcard_canceled_title">Importul %s a fost anulat</string>
     <string name="importing_vcard_description">Se importă %s</string>
@@ -1341,6 +1342,8 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="notification_missedCall_call_back">Sunați înapoi</string>
     <string name="notification_missedCall_message">Trimiteți SMS</string>
     <string name="notification_missedCallsTitle">Apeluri pierdute</string>
+    <string name="notification_title_export">Exportați contacte</string>
+    <string name="notification_title_import">Importați contacte</string>
     <string name="open_contact">Vizualizaţi contactul</string>
     <string name="open_dial_pad_description">Deschideți tastatura numerică</string>
     <string name="option_delete_batch_contacts">Ștergeți în serie</string>

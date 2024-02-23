@@ -149,9 +149,11 @@ au fost adăugate în lista blocărilor"</string>
     <string name="cannot_forward_drm_obj">Obiectul DRM inclus în mesaj nu poate fi redirecţionat</string>
     <string name="cannot_get_details">Nu se pot obţine detaliile</string>
     <string name="cannot_resend_audio">Nu se poate trimite înregistrarea</string>
+    <string name="cannot_send_location">Acordați mai întâi permisiunile de localizare</string>
     <string name="cannot_send_message">Mesajul nu poate fi trimis</string>
     <string name="cannot_send_message_reason">Mesajul dvs. nu are un destinatar valid</string>
-    <string name="card_insert_to_contact">Importați contactul</string>
+    <string name="cannot_send_mms">Comunicațiile prin satelit nu acceptă MMS</string>
+    <string name="carry_current_location">Includeți locația curentă</string>
     <string name="change_duration_activity">Modificaţi durata</string>
     <string name="chatbot_list_title">Chatbots</string>
     <string name="chatbot_main_title">Chatbots</string>
@@ -310,7 +312,9 @@ au fost adăugate în lista blocărilor"</string>
     <string name="edit_phrase">Editaţi răspunsurile rapide</string>
     <string name="edit_slide_activity">Modificaţi diapozitivul</string>
     <string name="edit_slideshow_activity">Modificaţi prezentarea</string>
+    <string name="emergency_label">Contact de urgență</string>
     <string name="enable_classify_tip_dialog_content">Această acțiune va relansa aplicația de Mesagerie. Continuați oricum?</string>
+    <string name="enable_location_service">Permisiuni necesare</string>
     <string name="enabled">Pornit</string>
     <string name="english_subject_limit">Maxim 40 de caractere</string>
     <string name="enter_edit_mode">Editaţi mesajele</string>
@@ -475,7 +479,7 @@ au fost adăugate în lista blocărilor"</string>
     <string name="has_invalid_recipient">Destinatari nevalizi: &lt;%1$s></string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Adresă de expeditor ascunsă</string>
-    <string name="hint_not_login">Serviciul nu este disponibil. Verificați setările de rețea și încercați din nou.</string>
+    <string name="hold_hand_with_sending">Se trimite SMS-ul. Stați liniștit.</string>
     <string name="hold_to_talk">Mențineți pentru a vorbi</string>
     <string name="home_tab_ad">Promoționale</string>
     <string name="home_tab_common">Obișnuite</string>
@@ -503,7 +507,8 @@ au fost adăugate în lista blocărilor"</string>
     <string name="invalid_recipient_message">"Corectaţi destinatarii, altfel nu vor primi mesajul."</string>
     <string name="invisible_mode_on">Sunteți incognito</string>
     <string name="is_composing">Tastează…</string>
-    <string name="kicked_out_group">Ați fost șters din chat</string>
+    <string name="item_over_quantity">Selectați până la %d mesaje care conțin informații despre locație</string>
+    <string name="item_shortage">Selectați cel puțin %d mesaje care conțin informații despre locație</string>
     <string name="kilobyte">KB</string>
     <string name="label_alias">Aliasul meu</string>
     <string name="label_delete">Părăsiți și ștergeți</string>
@@ -543,6 +548,7 @@ au fost adăugate în lista blocărilor"</string>
     <string name="menu_edit">Modificaţi</string>
     <string name="menu_forward">Redirecţionaţi</string>
     <string name="menu_lock">Adăugaţi la favorite</string>
+    <string name="menu_locus_map">Harta rutei</string>
     <string name="menu_make_call">Apelați</string>
     <string name="menu_mark">Marcaţi</string>
     <string name="menu_more">Mai multe</string>
@@ -771,7 +777,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="mx_reactivate">Reactivaţi Mesagerie Mi</string>
     <string name="mx_recommend_msg">Atingeţi pentru a activa Mesageria Mi</string>
     <string name="mx_stranger_recommend_msg">Atingeți pentru a bloca mesajele Mi provenite de la numere necunoscute</string>
-    <string name="mx_type_guide">Trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli</string>
+    <string name="my_location">Locația mea:</string>
     <string name="need_download">Sincronizare…</string>
     <string name="net_sms_subscribed">Abonat cu succes</string>
     <string name="net_sms_unsubscribe">Dezabonat cu succes</string>
@@ -803,6 +809,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="noon">Amiază</string>
     <string name="nosend_message">"Nu trimiteţi"</string>
     <string name="not_prepare_for_send">Niciun mesaj de trimis</string>
+    <string name="not_send_location">Nu acum</string>
     <string name="not_set">Nesetat</string>
     <string name="not_support_audio_forward">Nu se pot redirecționa mesajele vocale</string>
     <string name="not_support_file">Nu se pot trimite fișiere de acest tip</string>
@@ -831,6 +838,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="only_chairman_left">În acest chat rămâne doar managerul de chat. Anulați chatul și ștergeți managerul?</string>
     <string name="open_audio_record_panel">Deschideți panoul de înregistrare audio</string>
     <string name="open_edit_sms_panel">Deschideți panoul de editare a mesajelor</string>
+    <string name="open_now">Setări</string>
     <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
     <string name="over_max_mms_size">MMS prea mare.</string>
     <string name="overwrite_edited_content">Conținutul editat va fi suprascris</string>
@@ -1321,6 +1329,11 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="rms_view_vedio_notsupport">Nu se poate trimite acest fișier ca videoclip</string>
     <string name="rsc_chatbot_back">Înapoi</string>
     <string name="rsc_chatbot_detail">Informații despre vânzător</string>
+    <string name="satellite_location_failed">Nu s-a putut trimite locația. SMS trimis fără locație.</string>
+    <string name="satellite_location_privacy"><Data>Tiantong Satellite trebuie să vă acceseze locația pentru a putea trimite SMS-uri. Citiți și acceptați &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Politica noastră de confidențialitate&lt;/a>&lt;/font> înainte de a continua.</Data></string>
+    <string name="satellite_location_privacy_title">Accesarea locației</string>
+    <string name="satellite_message_notification_contact_end">(Se trimite prin satelit)</string>
+    <string name="satellite_sms_notification">Acest mesaj a fost trimis de serviciile Tiantong Satellite. Expeditorul poate avea nevoie de ajutorul dvs.</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -1381,6 +1394,7 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="send_signature_confirm_dialog_message">Nu a fost găsit textul mesajului. Trimiteți doar semnătura?</string>
     <string name="send_signature_confirm_dialog_title">Trimiteţi mesajul</string>
     <string name="send_sms">Trimiteţi mesajul</string>
+    <string name="send_sms_with_location">Permiteți acestei aplicații să vă acceseze locația pentru a putea trimite mesaje, inclusiv locația dvs. Puteți acorda această permisiune din Setări.</string>
     <string name="send_to">Către:</string>
     <string name="sent_at_time">Trimis la: %1s</string>
     <string name="sent_label">"Trimis: "</string>

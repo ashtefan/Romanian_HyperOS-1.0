@@ -8670,21 +8670,14 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizați lista aplicațiilor ce utilizează Modul Lectură în mod automat</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizare automată</string>
     <string name="screen_paper_texture">Textură</string>
-    <string name="screen_pinning_description">"Fixarea aplicației vă permite să păstrați aplicația curentă la vedere până când anulați fixarea. Această caracteristică poate fi utilizată, de exemplu, pentru a permite unui prieten de încredere să joace un anumit joc. 
+    <string name="screen_pinning_description">Aplicațiile fixate pot deschide alte aplicații și vă pot accesa informațiile personale</string>
+    <string name="screen_pinning_dialog_message">"Iată ce puteți face cu aplicațiile fixate:
 
-Când o aplicație este fixată, aceasta poate deschide alte aplicații și datele personale pot fi accesibile. 
+• Accesați informațiile dvs. personale
+(de exemplu, contacte și e-mailuri)
+• Deschideți alte aplicații
 
-Pentru a utiliza fixarea aplicației: \u0009
-1. Activați fixarea aplicației \u0009
-2. Deschideți Privirea generală \u0009
-3. Atingeți pictograma aplicației din partea de sus a ecranului, apoi atingeți Fixare"</string>
-    <string name="screen_pinning_dialog_message">"Când o aplicație este fixată: 
-
-•\u0009\u0009Datele personale pot fi accesibile 
-\u0009\u0009(precum contacte și conținutul e-mailurilor) 
-•\u0009\u0009Aplicația fixată poate deschide alte aplicații 
-
-Folosiți fixarea aplicației numai cu persoane de încredere."</string>
+Utilizați această funcție cu precauție în timp ce partajați acest dispozitiv cu alte persoane."</string>
     <string name="screen_pinning_guest_user_description">"Fixarea aplicației vă permite să păstrați aplicația curentă la vedere până când anulați fixarea. Această caracteristică poate fi utilizată, de exemplu, pentru a permite unui prieten de încredere să joace un anumit joc. 
 
 Când o aplicație este fixată, aceasta poate deschide alte aplicații și datele personale pot fi accesibile. 
@@ -8695,10 +8688,11 @@ Pentru a utiliza fixarea aplicației: \u0009
 1. Activați fixarea aplicației \u0009
 2. Deschideți Privirea generală \u0009
 3. Atingeți pictograma aplicației din partea de sus a ecranului, apoi atingeți Fixare"</string>
+    <string name="screen_pinning_summary">Aplicațiile fixate vor rămâne în fila Recente până când le anulați fixarea</string>
     <string name="screen_pinning_switch_off_text">Oprit</string>
     <string name="screen_pinning_switch_on_text">Pornit</string>
-    <string name="screen_pinning_title">Fixarea aplicațiilor</string>
-    <string name="screen_pinning_unlock_none">Blocați telefonul când se anulează fixarea</string>
+    <string name="screen_pinning_title">Permiteți fixarea aplicațiilor</string>
+    <string name="screen_pinning_unlock_none">Verificați blocarea ecranului pentru a anula fixarea</string>
     <string name="screen_pinning_unlock_password">Solicită parola înainte de anularea fixării</string>
     <string name="screen_pinning_unlock_pattern">Solicită modelul de deblocare înainte de anularea fixării</string>
     <string name="screen_pinning_unlock_pin">Solicită codul PIN înainte de anularea fixării</string>
@@ -10712,8 +10706,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="time_floating_window">Ceas plutitor</string>
     <string name="time_floating_window_summary">Afișează ceasul în fereastra plutitoare de deasupra celorlalte aplicațiilor</string>
     <string name="time_format_category_title">Formatul de oră</string>
-    <string name="time_format_entries_1">%d-oră 1:00 PM</string>
-    <string name="time_format_entries_2">%d-oră 13:00</string>
+    <string name="time_format_entries_1">%d-ore 1:00 PM</string>
+    <string name="time_format_entries_2">%d-ore 13:00</string>
     <string name="time_format_entries_3">Auto (bazat pe limba sistemului)</string>
     <string name="time_picker_am">AM</string>
     <string name="time_picker_dialog_title">Setați ora</string>

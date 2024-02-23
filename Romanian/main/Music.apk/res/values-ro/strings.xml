@@ -161,16 +161,64 @@
     <string name="artist_home_search_hint">Căutați artiști</string>
     <string name="artist_is_empty">Numele artistului nu poate fi necompletat.</string>
     <string name="artist_name">Artist</string>
-    <string name="artist_search_title">Artist</string>
-    <string name="artist_view">Artist</string>
-    <string name="asset_sync_alert_not_now">Nu acum</string>
-    <string name="asset_sync_network_data_alert_message">Crearea unei copii de rezervă pentru melodii utilizând datele mobile poate genera costuri suplimentare. Continuați oricum?</string>
-    <string name="asset_sync_network_data_alert_title">"Utilizați datele mobile"</string>
-    <string name="asset_sync_network_unavailable_alert_message">Conectați-vă la internet pentru a crea o copie de rezervă pentru melodii</string>
-    <string name="asset_sync_network_unavailable_alert_title">"Nu s-a putut conecta la rețea"</string>
-    <string name="asset_sync_power_alert_message">Conectați încărcătorul pentru a crea o copie de rezervă pentru melodii.</string>
-    <string name="asset_sync_power_alert_title">Acumulator descărcat</string>
-    <string name="atmd_music">Ultima</string>
+    <string name="asm_batch_download_failed">Nu s-a putut descărca</string>
+    <string name="asm_buy_member_success">Abonament VIP achiziționat cu succes</string>
+    <string name="asm_dialog_title_tips">Abonament VIP</string>
+    <string name="asm_dialog_vip_confirm_text">Alăturați-vă</string>
+    <string name="asm_dialog_vip_message">Înscrieți-vă pentru un abonament VIP pentru a asculta melodii la înaltă calitate și pentru a descărca și mai mult conținut.</string>
+    <string name="asm_disable_song_click_tip">Această melodie nu este disponibilă din cauza unor probleme de drepturi de autor</string>
+    <string name="asm_download_failed">Nu s-a putut descărca \"%1$s\"</string>
+    <string name="asm_download_is_downloaded">Melodia a fost descărcată cu succes</string>
+    <string name="asm_download_is_downloaded_hq">Descărcat în HQ</string>
+    <string name="asm_download_is_downloading">Se decarcă…</string>
+    <string name="asm_download_list_not_supported">Nu pot descărca unele melodii din această listă</string>
+    <string name="asm_download_pending_status_msg">Se pregătește descărcarea…</string>
+    <string name="asm_download_success">S-a descărcat \"%1$s\"</string>
+    <string name="asm_during_the_payment">Se verifică starea plății…</string>
+    <string name="asm_fail_play_song">Nu s-a putut descărca melodia</string>
+    <string name="asm_google_connect_failed">Nu s-a putut finaliza plata. Asigurați-vă că v-ați conectat la Magazinul Play.</string>
+    <string name="asm_google_no_goods">Nu s-au putut obține informații despre produs</string>
+    <string name="asm_google_not_login">Conectați-vă la Magazinul Play și încercați din nou</string>
+    <string name="asm_google_pay_success">Comandă Google Pay generată</string>
+    <string name="asm_google_query_failed">Nu s-au putut obține informații despre produs</string>
+    <string name="asm_google_service_failed">Serviciile Google nu au putut fi lansate. Încercați din nou.</string>
+    <string name="asm_gooleplay_notice">Serviciile Google Play nu sunt instalate</string>
+    <string name="asm_loadstate_error_retry">Conectați-vă la internet și atingeți pentru a încerca din nou</string>
+    <string name="asm_loadstate_not_more">Asta este tot pentru acum</string>
+    <string name="asm_network_error">Verificați conexiunea la rețea</string>
+    <string name="asm_new_song_title">Melodii noi</string>
+    <string name="asm_no_need_download_songs">Melodia este în coada de descărcare</string>
+    <string name="asm_no_network">Nu s-a putut conecta la rețea</string>
+    <string name="asm_not_action_is_local_music">Nu se poate efectua această acțiune pe fișierele locale</string>
+    <string name="asm_notify_use_mobile_download">Se descarcă utilizând datele mobile</string>
+    <string name="asm_page_empty_search">Nu s-au putut găsi rezultate</string>
+    <string name="asm_page_error_airplane">Dezactivați modul Avion pentru a vă putea conecta</string>
+    <string name="asm_page_error_data">A apărut o eroare</string>
+    <string name="asm_page_error_no_network">Nu s-a putut conecta la rețea</string>
+    <string name="asm_page_local_empty_action">Descoperiți muzică nouă</string>
+    <string name="asm_pay_info_deduction_failed">Nu s-a putut finaliza plata automată. Verificați-vă metoda de plată în curând pentru a evita pierderea beneficiilor abonamentului dvs. VIP.</string>
+    <string name="asm_pay_info_upload_failed">Nu s-au putut încărca informațiile despre comandă</string>
+    <string name="asm_pay_order_generate">Se generează comanda…</string>
+    <string name="asm_pay_order_generate_failed">Nu s-a putut genera comanda</string>
+    <string name="asm_pay_query_overtime">Solicitarea privind starea plății a expirat</string>
+    <string name="asm_privacy_desc">Politica de confidențialitate Wansheng</string>
+    <string name="asm_privacy_tips_content">Acceptați <a href="/link/click">Politica de confidențialitate Wansheng</a> pentru a putea folosi serviciile muzicale online.</string>
+    <string name="asm_privacy_tips_title">Politica de confidențialitate Wansheng</string>
+    <string name="asm_pro_center">Calitatea de membru</string>
+    <string name="asm_search_result_contain_music">Conține: \"%1$s\"</string>
+    <string name="asm_song_err_connect">Nu s-a putut conecta la server</string>
+    <string name="asm_song_err_not_exist">Sursa audio solicitată nu există</string>
+    <string name="asm_song_err_not_exist_clear">Melodia nu există. Eliminat din coada de descărcare.</string>
+    <string name="asm_song_err_play">Nu s-a putut reda. Încercați din nou.</string>
+    <string name="asm_songlist_all_genre_close">Restrângeți totul</string>
+    <string name="asm_songlist_all_genre_title">Toate categoriile</string>
+    <string name="asm_songs_is_downloading">Se descarcă melodia…</string>
+    <string name="asm_stop_action_when_no_network">Conectați-vă la rețea și încercați din nou</string>
+    <string name="asm_tips_cannot_download_disable_songs">Nu se poate descărca această melodie</string>
+    <string name="asm_toast_pay_canceled">Plată anulată</string>
+    <string name="asm_toast_pay_failed">Nu s-a putut finaliza plata</string>
+    <string name="asm_unknow_album">Album necunoscut</string>
+    <string name="asm_unknow_artist">Artist necunoscut</string>
     <string name="audio_ad_countdown">Omite reclama în %s s</string>
     <string name="audio_ad_pass">Omite reclama</string>
     <string name="audio_picker_title">Selectaţi o melodie</string>
@@ -199,9 +247,8 @@
     <string name="backup_song_title">Selectați melodiile pentru care doriți să realizați o copie de rezervă</string>
     <string name="baidu_music">Muzică Baidu</string>
     <string name="banner_op">Muzică Mi</string>
-    <string name="being_disable_auto_payment">Dezactivare…</string>
-    <string name="being_enable_auto_payment">Activare…</string>
-    <string name="bill_list_fragment_title">Chart-uri</string>
+    <string name="best_experience">Cea mai bună experiență</string>
+    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Dispozitiv audio Bluetooth</string>
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="btn_text_edit">Editați</string>
@@ -322,6 +369,7 @@
     <string name="current_lyric">Versurile curente</string>
     <string name="current_services">Actual</string>
     <string name="current_version">Versiunea curentă</string>
+    <string name="daily_recommend_desc">Recomandări zilnice alese manual pentru dvs.</string>
     <string name="daily_recommendation">Mixuri zilnice</string>
     <string name="dark_mode">Modul întunecat</string>
     <string name="data_usage_warning">Utilizare date</string>
@@ -984,6 +1032,8 @@
     <string name="middle_sound_quality">Standard</string>
     <string name="midnight">Noapte</string>
     <string name="milink_unavaliable_please_update">"Funcția Mi Link nu este disponibilă. Actualizați MIUI."</string>
+    <string name="million_char">%s M</string>
+    <string name="millions_songs">Milioane de melodii</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Necunoscut></string>
     <string name="miui_music">Muzică Mi</string>
@@ -1429,9 +1479,9 @@
     <string name="privacy_desc">Politica de Confidențialitate (obligatoriu)</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_tip_cancel">Renunțați</string>
-    <string name="privacy_request_desc"><Data>"Muzică Mi trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de streaming online. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>. Vă puteți retrage consimțământul pentru Politica de confidențialitate a Muzicii Mi din Setări în orice moment.
+    <string name="privacy_request_desc">"&lt;Data>Muzică Mi trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de streaming online. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>. Vă puteți retrage consimțământul pentru Politica de confidențialitate a Muzicii Mi din Setări în orice moment.
 Citiți și acceptați &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza aplicația Muzică Mi.
-Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.."</Data></string>
+Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Bine ați venit în aplicația Muzică Mi! Această aplicație oferă următoarele servicii:
 
 - Un player audio local
@@ -1456,9 +1506,10 @@ Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu ve�
     <string name="radar_retry">Reîncercați</string>
     <string name="radar_searching_state">Căutare…</string>
     <string name="radar_support_by">Oferit de ACRCloud</string>
-    <string name="read_and_agree_hungama_protocol"><Data>"Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate Hungama&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>"Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>"Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate Xiaomi&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Citiți și acceptați &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate Wansheng&lt;/a>&lt;/font> pentru a putea folosi serviciile muzicale online.&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">"&lt;Data>Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate Hungama&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_joox_protocol">"&lt;Data>Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_mi_protocol">"&lt;Data>Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate Xiaomi&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_protocol">Citiți și acceptați Acordul de utilizare și Politica de confidențialitate înainte de a continua.</string>
     <string name="ready_to_play">Urmează</string>
     <string name="really_pay">Achitaţi acum?</string>
@@ -1809,6 +1860,7 @@ Fiți fericit"</string>
     <string name="the_united_nations_day">Ziua Națiunilor Unite</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
+    <string name="thousand_char">%s K</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
@@ -2184,5 +2236,6 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="youtube_tab_popular">Populare</string>
     <string name="youtube_tab_radar">Radar</string>
     <string name="youtube_tab_shorts">Videoclipuri scurte</string>
+    <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">În trend</string>
 </resources>

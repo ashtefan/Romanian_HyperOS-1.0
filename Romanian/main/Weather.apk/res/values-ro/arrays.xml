@@ -8,11 +8,11 @@
     </string-array>
     <string-array name="aqi_detail_title">
         <item>Bună</item>
+        <item>Adecvată</item>
         <item>Moderată</item>
-        <item>Cu risc pentru persoanele sensibile</item>
         <item>Nocivă</item>
-	<item>Foarte nocivă</item>
-	<item>Periculoasă pentru sănătate</item>
+	<item>Severă</item>
+	<item>Periculoasă</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -40,11 +40,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bună</item>
-        <item>Satisfăcătoare</item>
-        <item>Poluată moderat</item>
-        <item>Rea</item>
-        <item>Foarte rea</item>
+        <item>Adecvată</item>
+        <item>Moderată</item>
+        <item>Nocivă</item>
         <item>Severă</item>
+        <item>Periculoasă</item>
         <item>Peste indice</item>
     </string-array>
     <string-array name="breeze">
@@ -125,24 +125,24 @@
         <item>Senin</item>
         <item>Înnorat</item>
         <item>Înnorat</item>
-        <item>Ceaţă</item>
+        <item>Aburi</item>
         <item>Ploaie torenţială</item>
         <item>Ploaie torențială</item>
         <item>Furtună</item>
         <item>Furtună cu trăsnete</item>
         <item>Averse</item>
-        <item>Precipitații puternice</item>
+        <item>Ploaie puternică</item>
         <item>Ploaie moderată</item>
         <item>Ploaie ușoară</item>
         <item>Lapoviţă</item>
         <item>Viscol</item>
-        <item>Ninsoare</item>
+        <item>Averse de zăpadă</item>
         <item>Ninsoare puternică</item>
         <item>Ninsoare moderată</item>
         <item>Ninsoare slabă</item>
         <item>Furtună de nisip puternică</item>
         <item>Furtună de nisip</item>
-        <item>Nisip</item>
+        <item>Furtună de nisip ușoară</item>
         <item>Vânt</item>
         <item>Grindină</item>
         <item>Praf</item>

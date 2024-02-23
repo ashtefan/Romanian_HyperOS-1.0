@@ -2477,6 +2477,8 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="physical_keyboard_title">Tastatura fizică</string>
     <string name="picture_color_mode">Mod culoare fotografie</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
+    <string name="pin_toast">Glisați în sus din partea de jos a ecranului și întrerupeți pentru a anula fixarea acestei aplicații</string>
+    <string name="pin_toast_nav">Apăsați lung butoanele înapoi și previzualizare pentru a anula fixarea acestei aplicații</string>
     <string name="pip_close">Închideți modul Imagine-în-Imagine</string>
     <string name="pip_collapse">Restrângeți</string>
     <string name="pip_edu_text">" Apăsați de două ori butonul "<annotation icon="home_icon"> ACASĂ </annotation>" pentru controale "</string>
