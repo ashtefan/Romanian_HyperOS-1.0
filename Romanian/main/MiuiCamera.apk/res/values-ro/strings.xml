@@ -2389,6 +2389,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_super_night_se_desc">Detectați condițiile de lumină scăzută în timp ce utilizați modurile Foto și Portret pentru a îmbunătăți automat calitatea imaginii</string>
     <string name="pref_super_night_se_summary">Detectați condițiile de iluminare slabă și îmbunătățiți automat calitatea imaginii</string>
     <string name="pref_super_night_se_title">Mod noapte automat</string>
+    <string name="pref_switch_camera_heic_image_desc">Un format foto mai eficient care economisește spațiul de stocare. Acceptă modul Ultra HD, dar nu acceptă fotografii dinamice, eliminând filigranele obișnuite și unele aplicații terță parte.</string>
     <string name="pref_true_colour_video_mode_description">Înregistrați videoclipuri cu Dolby Vision pentru a surprinde detalii realiste, culori uimitoare și contrast izbitor (este posibil ca această funcție să nu fie compatibilă cu unele aplicații terțe)</string>
     <string name="pref_true_colour_video_mode_introduction">Experiență vizuală uimitoare, detalii realiste și contrast izbitor</string>
     <string name="pref_true_colour_video_mode_setting_dec">Surprindeți detalii realiste, culori uimitoare și contrast izbitor în modurile Video și Pro. Focalizarea urmăririi mișcării și codificarea H.264 nu sunt acceptate. Este posibil ca această funcție să nu fie compatibilă cu unele aplicații terțe.</string>

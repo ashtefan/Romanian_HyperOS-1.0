@@ -595,6 +595,10 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_tele_5x_cali_reset">Resetați</string>
     <string name="cit_tele_5x_cali_reset_success_toast">Resetat cu succes</string>
     <string name="cit_tele_5x_cali_success_toast">Calibrare cu succes</string>
+    <string name="cit_tele_5x_cali_tip">"1. S-a confirmat că problema este cauzată de neclaritatea ultra-telefoto;
+2. Faceți clic pe butonul Calibrare；
+3. Stabiliți dacă problema de neclaritate a focalizării ultra-telefoto s-a îmbunătățit înainte și după calibrare;
+4. Dacă problema nu se îmbunătățește, faceți clic pe butonul Resetare；"</string>
     <string name="cit_tele_camera_check_title">Camera Tele</string>
     <string name="cit_tfcard_no_support">Acest dispozitiv nu suportă carduri TF.</string>
     <string name="cit_tfcard_support">Cardurile TF sunt suportate pe acest dispozitiv.</string>
@@ -887,6 +891,11 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="cit_touch_work_mode_test_title">Testul modului THP de comutare la atingere</string>
     <string name="cit_touch_work_summary">Atingerea comută în modul THP</string>
     <string name="cit_touch_work_switch_tips">Nu atingeți ecranul și așteptați finalizarea comutării modurilor</string>
+    <string name="cit_tt_cali_bin_check_title">Detectarea conținutului fișierului de calibrare a cipului</string>
+    <string name="cit_tt_chip_detection_title">Detectare la locul cipului Tian-tong</string>
+    <string name="cit_tt_description">Funcțiile legate de cip sunt detectate, vă rugăm să nu utilizați telefonul.</string>
+    <string name="cit_tt_rx_check_title">Detectarea căii de recepție a chipului RX</string>
+    <string name="cit_tt_tx_check_title">Detectarea traseului de transmisie Chip TX</string>
     <string name="cit_ultra_camera_check_title">Ultra camera</string>
   <string name="cit_usb_OTG_in">USB OTG device detected</string>
   <string name="cit_usb_OTG_out">USB OTG device removed</string>
