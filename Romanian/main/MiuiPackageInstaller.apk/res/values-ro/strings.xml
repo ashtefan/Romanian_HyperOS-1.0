@@ -66,6 +66,7 @@
     <string name="aleady_understand_the_app_is_hight_risk">înțelegeți că această aplicație poate prezenta riscuri de securitate.</string>
     <string name="allow_current_install">Permiteți o dată</string>
     <string name="allowed_this_time">Permiteți o dată</string>
+    <string name="already_open_enhance">Protecția avansată este activată</string>
     <string name="already_understand_the_risks_market_unknown">Înțeleg că acest pachet de instalare nu a fost testat pentru probleme de securitate</string>
     <string name="already_understood_bundle_app">Înțeleg riscurile aplicațiilor incluse în pachet</string>
     <string name="am">AM</string>
@@ -265,6 +266,7 @@ Sample Rate"</string>
     <string name="convert_to_file_encryption_done">Fișier criptat deja</string>
     <string name="convert_to_file_encryption_enabled">Convertiți…</string>
     <string name="close">Închideți</string>
+    <string name="close_enhance_safe_guard">Dezactivați Protecția avansată</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Renunțați</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Continuați</string>
     <string name="close_mi_protected_second_tip_dialog_cancel">Nu, mulțumesc</string>
@@ -353,6 +355,7 @@ Sample Rate"</string>
     <string name="dialog_install_source">Sursa: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Am înțeles</string>
     <string name="dialog_security_mode_guide_cancel">Renunțați</string>
+    <string name="dialog_security_mode_guide_child_msg">Activați Mi Protect pentru a asigura confidențialitatea minorilor, pentru a detecta aplicațiile riscante și pentru a evita conținutul rău intenționat.</string>
     <string name="dialog_security_mode_guide_delete_apps_msg">Ați șters mai multe aplicații pe care nu le-ați folosit niciodată. Dacă ați descărcat din greșeală aplicații sau reclame nedorite, activați Mi Protect pentru a împiedica aplicațiile să descarce și să instaleze alte aplicații fără consimțământul dvs.</string>
     <string name="dialog_security_mode_guide_elder_msg">Activați protecția pentru bătrâni de la Mi Protect pentru a vă asigura confidențialitatea și securitatea.</string>
     <string name="dialog_security_mode_guide_open">Activați</string>
@@ -391,16 +394,21 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="elder_mode_subtitle">Protejați-vă împotriva instalării de aplicații riscante, a încălcării confidențialității și a înșelătoriilor</string>
     <string name="elder_mode_title">Protecția bătrânilor</string>
     <string name="empty_app">Nicio aplicație</string>
-    <string name="enable_adb">Depanare USB</string>
-    <string name="enable_adb_summary">Modul depanare la conectarea unui dispozitiv USB</string>
-    <string name="enable_freeform_support">Activați ferestre cu formă liberă</string>
-    <string name="enable_freeform_support_summary">Activați suportul pentru ferestre cu formă liberă(experimental).</string>
-    <string name="enable_opengl_traces_title">Activați jurnalul OpenGL</string>
-    <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la procesele locale</string>
-    <string name="enable_terminal_title">Terminal local</string>
+    <string name="enhance_mode_close_feedback">Vă mulțumim pentru utilizarea Protecției îmbunătățite</string>
+    <string name="enhance_mode_feedback_reason">De ce dezactivați această funcție?</string>
+    <string name="enhance_safe_guard_mode_description">Instalați numai aplicații care au trecut testele GetApps pentru a vă proteja dispozitivul de viruși și programe malware</string>
+    <string name="enhance_safe_guard_title">Activați Protecția îmbunătățită pentru a evita aplicațiile riscante</string>
+    <string name="enhance_safe_mode">Protecție sporită</string>
+    <string name="enhance_safe_mode_open_description">Cu Protecția îmbunătățită activată, veți putea instala numai aplicații care au trecut testele GetApps, protejându-vă dispozitivul de viruși și programe malware</string>
+    <string name="enhance_safe_mode_title">Protecție sporită</string>
+    <string name="enhanced_protection_des_1">Protecția îmbunătățită este o caracteristică avansată a Mi Protect. Vă protejează dispozitivul adăugând măsuri suplimentare împotriva virușilor și programelor malware.</string>
+    <string name="enhanced_protection_f_1_demo">Pe 1 februarie 2023, domnul Chiribău a instalat o aplicație prin care escrocii l-au făcut să transfere bani de mai multe ori. Domnul Chiribău a pierdut 17,538 RON în total.</string>
+    <string name="enhanced_protection_f_1_des">Fără protecție îmbunătățită, aplicațiile rău intenționate vă pot înșela.</string>
+    <string name="enhanced_protection_f_1_title">Protecție antifraudă</string>
     <string name="enabled_by_admin">Activat de către admin</string>
-    <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-    <string name="enable_webview_multiprocess_desc">Rulează randările WebView separat</string>
+    <string name="enhanced_protection_f_2_des">Când Protecția îmbunătățită este dezactivată, aplicațiile rău intenționate vă pot accesa informațiile personale.</string>
+    <string name="enhanced_protection_f_2_title">Protecția vieții private</string>
+    <string name="enhanced_protection_f_3_title">Stabilitatea sistemului</string>
     <string name="error_a11y_label">Eroare: invalid</string>
     <string name="error_icon_content_description">Eroare</string>
     <string name="ettings_security_mode_open_security_mode">Activați</string>
@@ -486,6 +494,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="four_automatic_detection">4 teste automate</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -651,8 +660,9 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="lb_search_bar_hint_with_title">Căutați %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Rostiți pentru a căuta %1$s</string>
     <string name="learn_bundle_app_install">Aflați mai multe</string>
+    <string name="learn_enhance_safe_guard">Aflați mai multe</string>
     <string name="learn_more">Aflați mai multe</string>
-    <string name="legacy_dhcp_client_summary">Utilizați clientul DHCP din Lollipop în locul noului client Android DHCP.</string>
+    <string name="let_me_think_again">Continuă</string>
     <string name="lift_ban">Permiteți</string>
     <string name="lift_ban_once">Permiteți o dată</string>
     <string name="loading">Încărcare…</string>
@@ -939,7 +949,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="open_app_install_safe_check">Verificați aplicațiile înainte de instalare</string>
     <string name="open_app_install_safe_des">Verificați aplicațiile pentru posibile riscuri și probleme de securitate înainte de instalare</string>
     <string name="open">Activați</string>
-    <string name="open_pure_mode_continue_install">Continuați</string>
+    <string name="open_and_exit">Activați</string>
+    <string name="open_enhanced_protection">Activați Protecția îmbunătățită</string>
     <string name="passed_security_test">A trecut testele de securitate Xiaomi</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_crop_user_avatar">Decupați fotografia</string>
@@ -1185,7 +1196,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="permission_name_write_external_storage">Salvarea articolelor în stocarea dispozitivului</string>
     <string name="permission_num">%1$s</string>
     <string name="please_input_install_app_name">Introduceți numele aplicației</string>
-    <string name="please_input_phone_password">Introduceți parola de blocare a ecranului</string>
+    <string name="please_input_phone_password">Activați Protecția îmbunătățită</string>
+    <string name="please_input_phone_password_short">Activați Protecția îmbunătățită</string>
     <string name="pm">PM</string>
     <string name="pointer_location">Locația indicatorului</string>
     <string name="pointer_location_summary">Evidențiază atingerile ecranului</string>
@@ -1205,8 +1217,9 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="pref_key_shelf_app">Listă aplicația pe GetApps</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="prepare_install">Pregătire instalare…</string>
-    <string name="progressbar_title">Se caută probleme de securitate…</string>
+    <string name="professional_review">Recenzori profesioniști</string>
     <string name="prohibit_isntall">Adăugați în lista blocărilor</string>
+    <string name="protect_privacy_and_security">Protecția vieții private</string>
     <string name="pure_function_introduction">Caracteristicile modului securizat</string>
     <string name="pure_guarding">Activat</string>
     <string name="pure_introduction_des1">Verificați aplicațiile din surse necunoscute pentru posibile riscuri de securitate înainte de instalare</string>
@@ -1523,6 +1536,7 @@ aplicațiile"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="sure_close_enhance_safe_guard">Dezactivați protecția îmbunătățită acum?</string>
     <string name="sure_install">Instalați această aplicație acum?</string>
     <string name="sure_ok">Am înțeles</string>
     <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
@@ -1673,6 +1687,7 @@ aplicațiile"</string>
     <string name="unrecorded_risk_app">Riscuri detectate</string>
     <string name="unrecorded_risk_app_description">Instalarea acestei aplicații este interzisă în conformitate cu cerințele de reglementare relevante</string>
     <string name="unrecorded_risk_app_description_2">În calitate de dezvoltator, puteți depune o contestație</string>
+    <string name="unrecorded_risk_app_description_temp">Dezvoltatorul nu a furnizat autorităților de reglementare listarea acestei aplicații. Este posibil să nu puteți contacta dezvoltatorul în cazul în care interesele dvs. sunt încălcate.</string>
     <string name="untrusted_external_source_title">Permiteți \"%1$s\" să instaleze aplicații?</string>
     <string name="untrusted_external_source_warning">Pentru siguranța dumneavoastră, nu se pot instala aplicații necunoscute din această sursă pe telefon.</string>
     <string name="untrusted_external_source_warning_summary">Telefonul și datele dvs. personale sunt vulnerabile la atacurile provenite de la aplicațiile instalate din surse necunoscute. Permițând instalarea aplicațiilor din această sursă, acceptați responsabilitatea oricăror daune sau pierderi de date ce pot rezulta din utilizarea acestor aplicații.</string>
@@ -1683,7 +1698,8 @@ aplicațiile"</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizați limbile sistemului</string>
     <string name="user_guest">Gazdă</string>
     <string name="user_is_not_allowed_dlg_text">Utilizatorul curent nu are permisiunea de a face această dezinstalare.</string>
-    <string name="user_is_not_allowed_dlg_title">Nepermis</string>
+    <string name="using_enhanced_protection">"Protejați-vă dispozitivul cu
+Protecția sporită"</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="verification_word">Verificați</string>
