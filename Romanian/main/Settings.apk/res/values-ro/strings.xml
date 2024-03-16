@@ -5472,6 +5472,10 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="load_esim_info">Se obțin informațiile eSIM…</string>
     <string name="load_esim_info_error">Nu s-au putut încărca informațiile eSIM. Așteptați un minut sau două și încercați din nou.</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="loading_eid_error_message">Nu s-au putut obține informațiile EID. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="loading_eid_error_ok">Am înțeles</string>
+    <string name="loading_eid_error_title">Nu s-a putut încărca</string>
+    <string name="loading_eid_tip">Se obțin informațiile EID…</string>
     <string name="loading_injected_setting_summary">Doar o secundă…</string>
     <string name="loading_notification_apps">Încărcare aplicații…</string>
     <string name="local_auto_backup_off">Oprit</string>

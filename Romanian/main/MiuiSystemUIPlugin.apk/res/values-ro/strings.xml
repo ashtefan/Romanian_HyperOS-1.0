@@ -223,7 +223,7 @@
     <string name="loading">Stare necunoscută</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
-    <string name="mi_smart_hub_entry_title">Hub inteligent Mi</string>
+    <string name="mi_smart_hub_entry_title">Hub inteligent Xiaomi</string>
     <string name="midnight">Noapte</string>
     <string name="miplay_accessibility_cast">Selectați dispozitivul</string>
     <string name="miplay_accessibility_cover">Copertă</string>
@@ -236,6 +236,8 @@
     <string name="miplay_bluetooth_share_des_text">"Utilizatori de căști Xiaomi: deschideți carcasa de încărcare sau țineți apăsat butonul husei timp de %ds
 Utilizatori de căști non-Xiaomi: resetați-vă căștile în setările Bluetooth, apoi conectați-vă"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Adăugați căști pentru a partaja sunetul</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">S-a terminat de partajat audio</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Adăugați căști pentru a partaja sunetul</string>
     <string name="miplay_bluetooth_share_subTitle_text">Partajați sunetul dispozitivului cu o altă persoană</string>
     <string name="miplay_bluetooth_share_title_text">Partajați sunetele audio</string>
     <string name="miplay_detail_divider_title">Televizoare și difuzoare</string>

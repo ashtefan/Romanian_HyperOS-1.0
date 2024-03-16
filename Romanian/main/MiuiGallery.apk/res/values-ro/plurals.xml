@@ -58,8 +58,8 @@
         <item quantity="one">%d an</item>
     </plurals>
     <plurals name="ai_create_image_queue">
-        <item quantity="other">%1d persoane în fața ta</item>
-        <item quantity="one">%1d persoană în fața ta</item>
+        <item quantity="other">%1d persoane în fața dvs.</item>
+        <item quantity="one">%1d persoană în fața dvs.</item>
     </plurals>
     <plurals name="ai_create_remain_time_hour">
         <item quantity="other">Timp de așteptare: %s ore</item>
@@ -90,7 +90,7 @@
         <item quantity="one">%s oră</item>
     </plurals>
     <plurals name="ai_image_over_limit_msg">
-        <item quantity="other">O persoană poate crea până la %d imagini AI.</item>
+        <item quantity="other">O persoană poate crea maxim %d imagini AI.</item>
         <item quantity="one">O persoană poate crea maxim %d imagine AI.</item>
     </plurals>
     <plurals name="ai_minute">
@@ -98,8 +98,8 @@
         <item quantity="one">%d minut</item>
     </plurals>
     <plurals name="ai_select_photo_time_count">
-        <item quantity="other">Se selectează fotografii (%d secunde rămase)…</item>
-        <item quantity="one">Se selectează fotografii (%d secund[ rămasă)…</item>
+        <item quantity="other">Sunt selectate fotografii (%d secunde rămase)…</item>
+        <item quantity="one">Sunt selectate fotografii (%d secund[ rămasă)…</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Partajat cu %d persoane</item>
@@ -293,9 +293,21 @@
         <item quantity="other">S-au omis %1$d fotografii care nu au putut fi încărcate.</item>
         <item quantity="one">S-a omis %1$d fotografie care nu a putut fi încărcată.</item>
     </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d fișiere</item>
-        <item quantity="one">%1$d fișier</item>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">Nu s-a putut face backup pentru %d articole din cauza stocării în cloud insuficiente</item>
+        <item quantity="one">Nu s-a putut face backup pentru %d articol din cauza stocării în cloud insuficiente</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">Nu s-au făcut copii de rezervă pentru %d elemente</item>
+        <item quantity="one">Nu s-au făcut copii de rezervă pentru %d element</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">Se face backup pentru %d articole folosind datele mobile…</item>
+        <item quantity="one">Se face backup pentru %d articol folosind datele mobile…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">Se fac copii de rezervă pentru %d articole…</item>
+        <item quantity="one">Se face copie de rezervă pentru %d articol…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
@@ -417,8 +429,8 @@
         <item quantity="one">Se descarcă %d fișier rămas</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">Nu s-au putut descărca %1$d fotografii; conectați-vă la rețea și reîncercați</item>
-        <item quantity="one">Nu s-a putut descărca %1$d fotografie; conectați-vă la rețea și reîncercați"</item>
+        <item quantity="other">Nu s-au putut descărca %1$d fișiere. Conectați-vă la rețea și reîncercați.</item>
+        <item quantity="one">Nu s-a putut descărca %1$d fișiere. Conectați-vă la rețea și reîncercați.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">Nu s-au putut descărca %1$d fotografii (%2$d MB). Conectați-vă la rețea și reîncercați</item>
@@ -429,12 +441,12 @@
         <item quantity="one">%1$d fișier (%2$d MB) nu este descărcat încă. Descărcați utilizând datele mobile?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d fotografii nu au putut fi descărcate; reîncercați?</item>
-        <item quantity="one">%1$d fotografie nu a putut fi descărcată; reîncercați?</item>
+        <item quantity="other">%1$d fișiere nu au putut fi descărcate. Reîncercați?</item>
+        <item quantity="one">%1$d fișier nu a putut fi descărcat. Reîncercați?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotografii (%2$d MB) nu au putut fi descărcate; reîncercați?</item>
-        <item quantity="one">%1$d fotografie (%2$d MB) nu a putut fi descărcată; reîncercați?</item>
+        <item quantity="other">%1$d fișiere (%2$d MB) nu au putut fi descărcate. Reîncercați?</item>
+        <item quantity="one">%1$d fișier (%2$d MB) nu a putut fi descărcat. Reîncercați?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"S-au omis %d fotografii care nu există pe telefon."</item>
@@ -653,8 +665,8 @@
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>
-        <item quantity="one">"Nu s-a sincronizat %d fotografie sau videoclip"</item>
+        <item quantity="other">Nu s-au sincronizat %d articole</item>
+        <item quantity="one">Nu s-a sincronizat %d articol</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d elemente sunt prea mari pentru a fi rezervate</item>
@@ -751,6 +763,18 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fișiere</item>
         <item quantity="one">%1$d fișier</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">Selectați %d segmente video</item>
+        <item quantity="one">Selectați %d segment video</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Spațiu video %1$d, așteaptă adăugarea unui videoclip de %2$s secunde sau mai mare</item>
+        <item quantity="one">Spațiu video %1$d, așteaptă adăugarea unui videoclip de %2$s secundă sau mai mare</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">Adăugați încă %d videoclipuri pentru a putea continua</item>
+        <item quantity="one">Adăugați încă %d videoclip pentru a putea continua</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d videoclipuri</item>

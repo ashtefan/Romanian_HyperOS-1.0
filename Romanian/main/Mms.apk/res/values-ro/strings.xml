@@ -154,6 +154,7 @@ au fost adăugate în lista blocărilor"</string>
     <string name="cannot_send_message_reason">Mesajul dvs. nu are un destinatar valid</string>
     <string name="cannot_send_mms">Comunicațiile prin satelit nu acceptă MMS</string>
     <string name="carry_current_location">Includeți locația curentă</string>
+    <string name="carry_vital_signs">Includeți semnele vitale</string>
     <string name="change_duration_activity">Modificaţi durata</string>
     <string name="chatbot_list_title">Chatbots</string>
     <string name="chatbot_main_title">Chatbots</string>
@@ -1698,7 +1699,26 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="view_bookmark">Vizualizaţi mesajul original</string>
     <string name="view_group_detail_title">Vizualizați detaliile chat-ului</string>
     <string name="view_message_details">Afişaţi detaliile</string>
-    <string name="view_my_prof">Vizualizați cartea mea de contact RCS</string>
+    <string name="vital_signs_cta_body">"Datele despre semnele vitale (inclusiv ritmul cardiac, SpO₂ și informațiile cardului medical) sunt preluate de la Mi Fitness. Bifarea de mai jos indică acordul dvs. cu privire la accesarea și utilizarea acestor date.
+Doar primele 50 de caractere ale fiecărui element de card medical vor fi reținute pentru a controla lungimea mesajului."</string>
+    <string name="vital_signs_cta_title">Semnele vitale</string>
+    <string name="vital_signs_data_allergy">Alergii: %s</string>
+    <string name="vital_signs_data_disease">Condiții cronice: %s</string>
+    <string name="vital_signs_data_high_bpm">HR ridicat, cel mai recent: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_high_bpm_multi">HR ridicat de mai multe ori în ultima oră. Cel mai recent: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm">HR scăzut, cel mai recent: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm_multi">HR scăzut de mai multe ori în ultima oră. Cel mai recent: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2">SpO₂ scăzut, cel mai recent: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2_multi">SpO₂ a fost scăzută de mai multe ori în ultima oră. Cel mai recent: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_medical">Tratamente: %s</string>
+    <string name="vital_signs_toast_exception">Nu s-au putut obține date despre semnele vitale</string>
+    <string name="vital_signs_toast_health_app_low">Actualizați Mi Fitness pentru a putea obține date despre semnele vitale</string>
+    <string name="vital_signs_toast_health_app_no_install">Instalați Mi Fitness pentru a putea obține date despre semnele vitale</string>
+    <string name="vital_signs_toast_no_bpm_spo2">Nu s-au putut obține datele privind ritmul cardiac și SpO₂</string>
+    <string name="vital_signs_toast_no_data">Nu s-au putut obține date despre semnele vitale</string>
+    <string name="vital_signs_wait_body">Se accesează datele. Acest lucru ar putea dura un minut.</string>
+    <string name="vital_signs_wait_skip">Omiteți</string>
+    <string name="vital_signs_wait_title">Date despre semne vitale</string>
     <string name="voice_report_anytime">Întotdeauna</string>
     <string name="voice_report_off">Oprit</string>
     <string name="voice_report_wiredon">Prin căști</string>
