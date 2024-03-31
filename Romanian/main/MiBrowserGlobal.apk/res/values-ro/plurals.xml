@@ -274,6 +274,10 @@
         <item quantity="other">Protejat de %d ori</item>
         <item quantity="one">Protejat: %d dată</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">Aveți %d cupoane</item>
+        <item quantity="one">Aveți %d cupon</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">S-au descărcat %1$s elemente cu succes</item>
         <item quantity="one">S-a descărcat %1$s element cu succes</item>

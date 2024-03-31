@@ -78,6 +78,7 @@
     <string name="ad_click_to_play">Atingeți pentru a reda</string>
     <string name="ad_flag_text">RECLAMĂ</string>
     <string name="ad_left_time">secunde rămase din reclamă</string>
+    <string name="ad_topview_repeat_play">Atingeți pentru a reda din nou</string>
     <string name="add_local_shortcut_add">Adăugați</string>
     <string name="add_local_shortcut_des">Adăugați \"Videoclipurile mele\" pe Ecranul principal pentru a accesa videoclipurile locale printr-o singură apăsare.</string>
     <string name="add_search_channel_link">URL</string>

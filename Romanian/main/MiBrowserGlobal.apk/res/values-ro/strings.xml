@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați prin %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="abcdef">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoA6UHJ2rwJLYQwv7lF0I5jWMbA1rFYC7MkZ/t9Cll+P5eC6FXi0vNZtOLRKEToQeIx0kY180qd8uShem+bnI74ogq+JvPOpQ+O663nr7ZiSTqEKxXFXYO0m1Y8C6hLKH0QkfmQC0HDi60R7xz3vIOholMw5GGbEi9ocmI5q94/sB5ry9VZACKEOPwsKQg/rjE5VIwUkSHJJDGShcvqwwQqGZXV+rBJKB3yJ5zHqKEqK94j/7aY20cGt1hwRGuUXTWoeREwqAhSMnVJFEXcFJvtX07hb4L86WONsLUHSUuoQ4p0IKOvOcfQwVctXRs1iwNLomG8M0P0Nyc3v8lFpK7QIDAQAB</string>
+    <string name="accelerate_play">Viteza: %sX</string>
     <string name="accept_cookies_confirm_message">Oprind această caracteristică, este posibil ca unele site-uri să funcționeze necorespunzător.</string>
     <string name="accessibility_button_clear">Ştergeţi textul introdus</string>
     <string name="account_bind_secure_email_title">Adăugați o adresă de e-mail de recuperare</string>
@@ -440,6 +441,9 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="browser_wallpaper_toast">Dezactivați comutatorul Promoții pentru a putea schimba imaginile de fundal</string>
     <string name="btn_agree">De acord</string>
     <string name="btn_cancel">Anulare</string>
+    <string name="btn_copied">Copiat</string>
+    <string name="btn_copy">Copiați</string>
+    <string name="btn_open">Deschideți</string>
     <string name="camera_permission_name">Utilizare cameră foto</string>
     <string name="can_not_send_with_too_many">Nu se pot trimite atât de multe articole deodată</string>
     <string name="cancel">Anulare</string>
@@ -1474,7 +1478,8 @@ Trimiteți acest cod supervisorului."</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="just_now">Chiar acum</string>
     <string name="keep_intrercept">Opriți</string>
-    <string name="language">Limbă</string>
+    <string name="kindred_coupons_terms">Vedeți termenii și condițiile</string>
+    <string name="kindred_coupons_title">Cupoane</string>
     <string name="le_download_failed_server_error">Nu s-a putut descărca datorită unei erori de server.</string>
     <string name="le_network_chagne_to_none">Deconectat de la rețea. Toate descărcările au fost întrerupte.</string>
     <string name="list_item_click">Faceți clic pe elementul din listă</string>
@@ -1582,7 +1587,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="mggc_game_play">Redați</string>
     <string name="mggc_game_played">Recente</string>
     <string name="mggc_game_recommend_guide_title">Jucați gratuit</string>
-    <string name="mggc_home_page_title">Centrul de jocuri</string>
+    <string name="mggc_home_page_title">CENTRUL DE JOCURI</string>
     <string name="mggc_home_recommend_tip">Aleator</string>
     <string name="mggc_hot_games">Populare</string>
     <string name="mggc_ins_back_continue_game">Continuați</string>
@@ -3091,6 +3096,8 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="reeading__reading_feedback_dialog_issue_case5">Altele (introduceți detalii mai jos)</string>
     <string name="reeading__reading_feedback_dialog_title">Raportați o problemă</string>
     <string name="refresh">Reîmprospătați</string>
+    <string name="refresh_button_update_item">%d actualizări sunt disponibile</string>
+    <string name="refresh_button_update_latest">Vedeți cele mai recente articole</string>
     <string name="refresh_fail">Nu s-au putut încărca informațiile</string>
     <string name="refresh_guide">Inapoi sus</string>
     <string name="refreshing">Reîmprospătare…</string>
@@ -3459,6 +3466,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="tab_forward_description">Următoarea pagină din istoric</string>
     <string name="tab_game">Jocuri</string>
     <string name="tab_home">Acasă</string>
+    <string name="tab_mall">Magazin</string>
     <string name="tab_mine">Profil</string>
     <string name="tab_novel">Cărți</string>
     <string name="tab_quicklinks">Pagina de pornire</string>

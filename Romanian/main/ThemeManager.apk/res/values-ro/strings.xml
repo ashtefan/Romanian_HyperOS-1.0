@@ -513,6 +513,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="gallery_wallpaper">Carusel de imagini de fundal</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
+    <string name="gallery_wallpaper_history">Atingeți pentru a vedea imaginile anterioare prezentate în Caruselul de imagini de fundal</string>
+    <string name="gallery_wallpaper_history_go">Vedeți</string>
     <string name="gallery_wallpaper_theme">Imagini de fundal indispensabile</string>
     <string name="gift_anonymous">Anonim</string>
     <string name="gift_operation_fail_dlg_abandon">Anulaţi</string>
@@ -1782,6 +1784,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_download_incall_show">Descărcați videoclipul</string>
     <string name="wallpaper_dynamic">Dinamică</string>
     <string name="wallpaper_group_set_loop">Derulare imagini similare în Blocarea ecranului</string>
+    <string name="wallpaper_history">Istoricul imaginilor de fundal</string>
     <string name="wallpaper_light_mode_image_preview_tip">Previzualizare Mod Luminos</string>
     <string name="wallpaper_loop_add_success">Adăugată cu succes</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adăugați la diapozitivul pentru Ecranul principal</string>
