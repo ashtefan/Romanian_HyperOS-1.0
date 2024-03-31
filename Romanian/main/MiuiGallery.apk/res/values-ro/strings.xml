@@ -1184,6 +1184,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Momente WeChat</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme cu serviciile Google Play. Vă rugăm să încercați din nou.</string>
     <string name="confirm">OK</string>
     <string name="confirm_activate_email">Verificat</string>
     <string name="confirm_cancel_task_files">Opriți trimiterea fișierelor către %1$s?</string>
