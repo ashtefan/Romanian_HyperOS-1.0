@@ -373,7 +373,7 @@ Vorbiți în microfonul lateral de sus, ar trebui să auziți vocea din difuzor"
     <string name="cit_digital_hall_sensor_cali_summary">Vă rugăm să păstrați dispozitivul închis pentru calibrare</string>
     <string name="cit_digital_hall_sensor_cali_title">Test de calibrare Digital Hall</string>
     <string name="cit_digital_hall_sensor_check_summary">Valoarea unghiului este prezentată mai jos</string>
-    <string name="cit_digital_hall_sensor_check_title">Test Digital Hall</string>
+    <string name="cit_digital_hall_sensor_check_title">Detectare închidere și deschidere</string>
     <string name="cit_display_check_summary">Confirmați că nuanțele sunt afișate consistent pe tot ecranul. Asigurați-vă că nu există puncte neregulate mai deschise sau mai închise la culoare.</string>
   <string name="cit_display_check_title">Afișaj</string>
   <string name="cit_display_continue">Atingeți ecranul pentru a începe testul</string>
@@ -483,6 +483,9 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
   <string name="cit_headset_pull_finish">Headphones have been disconnected</string>
     <string name="cit_headset_pull_finish_test">Căști deconectate, test terminat</string>
     <string name="cit_headset_right_hph_val">Valoarea impedanței canalului dreapta：</string>
+    <string name="cit_high_accdata_sensor_check_summary">Valorile pentru coordonatele X, Y, Z ar trebui să apară mai jos. Vă rugăm să plasați telefonul pe masă înainte de a efectua testul</string>
+    <string name="cit_high_accdata_sensor_check_title">Accelerometru ridicat</string>
+    <string name="cit_high_accdata_sensor_graph_title">Graficul accelerometrului ridicat</string>
     <string name="cit_horn_motor_test">Test motor claxon</string>
     <string name="cit_hvdcp_charger_in">Încărcare prin (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Mediu de Testare Inițială pentru Amprentă</string>

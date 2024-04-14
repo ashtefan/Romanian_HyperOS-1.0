@@ -143,7 +143,7 @@
     <string name="cancel_choose">Deselectați</string>
     <string name="cancel_label">X</string>
     <string name="cancel_subscribe_tips">Anulați urmărirea acum?</string>
-    <string name="canceled">Anulat</string>
+    <string name="card_content_descriptor">cartelă</string>
     <string name="cast_ad_label">Anunț</string>
     <string name="cast_casting_to_device">Se proiectează pe %1$s</string>
     <string name="cast_closed_captions">Subtitrări</string>
@@ -347,7 +347,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="dialog_cancel">Renunțați</string>
     <string name="dialog_clearn_content">Ștergeți istoricul de navigare acum?</string>
     <string name="dialog_clearn_title">Goliți istoricul</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Adăugați</string>
     <string name="dialog_delete_bookmarks_content">Ștergeți marcajul acum?</string>
     <string name="dialog_disagree_continue">Continuați</string>
     <string name="dialog_disagree_info">"Dacă nu sunteți de acord cu Politica de confidențialitate Mi Video, nu veți putea folosi serviciile noastre online și veți putea viziona doar videoclipurile stocate pe dispozitivul dvs. Continuați oricum?"</string>
@@ -780,6 +780,7 @@ Această operațiune nu va afecta fotografiile din galerie."</string>
     <string name="hidden_channels">"Următoarele canale nu vor fi afișate pe Ecranul principal."</string>
     <string name="hide">Ascundeți</string>
     <string name="hide_video_toast">Acest articol a fost ascuns. Puteți găsi și gestiona elementele ascunse în Local > Dosare > Elemente ascunse.</string>
+    <string name="hiding_dialog_ok">Setați</string>
     <string name="hint_icon_ad_title">Recomendate</string>
     <string name="hint_in_mivideo">Acum puteți căuta în panoul lateral funcțiile suplimentare</string>
     <string name="history">Istoric</string>
@@ -1205,6 +1206,7 @@ Vom folosi această permisiune numai pentru a găsi videoclipurile pe care le c�
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_dialog_ok">OK</string>
     <string name="miuix_indexer_collect">Colecții</string>
     <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
@@ -1220,6 +1222,8 @@ Vom folosi această permisiune numai pentru a găsi videoclipurile pe care le c�
     <string name="mnc_live_unsubscribe_toast">Dezabonat cu succes</string>
     <string name="mnc_subscribe_push_context">Atingeți pentru a viziona acum</string>
     <string name="mnc_subscribe_push_title">Fluxul începe</string>
+    <string name="modal_content_descriptor">modal</string>
+    <string name="modal_inner_content_descriptor">modal interior</string>
     <string name="moment_guide_desc">Utilizați gesturi pentru mărire și micșorare</string>
     <string name="moment_tab_all">Toate</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -1619,6 +1623,7 @@ Spori securitatea contului dvs."</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Actualizați MIUI pentru a putea utiliza imagine-în-imagine.</string>
+    <string name="play_at_normal_speed">Se redă la viteza 1X</string>
     <string name="play_list_save_dialog_create">Creați o listă de redare</string>
     <string name="play_list_save_dialog_title">Adăugați la lista de redare</string>
     <string name="play_list_sign_in_dialog_message">Conectați-vă cu contul dvs. Google pentru a vedea toate listele de redare.</string>
@@ -1852,6 +1857,7 @@ Verificați alte videoclipuri!"</string>
     <string name="remaining_space_not_enough">Nu s-a putut descărca datorită spațiului de stocare insuficient</string>
     <string name="reminder">Atenție</string>
     <string name="rename">Redenumiți</string>
+    <string name="rename_dialog_ok">OK</string>
     <string name="rename_word_out">Acest nume de fișier este prea lung</string>
     <string name="repeat_play">Reluați</string>
     <string name="report">Raportați</string>
@@ -1932,6 +1938,7 @@ Verificați alte videoclipuri!"</string>
     <string name="shake_to_open_ad">Agitați pentru a afla mai multe</string>
     <string name="share">Partajați</string>
     <string name="share_text_before_link">Vizionați și descărcați videoclipuri grozave gratuit în Mi Video</string>
+    <string name="share_title">Partajați</string>
     <string name="share_ugc_content">Uitați-vă și la %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Alăturați-vă</string>
     <string name="share_ugc_waitting">Se generează link-ul…</string>

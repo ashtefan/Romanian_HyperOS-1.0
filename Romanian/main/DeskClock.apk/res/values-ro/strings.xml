@@ -341,6 +341,18 @@
     <string name="material_timepicker_select_time">Selectați ora</string>
     <string name="material_timepicker_text_input_mode_description">Comutați la modul de introducere a textului pentru introducerea orei.</string>
     <string name="midnight">Noapte</string>
+    <string name="minute_spinner_fifteen">%d</string>
+    <string name="minute_spinner_fifty">%d</string>
+    <string name="minute_spinner_fifty_five">%d</string>
+    <string name="minute_spinner_five" formatted="false">%d%d</string>
+    <string name="minute_spinner_forty">%d</string>
+    <string name="minute_spinner_forty_five">%d</string>
+    <string name="minute_spinner_ten">%d</string>
+    <string name="minute_spinner_thirty">%d</string>
+    <string name="minute_spinner_thirty_five">%d</string>
+    <string name="minute_spinner_twenty">%d</string>
+    <string name="minute_spinner_twenty_five">%d</string>
+    <string name="minute_spinner_zero" formatted="false">%d%d</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Ceas secundar</string>
     <string name="miui_clock_fancy_colon"></string>
@@ -777,6 +789,10 @@ mm"</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_picker_label_second">S</string>
     <string name="time_settings">Setări Ceas</string>
+    <string name="time_view" formatted="false">%02d:%02d.%02d</string>
+    <string name="time_view_with_hour" formatted="false">%02d:%02d:%02d.%02d</string>
+    <string name="time_view_with_hour_span" formatted="false">%02d:%02d:%02d%02d</string>
+    <string name="time_view_with_span" formatted="false">%02d:%02d%02d</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Atingeţi ecranul pentru a opri soneria</string>
     <string name="timer_alarm_dot_matrix_label">TEMPORIZATOR</string>
@@ -805,6 +821,7 @@ mm"</string>
     <string name="timer_desc_use_brush_teeth">Periați dinții</string>
     <string name="timer_desc_use_facial_mask">Mască facială</string>
     <string name="timer_desc_use_sleep">Pui de somn</string>
+    <string name="timer_display" formatted="false">%02d:%02d:%02d</string>
     <string name="timer_end_time">Temporizatorul se va opri la %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

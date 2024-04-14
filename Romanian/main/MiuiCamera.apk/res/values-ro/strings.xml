@@ -2616,7 +2616,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="spaceIsLow_content_primary_storage_priority">Nu mai există spațiu liber pe stocarea USB</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority">Se pare că ați rămas fără spațiu de stocare. Capturarea imaginii a fost oprită.</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Pe cale să se oprească din cauza stocării insuficiente…</string>
-    <string name="speech_shutter_open_tip">Spuneți \"Brânză\" pentru a realiza o fotografie</string>
+    <string name="speech_shutter_open_tip">Spuneți \"Cheese\" pentru a realiza o fotografie</string>
     <string name="speech_shutter_tip">Declanșare vocală</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Drăguț</string>

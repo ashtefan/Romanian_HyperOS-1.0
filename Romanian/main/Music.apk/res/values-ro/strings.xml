@@ -204,9 +204,9 @@
     <string name="asm_pay_order_generate">Se generează comanda…</string>
     <string name="asm_pay_order_generate_failed">Nu s-a putut genera comanda</string>
     <string name="asm_pay_query_overtime">Solicitarea privind starea plății a expirat</string>
-    <string name="asm_privacy_desc">Politica de confidențialitate Wansheng</string>
-    <string name="asm_privacy_tips_content">Acceptați <a href="/link/click">Politica de confidențialitate Wansheng</a> pentru a putea folosi serviciile muzicale online.</string>
-    <string name="asm_privacy_tips_title">Politica de confidențialitate Wansheng</string>
+    <string name="asm_privacy_desc">Politica de confidențialitate ASM</string>
+    <string name="asm_privacy_tips_content">Acceptați <a href="/link/click">Politica de confidențialitate ASM</a> pentru a putea folosi serviciile muzicale online.</string>
+    <string name="asm_privacy_tips_title">Politica de confidențialitate ASM</string>
     <string name="asm_pro_center">Calitatea de membru</string>
     <string name="asm_search_result_contain_music">Conține: \"%1$s\"</string>
     <string name="asm_song_err_connect">Nu s-a putut conecta la server</string>
@@ -995,7 +995,22 @@
     <string name="low_sound_quality">Scăzută</string>
     <string name="lrc_search_failed">"Nu s-au găsit versurile"</string>
     <string name="lrc_searching">Căutare…</string>
-    <string name="lyric">Versuri</string>
+    <string name="ludo_tab_guide">Consultați noile noastre săli de muzică</string>
+    <string name="lyric_ai_apply_fail">Nu s-a putut folosi. Încercați din nou.</string>
+    <string name="lyric_ai_button_text">Versuri AI</string>
+    <string name="lyric_ai_dialog_one">•Puteți atinge pentru a recunoaște versurile, iar noi le vom completa pentru dvs. folosind tehnologia de recunoaștere a vocii AI.</string>
+    <string name="lyric_ai_dialog_three">•Puteți verifica progresul în bara de instrumente pentru versuri.</string>
+    <string name="lyric_ai_dialog_two">"•Recunoașterea va dura câteva minute. Odată ce este finalizată, versurile vor fi completate automat."</string>
+    <string name="lyric_ai_identify_success">Versuri recunoscute cu succes</string>
+    <string name="lyric_ai_song">Melodia curentă</string>
+    <string name="lyric_ai_song_list">Melodii</string>
+    <string name="lyric_ai_state_apply">Folosind versuri</string>
+    <string name="lyric_ai_state_default">Cântec nerecunoscut</string>
+    <string name="lyric_ai_state_fail">Nu s-au putut recunoaște versurile</string>
+    <string name="lyric_ai_state_identify">Recunoaște</string>
+    <string name="lyric_ai_state_identifying">Doar o secundă…</string>
+    <string name="lyric_ai_state_use">Utilizați</string>
+    <string name="lyric_ai_title">Recunoașterea versurilor AI</string>
     <string name="lyric_is_empty">Nu există versuri disponibile</string>
     <string name="lyric_label">Versuri</string>
     <string name="lyric_open_other_connect">Descărcaţi versurile utilizând reţeaua mobilă</string>
@@ -1536,7 +1551,7 @@ Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu ve�
     <string name="radar_retry">Reîncercați</string>
     <string name="radar_searching_state">Căutare…</string>
     <string name="radar_support_by">Oferit de ACRCloud</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Citiți și acceptați &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate Wansheng&lt;/a>&lt;/font> pentru a putea folosi serviciile muzicale online.&lt;/Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Citiți și acceptați &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate ASM&lt;/a>&lt;/font> pentru a putea folosi serviciile muzicale online.&lt;/Data></string>
     <string name="read_and_agree_hungama_protocol">"&lt;Data>Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate Hungama&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_joox_protocol">"&lt;Data>Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data>Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate Xiaomi&lt;/a>&lt;/font>&lt;/Data>"</string>

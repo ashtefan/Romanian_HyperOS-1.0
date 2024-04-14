@@ -128,9 +128,13 @@
         <item quantity="other">La fiecare %1$s minute</item>
         <item quantity="one">La fiecare %1$s min</item>
     </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Alarma se va opri de %2$s ori (câte %1$s min. fiecare)</item>
-        <item quantity="one">Alarma se va opri %2$s dată (%1$s min.)</item>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">La fiecare %1$d minute</item>
+        <item quantity="one">La fiecare %1$d minut</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">Opriți de %1$d ori</item>
+        <item quantity="one">Opriți %1$d dată</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Amânaţi pentru %d minute</item>

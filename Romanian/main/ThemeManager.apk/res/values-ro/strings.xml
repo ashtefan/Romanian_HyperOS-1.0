@@ -672,6 +672,7 @@ Atingeți pentru a dezactiva."</string>
     <string name="local_photos">Fotografii locale</string>
     <string name="local_resouce_creator_name">Dezvoltator: %1$s</string>
     <string name="lock_screen_apply">Setați ca Blocare a ecranului</string>
+    <string name="lock_screen_card_title">Ecran de blocare artistic</string>
     <string name="lock_screen_keyguard_guide_popup">Descoperiți funcțiile și designul complet noi, personalizate ale ecranului de blocare</string>
     <string name="lock_screen_keyguard_tip_title">Ecran de blocare personalizat complet nou</string>
     <string name="lockscreen_apply_failured">"Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
