@@ -185,6 +185,7 @@
     <string name="asm_google_query_failed">Nu s-au putut obține informații despre produs</string>
     <string name="asm_google_service_failed">Serviciile Google nu au putut fi lansate. Încercați din nou.</string>
     <string name="asm_gooleplay_notice">Serviciile Google Play nu sunt instalate</string>
+    <string name="asm_item_not_available">elementul nu este disponibil</string>
     <string name="asm_loadstate_error_retry">Conectați-vă la internet și atingeți pentru a încerca din nou</string>
     <string name="asm_loadstate_not_more">Asta este tot pentru acum</string>
     <string name="asm_network_error">Verificați conexiunea la rețea</string>
@@ -967,6 +968,7 @@
     <string name="loading_hint">Doar o secundă…</string>
     <string name="loading_reached_the_bottom">Asta este tot pentru moment.</string>
     <string name="loading_text">Doar o secundă…</string>
+    <string name="local_count_and_path">%1$d %2$s</string>
     <string name="local_download_download">Descărcați</string>
     <string name="local_download_hint">Porniți Wi-Fi înainte de a descărca</string>
     <string name="local_download_item">Descărcați gratuit</string>
@@ -1001,6 +1003,7 @@
     <string name="lyric_ai_dialog_one">•Puteți atinge pentru a recunoaște versurile, iar noi le vom completa pentru dvs. folosind tehnologia de recunoaștere a vocii AI.</string>
     <string name="lyric_ai_dialog_three">•Puteți verifica progresul în bara de instrumente pentru versuri.</string>
     <string name="lyric_ai_dialog_two">"•Recunoașterea va dura câteva minute. Odată ce este finalizată, versurile vor fi completate automat."</string>
+    <string name="lyric_ai_fail_toast">Fișierul este prea mare pentru a fi recunoscut</string>
     <string name="lyric_ai_identify_success">Versuri recunoscute cu succes</string>
     <string name="lyric_ai_song">Melodia curentă</string>
     <string name="lyric_ai_song_list">Melodii</string>
@@ -1793,7 +1796,10 @@ Fiți fericit"</string>
     <string name="sort_by_time">Dată</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Încercați să creați o tranziție între melodii pe durata redării</string>
     <string name="source_from">Sursă: %1$s</string>
-    <string name="start_download_music">Se descarcă pachetul de actualizare pentru aplicația Muzică.</string>
+    <string name="srl_component_falsify" formatted="false">"%s falsifică zona,
+  Reprezintă înălțimea[%.1fdp] de glisare în timpul rulării,
+  Nu arată nimic."</string>
+    <string name="srl_content_empty">Vizualizarea conținutului din SmartRefreshLayout este goală. Ați uitat să-l adăugați în fișierul de aspect xml?</string>
     <string name="start_to_check_new_version">Se caută actualizări…</string>
     <string name="start_to_download">Descărcare…</string>
     <string name="start_to_play">Redaţi</string>

@@ -136,7 +136,7 @@
     <string name="cosDesc">cosinus</string>
     <string name="cta_desc">Bun venit în aplicația Calculator! Această aplicație combină caracteristicile unui calculator obișnuit cu mai multe convertoare și funcții de stil de viață. Această aplicație trebuie să se conecteze la Internet pentru a funcționa normal.</string>
     <string name="currency_update_connect_to_get_data">Ratele de schimb sunt furnizate de către Webull. Conectați-vă la rețea pentru a obține cele mai recente informații.</string>
-    <string name="currency_update_support">Ratele de schimb sunt furnizate de către Webull.</string>
+    <string name="currency_update_support">"Ratele de schimb sunt furnizate de către Webull. "</string>
     <string name="currency_update_time_format">Ratele de schimb sunt furnizate de Webull (%s)</string>
     <string name="currency_update_updating">Se actualizează ratele…</string>
     <string name="data_analysis">Analiză</string>
@@ -542,7 +542,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="n_a">N/A</string>
     <string name="name_amount">Suma</string>
     <string name="name_cgst">CGST/SGST: 2.5</string>
-    <string name="name_discount">Discount (% reducere)</string>
+    <string name="name_discount">Discount (%s)</string>
     <string name="name_gst">GST</string>
     <string name="name_is">Rezultat</string>
     <string name="name_of">Total</string>
@@ -902,6 +902,7 @@ LPR-urile de un an și cinci ani vor fi citate în data de 20 a fiecărei luni (
     <string name="unit_data_display_currency_lrd">Dolar liberian</string>
     <string name="unit_data_display_currency_lyd">Dinar libian dinar</string>
     <string name="unit_data_display_currency_mad">Dirham marocan</string>
+    <string name="unit_data_display_currency_mdl">Leu moldovenesc</string>
   <string name="unit_data_display_currency_mmk">Burmese kyat</string>
     <string name="unit_data_display_currency_mnt">Tögrög mongolez</string>
   <string name="unit_data_display_currency_mop">Macanese pataca</string>

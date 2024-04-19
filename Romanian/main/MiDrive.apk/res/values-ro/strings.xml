@@ -830,7 +830,7 @@ Asigurați-vă că utilizați contul Xiaomi curent ca și cont de sistem MIUI."<
     <string name="unlock_password_dialog_msg">Se va utiliza Parola de protecție a confidențialității. Funcționează pentru fotografii, note și fișiere.</string>
     <string name="unlock_password_dialog_title">Parola de protecție a confidențialității</string>
     <string name="update_dialog_button_cancel">Nu acum</string>
-    <string name="update_dialog_button_ok">Actualizează</string>
+    <string name="update_dialog_button_ok">Instalați</string>
     <string name="update_dialog_content">"Versiune nouă: %1$s
 %2$s"</string>
     <string name="update_dialog_title">Este disponibilă o actualizare</string>
