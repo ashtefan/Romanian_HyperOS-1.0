@@ -4,12 +4,14 @@
     <string name="PRD_summary_4">Oprirea Wi-Fi sau comutarea rețelelor Wi-Fi în timpul procesului de transfer poate duce la eșecul procesului de transfer.</string>
     <string name="PRD_summary_4_china">Oprirea Wi-Fi sau comutarea rețelelor Wi-Fi în timpul procesului de transfer poate duce la eșecul procesului de transfer.</string>
     <string name="PRD_summary_5">Transferurile de mare viteză pot face ca dispozitivul să devină mai fierbinte decât în mod normal. Fiți sigur că dispozitivul se va răci când transferul se termină.</string>
+    <string name="PRD_summary_6">Albumele private, notele și fișierele nu pot fi transferate de pe vechiul dispozitiv. Eliminați-le din dosarele private înainte de a începe transferul.</string>
     <string name="PRD_summary_tablet_1">În timpul transferului, toate datele pentru aceste aplicații (inclusiv istoricul chatului) vor fi suprascrise.</string>
     <string name="PRD_title_1">%1$d. Datele aplicației există deja pe noul dispozitiv pentru următoarele aplicații:</string>
     <string name="PRD_title_2">WeChat</string>
     <string name="PRD_title_3">QQ</string>
     <string name="PRD_title_4">%1$d. Utilizați dispozitivul cu grijă</string>
     <string name="PRD_title_5">%1$d. Dispozitivul dvs. va deveni fierbinte în timpul transferului</string>
+    <string name="PRD_title_6">Elementele private nu pot fi transferate</string>
     <string name="PRD_title_tablet_1">%1$d. Datele aplicației există deja pe noul dispozitiv pentru următoarele aplicații:</string>
     <string name="PRD_title_tablet_4">%1$d. Utilizați dispozitivul cu grijă</string>
     <string name="PRD_title_tablet_5">%1$d. Dispozitivul dvs. va deveni fierbinte în timpul transferului</string>
@@ -1031,7 +1033,7 @@ pe iPhone-ul dvs."</string>
     <string name="uncollected">Necolectat</string>
     <string name="unselected">Neselectat</string>
     <string name="update_later">Nu acum</string>
-    <string name="update_now">Actualizați acum</string>
+    <string name="update_now">Instalați</string>
     <string name="use_purpose">Scopul utilizării</string>
     <string name="use_purpose_description">Pentru conectarea la hotspot-ul noului dispozitiv</string>
     <string name="use_scene">Scenariul de utilizare</string>
