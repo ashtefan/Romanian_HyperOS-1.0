@@ -55,6 +55,7 @@
     <string name="ai_button_title">Butonul AI</string>
     <string name="album_introduction">Aplicația Galerie vă permite să gestionați, să optimizați și să editați fotografii și videoclipuri pe dispozitivul dvs., precum și să le sincronizați cu Xiaomi Cloud.</string>
     <string name="am">AM</string>
+    <string name="app_battery_usage">Pentru a verifica utilizarea acumulatorului de către aplicațiile individuale</string>
     <string name="app_name">Provision</string>
     <string name="application_extension_service">Servicii de extensie a aplicațiilor</string>
     <string name="application_extension_service_introduction">Serviciile de extensie a aplicațiilor vă vor oferi funcții de conectare și verificare. Pentru a oferi servicii de bază, această aplicație are nevoie de următoarele permisiuni:</string>
@@ -565,6 +566,8 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="permission_write_device_store">Salvarea elementelor în stocarea dispozitivului</string>
     <string name="permission_write_device_store_summary">Pentru stocarea în cache a fișierelor de configurare sursă descărcate.</string>
     <string name="permission_xunlei_introduction">Pentru conectare și gestionarea conturilor de sistem în vederea furnizării serviciilor Xunlei</string>
+    <string name="phone_introduction">Puteți folosi această aplicație pentru a găsi și neutraliza viruși, pentru a bloca apeluri și mesaje, pentru a optimiza performanța în jocuri, pentru a economisi acumulatorul, precum și pentru a gestiona aplicațiile, permisiunile, utilizarea datelor și multe altele.</string>
+    <string name="phone_name_security">Securitate</string>
     <string name="phone_service_introduction">Telefonia este un serviciu de bază care permite dispozitivului dvs. să efectueze apeluri, să trimită și să primească mesaje și să se conecteze la rețea.</string>
     <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Inclusiv Politica de Confidențialitate a lansatorului POCO și Acordul Utilizatorului)</string>
@@ -572,6 +575,8 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="poco_launcher_user_agreement">Acordul Utilizatorului lansatorului POCO</string>
     <string name="position_header">Partajarea informațiilor despre localizare</string>
     <string name="position_subheading">Informații despre locație</string>
+    <string name="power_and_performance">Acumulator și performanță</string>
+    <string name="power_and_performance_introduction">Acest serviciu oferă gestionarea de bază a acumulatorului, statistici de utilizare, funcții de economisire a energiei și multe altele.</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
@@ -614,7 +619,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="saturday_shortest">Sâ</string>
     <string name="screen_recording_introduction">Această aplicație vă permite să înregistrați ce se întâmplă pe ecran.</string>
     <string name="search_menu_title">Căutați</string>
-    <string name="security_introduction">Puteți utiliza această aplicație pentru a șterge fișierele inutile din dispozitiv, pentru a găsi și neutraliza virușii, pentru a optimiza performanțele jocurilor, pentru a economisi acumulatorul, pentru a gestiona aplicațiile, permisiunile și multe altele.</string>
+    <string name="security_introduction">Puteți folosi această aplicație pentru a găsi și neutraliza viruși, pentru a bloca apeluri și mesaje, pentru a optimiza performanța în jocuri, pentru a economisi acumulatorul, precum și pentru a gestiona aplicațiile, permisiunile, utilizarea datelor și multe altele.</string>
     <string name="security_mobile_account_introduction">Pentru conectare și gestionarea conturilor sistemului</string>
     <string name="select_font_modele_tips">Puteți selecta oricând un font nou în Teme</string>
     <string name="send">Trimiteți</string>
@@ -768,6 +773,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="terms_of_use_label_use_location_and_network_global">Înainte de a utiliza sistemul, trebuie să citiți și să fiți de acord cu Acordul de utilizare și cu Politica noastră de confidențialitate. Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. Când dispozitivul dvs. este activat, următoarele servicii se vor conecta la rețea și vă vor accesa locația:</string>
     <string name="terms_of_use_label_use_network_china">Înainte de a utiliza sistemul, trebuie să citiți și să fiți de acord cu Acordul de utilizare și cu Politica noastră de confidențialitate. Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. Când dispozitivul dvs. este activat, următoarele servicii se vor conecta la rețea:</string>
     <string name="terms_of_use_label_wallpaper">Imagine de fundal</string>
+    <string name="terms_of_use_label_webview">Sistem Android WebView</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>

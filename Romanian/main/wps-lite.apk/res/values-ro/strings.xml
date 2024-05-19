@@ -187,6 +187,7 @@
     <string name="ppt_volume_is_too_low_tip">Puneți-vă căștile sau măriți volumul</string>
     <string name="projection_fail">Nu s-a putut proiecta. Verificați monitorul extern și încercați din nou.</string>
     <string name="public_2pic">Exportați ca imagine</string>
+    <string name="public_about_us">despre</string>
     <string name="public_amazon_autosave_finished">Documentul a fost salvat în mod automat</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">Document nevalid; nu s-a putut finaliza operațiunea</string>
@@ -248,6 +249,7 @@
     <string name="public_mi_other_app_open_title">Deschideți utilizând</string>
     <string name="public_mi_privacy_desc">Pentru vizualizarea și gestionarea documentelor de pe dispozitiv</string>
     <string name="public_mi_privacy_purpose">Bine ați venit în aplicația Vizualizator de Documente Mi(Furnizată de WPS)! Aceasta este o versiune personalizată a aplicației creată de Kingsoft pentru Xiaomi. Această aplicație vă permite să vizualizați documentele de pe dispozitiv.</string>
+    <string name="public_more_wps">Mai multe funcții sunt disponibile în WPS</string>
     <string name="public_no_format">Fără format</string>
     <string name="public_not_support_in_multiwindow">Această caracteristică nu este suportată când utilizați Ecran scindat</string>
     <string name="public_ok">OK</string>

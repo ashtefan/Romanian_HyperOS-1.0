@@ -108,6 +108,16 @@
     <string name="add_wallpaper">Adăugați imagini de fundal</string>
     <string name="addcw_apply_btn_txt">Adăugați o imagine de fundal</string>
     <string name="afternoon">După amiază</string>
+    <string name="ai_back">Înapoi</string>
+    <string name="ai_begin">Începeți</string>
+    <string name="ai_disable_limit_message">Nu mai au mai rămas încercări pentru azi. Creați mai multe imagini de fundal AI mâine!</string>
+    <string name="ai_edit_hint">Descrieți rezultatul așteptat. O descriere bună poate ajuta AI-ul nostru să facă o creație mai bună, folosind cuvinte clare, cum ar fi \"Aur\",\"Dragon\",\"Soare\",\"Nori\".</string>
+    <string name="ai_network_error_message">Fără conexiune la rețea. Nu se pot utiliza imaginile de fundal AI.</string>
+    <string name="ai_next">Salvați în Galerie</string>
+    <string name="ai_participation">Implicarea AI</string>
+    <string name="ai_recommend_keyword">Stiluri</string>
+    <string name="ai_text_limit">Nu se mai poate introduce text</string>
+    <string name="ai_wallpaper_declare_double_link"><Data>Citiți și acceptați &lt;a href=\"%1$s\">Acordul utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a continua.</Data></string>
     <string name="allowed">Permisă</string>
     <string name="am">AM</string>
     <string name="app_name">Caruselul Mi de ecrane de blocare</string>
@@ -1169,6 +1179,7 @@ mm"</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
     <string name="surprise_wallpaper_empty_dlg_content">Imaginile de fundal surpriză se vor baza pe imagini de fundal auto-selectate (dacă sunt activate) sau imagini de fundal personalizate generate aleatoriu</string>
     <string name="surprise_wallpaper_empty_dlg_title">Imagini de fundal surpriză</string>
+    <string name="surprise_wallpaper_generate_failed_toast">Generarea acestei imagini de fundal surpriză a eșuat</string>
     <string name="system_default">Implicit</string>
     <string name="system_error_info">Sistemul este ocupat acum. Așteptați un minut sau două și încercați din nou.</string>
     <string name="tab_user_title_bar_text">Setări</string>

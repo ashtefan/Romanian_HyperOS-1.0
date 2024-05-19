@@ -1329,6 +1329,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="safe_space_tip_dialog_description">%1$s nu a fost testată pentru probleme de securitate de către Xiaomi. Pentru a vă proteja de posibile riscuri, au fost luate următoarele măsuri:</string>
     <string name="safe_space_tip_dialog_title">Măsuri de protecție activă</string>
     <string name="safe_version_install">Versiune sigură</string>
+    <string name="safety_hint_bundled_download_content">\"%1$s\" face parte dintr-o descărcare în pachet, este furnizată aplicația actuală care trebuie instalată. Dacă tot doriți să instalați %1$s, atingeți aici.</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
