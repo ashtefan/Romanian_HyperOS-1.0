@@ -109,19 +109,19 @@
         <item>Confidențialitate și interconectivitate, Confidențialitate</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Servicii interconectivitate</item>
-        <item>Interconectivitate/Servicii interconectivitate</item>
-        <item>Servicii interconectivitate</item>
+        <item>Interconectivitate Xiaomi</item>
+        <item>Interconectivitate/Interconectivitate Xiaomi</item>
+        <item>Servicii de interconectivitate Xiaomi, Interconectivitate Xiaomi</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Predarea aplicației</item>
-        <item>Interconectivitate/Predarea aplicației</item>
+        <item>Interconectivitate/Aplicații</item>
         <item>Transfer aplicații, handoff, transfer</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Apeluri</item>
-        <item>Interconectivitate/Apeluri</item>
-        <item>Apeluri</item>
+        <item>Sincronizare apeluri</item>
+        <item>Interconectivitate/Sincronizare apeluri</item>
+        <item>Sincronizare apeluri, apeluri între dispozitive, transfer de apeluri, apeluri</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Asistență în rețea</item>

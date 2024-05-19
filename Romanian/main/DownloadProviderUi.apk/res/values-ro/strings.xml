@@ -154,6 +154,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="download_error_insufficient_space">Spaţiu insuficient</string>
     <string name="download_filesize_unknown">Necunoscut</string>
     <string name="download_from">Sursa:</string>
+    <string name="download_icp">Numărul de înregistrare ICP: 粤B2-20050219-23A</string>
     <string name="download_in_process">În curs de descărcare</string>
     <string name="download_info_start_deleted_tasks">Ştergeţi descărcările</string>
     <string name="download_list_get_free_vip">Încercare Xunlei</string>

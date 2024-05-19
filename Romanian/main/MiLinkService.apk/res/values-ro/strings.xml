@@ -34,6 +34,7 @@
     <string name="answering_tel1">Se răspunde pe tabletă…</string>
     <string name="answering_tel2">Transferat de pe telefon…</string>
     <string name="app_name">Proiectare</string>
+    <string name="app_name_vtcamera">Cameră între dispozitive</string>
     <string name="appcirculate_alert_busy_negative">Renunțați</string>
     <string name="appcirculate_alert_busy_positive">Întrerupeți</string>
     <string name="appcirculate_alert_busy_text">Se pare că celălalt dispozitiv transferă fișiere acum. Întrerupeți transferul pentru a continua?</string>
@@ -80,11 +81,16 @@ dispozitivele?"</string>
     <string name="bottomsheet_drag_handle_clicked">Trageți mânerul de două ori</string>
     <string name="bottomsheet_drag_handle_content_description">Trageți mânerul</string>
     <string name="camera_associate_connecting">Se conectează la cameră</string>
+    <string name="camera_associate_disconnecting">Se deconectează de la camera telefonului</string>
     <string name="camera_associate_failed">Nu s-a putut conecta la cameră</string>
     <string name="camera_associate_success">Camera conectată</string>
+    <string name="camera_choose_device">Selectați dispozitivul</string>
     <string name="camera_connecting">"%s dorește să utilizeze camera acestui dispozitiv"</string>
+    <string name="camera_connecting_device">Se conectează la %s</string>
     <string name="camera_disassociate">Deconectat de la cameră</string>
+    <string name="camera_disconnecting_device">Se deconectează de la %s</string>
     <string name="camera_notify_string">CameraNotification</string>
+    <string name="camera_title">Se caută dispozitivele disponibile…</string>
     <string name="cancel_button">Renunțați</string>
     <string name="car_air_con_back_switch_close">Opriți AC-ul pe bancheta din spate</string>
     <string name="car_air_con_back_switch_open">Porniți AC-ul pe bancheta din spate</string>
@@ -205,6 +211,7 @@ pentru a proiecta ecranul acestei tablete"</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_lite_phone">Serviciile de interconectivitate Xiaomi permit dispozitivelor dvs. să interacționeze între ele fără fir. Pentru a putea funcționa normal, aceste servicii trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
     <string name="circulate_cta_desc_phone">Bun venit la Mi Smart Hub! Puteți folosi această aplicație pentru a proiecta conținut pe ecran, a transfera redarea multimedia pe dispozitive, a utiliza Mi Smart Play, MIUI+ și transferul aplicației. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
+    <string name="circulate_cta_desc_phone_global">Serviciile de interconectivitate Xiaomi permit dispozitivelor dvs. să interacționeze între ele fără fir.</string>
     <string name="circulate_cta_exit">Nu sunt de acord</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Pentru conectarea dispozitivelor și transferul de date între ele</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Pentru accesarea listei de aplicații instalate pe un dispozitiv mobil și proiectarea ecranului pe computere</string>
@@ -219,6 +226,7 @@ pentru a proiecta ecranul acestei tablete"</string>
     <string name="circulate_cta_premission_transferring_data_subtitle">Pentru transferul de date între dispozitivele conectate</string>
     <string name="circulate_cta_premission_wlan_subtitle">Pentru transferul de articole și conectarea dispozitivelor prin Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Activați și dezactivați Wi-Fi-ul</string>
+    <string name="circulate_cta_title_global">Declarație de confidențialitate</string>
     <string name="circulate_cta_user_agreement">Citiți și acceptați &lt;txt href=\"%1$s\">Acordul pentru utilizator&lt;/txt> și &lt;txt href=\"%2$s\">Politica de confidențialitate&lt;/txt> înainte de a continua.</string>
     <string name="circulate_device_type_name_mijia">Dispozitive inteligente de acasă</string>
     <string name="circulate_device_type_name_pad">Tabletă</string>
@@ -231,8 +239,8 @@ pentru a proiecta ecranul acestei tablete"</string>
 2. Apăsați și mențineți apăsat butonul de pe carcasă.
 3. Finalizați asocierea pe dispozitivul țintă."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Pentru a putea transfera redarea între dispozitive, asociați mai întâi căștile la televizor.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"1. Apăsați butonul de pornire de pe telecomanda televizorului pentru a deconecta difuzoarele.
-2. Încercați să conectați din nou căștile după ce ecranul se aprinde."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Apăsați butonul de pornire de pe telecomanda televizorului pentru a deconecta difuzoarele.
+%2$d. Încercați să conectați din nou căștile după ce ecranul se aprinde."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Puneți ambele căști în carcasă.
 2. Apăsați și mențineți apăsat butonul de pe carcasă.
 3. Finalizați asocierea în setările Bluetooth sau folosind un dialog pop-up pe acest dispozitiv."</string>
@@ -376,13 +384,15 @@ dispozitivele dvs?"</string>
     <string name="connect_settings_application_ecological">Combinați aplicații</string>
     <string name="connect_settings_base">Interconectivitate</string>
     <string name="connect_settings_category_connection_car">Caracteristicile mașinii</string>
+    <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_personal_device">Dispozitive personale</string>
     <string name="connect_settings_communication_sharing">Tethering wireless</string>
     <string name="connect_settings_connect_permission">Interconectivitate și permisiuni</string>
     <string name="connect_settings_connect_privacy">Confidențialitate</string>
     <string name="connect_settings_connection_service">Interconectivitate Xiaomi</string>
     <string name="connect_settings_corp_network">Asistență în rețea</string>
-    <string name="connect_settings_corp_phone">Apeluri</string>
+    <string name="connect_settings_corp_phone">Sincronizare apeluri</string>
+    <string name="connect_settings_hyper_mind">HyperMind</string>
     <string name="connect_settings_nfc_share">Transferați articole prin NFC</string>
     <string name="connect_settings_not_opened">Oprit</string>
     <string name="connect_settings_opened">Pornit</string>
@@ -394,6 +404,7 @@ dispozitivele dvs?"</string>
     <string name="connect_settings_summary"><Data>Descoperiți automat dispozitivele din apropiere conectate la contul dvs. Xiaomi și conectați-le între ele pentru a efectua o varietate de sarcini pe mai multe dispozitive. &lt;a href=%1$s>Aflați mai multe&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Permiteți dispozitivelor dvs. să interacționeze între ele fără fir</string>
     <string name="connect_settings_summary_corp_phone">Răspundeți la apeluri de pe tabletele sau computerele din apropiere conectate la contul dvs. Xiaomi</string>
+    <string name="connect_settings_summary_global"><Data>Descoperiți dispozitivele din apropiere conectate la contul dvs. Xiaomi și adăugați-le în Mi Smart Hub</Data></string>
     <string name="connect_settings_summary_hyper_mind">Această funcție vă învață tiparele și le folosește pentru a vă controla dispozitivele inteligente de acasă. Susținut de Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continuați sarcinile în aceeași aplicație pe alt dispozitiv</string>
     <string name="connect_settings_summary_share_clipboard">Lipiți text și imagini pe alte dispozitive în %d minute după ce le-ați copiat pe acest dispozitiv</string>
@@ -439,7 +450,9 @@ dispozitivele dvs?"</string>
     <string name="dialog_miplay_permission_positive">Setări</string>
     <string name="dialog_miplay_permission_title">Sunt necesare unele permisiuni</string>
     <string name="dialog_nearbydevice_permission_message">Permiteți acestui dispozitiv să acceseze dispozitivele din apropiere pentru a putea folosi funcțiile de proiectare.</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">Funcția de interconectivitate Xiaomi pe care o utilizați necesită permisiunea pentru a se conecta la dispozitivele din apropiere. Fără ea, această caracteristică nu poate funcționa în mod normal. Puteți acorda această permisiune din Setări.</string>
     <string name="dialog_nearbydevice_permission_title">Sunt necesare unele permisiuni</string>
+    <string name="dialog_nearbydevice_permission_title_connectivity">Permisiuni necesare</string>
     <string name="dialog_nfc_cast_wifi_off">Activați Wi-Fi pentru a putea să proiectați utilizând NFC. Activați acum?</string>
     <string name="dialog_no_device_message"><Data>1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&lt;br>&lt;br>2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &lt;a href=milink://com.milink.service/specification>\"Ajutor\"&lt;/a> pentru a afla mai multe.</Data></string>
     <string name="dialog_no_device_message_china"><Data>1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&lt;br>&lt;br>2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &lt;a href=milink://com.milink.service/specification>\"Ajutor\"&lt;/a> pentru a afla mai multe.</Data></string>
@@ -557,6 +570,10 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="global_dialog_cancle">Renunțați</string>
+    <string name="global_dialog_miplay_permission_positive">Setări</string>
+    <string name="global_dialog_nearbydevice_permission_message">Serviciile de interconectivitate Xiaomi au nevoie de permisiunea de a se conecta la dispozitivele din apropiere pentru a le descoperi. Acordați această permisiune din Setări pentru a putea folosi serviciile de interconexiune Xiaomi în mod normal.</string>
+    <string name="global_dialog_nearbydevice_permission_title">Permisiuni necesare</string>
     <string name="global_privacy">Termeni și condiții</string>
     <string name="global_privacy_detail"><Data>"Citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza această aplicație.&lt;br>Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.."</Data></string>
     <string name="global_privacy_explain">Bine ați venit în aplicația Proiectare! Această aplicație furnizează următoarele servicii:</string>
@@ -595,6 +612,10 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="head_toast_fail">Nu s-a putut conecta</string>
     <string name="head_toast_success">Conectat cu succes</string>
     <string name="headset_content_description">Căștile sunt conectate la acest dispozitiv. Apăsați de două ori pentru a activa. Apăsați cu două degete și trageți pentru a transfera redarea.</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Când dispozitivul pe care proiectați este un televizor Xiaomi, porniți Miracast pe acesta.
+%2$d. Când dispozitivul pe care proiectați este un televizor non-Xiaomi, asigurați-vă că televizorul acceptă funcția Miracast și că această funcție este activată. Această funcție poate avea un nume diferit pe unele modele de televizor, cum ar fi Afișaj fără fir, Oglindire ecran sau Ecrane multiple."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Este posibil ca unele mărci de televizoare să aibă Miracast pornit în mod automat.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Porniți Miracast pe televizorul dvs. Xiaomi.</string>
     <string name="help_page_text_01">Ajutor</string>
     <string name="help_page_text_02">Ce se proiectează?</string>
     <string name="help_page_text_03">"Proiectarea înseamnă redarea elementelor din telefon pe un ecran extern mai mare. Aceasta vă permite să partajați imagini și videoclipuri cu prietenii și familia și chiar să jucați jocuri împreună. În mod normal, consumul de energie al telefonului nu se modifică atunci când folosiți această funcție."</string>
@@ -721,6 +742,8 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="hm_time_today">Astăzi</string>
     <string name="hm_time_yesterday">Ieri</string>
     <string name="hm_toast_log_in">Conectați-vă mai întâi la contul dvs. Xiaomi</string>
+    <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
+    <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Atenție</string>
     <string name="hyper_mind_close_warning_checkbox">Nu afișa din nou</string>
     <string name="hyper_mind_close_warning_content">Dacă dezactivați această funcție, HyperMind nu va mai putea învăța sau utiliza tiparele dvs. Dacă doriți să vă retrageți consimțământul pentru colectarea datelor dvs., atingeți &lt;a href=%1$s>aici&lt;/a>.</string>
@@ -735,6 +758,7 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="item_view_role_description">Filă</string>
     <string name="keyguard_security_setting_privacy_policy">Politica de Confidențialitate</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
+    <string name="local_camera_device">Acest dispozitiv</string>
     <string name="km_synergy_error">Conexiunea a expirat. Asigurați-vă că Bluetooth și Wi-Fi sunt activate pe ambele dispozitive și că se află în raza de conexiune.</string>
     <string name="km_synergy_error_china">Conexiunea a expirat. Asigurați-vă că Bluetooth și Wi-Fi sunt activate pe ambele dispozitive și că se află în raza de conexiune.</string>
     <string name="label">Etichetă</string>
@@ -953,7 +977,7 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="onehop_mirror_guide_message_button">Am înțeles</string>
     <string name="onehop_mirror_guide_message_text_1">Proiectați afișajul telefonului pe computer dintr-o singură atingere.</string>
     <string name="onehop_mirror_guide_message_text_2">Selectați fotografii, videoclipuri și alte fișiere din Galerie sau din Managerul de fișiere pentru a le transfera pe computer.</string>
-    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+    <string name="onehop_mirror_guide_message_title">Interconectivitate Xiaomi</string>
     <string name="open_game_accelerate">Activați Jocuri Turbo</string>
     <string name="p2p_location_des">Pentru conectarea dispozitivului mobil la monitoare externe</string>
     <string name="paipai_connect_btn_text">Finalizat</string>
@@ -1122,17 +1146,17 @@ Asigurați-vă că ați activat Jocuri Turbo înainte de a proiecta jocuri."</st
     <string name="searchview_clear_text_content_description">Goliți textul</string>
     <string name="searchview_navigation_content_description">Înapoi</string>
     <string name="send">Trimiteți</string>
-    <string name="server_activity_task_tips">Partajarea fluxului camerei cu %s</string>
+    <string name="server_activity_task_tips">Camera este utilizată de către %s</string>
     <string name="server_camera_disconnected">Deconectat de la celălalt dispozitiv din cauza unei erori</string>
     <string name="server_camera_occupied">Camera este ocupată. Așteptați un minut sau două și încercați din nou.</string>
     <string name="server_toast_camera_prepare">Se pregătește pentru a partaja fluxul camerei…</string>
     <string name="service_name">MiplayAudio</string>
     <string name="set_negative_button">Setări</string>
-    <string name="settings_cross_notify">Notificări pe alte dispozitive</string>
+    <string name="settings_cross_notify">Notificări între dispozitive</string>
     <string name="settings_cross_notify_app">Notificările aplicațiilor</string>
     <string name="settings_cross_notify_hidden">Ascunde conținutul notificărilor</string>
     <string name="settings_cross_notify_hidden_tips">Afișați notificări pe alte dispozitive cu conținut ascuns și atingeți pentru a le afișa</string>
-    <string name="settings_cross_notify_manager">Notificări pe dispozitivele conectate</string>
+    <string name="settings_cross_notify_manager">Notificări între dispozitivele conectate</string>
     <string name="settings_cross_notify_power">Acumulator descărcat</string>
     <string name="settings_cross_notify_system">Notificări de sistem</string>
     <string name="settings_cross_notify_tips">Afișați notificări pe tabletele sau computerele din apropiere în uz atunci când acest dispozitiv este blocat</string>
@@ -1310,5 +1334,6 @@ asigurați-vă că pachetul conține cele mai recente versiuni ale tuturor aplic
     <string name="wifi_scan_btn_text">Scanați din nou</string>
     <string name="wifi_username_et_hint">ID-ul contului</string>
     <string name="window_card_ml_find_null">Este posibil ca acest dispozitiv să nu fie în apropiere</string>
+    <string name="window_card_ml_find_null_camera">Nu am putut găsi camera sau dispozitivul utilizabil din apropiere</string>
     <string name="yesterday">Ieri</string>
 </resources>

@@ -704,7 +704,7 @@ Securitate sporită."</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="mtzgadget_missing_text">"Obiectul widget nu este disponibil"</string>
-    <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare și mutați-o aici</string>
+    <string name="name_aireco_name">Sugestii Mi AI</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Glisați în sus din partea de jos a ecranului, apoi glisați spre stânga sau spre dreapta</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">Glisați la stânga sau la dreapta în partea de jos a ecranului</string>
     <string name="navigation_guide_app_quick_switch_summary">Glisați spre stânga sau spre dreapta de la indicatorul de ecran complet sau de la baza ecranului</string>
@@ -1020,6 +1020,7 @@ Securitate sporită."</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
     <string name="switch_screen_button_order_desc">Butoanele Înapoi și Meniu poziționate în oglindă</string>
     <string name="system_sdk_disabled_toast">Systemul SDK a fost dezactivat. Activați-l mai întâi.</string>
+    <string name="system_shortcuts_dislike">Nu îmi place</string>
     <string name="system_shortcuts_edit">Editați</string>
     <string name="system_shortcuts_icon_remove">Eliminați</string>
     <string name="system_shortcuts_more_operation">Informații aplicație</string>
