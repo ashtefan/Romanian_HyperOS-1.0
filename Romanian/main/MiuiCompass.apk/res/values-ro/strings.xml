@@ -50,6 +50,7 @@
     <string name="calibrate_failed_timeout">Nu s-a putut calibra. A apărut o eroare de server.</string>
     <string name="calibrate_new_tip">Înclinați dispozitivul brusc pentru a rostogoli mingea în jurul cercului</string>
     <string name="calibrate_rotate_again">Încercaţi din nou</string>
+    <string name="calibrate_rotate_more_again">S-au detectat interferențe magnetice. Mergeți într-o zonă deschisă înainte de calibrare.</string>
     <string name="calibrate_success">Calibrat</string>
     <string name="calibrate_tip">Înclinați dispozitivul astfel încât bila să se rostogolească în jurul cercului</string>
     <string name="calibrate_title">Calibrare busolă</string>

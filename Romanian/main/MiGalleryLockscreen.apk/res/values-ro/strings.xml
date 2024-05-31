@@ -194,6 +194,13 @@
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal</string>
     <string name="create_shortcut_btn">Creați</string>
     <string name="create_shortcut_title">Creați o scurtătură pe ecranul principal</string>
+    <string name="creation_ai_disable_limit_message">Nu mai au mai rămas încercări pentru azi. Creați mai multe imagini de fundal AI mâine!</string>
+    <string name="creation_ai_disable_message">Această funcție este disponibilă numai pentru testerii Beta. Puteți aplica pe comunitatea Xiaomi.</string>
+    <string name="creation_ai_disable_title">Sunt necesare permisiuni de testare beta</string>
+    <string name="creation_ai_err">Excepție de autentificare</string>
+    <string name="creation_ai_load">Doar o secundă…</string>
+    <string name="creation_ai_ok">Am înțeles</string>
+    <string name="creation_ai_recreate">Reluați</string>
     <string name="current_connection_invalid">Așteptați ca telefonul să se conecteze la rețea</string>
     <string name="current_data_invalid">A apărut o eroare</string>
     <string name="current_network_invalid">Conectați-vă la rețea mai întâi</string>
@@ -558,6 +565,9 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este dezactivată</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Sincronizare în cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
     <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
@@ -578,6 +588,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
+    <string name="miuix_search_action_mode_cancel">Renunțați</string>
+    <string name="miuix_search_history_clear">Goliți istoricul de căutare</string>
+    <string name="miuix_search_history_default_title">Istoricul căutarilor</string>
+    <string name="miuix_search_recommendation_default_title">S-ar putea să fiți interesat de acestea</string>
+    <string name="miuix_search_recommendation_item_del_des">Ștergeți</string>
     <string name="mode_auto_desc">Activați Caruselul de imagini de fundal pentru a primi imagini noi în mod automat</string>
     <string name="mode_auto_desc_open">Primiți imagini noi în mod automat</string>
     <string name="mode_auto_desc_selected">Se primesc imagini noi în mod automat</string>
@@ -928,10 +943,9 @@ mm"</string>
     <string name="privacy_update_summary3">"Nu veți mai putea utiliza Caruselul de imagini de fundal dacă nu acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politicii de Confidențialitate&lt;/font>&lt;/a>. Acceptați Politica de Confidențialitate actualizată acum?"</string>
     <string name="privacy_update_title1">Politica de confidențialitate actualizată</string>
     <string name="privacy_update_title2">Atenție</string>
-    <string name="progressbar_title">Se caută probleme de securitate…</string>
-    <string name="protocal_dialog_cancel">Renunțați</string>
-    <string name="protocal_dialog_confirm">De acord</string>
-    <string name="protocal_dialog_title">Atenție</string>
+    <string name="prompt_Theme_tip">Nu se poate obține stilul temei; vă rugăm să vă asigurați că rețeaua și ora sunt corecte</string>
+    <string name="prompt_add_origin_pic">Adăugați o fotografie</string>
+    <string name="prompt_add_tip">Adăugați o descriere</string>
     <string name="prv_end"><CDATA>Asta este tot deocamdată</CDATA></string>
     <string name="prv_loading"><CDATA>Doar o secundă…</CDATA></string>
     <string name="prv_nodata"><CDATA>Nu există date</CDATA></string>
@@ -1009,11 +1023,8 @@ mm"</string>
     <string name="select_picture">Selectați imaginile</string>
     <string name="select_picture_des">Adăugați fotografiile dvs. și imagini online pentru a le combina și afișa în derulare în mod automat.</string>
     <string name="send">Trimiteți</string>
-    <string name="send_diagnosis_log">Trimiteți jurnalele</string>
-    <string name="send_email_activate_message">E-mail de verificare trimis cu succes</string>
-    <string name="sending">Se trimite…</string>
-    <string name="service_error">Eroare de server</string>
-    <string name="set_success">Modificat cu succes</string>
+    <string name="sensitive_preview">Nu se poate procesa imaginea de fundal AI datorită conținutului sensibil sau neadecvat</string>
+    <string name="sensitive_prompt">Nu se poate procesa imaginea de fundal AI pentru conținut sensibil sau neadecvat</string>
     <string name="setting_about_item_des">Versiunea</string>
     <string name="setting_about_item_title">Despre Caruselul de imagini de fundal</string>
     <string name="setting_des">Serviciile de prezentare diapozitive sunt furnizate de Caruselul de imagini de fundal. Căutați \"Carusel de imagini de fundal\" în aplicația Setări pentru a vizualiza toate opțiunile disponibile.</string>
@@ -1081,6 +1092,9 @@ mm"</string>
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="sst_ai_wallpaper_Activity_title">Creați imagini de fundal AI</string>
+    <string name="sst_ai_wallpaper_desc">Imaginile desenate manual pot fi folosite pentru a produce imagini de fundal de înaltă definiție în mai multe stiluri folosind AI</string>
+    <string name="sst_ai_wallpaper_title">Creator de imagini de fundal AI</string>
     <string name="sst_auto_recommand_desc">Activaţi categoriile dvs. preferate pentru a primi zilnic imagini și povești noi direct pe Ecranul de blocare.</string>
     <string name="sst_auto_recommand_title">Obțineți recomandări pentru imagini de fundal personalizate</string>
     <string name="sst_change_wallpaper_desc">Selectați unde doriți să aplicați imaginea de fundal</string>
@@ -1302,6 +1316,7 @@ mm"</string>
     <string name="view_privacy_policy">Politica de Confidențialitate</string>
     <string name="wallpaper">Imagine de fundal</string>
     <string name="wallpaper_added_success_toast">Imagine de fundal adăugată cu succes</string>
+    <string name="wallpaper_creator_empty_dlg_content">Pași simpli, formare instantanee. Importați o imagine desenată manual/o altă imagine, introduceți mai multe solicitări și generați instantaneu patru imagini de fundal stilizate prin modele mari AI. Alegeți-l pe cel mai satisfăcător și salvați-l în album.</string>
     <string name="wallpaper_feed_title">V-ar putea place și</string>
     <string name="wallpaper_relations_title">Recomandate</string>
     <string name="wednesday">Miercuri</string>

@@ -648,7 +648,7 @@ Verificați cartela SIM."</string>
 Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mms_block_hint_highlight">Blocare MMS</string>
     <string name="mms_main_purpose">"Pentru a obține acces deplin la funcționalitatea aplicației de Mesagerie, activați Mesageria Mi și Mesageria Inteligentă."</string>
-    <string name="mms_main_purpose_new">Această aplicație trebuie să se conecteze la internet pentru a vă oferi servicii de bază. Vă recomandăm să activați serviciile Mi Message și Smart Messaging.</string>
+    <string name="mms_main_purpose_new">Această aplicație trebuie să se conecteze la internet pentru a vă oferi servicii de bază. Vă recomandăm să activați serviciile Mesagerie Mi și  Mesagerie Inteligentă.</string>
     <string name="mms_mi_message_main_purpose">Bun venit la Mesageria Mi! Este necesar un mesaj SMS de ieșire pentru a activa Mesageria Mi. Operatorul dvs. vă va taxa pentru acest mesaj.</string>
     <string name="mms_mi_message_request_notice">Vrem să profitați la maximum de Mesageria Mi.</string>
     <string name="mms_mx_privacy_policy">Politica de confidențialitate a Mesageriei Mi</string>

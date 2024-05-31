@@ -170,6 +170,7 @@
     <string name="ai_creation_count_limit_msg">Nu pot crea mai multe portrete astăzi. Reveniți mâine!</string>
     <string name="ai_creation_delete_msg">Ștergeți această înregistrare istorică acum?</string>
     <string name="ai_creation_delete_title">Atenție</string>
+    <string name="ai_creation_record_footer_tips">Puteți vizualiza numai articolele create pe acest dispozitiv. Acestea vor fi șterse după ce vă deconectați de la contul dvs. Xiaomi.</string>
     <string name="ai_creation_recreate_button">Reluați</string>
     <string name="ai_creation_save_failed_msg">Nu s-a putut salva. Încercați din nou.</string>
     <string name="ai_creation_save_success_msg">Salvat cu succes</string>
@@ -216,13 +217,18 @@ Selectați alte fotografii și încercați din nou."</string>
     <string name="ai_image_count_limit_msg">Nu se pot crea mai multe imagini AI astăzi. Reveniți mâine!</string>
     <string name="ai_image_creating_failed_msg">Nu s-a putut crea imaginea pentru %s</string>
     <string name="ai_image_creating_msg">Se crează imaginea pentru %s</string>
+    <string name="ai_image_creation_over_limit_title">Nu se mai pot crea alte portrete</string>
+    <string name="ai_image_invalid">Imaginea AI a lui %s a fost ștearsă cu succes</string>
+    <string name="ai_image_invalid_in_update">Se actualizează acum imaginea AI a lui %s. Așteptați până când este actualizat și încercați din nou.</string>
+    <string name="ai_image_manager_empty_msg">Nu se pot vizualiza fotografiile utilizate pentru crearea de imagini AI în versiuni mai vechi ale acestui serviciu pe alt dispozitiv</string>
+    <string name="ai_image_manager_empty_msg_net">Nicio fotografie aici</string>
     <string name="ai_image_manager_re_create_tip">Adăugați sau ștergeți fotografii pentru a vă actualiza imaginea AI</string>
     <string name="ai_image_manager_title">Gestionați imaginea AI</string>
     <string name="ai_image_not_creatable">Imaginea AI este actualizată acum. Încercați din nou după ce este gata.</string>
     <string name="ai_image_over_limit_button_cancel">Am înțeles</string>
     <string name="ai_image_over_limit_button_create">Continuați</string>
     <string name="ai_image_over_limit_title">Nu se poate crea imaginea AI</string>
-    <string name="ai_image_privacy_detail"><Data>"Am citit și accept &lt;a href=\"%1$s\">Acordul imaginilor AI&lt;/a>."</Data></string>
+    <string name="ai_image_over_limit_title_update">Nu se pot actualiza imaginile AI acum</string>
     <string name="ai_image_privacy_message"><Data>"Bun venit la Portrete AI!&lt;br/>Pentru a vă putea oferi servicii, trebuie să colectăm informațiile personale necesare:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Pentru a crea portrete AI, va trebui să încărcați &lt;b>fotografiile persoanelor&lt;/b> pe serverele noastre. Vom colecta și procesa informațiile despre &lt;b>chipurile&lt;/b> acestora pentru a genera un model AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Atunci când încărcați &lt;b>fotografiile persoanelor&lt;/b>, le vom sincroniza &lt;b>numele și fotografiile de profil&lt;/b> din albumele corespunzătoare și vom asocia aceste informații cu imaginile AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Când creați imagini AI bazate pe text, vom colecta &lt;b>descrierea&lt;/b> pe care o furnizați pentru a genera imagini.&lt;br/>Colectăm doar informațiile personale care sunt necesare pentru caracteristicile specifice ale produselor și serviciilor noastre pe care le utilizați. Puteți afla cum colectăm și procesăm informațiile personale în &lt;a href=\"%4$s\">Politica de confidențialitate a Portrete AI&lt;/a>.&lt;br/>Citiți și acceptați &lt;a href=\"%5$s\">Acordul utilizatorului Portrete AI&lt;/a> și &lt;a href=\"%6$s\">Politica de confidențialitate Portrete AI&lt;/a> înainte de a continua."</Data></string>
     <string name="ai_input_name_hint">Introduceți numele</string>
     <string name="ai_loading">Doar o secundă…</string>
@@ -234,6 +240,7 @@ Selectați alte fotografii și încercați din nou."</string>
     <string name="ai_no_net_toast">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="ai_normal_theme_button">Creați</string>
     <string name="ai_photo_upload_fail">Nu s-a putut încărca. Încercați din nou.</string>
+    <string name="ai_photos_upload_fail_tip">Fotografiile lui %s nu au fost încă încărcate. Puteți continua să încărcați fotografii acum.</string>
     <string name="ai_plugin_install_msg">Descărcați extensia pentru a putea crea portrete AI.</string>
     <string name="ai_plugin_install_title">Descărcați extensia</string>
     <string name="ai_plugin_installing_tip">Se descarcă extensia…</string>
@@ -1080,6 +1087,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="clear_dup_medias">Ștergeți fotografiile dublate</string>
     <string name="clear_dup_success">Șterse cu succes</string>
     <string name="clear_dup_tip">Se șterg fotografiile dublate</string>
+    <string name="clear_gallery_disk_cache_img">Curățați imaginea cache a Galeriei</string>
     <string name="clear_thumbnails_ending_dialog_cancer">Renunțați</string>
     <string name="clear_thumbnails_ending_dialog_content">Sincronizarea în cloud nu mai este disponibilă în această versiune a aplicației Galerie. Nu veți mai putea vedea elementele care nu au fost descărcate pe acest dispozitiv. Le puteți vedea și descărca în continuare pe i.mi.com.</string>
     <string name="clear_thumbnails_ending_dialog_title">Sincronizarea în cloud nu mai este disponibilă</string>
@@ -1509,6 +1517,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="fancy_color_desc">Culori</string>
     <string name="fast_share_auto_render">Înfrumusețare</string>
     <string name="fast_share_auto_render_finish">Înfrumusețată</string>
+    <string name="father_day">Ziua Mamei</string>
     <string name="feature_guidance_photo_effects">"Sunt disponibile noi
 efecte pentru fotografii"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sunt disponibile noi efecte</string>
@@ -1872,6 +1881,7 @@ efecte pentru fotografii"</string>
     <string name="group_header_title_media_group">Tipuri media</string>
     <string name="group_header_title_third_album">Mai multe albume</string>
     <string name="group_header_title_user_create_album">Albumele mele</string>
+    <string name="halloween">Halloween</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
     <string name="hdr_show_hint">Reglați afișajul pentru a afișa mai multe detalii în umbre și evidențieri la articolele cu interval dinamic ridicat</string>
@@ -2191,6 +2201,7 @@ pentru a personaliza Galeria"</string>
     <string name="mark_operation_processing">Procesare…</string>
     <string name="mark_operation_succeeded">Adăugat cu succes</string>
     <string name="mark_people_ignore_info_message">Atingeți și mențineți apăsate fotografiile persoanelor pentru a le grupa</string>
+    <string name="mather_day">Ziua Tatălui</string>
     <string name="media_type_burst_photo">Rafală</string>
     <string name="media_type_cinematic">Mod Film</string>
     <string name="media_type_clone_photo">Clone</string>
@@ -2453,6 +2464,7 @@ pentru a personaliza Galeria"</string>
     <string name="new_relation_invalid_char">"Numele grupurilor nu pot conține “%s”. Utilizați litere, numere sau caractere."</string>
     <string name="new_relation_invalid_name">Grupul “%s” există deja; redenumiți acest grup.</string>
     <string name="new_relation_invalid_prefix">"Numele grupului nu poate începe cu “.” sau “_”"</string>
+    <string name="new_year_eve">Ajunul Anului Nou</string>
     <string name="next">Următorul</string>
     <string name="night">Seară</string>
     <string name="no">Nu</string>
@@ -3603,7 +3615,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="solar_new_year_title">Anul Nou</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
-    <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
+    <string name="solar_term_clear_and_bright">Festivalul Qingming</string>
     <string name="solar_term_cold_dews">Rouă rece</string>
     <string name="solar_term_grain_buds">Muguri de cereale</string>
     <string name="solar_term_grain_in_ear">Cereale la ureche</string>
@@ -3897,6 +3909,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="text_tab_scene">Scenă</string>
     <string name="text_tab_spot">Scenariu</string>
     <string name="text_tab_watermark">Text</string>
+    <string name="thanksgiving_day">Recunoștință</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
@@ -3905,10 +3918,11 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="the_childrens_day">Ziua Copiilor</string>
     <string name="the_chinese_youth_day">Ziua Tineretului</string>
     <string name="the_christmas_day">Ziua Crăciunului</string>
+    <string name="the_christmas_eve">Ajunul Crăciunului</string>
     <string name="the_double_ninth_festival">Festivalul 99</string>
     <string name="the_dragon_boat_festival">Festivalul ambarcațiunilor dragonului</string>
     <string name="the_easter_day">Paștile</string>
-    <string name="the_eve_of_the_spring_festival">Ajunul Festivalului de primăvară</string>
+    <string name="the_eve_of_the_spring_festival">Ajunul Anului Nou Chinezesc</string>
     <string name="the_fifth_day">Ziua a cincea</string>
     <string name="the_fools_day">Ziua păcălelilor</string>
     <string name="the_forth_day">Ziua a patra</string>

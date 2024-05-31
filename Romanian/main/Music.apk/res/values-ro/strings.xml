@@ -316,7 +316,12 @@
     <string name="columbus_player_speed_title">Omiteți Videoclipul?</string>
     <string name="columbus_player_speed_video">Omiteți VIDEOCLIPUL</string>
     <string name="columbus_player_unit_sec">sec</string>
+    <string name="columbus_reward_style_access">Aflați mai multe</string>
+    <string name="columbus_reward_style_close_cancel">Ieșiți</string>
+    <string name="columbus_reward_style_close_desc">Terminați de vizionat videoclipul pentru a primi o recompensă. Continuați să vizionați?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuați</string>
     <string name="columbus_skip_ad">Omiteți</string>
+    <string name="columbus_skip_ad_time">Omiteți (%d)</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b&gt;facebook.com/device&lt;/b&gt; și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată în timpul descărcării imaginii.</string>
     <string name="com_facebook_internet_permission_error_message">Autentificarea WebView necesită permisiunea de accesare a INTERNETULUI</string>
@@ -989,6 +994,10 @@
     <string name="local_page_song_all">Toate melodiile</string>
     <string name="local_page_song_download">Melodii din telefon</string>
     <string name="local_page_song_download_history">Descărcări</string>
+    <string name="lock_screen_music_settings">Setări Muzică pe Ecranul de blocare</string>
+    <string name="lock_screen_settings">Setările ecranului de blocare</string>
+    <string name="lock_screen_slide_up">Glisați în sus pentru a debloca</string>
+    <string name="lock_screen_switch">Muzică pe Ecranul de blocare</string>
     <string name="login_instantly">Conectați-vă</string>
     <string name="login_mi_account_and_gain_more_rights">Conectați-vă cu contul Xiaomi pentru a avea acces la funcții suplimentare.</string>
     <string name="login_out_tip">Nu se poate deconecta deocamdată. În schimb, puteți șterge toate datele aplicației.</string>
@@ -1014,6 +1023,15 @@
     <string name="lyric_ai_state_identifying">Doar o secundă…</string>
     <string name="lyric_ai_state_use">Utilizați</string>
     <string name="lyric_ai_title">Recunoașterea versurilor AI</string>
+    <string name="lyric_feedback_inaccurate_timing">Versurile nu sunt sincronizate</string>
+    <string name="lyric_feedback_lyrics_error">Versurile întregii piese sunt greșite</string>
+    <string name="lyric_feedback_misspelling">Greșeli de ortografie și greșeli de scriere</string>
+    <string name="lyric_feedback_other">Altele</string>
+    <string name="lyric_feedback_pure_music">Melodie instrumentală</string>
+    <string name="lyric_feedback_report_optimization">Trimiteți un raport pentru a ne ajuta să ne optimizăm serviciile</string>
+    <string name="lyric_feedback_submit">Trimiteți</string>
+    <string name="lyric_feedback_submit_success">Trimis cu succes</string>
+    <string name="lyric_feedback_title">Descrieți-ne problema</string>
     <string name="lyric_is_empty">Nu există versuri disponibile</string>
     <string name="lyric_label">Versuri</string>
     <string name="lyric_open_other_connect">Descărcaţi versurile utilizând reţeaua mobilă</string>
@@ -1334,6 +1352,7 @@
     <string name="online_switch_setting">Setări conținut online</string>
     <string name="open_download">Deschideți</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD audio este disponibil doar membrilor Gold</string>
+    <string name="open_alarm_clock_recommend_switch">Melodie recomandată pentru alarmă</string>
     <string name="open_online_service">Trebuie să activați serviciile online pentru a utiliza această caracteristică. Activați acum?</string>
     <string name="open_service">Activați</string>
     <string name="operation_done_close">Închideţi</string>
@@ -1526,7 +1545,7 @@
     <string name="privacy_notif_title">Acceleratorul Xunlei este pornit</string>
     <string name="privacy_desc">Politica de Confidențialitate (obligatoriu)</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
-    <string name="privacy_tip_cancel">Renunțați</string>
+    <string name="privacy_policy_title_asm">O lume a muzicii la îndemâna dvs.</string>
     <string name="privacy_request_desc">"&lt;Data>Muzică Mi trebuie să colecteze informațiile personale necesare pentru a vă oferi servicii de streaming online. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>. Vă puteți retrage consimțământul pentru Politica de confidențialitate a Muzicii Mi din Setări în orice moment.
 Citiți și acceptați &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza aplicația Muzică Mi.
 Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu veți putea utiliza unele caracteristici ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs.&lt;/Data>"</string>
@@ -1966,6 +1985,7 @@ Fiți fericit"</string>
     <string name="toast_will_play_song_when_ad_pause">Această melodie va porni după redarea reclamelor</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="tools_settings">Setări unelte</string>
     <string name="top_chart_title">Topuri</string>
     <string name="too_freq">Prea multe solicitări trimise de pe acest dispozitiv.</string>
     <string name="tos">Termenii Serviciului</string>

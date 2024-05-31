@@ -52,6 +52,7 @@
     <string name="am">AM</string>
     <string name="ambient_display_screen_title">Afișaj activ permanent</string>
     <string name="ambient_display_screen_title_sp">Afișaj ambiental</string>
+    <string name="ambient_display_screen_title_summary">Setați stilul ecranului interior. Ecranul exterior își va păstra propriul ecran de blocare.</string>
     <string name="animation_clock_panel">Tastatură în valuri</string>
     <string name="aod_app_name">Ecran activ permanent și editor de ecran de blocare</string>
     <string name="aod_close_color_inversion">Această caracteristică nu se poate combina cu inversarea culorilor. Dezactivați inversarea culorilor mai întâi.</string>
@@ -360,6 +361,7 @@ dd.MM"</string>
     <string name="kg_template_description_classic">Ceea ce este clasic nu se demodează niciodată.</string>
     <string name="kg_template_description_magazine">Transformați ecranul de blocare într-o copertă de revistă.</string>
     <string name="kg_template_description_rhombus">Timpul este important. Fă-l să conteze.</string>
+    <string name="kg_template_preview_content_description">Previzualizare ecran de blocare</string>
     <string name="kg_template_title_classic">Clasic</string>
     <string name="kg_template_title_magazine">Revistă</string>
     <string name="kg_template_title_mine">Ecran de blocare</string>
@@ -600,7 +602,9 @@ mm"</string>
     <string name="signature_default_content">"Crede întotdeauna că ceva
 minunat urmează să se întâmple"</string>
     <string name="smart_style">Inteligent</string>
-    <string name="smart_style_summary">Afișați întotdeauna articolele, cu excepția cazului în care dispozitivul este într-un buzunar, când lumina ambientală este scăzută pentru o perioadă lungă de timp sau când nu vă uitați la dispozitiv</string>
+    <string name="smart_style_summary">Nu afișați când dispozitivul este într-un buzunar, lumina ambientală este scăzută pentru o lungă perioadă de timp sau când nu vă uitați la ecran</string>
+    <string name="smart_style_summary_inner">Nu afișați când dispozitivul este într-un buzunar, lumina ambientală este scăzută pentru o lungă perioadă de timp sau când nu vă uitați la ecranul interior</string>
+    <string name="smart_style_summary_outer">Nu afișați când dispozitivul este într-un buzunar, lumina ambientală este scăzută pentru o lungă perioadă de timp sau când nu vă uitați la ecranul exterior</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -704,6 +708,17 @@ N月e"</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_style">Stilul</string>
     <string name="time_style_layout">Dispunerea</string>
+    <string name="tiny_camera_content_description">Camera</string>
+    <string name="tiny_classic_date_format">d.M EEE</string>
+    <string name="tiny_clock_time_format_12">hh:mm</string>
+    <string name="tiny_clock_time_format_24">HH:mm</string>
+    <string name="tiny_doodle_clock_date">dd MMMM</string>
+    <string name="tiny_doodle_clock_week_full">EEEE</string>
+    <string name="tiny_pets_date_format">d.M</string>
+    <string name="tiny_pets_week_format">EE</string>
+    <string name="tiny_splicing_date_content_description">d.M</string>
+    <string name="tiny_splicing_date_format">d.M</string>
+    <string name="tiny_splicing_week_format">EE</string>
     <string name="tip_to_open_aod_mode">Afișajul activ permanent este dezactivat. Îl activați acum?</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>

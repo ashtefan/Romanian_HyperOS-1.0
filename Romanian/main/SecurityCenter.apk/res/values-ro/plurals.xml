@@ -998,6 +998,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">ori</item>
         <item quantity="one">dată</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">De %d ori</item>
+        <item quantity="one">%d dată</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d articole cu un consum mare de energie</item>
         <item quantity="one">%d articol cu un consum mare de energie</item>

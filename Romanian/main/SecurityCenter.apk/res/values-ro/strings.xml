@@ -366,7 +366,7 @@
     <string name="app_behavior_media_volume_bg">%1s a ajustat volumul multimedia în fundal</string>
     <string name="app_behavior_media_volume_bg_single">Această aplicație a ajustat volumul multimedia în fundal</string>
     <string name="app_behavior_media_volume_single">Această aplicație a ajustat volumul multimedia</string>
-    <string name="app_behavior_menu_about">Despre înregistrarea comportamentului aplicațiilor</string>
+    <string name="app_behavior_menu_about">Despre înregistrări</string>
     <string name="app_behavior_monitor_off">Se opresc notificările</string>
     <string name="app_behavior_monitor_off_content">Nu veți putea primi notificări despre acțiunile senzitive realizate de către această aplicație. Dezactivați notificările oricum?</string>
     <string name="app_behavior_monitor_off_positive">Dezactivați</string>
@@ -413,7 +413,7 @@
     <string name="app_behavior_recognition_single">Această aplicație a accesat informațiile despre activitățile dvs.</string>
     <string name="app_behavior_record_cancel">Renunțați</string>
     <string name="app_behavior_record_close">Dezactivați</string>
-    <string name="app_behavior_record_close_title">Dezactivați</string>
+    <string name="app_behavior_record_close_title">Opriți înregistrarea</string>
     <string name="app_behavior_record_hide_system">Ascunde aplicațiile de sistem</string>
     <string name="app_behavior_record_open">Activați</string>
     <string name="app_behavior_record_open_content_text">Înregistrările privind comportamentul aplicațiilor arată ce fac aplicațiile și vă ajută să evitați riscurile de securitate.</string>
@@ -2057,6 +2057,7 @@ cutremure"</string>
     <string name="fingerprint_verify_failed">"Nu s-a putut verifica amprenta"</string>
     <string name="fingerprint_verify_succeed">Amprentă verificată</string>
     <string name="fingerprint_verify_try_agin">"Nu s-a putut scana amprenta; încercați din nou"</string>
+    <string name="fingerprint_verify_try_error">Prea multe încercări nereușite. Blocați și deblocați dispozitivul înainte de a încerca din nou.</string>
     <string name="firewall_activity_lable">Acces la rețea</string>
     <string name="firewall_allow_all">Permite tuturor aplicațiilor să se conecteze utilizând metoda următoare</string>
     <string name="firewall_allow_data">Permite utilizarea datelor mobile</string>
@@ -2281,7 +2282,7 @@ cutremure"</string>
     <string name="game_manual_record_setting_setting">Setări</string>
     <string name="game_manual_record_setting_title">Momente cheie</string>
     <string name="game_more_improve">Restricționați activitățile din fundal și viteza de descărcare pentru a economisi acumulatorul și lățimea de bandă pentru jocuri</string>
-    <string name="game_performance_wild_mode">Mod Ultimate</string>
+    <string name="game_performance_wild_mode">Wild Boost</string>
     <string name="game_performance_wild_mode_tips">"Activați pentru a îmbunătăți performanța dispozitivului
 (Dispozitivul dvs. se va încălzi și va consuma mai multă energie)"</string>
     <string name="game_setting">Setări pentru jocuri</string>
@@ -2303,11 +2304,15 @@ cutremure"</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gamebooster_push_expiring_soon_button">Reînnoiți</string>
     <string name="gamebooster_push_expiring_soon_title">Jocuri Turbo</string>
+    <string name="gamebox_ai_accelerate">Creștere viteză AI pe date mobile</string>
+    <string name="gamebox_ai_accelerate_description">Analizați mediul de rețea pentru a crește viteza conexiunii la rețeaua mobilă și pentru a salva date mobile</string>
     <string name="gamebox_ai_subtitle">Subtitrări AI</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
     <string name="gamebox_brightness">Iluminare</string>
     <string name="gamebox_browser_not_find">Instalați browser-ul Mi mai întâi</string>
     <string name="gamebox_bullet_chat">Comentarii pe ecran</string>
+    <string name="gamebox_cellular_network">Optimizați rețeaua celulară</string>
+    <string name="gamebox_cellular_network_description">Selectați automat cea mai bună cale de rețea pe baza latenței jocului</string>
     <string name="gamebox_collimator">Ochire</string>
     <string name="gamebox_display_1">Niciunul</string>
     <string name="gamebox_display_2">Saturat</string>
@@ -2342,6 +2347,7 @@ cutremure"</string>
     <string name="gamebox_mem_clean">Goliți memoria</string>
     <string name="gamebox_mem_filter">Filtre în jocuri</string>
     <string name="gamebox_milink">Proiectați</string>	
+    <string name="gamebox_net_optimize_description">Reduceți latența și agitația Wi-Fi. Utilizați un router Xiaomi sau Redmi pentru a vă bucura de moduri speciale de creștere a vitezei.</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
     <string name="gamebox_recent_task_expand_fail">"Aplicațiile care funcționează cu aceste scurtături nu sunt instalate"</string>
@@ -2409,6 +2415,9 @@ cutremure"</string>
     <string name="gb_audition_play_instruction">Folosiți căști pentru a obține cel mai bun efect</string>
     <string name="gb_award_noti_message">Activați actualizările de fundal Game for Peace în Game Turbo pentru a obține recompense</string>
     <string name="gb_award_noti_title">Recompensele Game for Peace sunt aici!</string>
+    <string name="gb_bar_high">Înalt</string>
+    <string name="gb_bar_low">Redus</string>
+    <string name="gb_bar_mid">Mediu</string>
     <string name="gb_barrage_app_manger">Gestionați aplicațiile</string>
     <string name="gb_barrage_chat_desc">Credeți întotdeauna că ceva minunat este pe cale să se întâmple</string>
     <string name="gb_barrage_chat_pre_desc">Previzualizați</string>
@@ -2521,6 +2530,9 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_have_signed">Verificat astăzi</string>
     <string name="gb_manual_record_dialog_del_video_message">Ștergeți definitiv videoclipurile selectate?</string>
     <string name="gb_manual_video_record_title">Înregistrări</string>
+    <string name="gb_margin_restrain">Ignoră atingerea accidentală a marginilor</string>
+    <string name="gb_margin_restrain_description">Dispozitivul dvs. va răspunde mai puțin la atingerea accidentală în zona din apropierea marginilor</string>
+    <string name="gb_margin_restrain_seekbar">Zona de atingere accidentală</string>
     <string name="gb_msg_completely_shielded">Ascundeți mesajele</string>
     <string name="gb_msg_completely_shielded_summary">Ascundeți</string>
     <string name="gb_msg_not_shielded_summary">Afișați</string>
@@ -2608,6 +2620,7 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_signed_gift_loading_summary">Doar o secundă…</string>
     <string name="gb_signed_title">Verificat luna aceasta</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s rămas</string>
+    <string name="gb_smart_shake_description">Sensibilitate la gesturi de mică amploare</string>
     <string name="gb_sound_audition">Încercați</string>
     <string name="gb_storage_game_dialog_message">Puteți stoca jocuri în Jocuri Turbo în mod automat. Nu vor apărea pe ecranul de pornire dacă activați această funcție. Porniți acum?</string>
     <string name="gb_storage_game_uninstall">Dezinstalați jocuri</string>
@@ -2855,8 +2868,8 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_guide_gtb_game_new">Nou</string>
     <string name="gtb_guide_gtb_line_new">Încercați modul Performanță în Jocuri Turbo!</string>
     <string name="gtb_guide_gtb_line_new_global">Glisați pentru a deschide Jocuri Turbo</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">Încercați modul Ultimate în Jocuri Turbo pentru a vă duce jocul la următorul nivel</string>
-    <string name="gtb_guide_gtb_line_xspace">Îmbunătățiți-vă jocul cu noul Jocuri Turbo!</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Încercați modul Wild Boost în Jocuri Turbo pentru a vă duce jocul la următorul nivel</string>
+    <string name="gtb_guide_gtb_line_xspace">Îmbunătățiți-vă jocul cu noul 	Jocuri Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Utilizați alte aplicații în timp ce jucați"</string>
     <string name="gtb_guide_small_window_app_title">Ferestre plutitoare</string>
     <string name="gtb_intelligent_garbage_clean">Eliberați spațiul de stocare</string>
@@ -3860,6 +3873,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_endurance_calculation">Se calculează…</string>
     <string name="pc_entered_extreme_mode">Modul de hibernare este activat</string>
     <string name="pc_entered_extreme_mode_summary">Dispozitivul dvs. nu mai are acumulator disponibil și a intrat în modul Hibernare. Aplicațiile vor rula în fundal și nu vor trimite notificări.</string>
+    <string name="pc_extreme_category">Acumulator extrem de descărcat</string>
     <string name="pc_extreme_exit_and_power_off">Ieșiți</string>
     <string name="pc_extreme_mode_bg_toast">În modul Hibernare, aplicațiile vor rula în fundal și nu vor trimite notificări</string>
     <string name="pc_extreme_mode_entering">Se intră în modul Hibernare…</string>
@@ -3868,6 +3882,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_extreme_mode_exiting">Se părăsește modul Hibernare…</string>
     <string name="pc_extreme_mode_find_charger">Încărcați dispozitivul cât mai curând posibil.</string>
     <string name="pc_extreme_mode_runtime">Modul de hibernare a fost activat pentru %1$s %2$s.</string>
+    <string name="pc_extreme_mode_setting_summary">Prelungiți timpul de așteptare când acumulatorul este extrem de descărcat</string>
+    <string name="pc_extreme_mode_setting_title">Hibernare</string>
     <string name="pc_extreme_mode_title">Mod Hibernare</string>
     <string name="pc_fast_charge_notifi_action_text_off">Opriți</string>
     <string name="pc_fast_charge_notifi_action_text_on">Accelerați</string>
@@ -3924,6 +3940,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_low_batterty_got_it">Am înțeles</string>
     <string name="pc_low_battery_fast_charge">Accelerează încărcarea</string>
     <string name="pc_low_battery_fast_charge_summary">Conectați încărcătorul furnizat pentru a accelera încărcarea atunci când ecranul este oprit și bateria este descărcată. Această caracteristică poate provoca încălzirea dispozitivului.</string>
+    <string name="pc_low_temp_charge_summary">Țineți încărcătorul conectat și așteptați ca bateria să se încălzească după ce ecranul se stinge pentru a se încărca normal</string>
+    <string name="pc_low_temp_charge_title">Încărcare la temperatură scăzută</string>
     <string name="pc_main_activity_back">Înapoi</string>
     <string name="pc_main_battery_text_day">S-au adăugat %1$sm, aproximativ %2$sz rămase</string>
     <string name="pc_main_battery_text_day_hour">S-au adăugat %1$sm, aproximativ %2$sz și %3$sh rămase</string>
@@ -4472,6 +4490,7 @@ Ultra economisirea acumulatorului"</string>
     <string name="power_optimize_loading">Încărcare</string>
     <string name="power_optimize_open_hide_mode">Activați Economisirea acumulatorului</string>
     <string name="power_optimize_power_save_extend_time">Adăugați %s</string>
+    <string name="power_optimize_power_save_extend_time_new" formatted="false">Extinde pentru %1s %2s</string>
     <string name="power_optimize_power_save_summary">Activați Economisirea acumulatorului pentru a aplica mai multe optimizări de sistem ce limitează activitatea din fundal</string>
     <string name="power_optimize_prohibit_app_autostart">Nu permiteți aplicațiilor să pornească automat</string>
     <string name="power_optimize_reduce_fps">Scădeți rata de reîmprospătare a ecranului la %d Hz</string>
@@ -5813,6 +5832,9 @@ Pentru a utiliza acest ^1 cu acest dispozitiv, va trebui să-l setați mai înt�
     <string name="storage_menu_mount">Montați</string>
     <string name="storage_mount_failure">Nu s-a putut monta %1$s</string>
     <string name="storage_mount_success">%1$s a fost montat cu succes</string>
+    <string name="storage_permission_button">Setări</string>
+    <string name="storage_permission_message">Permiteți acestei funcții să acceseze spațiul de stocare pentru ca acesta să poată calcula cu exactitate utilizarea spațiului de stocare. Puteți acorda această permisiune din Setări.</string>
+    <string name="storage_permission_title">Permisiuni necesare</string>
     <string name="storage_space_release_hint">Aveți nevoie de mai mult spațiu de stocare?</string>
     <string name="storage_system_log">Jurnale de sistem</string>
     <string name="storage_system_log_tip">Jurnalele de sistem vor fi șterse automat atunci când este necesar</string>
@@ -6620,6 +6642,11 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="verify_sms_ensure_allow">Trimiteți</string>
     <string name="verify_sms_title">%1$s încearcă să trimită un mesaj…</string>
     <string name="video_repeat">Redați din nou</string>
+    <string name="videobox_double_core_visual">Imagini dual-core</string>
+    <string name="videobox_double_core_visual_description1">Îmbunătățiți rezoluția video, îmbunătățiți rata de cadre și optimizați HDR printr-un cip dedicat</string>
+    <string name="videobox_double_core_visual_description2">"Îmbunătățiți claritatea, netezimea și efectul general de afișare.
+Această caracteristică necesită un consum mai mare de energie.
+Această funcție nu va funcționa când Economisirea acumulatorului sau Ultra Economisirea acumulatorului sunt activate."</string>
     <string name="videobox_hangup_tips_content">Această caracteristică permite aplicației să ruleze în fundal atunci când ecranul este oprit. Porniți acum?</string>
     <string name="videobox_hangup_tips_title">Atenție</string>
     <string name="videobox_settings_line_location">Locația scurtăturii</string>
