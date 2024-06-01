@@ -693,6 +693,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="phone">Telefon</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
+    <string name="privacy_icp_identity">Numărul de înregistrare ICP: 京ICP备10046444号-32A></string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="prompt_before_transmission_message1_summary">Dacă alegeți să le transferați de pe dispozitivul dvs. vechi, datele aplicației (inclusiv istoricul chatului) vor fi rescrise.</string>
     <string name="prompt_before_transmission_message1_title">Aceste aplicații au generat deja date despre aplicații pe noul dispozitiv</string>

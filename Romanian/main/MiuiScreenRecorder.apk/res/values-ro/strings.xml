@@ -33,8 +33,7 @@
     <string name="app_name">Înregistrare ecran</string>
     <string name="app_notification_channel_record_complete">Notificări despre înregistrările finalizate</string>
     <string name="app_notification_info">În prezent se înregistrează conținutul ecranului…</string>
-    <string name="app_notification_record_saved">"Înregistrare salvată cu succes
-Atingeți pentru a o vizualiza"</string>
+    <string name="app_notification_record_saved">A fost salvată înregistrarea ecranului</string>
     <string name="app_notification_title">Înregistrare ecran</string>
     <string name="auto_stop_title">Videoclip salvat cu succes</string>
     <string name="battery_not_allowed_warning">Nu se poate înregistra când acumulatorul are mai puțin de %1$s disponibil. Asigurați-vă că aveți măcar %2$s disponibil.</string>
@@ -45,6 +44,7 @@ Atingeți pentru a o vizualiza"</string>
     <string name="button_clear_storage">Eliberați spațiu</string>
     <string name="button_confirm">OK</string>
     <string name="button_goon_recorder">Reluați</string>
+    <string name="camera_high_spec_recording">Nu se poate înregistra ecranul în timp ce înregistrați un videoclip în %1$s</string>
     <string name="cancel_edit">Renunțați</string>
     <string name="cannot_change_frames">Rata de cadre poate fi personalizată doar pentru înregistrările cu rată fixă de cadre.</string>
     <string name="cannot_change_parames">"Nu se pot modifica parametrii în timpul înregistrării"</string>
@@ -302,6 +302,7 @@ Atingeți pentru a o vizualiza"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="tap_to_view">Atingeți pentru a vedea</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

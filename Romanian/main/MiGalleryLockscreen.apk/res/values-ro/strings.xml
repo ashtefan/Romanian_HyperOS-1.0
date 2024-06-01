@@ -1191,9 +1191,15 @@ mm"</string>
     <string name="sunday_shortest">Du</string>
     <string name="sure_close_gallery">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
+    <string name="surprise_wallpaper_can_not_open_tip">Vă rugăm să deschideți mai întâi rotația ilustrată</string>
     <string name="surprise_wallpaper_empty_dlg_content">Imaginile de fundal surpriză se vor baza pe imagini de fundal auto-selectate (dacă sunt activate) sau imagini de fundal personalizate generate aleatoriu</string>
     <string name="surprise_wallpaper_empty_dlg_title">Imagini de fundal surpriză</string>
     <string name="surprise_wallpaper_generate_failed_toast">Generarea acestei imagini de fundal surpriză a eșuat</string>
+    <string name="surprise_wallpaper_goto_prompts_error">A existat o excepție de rețea. Vă rugăm să încercați din nou mai târziu.</string>
+    <string name="surprise_wallpaper_prompts_null">Selectarea imaginii originale nu va adăuga un favorit</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Salvarea a eșuat; vă rugăm să încercați din nou.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Salvată cu succes!</string>
+    <string name="surprise_wallpaper_prompts_sending">Se trimit preferințele dvs.…</string>
     <string name="system_default">Implicit</string>
     <string name="system_error_info">Sistemul este ocupat acum. Așteptați un minut sau două și încercați din nou.</string>
     <string name="tab_user_title_bar_text">Setări</string>

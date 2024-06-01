@@ -61,6 +61,14 @@
         <item quantity="other">Introduceți codul de la %1$s (%2$d secunde)</item>
         <item quantity="one">Introduceți codul de la %1$s (%2$d secundă)</item>
     </plurals>
+    <plurals name="habit_executed_number_day">
+        <item quantity="other">Utilizată cu %1$d zile în urmă</item>
+        <item quantity="one">Utilizată cu %1$d zi în urmă</item>
+    </plurals>
+    <plurals name="habit_remembered_number_day">
+        <item quantity="other">Reținută cu %1$d zile în urmă</item>
+        <item quantity="one">Reținută cu %1$d zi în urmă</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
@@ -95,5 +103,13 @@
     <plurals name="remember_number_habit">
         <item quantity="other">S-au memorat %1$d modele</item>
         <item quantity="one">S-a memorat %1$d model</item>
+    </plurals>
+    <plurals name="remembered_number_habit">
+        <item quantity="other">%1$d modele adăugate</item>
+        <item quantity="one">%1$d model adăugat</item>
+    </plurals>
+    <plurals name="un_remember_number_habit">
+        <item quantity="other">%1$d modele în așteptare</item>
+        <item quantity="one">%1$d model în așteptare</item>
     </plurals>
 </resources>

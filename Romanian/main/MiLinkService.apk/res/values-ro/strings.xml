@@ -91,6 +91,7 @@ dispozitivele?"</string>
     <string name="camera_disconnecting_device">Se deconectează de la %s</string>
     <string name="camera_notify_string">CameraNotification</string>
     <string name="camera_title">Se caută dispozitivele disponibile…</string>
+    <string name="cancel">Renunțați</string>
     <string name="cancel_button">Renunțați</string>
     <string name="car_air_con_back_switch_close">Opriți AC-ul pe bancheta din spate</string>
     <string name="car_air_con_back_switch_open">Porniți AC-ul pe bancheta din spate</string>
@@ -277,6 +278,7 @@ pentru a proiecta ecranul acestei tablete"</string>
     <string name="circulate_headset_error_headset_not_support">Nu vă puteți conecta căștile la acest computer</string>
     <string name="circulate_headset_error_headset_not_worn">Puneți ambele căști și încercați din nou</string>
     <string name="circulate_headset_error_headset_not_worn_both">Puneți ambele căști și încercați din nou</string>
+    <string name="circulate_headset_error_headset_not_worn_single">Purtați căștile pentru a utiliza această funcție</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Activați Bluetooth pe televizor
 și conectați-vă la contul dvs. Xiaomi"</string>
     <string name="circulate_headset_error_self_upgrade">Această acțiune nu a putut fi finalizată. Actualizați mai întâi Mi Smart Hub.</string>
@@ -717,6 +719,7 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
 4. În cazul în care întâmpinați probleme, le puteți raporta prin intermediul aplicației \"Servicii și feedback\"."</string>
     <string name="help_page_text_end">"Dacă modelul dispozitivului dvs. nu este listat aici, contactați producătorul pentru a afla mai multe despre funcția de proiectare."</string>
     <string name="hm_always">Reține</string>
+    <string name="hm_always_execute">Întotdeauna</string>
     <string name="hm_conflict_title">Model întrerupt: %1$s</string>
     <string name="hm_conflict_toast">Aveți o scenă de casă inteligentă sau o automatizare conflictuală. Editați-o mai întâi în aplicație.</string>
     <string name="hm_go_to_help">Vedeți secțiunea de ajutor</string>
@@ -727,12 +730,18 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="hm_habit_info_empty_describe">"Continuați să vă folosiți dispozitivele
 astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</string>
     <string name="hm_habit_info_list_empty">Se învață modelele…</string>
+    <string name="hm_has_ignored">Am ignorat acest model cu succes</string>
+    <string name="hm_has_remembered">Am reținut acest model cu succes</string>
     <string name="hm_help">Ajutor</string>
     <string name="hm_knew">Am înțeles</string>
+    <string name="hm_new_habit">Modele noi</string>
+    <string name="hm_new_habit_empty_title">Nu există modele aici</string>
+    <string name="hm_not_notify">Nu arăta din nou</string>
     <string name="hm_pause_habit">Pauză</string>
     <string name="hm_please_login_mi_account">Conectați-vă la contul dvs. Xiaomi pentru a începe</string>
     <string name="hm_remember">Reține</string>
     <string name="hm_resume_habit">Reia</string>
+    <string name="hm_setstate_error">Nu s-a putut finaliza această acțiune</string>
     <string name="hm_setup">Setări</string>
     <string name="hm_time_has_paused">Pus în pauză</string>
     <string name="hm_time_just_remembered">Învățat chiar acum</string>
@@ -740,7 +749,11 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="hm_time_not_executed">Neutilizat încă</string>
     <string name="hm_time_recent_week">În această săptămână</string>
     <string name="hm_time_today">Astăzi</string>
+    <string name="hm_time_today_executed">Utilizat la %s astăzi</string>
+    <string name="hm_time_today_remembered">Reținut la %s astăzi</string>
     <string name="hm_time_yesterday">Ieri</string>
+    <string name="hm_time_yesterday_executed">Utilizat la %s ieri</string>
+    <string name="hm_time_yesterday_remembered">Reținut la %s ieri</string>
     <string name="hm_toast_log_in">Conectați-vă mai întâi la contul dvs. Xiaomi</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">HyperMind</string>
@@ -749,7 +762,10 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="hyper_mind_close_warning_content">Dacă dezactivați această funcție, HyperMind nu va mai putea învăța sau utiliza tiparele dvs. Dacă doriți să vă retrageți consimțământul pentru colectarea datelor dvs., atingeți &lt;a href=%1$s>aici&lt;/a>.</string>
     <string name="hyper_mind_close_warning_ok">Am înțeles</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
+    <string name="i_see">Am înțeles</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
+    <string name="image_transfer_failed">Nu s-a putut transfera imaginea</string>
+    <string name="install">Instalați</string>
     <string name="invisible_mode_dialog_content">Nu se poate folosi proiectarea când sunteți în modul incognito. Dezactivați mai întâi modul incognito.</string>
     <string name="invisible_mode_dialog_content_audio_relay">Nu se poate transfera redarea când sunteți în modul incognito. Dezactivați mai întâi modul incognito."</string>
     <string name="invisible_mode_dialog_pos">Dezactivați</string>
@@ -779,6 +795,9 @@ astfel încât Xiaomi HyperMind poate învăța și perfecționa tiparele"</stri
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Selectați ora</string>
     <string name="material_timepicker_text_input_mode_description">Comutați la modul de introducere a textului pentru introducerea orei.</string>
+    <string name="message_connection_interrupted">Asigurați-vă că PC-ul și tableta se află în raza de conexiune și că Bluetooth-ul și Wi-Fi-ul sunt activate. Pentru a continua, porniți din nou sarcina pe computer.</string>
+    <string name="message_install">Instalați Mi Canvas pentru a putea schița pe mai multe dispozitive.</string>
+    <string name="message_update">Actualizați Mi Canvas pentru a putea schița pe mai multe dispozitive.</string>
     <string name="midnight">Noapte</string>
     <string name="miplay_accessibility_cast">Selectați dispozitivul</string>
     <string name="miplay_accessibility_cover">Copertă</string>
@@ -1268,6 +1287,9 @@ Asigurați-vă că ați activat Jocuri Turbo înainte de a proiecta jocuri."</st
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="title_connection_interrupted">Conexiune întreruptă</string>
+    <string name="title_install">Instalați Mi Canvas</string>
+    <string name="title_update">Actualizați Mi Canvas</string>
     <string name="toast_guide_show_more">Aflați mai multe</string>
     <string name="toast_guide_title">Explorați noi funcții</string>
     <string name="toast_invisible_mode">Sunteți în modul Incognito. Nu se poate utiliza proiectarea acum.</string>
@@ -1292,6 +1314,7 @@ Asigurați-vă că ați activat Jocuri Turbo înainte de a proiecta jocuri."</st
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
     <string name="unlock_screen_to_authorize_camera">%s dorește să utilizeze camera dispozitivului</string>
+    <string name="update">Actualizați</string>
     <string name="upgrade_app_name_version">%1$s | %2$s</string>
     <string name="upgrade_cancel">Renunțați</string>
     <string name="upgrade_cancel_all">Anulați actualizările</string>

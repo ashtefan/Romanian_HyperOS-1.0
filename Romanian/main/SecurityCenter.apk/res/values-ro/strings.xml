@@ -1422,6 +1422,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="continue_set">Continuați</string>
     <string name="convenient_mode">Deblocați toate aplicațiile simultan</string>
     <string name="convenient_summary">Introduceți o dată parola pentru a debloca toate aplicațiile</string>
+    <string name="conversation_phone_title">Cutia de unelte pentru apeluri</string>
     <string name="conversation_settings_top">"·Glisați înafara barei de instrumente Conferință în timpul apelurilor audio și video pe ecran complet pentru a accesa funcțiile acesteia.
 ·Tipul și numărul de caracteristici depind de modelul dispozitivului."</string>
     <string name="conversation_sider_tips">Utilizați noile instrumente de conferință pentru cea mai bună experiență de apel</string>
@@ -1453,6 +1454,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cs_pickup_vioce_print_unsupport_toast">Deconectați dispozitivele externe și încercați din nou</string>
     <string name="cs_pickup_voice_print_desc">Preluați sunetul de la o singură persoană</string>
     <string name="cs_screen_translation_title">Traducere ecran</string>
+    <string name="cs_simultaneous_interpretation_title">Interpretați</string>
     <string name="cs_title_pickup">Reducerea zgomotului</string>
     <string name="cs_title_smart_subtitle">Transcrierea subtitrărilor</string>
     <string name="cs_title_ultraclear">Mod Ultra HD</string>
@@ -1777,8 +1779,8 @@ cardul de sănătate"</string>
     <string name="ew_alert_help_place_title">Adăpost în apropiere</string>
     <string name="ew_alert_help_safe_title">Evitați pericolul</string>
     <string name="ew_alert_help_tips">"Păstrați-vă calmul și rămâneți în alertă. Stați departe de obiectele care atârnă, nu vă urcați în lift. Căutați un loc sigur, așezați-vă, acoperiți-vă și așteptați."</string>
-    <string name="ew_alert_no_contact">Setați mai întâi un contact de urgență în Securitate &gt; Avertizare de cutremur</string>
-    <string name="ew_alert_no_emergency">Adăugați-vă datele medicale în Securitate &gt; Avertizare de cutremur</string>
+    <string name="ew_alert_no_contact">Setați contactul de urgență în Setări > Confidențialitate și securitate > SOS de urgență</string>
+    <string name="ew_alert_no_emergency">Adăugați-vă datele medicale în Securitate > Avertizare de cutremur</string>
     <string name="ew_alert_text_from">Date furnizate de %s</string>
     <string name="ew_app_name">Avertizare de cutremur</string>
     <string name="ew_app_name_exercise">Avertizare de cutremur (Demo)</string>
@@ -1887,10 +1889,14 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="ew_main_setting_show_desc">Demo</string>
     <string name="ew_main_setting_warning_desc">Aflați mai multe</string>
     <string name="ew_main_settings">Setări</string>
+    <string name="ew_main_subscribe_city">Abonați-vă la orașe</string>
     <string name="ew_main_warning_all_title">Vedeți avertismentele emise anterior</string>
     <string name="ew_main_warning_list">Vedeți avertizările</string>
     <string name="ew_main_warning_list_tips">Vizualizați</string>
     <string name="ew_main_warning_list_title">Vedeți istoricul de avertizare</string>
+    <string name="ew_merge_contact_button">Am înțeles</string>
+    <string name="ew_merge_contact_message">Contactele dvs. de urgență din SOS de urgență și Avertizare de cutremur au fost îmbinate.</string>
+    <string name="ew_merge_contact_title">Îmbinați contactele de urgență</string>
     <string name="ew_monitor_bad_request_tips">Aplicația Securitate nu poate accesa informațiile despre dispozitiv</string>
     <string name="ew_monitor_content">Dispozitivul dvs. mobil poate deveni parte a rețelei de avertizare timpurie împotriva cutremurelor. După ce senzorii săi detectează unde seismice, datele vor fi analizate de algoritmul AI și vor fi emise avertizări timpurii persoanelor din zonele afectate.</string>
     <string name="ew_monitor_exit">Nu vă înrolați</string>
@@ -2394,6 +2400,8 @@ cutremure"</string>
     <string name="gb_advance_settings_reset_dialog_content">Restaurați setările implicite acum?</string>
     <string name="gb_advance_settings_reset_dialog_title">Setări implicite</string>
     <string name="gb_advance_settings_screen_display">Afișaj</string>
+    <string name="gb_advance_settings_screen_display_style_summary">Măriți contrastul și optimizați imaginile pentru a afișa mai multe detalii</string>
+    <string name="gb_advance_settings_screen_display_summary">Îmbunătățiți contrastul și optimizați imaginile pentru a afișa mai multe detalii</string>
     <string name="gb_advance_settings_screen_hdr">Imagini îmbunătățite</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Original</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Moderat</string>
@@ -2402,6 +2410,10 @@ cutremure"</string>
     <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
     <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Crește contrastul și mărește detaliile pentru jocuri</string>
+    <string name="gb_advance_settings_screen_show_enhancement">Îmbunătățiți imaginile</string>
+    <string name="gb_advance_settings_screen_show_enhancement_summary">Afișează mișcare cu netezime și fluiditate sporite</string>
+    <string name="gb_advance_settings_screen_super_picture_quality">Super calitate a imaginii</string>
+    <string name="gb_advance_settings_screen_super_picture_quality_summary">Îmbunătățiți rezoluția și rata de cadre pentru imagini mai fluide</string>
     <string name="gb_advance_settings_touch">Controale ecran</string>
     <string name="gb_advance_settings_vibration_4d">Vibrație 4D</string>
     <string name="gb_advance_settings_vibration_4d_summary">Ilustrează acțiunile din jocuri utilizând vibrațiile</string>
@@ -2644,6 +2656,7 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_vision_enhance_desc">Îmbunătățiți calitatea și performanța imaginii</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Rată de cadre inteligentă
 %dFPS"</string>
+    <string name="gb_vision_enhance_smart_frame_enhance">Îmbunătățiți rata de cadre</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Frecvență de cadre inteligentă</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Reglați automat rata de cadre pentru a face mișcarea mai lină</string>
     <string name="gb_vision_enhance_super_resolution">Super rezoluție</string>
@@ -3825,6 +3838,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
     <string name="pc_battery_low_health_reminder">Este vremea să vă schimbați acumulatorul</string>
+    <string name="pc_battery_replacement_service_title">Încercați serviciul nostru de înlocuire a bateriilor. Hardware original %1$s cu o garanție %2$s.</string>
     <string name="pc_berserk_mode_dialog_title">Activați modul Ultimate</string>
     <string name="pc_berserk_mode_noti_summary">Modul Ultimate poate crește consumul de energie și poate duce la probleme de supraîncălzire</string>
     <string name="pc_berserk_mode_performance_title">Modul Ultimate</string>
@@ -5022,7 +5036,7 @@ Retrageți consimțământul acum?"</string>
     <string name="privacy_thumbnail_blur_category_photography">Fotografii și videoclipuri</string>
     <string name="privacy_thumbnail_blur_category_tip">Recomandat</string>
     <string name="privacy_thumbnail_blur_search_empty">Nu s-au găsit rezultate</string>
-    <string name="privacy_thumbnail_blur_title">Previzualizări blurate</string>
+    <string name="privacy_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
     <string name="privacy_thumbnail_blur_top_tip">Selectați aplicațiile pentru care previzualizarea va fi blurată în Recente</string>
     <string name="privacy_thumbnail_shield_title">Mascare previzualizare</string>
     <string name="privacy_thumbnail_shield_top_tip">Mascați previzualizările pentru aplicațiile afișate în Recente</string>

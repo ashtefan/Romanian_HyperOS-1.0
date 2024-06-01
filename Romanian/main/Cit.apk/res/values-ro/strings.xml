@@ -349,6 +349,8 @@ Vorbiți în microfonul lateral de sus, ar trebui să auziți vocea din difuzor"
     <string name="cit_charge_usb_hvdcp">Se încarcă： USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Se încarcă： USB_PD</string>
     <string name="cit_charger_check_title">Test încărcare</string>
+    <string name="cit_charger_hall_test_summary">Vă rugăm să aduceți magnetul aproape de poziția din spate corespunzătoare zonei dreptunghiulare verzi, să stați 1 secundă și apoi să vă îndepărtați</string>
+    <string name="cit_charger_hall_test_title">Sala încărcătoarelor</string>
     <string name="cit_charger_in">Încărcător conectat</string>
     <string name="cit_charger_in_check_title">Test inserare încărcător</string>
     <string name="cit_charger_plugin_check_summary">Când este conectat încărcătorul USB, textul \"Încărcare prin USB/AC\" ar trebui să fie afișat mai jos.</string>
@@ -486,6 +488,7 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
     <string name="cit_high_accdata_sensor_check_summary">Valorile pentru coordonatele X, Y, Z ar trebui să apară mai jos. Vă rugăm să plasați telefonul pe masă înainte de a efectua testul</string>
     <string name="cit_high_accdata_sensor_check_title">Accelerometru ridicat</string>
     <string name="cit_high_accdata_sensor_graph_title">Graficul accelerometrului ridicat</string>
+    <string name="cit_high_accelermeter_sensor_cali_title">Test de calibrare a senzorului de accelerație cu gamă înaltă</string>
     <string name="cit_horn_motor_test">Test motor claxon</string>
     <string name="cit_hvdcp_charger_in">Încărcare prin (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Mediu de Testare Inițială pentru Amprentă</string>
@@ -527,27 +530,30 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
 Nu opriți ecranul pe durata testului"</string>
     <string name="cit_nfc_check_tip">poziționați cardul în partea superioară a spatelui telefonului</string>
   <string name="cit_nfc_check_title">Test NFC</string>
-  <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
-  <string name="cit_notificationlight">Notification light</string>
-  <string name="cit_notificationlight_off">Notification light off</string>
-  <string name="cit_notificationlight_on">Notification light on</string>
-  <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
+    <string name="cit_no_sim_check_title">Fără cartelă SIM</string>
+    <string name="cit_nt_chip_check_title">Verificare cip NT</string>
+    <string name="cit_nt_rt_rx_title">Verificare NT RT/RX</string>
+  <string name="cit_otg_not_supported">Acest dispozitiv nu acceptă testarea OTG</string>
   <string name="cit_pass">Pass</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Vă rugăm să puneți creionul în zona de detectare din dreapta a mesei pentru a începe testul</string>
     <string name="cit_pencil_reverse_wireless_charger_title">Test de încărcare a creionului</string>
     <string name="cit_pixeworks_chip_check_title">Verificare cip Pixeworks Iris 7</string>
-  <string name="cit_pointer_location_title">Touch sensor</string>
-  <string name="cit_power_check_summary">The amount of battery charge should be expressed as a percentage below.</string>
-  <string name="cit_power_check_title">Battery indicator</string>
-  <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
-  <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
+  <string name="cit_pointer_location_title">Senzor tactil</string>
+  <string name="cit_power_check_summary">Cantitatea de încărcare a acumulatorului trebuie exprimată ca procent mai jos.</string>
+  <string name="cit_power_check_title">Indicator acumulator</string>
+  <string name="cit_pressure_sensor_check_summary">Valoarea presiunii ar trebui să apară mai jos</string>
+  <string name="cit_pressure_sensor_check_title">Senzor de presiune</string>
     <string name="cit_proximity_data_check_summary">"Senzorul de la distanță infraroșu: Acoperiți senzorul de distanță infraroșu cu mâna și apoi înlăturați mâna. 
 Senzorul de distanță ultrasonic: Vă rugăm să simulați ridicarea telefonului pentru a prelua un apel 
 Dacă zona de test cea mai joasă arată o valoare de 0,0 la apropiere și o valoare de 5,0 la îndepărtare atunci testul este încheiat cu succes, altfel testul nu este trecut."</string>
-  <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
-When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
-  <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
-  <string name="cit_proximity_us_sensitivity">Sensitivity:</string>
+    <string name="cit_proximity_second_sensor_cali_title">Al doilea test de calibrare a senzorului de proximitate</string>
+    <string name="cit_proximity_second_sensor_check_summary">Când calibrați, asigurați-vă că nu există nimic între senzor și mână (de exemplu, husă de protecție a ecranului sau mănuși).</string>
+    <string name="cit_proximity_sensor_cali_title">Test de calibrare a senzorului de proximitate</string>
+    <string name="cit_proximity_sensor_check_second_screen_title">Al doilea senzor de proximitate</string>
+  <string name="cit_proximity_sensor_check_summary">"Acoperiți senzorul de proximitate (situat în partea de sus a telefonului lângă receptor) cu mâna, apoi îndepărtați-vă mâna. Valoarea ar trebui să crească de la 0,0 atunci când vă îndepărtați mâna de dispozitiv.
+Când calibrați, asigurați-vă că nu există nimic între senzor și mână (de exemplu, husă de protecție a ecranului sau mănuși)."</string>
+  <string name="cit_proximity_sensor_check_title">Senzor de proximitate</string>
+  <string name="cit_proximity_us_sensitivity">Sensitivitate:</string>
   <string name="cit_proximity_us_summary">Ultrasound Proximity Sensor Calibration</string>
     <string name="cit_rear_dual_camera_check_title">Camera Bokeh</string>
     <string name="cit_rear_dual_second_camera_check_title">Camera 2 Bokeh</string>
@@ -888,6 +894,7 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_touch_fw_mode">Mod FW</string>
     <string name="cit_touch_panel_nead_pencil_tip">Vă rugăm să folosiți din nou creionul pentru testare</string>
     <string name="cit_touch_panel_test_title">Senzor tactil</string>
+    <string name="cit_touch_panel_test_title_N8">Senzor tactil</string>
     <string name="cit_touch_thp_mode">Mod THP</string>
     <string name="cit_touch_work_mode_test_help">"Instrucțiuni de operare 
 faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</string>
@@ -896,6 +903,7 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="cit_touch_work_switch_tips">Nu atingeți ecranul și așteptați finalizarea comutării modurilor</string>
     <string name="cit_tt_cali_bin_check_title">Detectarea conținutului fișierului de calibrare a cipului</string>
     <string name="cit_tt_chip_detection_title">Detectare la locul cipului Tian-tong</string>
+    <string name="cit_tt_close_satelite_tip">Vă rugăm să păstrați funcția de telefon prin satelit dezactivată</string>
     <string name="cit_tt_description">Funcțiile legate de cip sunt detectate, vă rugăm să nu utilizați telefonul.</string>
     <string name="cit_tt_rx_check_title">Detectarea căii de recepție a chipului RX</string>
     <string name="cit_tt_tx_check_title">Detectarea traseului de transmisie Chip TX</string>

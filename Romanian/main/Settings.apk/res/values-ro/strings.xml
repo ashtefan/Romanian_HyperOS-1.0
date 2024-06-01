@@ -4952,7 +4952,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="ignore_optimizations_off_desc">Recomandat pentru o durată de viață mai mare a acumulatorului</string>
     <string name="ignore_optimizations_on">Nu optimiza</string>
     <string name="ignore_optimizations_on_desc">Poate descărca mai rapid acumulatorul</string>
-    <string name="ignore_optimizations_title">Permiteți %s să ignore optimizările acumulatorului?</string>
+    <string name="illegal_device_name_modification_notification">Redenumiți-vă dispozitivul</string>
+    <string name="illegal_hotspot_name_modification_notification">Redenumiți-vă hotspotul</string>
     <string name="ime_security_warning">%1$s poate înregistra tot ceea ce tastați, inclusiv parolele, datele cardurilor de credit și alte date personale.</string>
     <string name="ime_security_warning_global">Metodele de introducere pot colecta tot ceea ce scrieți, inclusiv date personale, cum ar fi parolele sau datele cardurilor de credit. Utilizați %1$s?</string>
     <string name="ime_security_warning_title_global">Activarea tastaturii</string>
@@ -6948,6 +6949,7 @@ Selectaţi sistemul de operare:"</string>
     <string name="my_device_info_device_name_preference_title">Numele dispozitivului</string>
     <string name="my_device_info_legal_category_title">Legal și reglementare</string>
     <string name="n_cacrts">%d certificate CA</string>
+    <string name="name_modification_no_network_notification">Conectați-vă la rețea și încercați din nou</string>
     <string name="natural_haptic">Atingere naturală</string>
     <string name="natural_haptic_summary">Noile modele de feedback haptic aduc o dimensiune suplimentară a tot ceea ce vedeți și atingeți pe ecran.</string>
     <string name="natural_scroll">Derulare naturală</string>
@@ -8542,6 +8544,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="save">Salvați</string>
     <string name="save_battery_mode">Economisiți acumulatorul cu WQHD+</string>
     <string name="save_battery_mode_summary">Schimbați automat rezoluția pentru a economisi energia</string>
+    <string name="save_device_name_progress_message">Se salvează…</string>
     <string name="saved_network">Salvată de către %1$s</string>
     <string name="saved_wifi">Gestionați rețelele Wi-Fi salvate</string>
     <string name="saved_wifi_delete">Ștergeți</string>
