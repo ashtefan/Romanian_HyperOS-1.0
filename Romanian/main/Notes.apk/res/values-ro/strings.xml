@@ -43,8 +43,12 @@
     <string name="actionbar_close_description">Închideți</string>
     <string name="actionbar_home_description">Înapoi</string>
     <string name="add_account_desc">Sincronizaţi notele în contul dvs. Xiaomi?</string>
+    <string name="add_excerpt_summary">Adăugați o listă rezumată</string>
     <string name="added_to_clipboard">Copiat cu succes</string>
     <string name="afternoon">După amiază</string>
+    <string name="ai_chat_declare_double_link"><Data>Citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a continua.</Data></string>
+    <string name="ai_chat_dlg_content">Pentru diverse surse de informații în diferite scenarii (cum ar fi link-uri sau text care apar în aplicații precum browsere, WeChat și Feishu), funcția de colectare și rezumare rapidă a informațiilor, precum și generarea și prezentarea automată a acestora într-o intrare unificată pentru arhivare, poate fi atins.</string>
+    <string name="ai_watermark">Generat de AI:</string>
     <string name="alarm_bar_title">Memento</string>
     <string name="alert_action_edit_anyway">Editați oricum</string>
     <string name="alert_message_delete">Ştergeţi %1$s?</string>
@@ -262,9 +266,13 @@
     <string name="evening">După amiază</string>
     <string name="exceed_todo_text_limitation">Descrierea sarcinii este prea lungă.</string>
     <string name="excerpt">Extrase</string>
+    <string name="excerpt_ares_limit">Apreciem entuziasmul dumneavoastră, dar în prezent ne confruntăm cu un trafic foarte ridicat. Vă rugăm să faceți click pe linkul original pentru a-l accesa sau încercați din nou mai târziu.</string>
     <string name="excerpt_bubble_tips">Textul copiat și imaginile salvate vor fi salvate în Note</string>
     <string name="excerpt_link_bubble_tips">Atingeți pentru a salva în Note</string>
-    <string name="excerpt_note">Extrasele mele</string>
+    <string name="excerpt_original_text">Textul original：</string>
+    <string name="excerpt_summary_fail">Analiza conținutului a eșuat. Vă rugăm să faceți click pe linkul original pentru a-l accesa sau încercați din nou mai târziu.</string>
+    <string name="excerpt_summary_huangfan">Conținutul este sensibil. Vă rugăm să faceți click pe linkul original pentru a vizualiza.</string>
+    <string name="excerpt_summary_link_bubble_tips">Atingeți pentru a salva rezumatul în Notițe.</string>
     <string name="excerpted_to_note">S-au salvat extrasele în Note</string>
     <string name="excerpting">Se crează un extras…</string>
     <string name="expand_button_title">Avansate</string>
@@ -732,6 +740,7 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Glisați în sus cu 2 degete pentru a șterge notițele fără confirmare</string>
     <string name="pref_desc_todo_float_mode">Glisați de la marginea ecranului pentru a deschide setul cu instrumente</string>
     <string name="pref_excerpt_link_float">Primiți un memento pentru a crea un extras ori de câte ori este copiată o adresă URL</string>
+    <string name="pref_excerpt_summary_link_float">De fiecare dată când linkul este copiat, bara de scurtătură va oferi un memento rezumat în așteptare; faceți click pentru a extrage rezumatul.</string>
     <string name="pref_permission_allowed">Permisă</string>
     <string name="pref_permission_manage">Detalii permisiuni</string>
     <string name="pref_permission_manage_key_contact">Accesare contacte</string>
@@ -747,6 +756,7 @@
     <string name="pref_title_cloud_trash_bin">Notițe șterse din cloud</string>
     <string name="pref_title_common">Setări adiţionale</string>
     <string name="pref_title_excerpt_remind">Memento-uri pentru extrase</string>
+    <string name="pref_title_excerpt_summary_remind">Listă sumară</string>
     <string name="pref_title_font_size">Dimensiunea fontului</string>
     <string name="pref_title_note_style">Stil notă</string>
     <string name="pref_title_quick_note">Note rapide</string>
@@ -845,6 +855,7 @@
     <string name="setting_other">ALTELE</string>
     <string name="setting_privacy">Politica de Confidențialitate</string>
     <string name="single_link_excerpt_saving">Se salvează elementele…</string>
+    <string name="single_link_excerpt_summary_saving">Se generează lista rezumativă.</string>
     <string name="single_new_excerpt_title">Extrase</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -977,6 +988,9 @@
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="to_be_read_bubble_tips">Link-ul și textul copiat vor extrage direct rezumatul în notițe.</string>
+    <string name="to_be_read_link_bubble_tips">Atingeți pentru a salva rezumatul în Notițe</string>
+    <string name="to_be_read_list">Lista sumarizată</string>
     <string name="to_view_alarm_content">Atingeți pentru a vizualiza</string>
     <string name="toast_cancel_to_insert_image">"Nu s-a putut adăuga imaginea."</string>
     <string name="toast_excerpt_end">Extras creat cu succes</string>
@@ -1009,6 +1023,8 @@ Permiteți aplicației Note să citească starea și ID-ul telefonului."</string
     <string name="toast_refuse_to_use_record_audio">"Permisiunile de accesare a microfonului sunt restricționate.
 Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permiteți aplicației Notițe să acceseze spațiul de stocare pentru a putea adăuga imagini la note</string>
+    <string name="toast_show_no_network">Conectați-vă la rețea și încercați din nou.</string>
+    <string name="toast_show_xiaomi_account">Conectați-vă contul Xiaomi și încercați din nou.</string>
     <string name="today">Azi</string>
     <string name="todo_alert_title_delete">Ștergeți sarcinile finalizate</string>
     <string name="todo_audio_default_content">"[Sarcină vocală] "</string>

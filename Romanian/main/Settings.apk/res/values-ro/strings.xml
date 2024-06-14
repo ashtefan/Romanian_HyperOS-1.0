@@ -5112,6 +5112,10 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="interesting_title">Atingere realistă</string>
     <string name="internal_auto_rotate_title">Blocați orientarea pentru ecranul interior</string>
     <string name="internal_storage">Stocare internă</string>
+    <string name="international_lyra_account_ap_summary">Permiteți tabletelor și computerelor din apropiere conectate la contul dvs. să pornească și să se conecteze automat la hotspot-ul acestui dispozitiv</string>
+    <string name="international_lyra_account_ap_title">Sincronizarea rețelei</string>
+    <string name="international_lyra_auto_connect_summary">Când un dispozitiv din apropiere este conectat la contul dvs. și trebuie să se conecteze la internet, porniți și conectați-vă automat la hotspot-ul acestui dispozitiv</string>
+    <string name="international_lyra_auto_connect_title">Conectați-vă automat la hotspot</string>
     <string name="internet_connectivity_panel_title">Conectivitate Internet</string>
     <string name="invalid_location">Locaţia de instalare nu este validă.</string>
     <string name="invalid_size_value">"Nu s-a putut calcula mărimea pachetului."</string>
@@ -10700,8 +10704,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="theme_customization_icon_shape_title">Forma pictogramelor</string>
     <string name="theme_settings_title">Teme</string>
     <string name="thememanager_not_found">"Nu s-a putut deschide aplicația Teme. Asigurați-vă că aplicația este instalată."</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Swipe horizontally on inner screen with three fingers to open Split screen</string>
-    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Swipe horizontally with three fingers to open Split screen</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Glisați orizontal pe ecranul interior cu trei degete pentru a deschide Ecran scindat</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Glisați orizontal cu trei degete pentru a deschide Ecran scindat</string>
     <string name="three_gesture_down">Glisare în jos cu 3 degete</string>
     <string name="three_gesture_horizontal">Glisați orizontal cu %d degete</string>
     <string name="three_gesture_long_press">Atingeți și mențineți apăsat cu %d degete</string>
@@ -10736,7 +10740,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tip_remove_data">Revenirea la setările din fabrică va șterge aceste elemente de pe telefon</string>
     <string name="title_change_system_locale">Schimbați limba sistemului la %s ?</string>
     <string name="title_color_calibration">Presetare corecţie de culoare</string>
-    <string name="title_convert_fbe">Convertire la criptarea pe bază de fișier…</string>
+    <string name="title_device_control">Controalele dispozitivului</string>
     <string name="title_font">Font</string>
     <string name="title_font2">Font și dispunere</string>
     <string name="title_font_current">Fontul sistemului</string>
@@ -10757,6 +10761,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_special_features_health_global">Ritm cardiac</string>
     <string name="title_unavailable_locale">%s indisponibil</string>
     <string name="title_wordless_mode">Nu afișa etichetele pictogramelor</string>
+    <string name="title_xiaomi_smart_hub">Hub inteligent Xiaomi</string>
     <string name="to_close">Dezactivați</string>
     <string name="to_switch_networks_disconnect_ethernet">Pentru a comuta rețelele, deconectați ethernetul</string>
     <string name="toast_allows_restricted_settings_successfully">Setări restricționate permise %s</string>

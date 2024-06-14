@@ -1191,6 +1191,7 @@ mm"</string>
     <string name="sunday_shortest">Du</string>
     <string name="sure_close_gallery">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
+    <string name="surprise_wallpaper_auth_failed_tip">Validarea informațiilor despre utilizator nu a reușit; vă rugăm să verificați starea de conectare și ora sistemului.</string>
     <string name="surprise_wallpaper_can_not_open_tip">Vă rugăm să deschideți mai întâi rotația ilustrată</string>
     <string name="surprise_wallpaper_empty_dlg_content">Imaginile de fundal surpriză se vor baza pe imagini de fundal auto-selectate (dacă sunt activate) sau imagini de fundal personalizate generate aleatoriu</string>
     <string name="surprise_wallpaper_empty_dlg_title">Imagini de fundal surpriză</string>

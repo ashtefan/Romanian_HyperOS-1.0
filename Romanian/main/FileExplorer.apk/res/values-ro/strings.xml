@@ -998,7 +998,7 @@
     <string name="search_file_type_picture">Fotografii</string>
     <string name="search_file_type_video">Videoclipuri</string>
     <string name="search_guid_hint">Căutați fișiere</string>
-    <string name="search_hint">Căutare</string>
+    <string name="search_hint">Introduceți numele fișierului</string>
     <string name="search_history">Istoricul de căutare</string>
     <string name="search_keyword">Etichete</string>
     <string name="search_recent_file">Explorator fișiere;Explorator;Fișier;Fișiere;Gestionați fișierele;Gestionare fișiere</string>
