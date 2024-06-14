@@ -662,6 +662,7 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="local_mode">Modul offline</string>
     <string name="local_mode_close">Dezactivați modul offline?</string>
     <string name="local_mode_close_desc">Dezactivați modul offline dacă doriți să utilizați serviciile online. Dezactivați acum?</string>
+    <string name="local_mode_close_tip">Este necesară conexiunea la internet pentru a seta această imagine de fundal. Dacă doriți să utilizați serviciul de internet, trebuie să dezactivați modul local. Confirmați dezactivarea?</string>
     <string name="local_mode_desc">Modul offline folosește numai conținut local și nu utilizează servicii online</string>
     <string name="local_mode_hint">"Utilizați modul offline.
 Atingeți pentru a dezactiva."</string>
