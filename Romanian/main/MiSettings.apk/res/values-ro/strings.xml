@@ -143,6 +143,7 @@
     <string name="control_center_title">Timpul de utilizare a ecranului azi</string>
     <string name="control_center_title_new">Utilizat azi</string>
     <string name="copy">Copiați</string>
+    <string name="crazy_mode">Mod Ultra</string>
     <string name="create">Creați</string>
     <string name="create_failed">Nu s-a putut crea</string>
     <string name="create_shortcut">Scurtătură pe Ecranul principal</string>
@@ -308,6 +309,8 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
     <string name="footer_global_fps">"
 %1$d. Când activați modul Performanță, rata de reîmprospătare va fi comutată la maximul de sistem de %2$d Hz. Setările aplicației cu rată mare de reîmprospătare vor fi temporar indisponibile."</string>
+    <string name="footer_global_fps_new">"
+%1$d. %2$s crește rata de reîmprospătare la maximul sistemului de %3$d Hz. Setările aplicației cu rată mare de reîmprospătare vor fi temporar indisponibile."</string>
     <string name="footer_max_fps" formatted="false">"
 %d. Rata de reîmprospătare poate fi ajustată până la %s Hz pentru aplicațiile și jocurile acceptate."</string>
     <string name="force_rest">Folosiți pauzele de sesiune</string>
@@ -543,6 +546,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="p3_color_region_summary">Afișează tot conținutul ecranului în gama de culori P3</string>
     <string name="pallas_s_cat">"Pisica lui Pallas"</string>
     <string name="parasitic_jaeger">Jaeger parazit</string>
+    <string name="performance_mode">Mod Performanță</string>
     <string name="personality_hint_ringtone">Sunete personalizate</string>
     <string name="petaurus_breviceps">Planor de zahăr</string>
     <string name="phoebastria_irrorata">Albatros fluturat</string>
@@ -600,9 +604,11 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="sea_eagle_info">Vulturii cu coadă albă sunt prădători de vârf puternici și războinici oportuniști care trăiesc de obicei lângă întinderi mari de apă deschisă.</string>
     <string name="sea_otter">Vidră de mare</string>
     <string name="seal_info">Focile sunt mamifere marine care se pot deplasa rapid în apele adânci, hrănindu-se cu pești și creveți.</string>
+    <string name="search_anti_flicker_mode">Estompare DC</string>
     <string name="search_app_name">Căutați aplicații</string>
     <string name="search_app_tips">Căutați aplicații</string>
     <string name="search_empty">Nicio aplicație găsită</string>
+    <string name="search_low_flicker_mode">Estompare DC</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
     <string name="service_ringtone_title">Ton de apel de serviciu</string>

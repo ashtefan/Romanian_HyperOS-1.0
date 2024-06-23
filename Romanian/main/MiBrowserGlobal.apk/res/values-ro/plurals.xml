@@ -90,6 +90,30 @@
         <item quantity="other">Înapoi %d secunde</item>
         <item quantity="one">Înapoi %d secundă</item>
     </plurals>
+    <plurals name="festival_game_task_gifts">
+        <item quantity="other">câștigați %2$d cutii de cadou</item>
+        <item quantity="one">câștigați %2$d cutie de cadou</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">Jucați de %1$d ori, %2$s</item>
+        <item quantity="one">Jucați %1$d dată, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">Căutați timp de %1$d secunde, %2$s</item>
+        <item quantity="one">Căutați timp de %1$d secundă, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">câștigați %2$d cutii de cadou</item>
+        <item quantity="one">câștigați %2$d cutie de cadou</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">Căutați timp de %1$d minute, %2$s</item>
+        <item quantity="one">Căutați timp de %1$d minut, %2$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Felicitări! Ați câștigat %d cutii de cadou</item>
+        <item quantity="one">Felicitări! Ați câștigat %d cutie de cadou</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d elemente</item>
         <item quantity="one">%1$d element</item>

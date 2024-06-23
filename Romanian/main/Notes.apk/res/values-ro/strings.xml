@@ -44,6 +44,7 @@
     <string name="actionbar_home_description">Înapoi</string>
     <string name="add_account_desc">Sincronizaţi notele în contul dvs. Xiaomi?</string>
     <string name="add_excerpt_summary">Adăugați o listă rezumată</string>
+    <string name="add_pic_excerpt_summary">Adăugați rezumatul imaginii</string>
     <string name="added_to_clipboard">Copiat cu succes</string>
     <string name="afternoon">După amiază</string>
     <string name="ai_chat_declare_double_link"><Data>Citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a continua.</Data></string>
@@ -268,11 +269,16 @@
     <string name="excerpt">Extrase</string>
     <string name="excerpt_ares_limit">Apreciem entuziasmul dumneavoastră, dar în prezent ne confruntăm cu un trafic foarte ridicat. Vă rugăm să faceți click pe linkul original pentru a-l accesa sau încercați din nou mai târziu.</string>
     <string name="excerpt_bubble_tips">Textul copiat și imaginile salvate vor fi salvate în Note</string>
+    <string name="excerpt_image_ares_limit">Apreciem entuziasmul dumneavoastră, dar în prezent ne confruntăm cu un trafic ridicat. Vă rugăm să consultați imaginea originală sau să încercați din nou mai târziu.</string>
+    <string name="excerpt_image_summary_fail">Analiza conținutului a eșuat. Verificați imaginea originală sau încercați din nou mai târziu.</string>
+    <string name="excerpt_image_summary_huangfan">Conținutul este sensibil, vă rugăm să consultați imaginea originală.</string>
     <string name="excerpt_link_bubble_tips">Atingeți pentru a salva în Note</string>
+    <string name="excerpt_original_image">Imaginea originală:</string>
     <string name="excerpt_original_text">Textul original：</string>
     <string name="excerpt_summary_fail">Analiza conținutului a eșuat. Vă rugăm să faceți click pe linkul original pentru a-l accesa sau încercați din nou mai târziu.</string>
     <string name="excerpt_summary_huangfan">Conținutul este sensibil. Vă rugăm să faceți click pe linkul original pentru a vizualiza.</string>
     <string name="excerpt_summary_link_bubble_tips">Atingeți pentru a salva rezumatul în Notițe.</string>
+    <string name="excerpt_text_min">Există prea puțin text pentru a genera un rezumat. Vă rugăm să consultați imaginea originală.</string>
     <string name="excerpted_to_note">S-au salvat extrasele în Note</string>
     <string name="excerpting">Se crează un extras…</string>
     <string name="expand_button_title">Avansate</string>
@@ -856,6 +862,7 @@
     <string name="setting_privacy">Politica de Confidențialitate</string>
     <string name="single_link_excerpt_saving">Se salvează elementele…</string>
     <string name="single_link_excerpt_summary_saving">Se generează lista rezumativă.</string>
+    <string name="single_link_pic_excerpt_summary_saving">Generarea rezumatului imaginii este în curs de realizare</string>
     <string name="single_new_excerpt_title">Extrase</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -989,6 +996,7 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="to_be_read_bubble_tips">Link-ul și textul copiat vor extrage direct rezumatul în notițe.</string>
+    <string name="to_be_read_image_list">Rezumatul imaginii</string>
     <string name="to_be_read_link_bubble_tips">Atingeți pentru a salva rezumatul în Notițe</string>
     <string name="to_be_read_list">Lista sumarizată</string>
     <string name="to_view_alarm_content">Atingeți pentru a vizualiza</string>

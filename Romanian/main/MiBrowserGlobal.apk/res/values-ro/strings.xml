@@ -445,6 +445,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="btn_copied">Copiat</string>
     <string name="btn_copy">Copiați</string>
     <string name="btn_open">Deschideți</string>
+    <string name="business_num">%d</string>
     <string name="camera_permission_name">Utilizare cameră foto</string>
     <string name="can_not_send_with_too_many">Nu se pot trimite atât de multe articole deodată</string>
     <string name="cancel">Anulare</string>
@@ -537,6 +538,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="click_always">Apăsați \"Întotdeauna\"</string>
     <string name="click_clean">Goliți</string>
     <string name="click_to_refresh">V-ați oprit aici ultima dată, atingeți pentru a reîmprospăta</string>
+    <string name="click_to_replay_btn">Atingeți pentru a reda din nou</string>
     <string name="clip_dialog_title">Accesați URL-ul copiat?</string>
     <string name="clipboard_title_text">Text copiat</string>
     <string name="clipboard_title_url">Adresa URL copiată</string>
@@ -808,6 +810,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="download_business_app_update_install">Actualizare gata de instalare.</string>
     <string name="download_business_v5_edit_mode_title_empty">Selectați elemente</string>
     <string name="download_change_dir">Schimbați dosarul</string>
+    <string name="download_close">Închideți</string>
     <string name="download_complete">Descărcare finalizată</string>
     <string name="download_completed">Descărcat</string>
     <string name="download_completed_private_tips">Descărcat cu succes și adăugat la fișierele ascunse. &lt;font color=#2dd9ce>Atingeți pentru a vedea.&lt;/font></string>
@@ -1075,6 +1078,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="feedback_website_general">Viteza de încărcare este bună, dar ar putea fi mai rapidă</string>
     <string name="feedback_website_good">Viteza de încărcare este bună</string>
     <string name="feedback_website_speed_title">Cum este viteza de încărcare a paginilor web?</string>
+    <string name="festival_task_start">Jucați</string>
     <string name="fetch_video">Se pregătește videoclipul…</string>
     <string name="fetch_video_fail">Nu s-au putut obține date</string>
     <string name="fetch_video_ssl_bad_clock">Se pare că data și ora setate pe dispozitivul dvs. (%s) nu sunt corecte. Reglați setările și încercați din nou.</string>
@@ -2391,8 +2395,11 @@ Părăsiți această pagină acum?"</string>
     <string name="pay_failed_toast">Nu s-a putut finaliza plata</string>
     <string name="pdf_confirm">OK</string>
     <string name="pdf_failed_message">Nu s-a putut genera rezumatul IA</string>
+    <string name="pdf_password_error">Parolă incorectă. Încercați din nou.</string>
+    <string name="pdf_password_input">Introduceți parola</string>
     <string name="pdf_retry">Încercați din nou</string>
     <string name="pdf_summary">Rezumat</string>
+    <string name="pdf_unlocking">Accesați fișierele</string>
     <string name="per_month">Pe lună</string>
     <string name="permission_agree_service">Am citit și am acceptat toți termenii și condițiile următoare.</string>
     <string name="permission_alert_window">Pentru a utiliza această funcție, accesați opțiune de sistem Afișare ferestre pop-up.</string>
@@ -3425,6 +3432,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="settings">Setări</string>
     <string name="settings_search_online_apps">Piețele de aplicații</string>
     <string name="settings_search_online_apps_desc">Conținut de pe piețele de aplicații</string>
+    <string name="shake_get_more">Agitați pentru a afla mai multe</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Uite ce am partajat: %1$s</string>
