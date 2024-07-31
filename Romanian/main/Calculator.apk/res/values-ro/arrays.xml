@@ -97,11 +97,6 @@
         <item>chi pătrat</item>
         <item>cun pătrat</item>
     </string-array>
-    <string-array name="unit_data_order_currency_">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>RON</item>
-    </string-array>
     <string-array name="unit_data_order_length_">
         <item>km</item>
         <item>m</item>
