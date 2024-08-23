@@ -84,7 +84,7 @@ dispozitivele?"</string>
     <string name="camera_associate_disconnecting">Se deconectează de la camera telefonului</string>
     <string name="camera_associate_failed">Nu s-a putut conecta la cameră</string>
     <string name="camera_associate_success">Camera conectată</string>
-    <string name="camera_choose_device">Selectați dispozitivul</string>
+    <string name="camera_choose_device">Comutați camerele</string>
     <string name="camera_connecting">"%s dorește să utilizeze camera acestui dispozitiv"</string>
     <string name="camera_connecting_device">Se conectează la %s</string>
     <string name="camera_disassociate">Deconectat de la cameră</string>
@@ -98,6 +98,12 @@ dispozitivele?"</string>
     <string name="car_air_con_switch_close">Opriți AC-ul</string>
     <string name="car_air_con_switch_open">Porniți AC-ul</string>
     <string name="car_air_con_unuse">–-</string>
+    <string name="car_camera_associate_connecting">Se conectează la camera EV</string>
+    <string name="car_camera_associate_disconnecting">Se deconectează de la camera EV</string>
+    <string name="car_camera_device_name">camera cu vedere frontală %1$s</string>
+    <string name="car_camera_unavailable_dialog_message">Modul Economisire energie sau Modul Confidențialitate este activat. Nu se poate vizualiza fluxul camerei frontale a vehiculului pe dispozitivul mobil în acest moment.</string>
+    <string name="car_camera_unavailable_dialog_positive_button">Am înțeles</string>
+    <string name="car_camera_unavailable_dialog_title">Nu se poate utiliza camera</string>
     <string name="car_card_air_control_backseat_air">Locurile din spate</string>
     <string name="car_card_air_temperature_minus">Descreșteți temperatura AC</string>
     <string name="car_card_air_temperature_plus">Creșteți temperatura AC</string>
@@ -133,6 +139,8 @@ dispozitivele?"</string>
     <string name="chip_text">Fragment de text</string>
     <string name="circulate_audio_group_title">Se redă…</string>
     <string name="circulate_back_button_content_description">Înapoi</string>
+    <string name="circulate_car_card_use_camera">Utilizați camera EV</string>
+    <string name="circulate_car_card_using_camera">Se utilizează camera EV</string>
     <string name="circulate_card_disconnect">Deconectați</string>
     <string name="circulate_card_loading_title_audio_stereo">Sistem stereo</string>
     <string name="circulate_card_loading_title_band">Bandă</string>
@@ -433,6 +441,7 @@ dispozitivele dvs?"</string>
     <string name="device_permission_authorize_dialog_message">Odată ce această permisiune este acordată, acest dispozitiv va putea folosi %s pentru a face fotografii și pentru a înregistra videoclipuri.</string>
     <string name="device_permission_authorize_dialog_title">Acordați permisiuni pentru camera %s</string>
     <string name="device_permission_dialog_message">Deschideți Setări > Interconectivitate > Interconectivitate și permisiuni pentru %s și acordați mai întâi permisiunile camerei.</string>
+    <string name="device_permission_dialog_message_car">Puteți permite accesul camerei din Setări > Sistem > Gestionare aplicații > Permisiuni speciale > Interconectivitate activată %s.</string>
     <string name="device_permission_dialog_positive_button">Am înțeles</string>
     <string name="device_permission_dialog_title">Acordați permisiuni pentru %s</string>
     <string name="device_type_name_pad">Tabletă</string>

@@ -391,6 +391,8 @@ mm"</string>
     <string name="miuix_indexer_collect">Colecții</string>
     <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_item_view_role_description">Filă</string>
+    <string name="miuix_navigator_category_group_collapse">Restrângeți</string>
+    <string name="miuix_navigator_category_group_expand">Extindeți</string>
     <string name="miuix_navigator_content_switch_description">Afișează bara laterală</string>
     <string name="miuix_navigator_multiple_choice">Selectați</string>
     <string name="miuix_navigator_navigator_switch_description">Ascunde bara laterală</string>

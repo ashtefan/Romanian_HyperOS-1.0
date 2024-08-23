@@ -126,7 +126,17 @@
     <string-array name="settings_search_relay_network">
         <item>Asistență în rețea</item>
         <item>Interconectivitate/Asistență în rețea</item>
-        <item>Asistență în rețea, tethering, partajare hotspot</item>
+        <item>Asistență în rețea, tethering, partajare hotspot, tethering wireless</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Tethering wireless</item>
+        <item>Interconectivitate/Tethering wireless</item>
+        <item>Asistență în rețea, tethering, partajare hotspot, tethering wireless</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Sincronizare rețea</item>
+        <item>Interconectivitate/Sincronizare rețea</item>
+        <item>Asistență în rețea, tethering, partajare hotspot, Sincronizare rețea</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Ecran principal+</item>
