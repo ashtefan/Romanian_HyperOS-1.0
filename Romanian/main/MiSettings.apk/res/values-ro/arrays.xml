@@ -67,4 +67,9 @@
         <item>1,5x</item>
         <item>2x</item>
     </string-array>
+    <string-array name="plc_password_types">
+        <item>Model</item>
+        <item>Cod PIN</item>
+        <item>Parolă</item>
+    </string-array>
 </resources>

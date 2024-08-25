@@ -64,6 +64,62 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Nu acum (%ds)</item>
+        <item quantity="one">Nu acum (%ds)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Numărătoare inversă: %d secunde</item>
+        <item quantity="one">Numărătoare inversă: %d secundă</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Introduceți minim %d caractere</item>
+        <item quantity="one">Introduceți minim %d caracter</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">%d aplicații blocate</item>
+        <item quantity="one">%d aplicație blocată</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d aplicații neblocate</item>
+        <item quantity="one">%d aplicație neblocată</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Introduceți minim %d cifre</item>
+        <item quantity="one">Introduceți minim %d cifră</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Retrimiteți (%ds)</item>
+        <item quantity="one">Retrimiteți (%ds)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Retrageți (%ds)</item>
+        <item quantity="one">Retrageți (%ds)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Conectați cel puțin %d puncte</item>
+        <item quantity="one">Conectați cel puțin %d punct</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Conectați cel puțin %s puncte</item>
+        <item quantity="one">Conectați cel puțin %s punct</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">Introduceți %s cifre</item>
+        <item quantity="one">Introduceți %s cifră</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Așteptați %d secunde și încercați din nou.</item>
+        <item quantity="one">Așteptați %d secundă și încercați din nou.</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Eliminați (%ds)</item>
+        <item quantity="one">Eliminați (%ds)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Conectați cel puțin %s puncte</item>
+        <item quantity="one">Conectați cel puțin %s punct</item>
+    </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">Ați utilizat dispozitivul timp de %d minute fără întrerupere</item>
         <item quantity="one">Ați utilizat dispozitivul timp de %d minut fără întrerupere</item>
