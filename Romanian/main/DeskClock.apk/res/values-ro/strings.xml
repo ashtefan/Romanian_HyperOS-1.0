@@ -269,6 +269,7 @@
     <string name="friday_shortest">Vi</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="go_back">Înapoi</string>
+    <string name="greenwichmean_time">GMT</string>
     <string name="holiday_update">Este disponibilă o actualizare pentru sărbătorile legale</string>
     <string name="holiday_update_fail">"Nu s-a putut actualiza"</string>
     <string name="holiday_update_loading">Se actualizează…</string>
@@ -606,6 +607,8 @@ mm"</string>
     <string name="ringtone_other">Mai multe sunete de apel</string>
     <string name="ringtone_weather">Alarma meteo</string>
     <string name="ringtone_week">Alarma naturală</string>
+    <string formatted="false" name="ruler_view_text">%d%d</string>
+    <string name="ruler_view_text_one">%d</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -846,6 +849,7 @@ mm"</string>
     <string name="timer_start_timer">Porniți temporizatorul</string>
     <string name="timer_title">Temporizator</string>
     <string name="timezone_exist_error_message">Acest fus orar este afișat deja</string>
+    <string name="timezone_search_zero">%d</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="tuesday">Marți</string>

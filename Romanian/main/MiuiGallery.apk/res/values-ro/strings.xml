@@ -2984,9 +2984,18 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="pic_to_pdf_a4_format">Hărtie A4</string>
     <string name="pic_to_pdf_all_not_support">Imaginile selectate nu pot fi salvate ca .pdf</string>
     <string name="pic_to_pdf_exit_notice">Acest .pdf nu va fi salvat dacă ieșiți acum. Ieșiți oricum?</string>
+    <string name="pic_to_pdf_install_dialog_content">Instalați Mi Doc Viewer pentru a putea genera pdf-uri. Instalați acum?</string>
+    <string name="pic_to_pdf_install_dialog_positive">Instalați</string>
+    <string name="pic_to_pdf_install_dialog_title">Instalați Mi Doc Viewer</string>
     <string name="pic_to_pdf_not_support_video">Videoclipurile nu pot fi salvate ca pdf-uri</string>
+    <string name="pic_to_pdf_permission_dialog_content">Permiteți Mi Doc Viewer să acceseze fotografiile și videoclipurile acestui dispozitiv pentru a putea salva fișiere .pdf. Puteți acorda această permisiune din Setări.</string>
+    <string name="pic_to_pdf_permission_dialog_positive">Setări</string>
+    <string name="pic_to_pdf_permission_dialog_title">Permisiuni necesare</string>
     <string name="pic_to_pdf_preview_loading">Se încarcă previzualizarea…</string>
     <string name="pic_to_pdf_saved_in_fileexplorer">Salvat cu succes. Vedeți elementul în Gestionarea fișierelor.</string>
+    <string name="pic_to_pdf_update_dialog_content">Actualizați Mi Doc Viewer la cea mai recentă versiune pentru a putea genera pdf-uri. Actualizați acum?</string>
+    <string name="pic_to_pdf_update_dialog_positive">Actualizați</string>
+    <string name="pic_to_pdf_update_dialog_title">Actualizați Mi Doc Viewer</string>
     <string name="pick_from_contact">Alegeţi din Contacte</string>
     <string name="pick_people_cover_fail">A apărut o eroare. Încercați din nou.</string>
     <string name="pick_people_cover_page_title">Selectați o fotografie de copertă</string>
@@ -3997,6 +4006,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="toast_invalid_prefix">Numele fișierelor nu pot începe cu \".\" sau \"_\"</string>
     <string name="toast_orientation_locked">Orientare blocată cu succes</string>
     <string name="toast_orientation_unlock">Orientarea ecranului este deblocată</string>
+    <string name="toast_pdf_create_failed">Nu s-a putut genera. Încercați din nou.</string>
     <string name="toast_rename_exit">Acest fișier există deja</string>
     <string name="today">Astăzi</string>
     <string name="today_of_year">În această zi</string>

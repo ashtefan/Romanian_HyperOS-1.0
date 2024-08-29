@@ -56,7 +56,7 @@
     <string name="circulate_cta_agree">Accept</string>
     <string name="circulate_cta_all_purpose">Ecran princiapl+ face parte din Serviciile Xiaomi de Interconectivitate. Vă permite să vizualizați și să interacționați cu ecranele de pornire ale altor dispozitive conectate. Pentru a putea funcționa normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni:</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
-    <string name="circulate_cta_desc_phone">Bun venit la Mi Smart Hub! Puteți folosi această aplicație pentru a proiecta conținut pe ecran, a transfera redarea multimedia pe dispozitive, a utiliza Mi Smart Play, MIUI+ și transferul aplicației. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
+    <string name="circulate_cta_desc_phone_miui15_14">Bun venit în aplicația Interconectivitate Xiaomi! Puteți folosi această aplicație pentru a proiecta conținut pe ecran, pentru a transfera redarea fișierelor multimedia între mai multe dispozitive, pentru a utiliza Xiaomi Smart Play, funcții de interconexiune a dispozitivelor și transferul aplicației. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
     <string name="circulate_cta_exit">Nu sunt de acord</string>
     <string name="circulate_cta_new_app_name">Ecranul de pornire+</string>
     <string name="circulate_cta_premission_bluetooth">Pentru conectarea dispozitivelor și transferul de date între ele prin Bluetooth</string>
@@ -88,6 +88,7 @@
     <string name="desktop_switch_is_closed">Ecranul de pornire+ este dezactivat</string>
     <string name="device_busy">Dispozitivul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="device_max_screen_count_toast">Acest dispozitiv acceptă doar deschiderea a două ferestre în același timp</string>
+    <string name="device_screen_fold_switch_tip">Efectuați această acțiune de pe ecranul interior</string>
     <string name="display_max_screen_count_toast">În această versiune puteți deschide maxim 3 ferestre</string>
     <string name="display_not_support_secondary_toast">Nu se poate deschide această aplicație într-o fereastră nouă</string>
     <string name="download_aborted">Nu s-a putut transfera datorită întreruperii conexiunii</string>
@@ -179,6 +180,9 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_photograph_prompt_dialog_ok">OK</string>
+    <string name="fold_photograph_prompt_message">Utilizați Camera din ecranul interior</string>
+    <string name="fold_photograph_prompt_notification_title">Utilizați camera pentru mai multe dispozitive pentru Notițe</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -247,7 +251,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="low_version_dialog_message">Actualizați MIUI+ pe computer sau descărcați cea mai recentă versiune de pe plus.miui.com.</string>
     <string name="low_version_dialog_title">Actualizați MIUI+</string>
     <string name="message_log">Jurnalele de mesaje</string>
-    <string name="mi_drop">Partajare Mi</string>
+    <string name="mi_drop">Partajare Xiaomi</string>
     <string name="midnight">Noapte</string>
     <string name="mirror_call_closed">La acest apel s-a răspuns de pe alt dispozitiv</string>
     <string name="mirror_have_been_opened">Ecranul de pornire+ este activat</string>
@@ -704,6 +708,10 @@ pentru a continua"</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
+    <string name="upgrade_car_not_tip">Nu afișa din nou</string>
+    <string name="upgrade_car_ok">Am înțeles</string>
+    <string name="upgrade_car_version_msg">Pentru a vă putea conecta telefonul la EV, actualizați sistemul EV la versiunea 1.2.3 sau o versiune ulterioară din Setări > Sistem > Versiune sistem.</string>
+    <string name="upgrade_car_version_title">Actualizați sistemul EV</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="verbose_mode">Mod Verbose</string>

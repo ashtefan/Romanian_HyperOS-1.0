@@ -321,6 +321,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
 · Imaginile vizuale îmbunătățite nu vor fi disponibile când Economisirea acumulatorului este activată sau dispozitivul este supraîncălzit.
 · Rata de cadre inteligente arată cele mai bune rezultate atunci când jocul este setat să afișeze cel puțin %d cadru pe secundă."</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Notă:
+· Imaginile vizuale îmbunătățite nu vor fi disponibile când Economisirea acumulatorului activată sau când dispozitivul este supraîncălzit.
+· Rata de cadre îmbunătățită arată cele mai bune rezultate atunci când jocul este setat să afișeze cel puțin %d cadre pe secundă.”</item>
+      <item quantity="one">"Notă:
+· Imaginile vizuale îmbunătățite nu vor fi disponibile când Economisirea acumulatorului este activată sau când dispozitivul este supraîncălzit.
+· Rata de cadre îmbunătățită arată cele mai bune rezultate atunci când jocul este setat să afișeze cel puțin %d cadre pe secundă."</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Încercați Modificarea vocii acum
 pentru a obține o versiune gratuită de %d zile!"</item>

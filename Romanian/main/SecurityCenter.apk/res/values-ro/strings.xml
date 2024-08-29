@@ -803,6 +803,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="apps_list_header_title_sms_access">Restricționați accesul la codurile de verificare</string>
     <string name="ask_create_shortcut">Creați o scurtătură pe Ecranul principal?</string>
     <string name="audio_optimization_summary">Amplifică sunetul și reduce zgomotul ambiental în conversații</string>
+    <string name="audio_optimization_summary_new">Optimizați calitatea sunetului în căști în timpul jocurilor și reduceți zgomotul în timpul apelurilor</string>
     <string name="audio_optimization_title">Amplificare sunet</string>
     <string name="auto_atsk_condition_battery_level_text_down">Când nivelul acumulatorului atinge %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Când acumulatorul este încărcat până la %s</string>
@@ -1437,9 +1438,13 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="create_gamebooster_destop">Scurtătură creată pe Ecranul principal cu succes</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Jocurile Turbo</string>
     <string name="cs_color_sense">Temperatura de culoare</string>
+    <string name="cs_conversation_record_using">Se înregistrează</string>
     <string name="cs_func_toast_headset">Deconectați-vă căștile pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_light">Comutați la camera frontală pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_pickup">Comutați la un apel video pentru a putea folosi această funcție</string>
+    <string name="cs_func_unavailable_tips">Utilizați această funcție în timpul apelurilor</string>
+    <string name="cs_light_enhance_physical_options">Temperatura de culoare</string>
+    <string name="cs_light_enhance_physical_title">Iluminare</string>
     <string name="cs_pickup_denoise_desc">Reduceți zgomotul sunetului primit în timp ce utilizați difuzoare sau căști</string>
     <string name="cs_pickup_denoise_title">Reducerea zgomotului</string>
     <string name="cs_pickup_multi_desc">%d preluare grad audio</string>
@@ -1453,11 +1458,16 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cs_pickup_vioce_print_unsupport_tips">Înregistrați amprenta vocală înainte de a selecta \"Participant unic\"</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Deconectați dispozitivele externe și încercați din nou</string>
     <string name="cs_pickup_voice_print_desc">Preluați sunetul de la o singură persoană</string>
+    <string name="cs_privacy_camera_global_settings_title">Confidențialitatea apelurilor</string>
     <string name="cs_screen_translation_title">Traducere ecran</string>
     <string name="cs_simultaneous_interpretation_title">Interpretați</string>
     <string name="cs_title_pickup">Reducerea zgomotului</string>
     <string name="cs_title_smart_subtitle">Transcrierea subtitrărilor</string>
     <string name="cs_title_ultraclear">Mod Ultra HD</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Încercați interpretarea simultană și alte instrumente de apel conferință în noua casetă de Instrumente apel</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Încercați o serie de funcții pentru apeluri conferință în noua casetă de Instrumente apel</string>
+    <string name="cs_tool_box_phone_guide_case_1">Încercați interpretarea simultană și alte funcții în noua casetă de Instrumente apel</string>
+    <string name="cs_tool_box_phone_guide_case_2">Încercați o serie de funcții din noua casetă de Instrumente apel</string>
     <string name="cs_voice_print">Înregistrați amprenta vocală</string>
     <string name="cta_HIPS_Perm_Location_Desc">obținere locație precisă (bazată pe GPS și rețea)</string>
     <string name="cta_agree_desc">Pentru a putea utiliza serviciile noastre, permiteți acestei aplicații să se conecteze la internet și acordați permisiunile de mai jos.</string>
@@ -1904,6 +1914,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="ew_monitor_exit_title">Atenție</string>
     <string name="ew_monitor_have_been">"Sunt mândru să fiu un "</string>
     <string name="ew_monitor_info_title">Cum funcționează?</string>
+    <string name="ew_monitor_join">Alăturați-vă programului de monitorizare a cutremurelor</string>
     <string name="ew_monitor_join_number">Numărul voluntarilor</string>
     <string name="ew_monitor_join_path">Alăturați-vă programului folosind un dispozitiv Xiaomi: Securitate> Avertizare cutremur> Voluntar de monitorizare cutremur.</string>
     <string name="ew_monitor_my_content">Dispozitivul meu mobil face parte din rețeaua de avertizare timpurie a cutremurului. După ce senzorii săi detectează unde seismice, datele vor fi analizate de algoritmul AI și vor fi emise avertizări timpurii persoanelor din zonele afectate.</string>
@@ -2427,6 +2438,8 @@ cutremure"</string>
     <string name="gb_audition_play_instruction">Folosiți căști pentru a obține cel mai bun efect</string>
     <string name="gb_award_noti_message">Activați actualizările de fundal Game for Peace în Game Turbo pentru a obține recompense</string>
     <string name="gb_award_noti_title">Recompensele Game for Peace sunt aici!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Nu se poate comuta la modul Echilibrat în Jocuri Turbo când modul Ultimate la nivelul întregului sistem este activat. Puteți modifica setările acumulatorului în Securitate.&lt;br>&lt;a href=\"#\">Deschideți aplicația Securitate&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Nu se poate comuta la modul Echilibrat în Jocuri Turbo când modul Ultimate la nivelul întregului sistem este activat. Puteți modifica setările acumulatorului în Securitate. &lt;br>&lt;a href=\"#\">Deschideți aplicația Securitate&lt;/a>"</Data></string>
     <string name="gb_bar_high">Înalt</string>
     <string name="gb_bar_low">Redus</string>
     <string name="gb_bar_mid">Mediu</string>
@@ -2584,6 +2597,8 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_predownload_receive_tips">Activați actualizările în fundal pentru a obține recompense</string>
     <string name="gb_predownload_receiving">Primire…</string>
     <string name="gb_predownload_title">Actualizări în fundal</string>
+    <string name="gb_setting_dock_toast">Funcțiile asistentului camerei frontale sunt disponibile acum în caseta de Instrumente apel</string>
+    <string name="gb_setting_dock_toast_2">Funcțiile asistentului camerei frontale sunt disponibile acum în caseta de Instrumente apel</string>
     <string name="gb_shortcut_pref_title">Scurtătură pe Ecranul principal</string>
     <string name="gb_shoulder_guide_message1">Mutați [S] în orice poziție funcțională pentru a o utiliza prin intermediul declanșatorului pop-up</string>
     <string name="gb_shoulder_guide_message2">Acțiunea [1] este activată prin apăsarea butonului. Acțiunea [2] este activată prin eliberarea butonului.</string>
@@ -2654,8 +2669,10 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_turbo_wonder_subtitle">Înregistrați momentele cheie</string>
     <string name="gb_vision_enhance">Elemente vizuale îmbunătățite</string>
     <string name="gb_vision_enhance_desc">Îmbunătățiți calitatea și performanța imaginii</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Rată de cadre îmbunătățită
+%dfps"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Rată de cadre inteligentă
-%dFPS"</string>
+%dfps"</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Îmbunătățiți rata de cadre</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Frecvență de cadre inteligentă</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Reglați automat rata de cadre pentru a face mișcarea mai lină</string>
@@ -2728,9 +2745,21 @@ din sesiunile dvs. de joc"</string>
     <string name="gd_dock_shortcut_splitescreen">Ecran scindat</string>
     <string name="gd_setting_conversation">Unelte Conferință</string>
     <string name="gd_setting_conversation_desc">Oferă o varietate de funcții pentru utilizare în apelurile audio și video pe ecran complet</string>
+    <string name="gd_setting_dock_activity_title">Cutia de instrumente laterală</string>
+    <string name="gd_setting_dock_call_summary">Funcții pentru apeluri vocale și video (de exemplu, lumină de umplere)</string>
+    <string name="gd_setting_dock_call_title">Caseta de instrumente de apelare</string>
+    <string name="gd_setting_dock_game_summary">Îmbunătățiți afișarea și performanța în timpul jocurilor</string>
+    <string name="gd_setting_dock_game_summary_new">Îmbunătățiți afișarea și performanța în timpul jocurilor</string>
+    <string name="gd_setting_dock_summary">Deschideți alte aplicații în ferestre plutitoare în timp ce utilizați o aplicație pe ecran complet</string>
+    <string name="gd_setting_dock_title">Bara laterală</string>
+    <string name="gd_setting_dock_video_summary">Utilizați efecte precum Dolby Atmos în timp ce vizionați videoclipuri</string>
+    <string name="gd_setting_dock_video_summary_new">Folosiți instrumente și efecte în timp ce vizionați videoclipuri</string>
+    <string name="gd_setting_group_custom_conversation_apps">Înregistrați amprenta vocală pentru apeluri</string>
     <string name="gd_setting_group_custom_gtb_apps">Jocuri</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Gestionați aplicațiile de jocuri</string>
     <string name="gd_setting_group_custom_settings">Personalizare</string>
     <string name="gd_setting_group_custom_vtb_apps">Aplicații video</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Gestionați aplicațiile video</string>
     <string name="gd_setting_group_title_switch">Scenarii</string>
     <string name="gd_setting_gtb">Afișați în timp ce jucați jocuri</string>
     <string name="gd_setting_gtb_desc">Caracteristici speciale pentru jocuri</string>
@@ -2750,10 +2779,16 @@ din sesiunile dvs. de joc"</string>
     <string name="get_phone_num_fail">Unknown phone number</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Apăsați și mențineți apăsat indicatorul pentru a muta fereastra</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
 · Trageți o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecranul scindat.
 · Apăsați și mențineți apăsat indicatorul pentru a muta fereastra."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
+· Trageți o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecranul scindat.
+· Țineți apăsat indicatorul pentru a muta fereastra."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
+· Apăsați și mențineți apăsat indicatorul pentru a muta fereastra."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Glisați pentru a deschide bara laterală și atingeți o aplicație pentru a o deschide într-o fereastră plutitoare.
 · Apăsați și mențineți apăsat indicatorul pentru a muta fereastra."</string>
     <string name="global_satisfaction_notification_button">Evaluați</string>
     <string name="global_satisfaction_notification_channel">Sondaj de satisfacție a utilizatorilor</string>
@@ -3912,6 +3947,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_fast_charge_switch_summary_new">Amintiți-vă să creșteți viteza de încărcare atunci când încărcătorul furnizat este conectat și bateria scade sub nivelul setat</string>
     <string name="pc_fast_charge_switch_title">Creșteți viteza de încărcare</string>
     <string name="pc_fast_charge_switch_toast_message">Modificările vor fi aplicate data viitoare când încărcați acest dispozitiv</string>
+    <string name="pc_fast_charge_temp_remider">Activați pentru a regla automat viteza de încărcare. Acest instrument funcționează numai cu încărcătoarele furnizate de Xiaomi. Dispozitivul dvs. se poate încălzi în timpul încărcării.</string>
     <string name="pc_fast_charge_title">Creșteți viteza de încărcare</string>
     <string name="pc_going_to_exit_extreme_mode">Se părăsește modul Hibernare</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Dispozitivul dvs. se încarcă. Modul Hibernare este dezactivat.</string>
@@ -4000,6 +4036,16 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
     <string name="pc_search_keywords_property">Performanță</string>
     <string name="pc_settings_title">Acumulator</string>
+    <string name="pc_smart_charge_button_summary">Pentru a prelungi durata de viață a acumulatorului, sistemul va afla cum vă încărcați dispozitivul și va opri încărcarea când nivelul acumulatorului ajunge la %1$s</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Dispozitivul s-a încălzit. Încărcarea va fi oprită când nivelul acumulatorului va ajunge la %1$s</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigare... Încărcarea va fi oprită când nivelul acumulatorului va ajunge la %1$s</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Încărcarea se va opri la %s</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Pentru a prelungi durata de viață a acumulatorului, acumulatorul acestui dispozitiv nu va depăși nivelul actual atunci când este conectat la mașină.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Nu afișa din nou</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Protecție acumulator</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Pentru a prelungi durata de viață a acumulatorului, acumulatorul acestui dispozitiv nu va depăși nivelul actual atunci când este conectat la mașină</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Protecție acumulator</string>
+    <string name="pc_smart_charge_title">Încărcare inteligentă</string>
     <string name="pc_smart_discharge_checkbox_summary">Când utilizați funcțiile de navigare, încărcarea se va opri automat când acumulatorul atinge un procent selectat. Economisirea acumulatorului va fi dezactivată.</string>
     <string name="pc_smart_discharge_checkbox_title">Deconectare automată la încărcare</string>
     <string name="pc_smart_discharge_drop_down_title">Setări auto-deconectare</string>
@@ -4012,6 +4058,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_statistics_battery_use_title">Utilizare acumulator</string>
     <string name="pc_suggest_open_fast_charge">Activați încărcarea rapidă cu %dW</string>
     <string name="pc_temperature_too_high">Dispozitiv supraîncălzit</string>
+    <string name="pc_this_time_charge_full">Încarcă complet de data aceasta</string>
+    <string name="pc_this_time_charge_full_work">Aproape complet încărcat</string>
     <string name="pc_timely_charging_summary">Acumulatorul este sub %1$s. Dacă dispozitivul se supraîncălzește în timp ce acumulatorul este descărcat, se poate deteriora acumulatorul.</string>
     <string name="pc_timely_charging_title">Încărcați-vă dispozitivul</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
@@ -4035,6 +4083,7 @@ Ultra economisirea acumulatorului"</string>
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evitați supraîncălzirea și problemele legate de partea hardware</string>
     <string name="perfermance_optimization_title">Optimizarea performanței</string>
+    <string name="performance_frame_enhance_super_display_tips">Rata de cadre îmbunătățită și rezoluția superioară nu pot funcționa în același timp. Pornirea uneia dintre ele o va opri pe celălaltă.</string>
     <string name="performance_frame_insert_super_display_tips">Rata de cadre inteligentă și super rezoluția nu pot fi în vigoare în același timp. Pornirea uneia o va opri pe celălaltă.</string>
     <string name="perm_intercept_content">Acordați acestei aplicații permisiunea următoare: %1s?</string>
     <string name="perm_intercept_notification_title">Permițând %1s să utilizeze notificări va permite aplicației efectuarea următoarelor acțiuni:</string>
@@ -4842,6 +4891,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="privacy_empty_location">Nu s-a accesat locația azi</string>
     <string name="privacy_empty_record">Nu s-au înregistrat sunete audio azi</string>
     <string name="privacy_empty_storage">Nu s-a accesat stocarea azi</string>
+    <string name="privacy_extra_provision_positive_btn">De acord</string>
+    <string name="privacy_extra_provision_title">Servicii de extindere</string>
     <string name="privacy_flares_behavior_recent">Comportamentul aplicației</string>
     <string name="privacy_flares_capsule_current">%1s | Acum</string>
     <string name="privacy_flares_capsule_recent">%1s | Recent</string>
@@ -4924,6 +4975,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="privacy_provision_summary">Protejarea confidențialității este este angajamentul din spatele proiectării produselor noastre</string>
     <string name="privacy_provision_text">Ne-am angajat să respectăm și să vă protejăm confidențialitatea. Prioritizând cercetarea și dezvoltarea în domeniul securității informațiilor, Xiaomi lucrează constant la îmbunătățirea metodelor, practicilor și soluțiilor tehnice care vă protejează datele. De asemenea, împărtășim cele mai recente realizări cu partenerii noștri, pentru a vă asigura confidențialitatea.</string>
     <string name="privacy_provision_title">Confidențialitate</string>
+    <string name="privacy_provison_no_network">Conectați-vă mai întâi la rețea.</string>
     <string name="privacy_recommend_category">Personalizare</string>
     <string name="privacy_recommend_summary">Primiți recomandări personalizate de conținut</string>
     <string name="privacy_recommend_title">Recomandări personalizate</string>
@@ -5216,8 +5268,14 @@ Retrageți consimțământul acum?"</string>
     <string name="sd_format_summary">Șterge toate datele de pe cardul SD (inclusiv melodiile sau fotografiile)</string>
     <string name="sd_insert_summary">Inserați cardul SD de montat</string>
     <string name="sd_mount">Montați cardul SD</string>
-    <string name="sd_mount_summary" />
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Aplicație</string>
+    <string name="search_keyword_applybar">Dock pentru aplicații</string>
+    <string name="search_keyword_call">Apel</string>
+    <string name="search_keyword_sidebar">Bara laterală</string>
+    <string name="search_keyword_tool">Unelte</string>
+    <string name="search_keyword_tools">Cutia cu unelte</string>
+    <string name="search_keyword_voice">Voce</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="section_clear_acc_item_title">"%s. Dacă tot nu există spațiu de stocare suficient, încercați să folosiți aplicația de Curățare."</string>
@@ -5343,7 +5401,7 @@ Retrageți consimțământul acum?"</string>
     <string name="sim_lock_done_disable">Cartela dvs. SIM nu este protejată</string>
     <string name="sim_lock_done_enable">Cartela dvs. SIM este protejată</string>
     <string name="sim_lock_done_title">Securitate SIM</string>
-    <string name="sim_lock_enable_done_message">Cartela dvs. SIM este acum asociată cu acest dispozitiv. PIN-ul SIM va fi verificat automat. Va trebui totuși să introduceți manual codul PIN atunci când utilizați această cartelă SIM cu alte dispozitive.</string>
+    <string name="sim_lock_enable_done_message">Cartela dvs. SIM este asociată cu acest dispozitiv. Va trebui să vă verificați codul PIN atunci când utilizați cartela SIM sau să o introduceți în alt dispozitiv.</string>
     <string name="sim_lock_guide_button">Setări</string>
     <string name="sim_lock_guide_message">Asociați-vă cartela SIM cu acest dispozitiv pentru a-l face mai puțin vulnerabil la riscurile de securitate</string>
     <string name="sim_lock_guide_title">Protejați-vă cartela SIM</string>
@@ -6388,6 +6446,8 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="toast_cleaner_cloudscan">Curăţarea va utiliza definiții on-line</string>
     <string name="toast_dark_mode_fixed">Remediere finalizată cu succes. Părăsiți această pagină pentru a aplica modificările.</string>
     <string name="toast_flow_notification">Au fost activate notificările de utilizare a datelor</string>
+    <string name="toast_gamembox_unenable_pad">Activați mai întâi Jocuri Turbo din aplicația Securitate</string>
+    <string name="toast_gamembox_unenable_phone">Activați mai întâi Jocuri Turbo din aplicația Securitate</string>
     <string name="toast_garbage_lib">Au fost activate actualizările automate pentru Curăţare</string>
     <string name="toast_keyword_blank">Trebuie să introduceți un cuvânt cheie</string>
     <string name="toast_keyword_exist">Cuvânt cheie adăugat</string>

@@ -31,7 +31,7 @@
     <string name="afternoon">După amiază</string>
     <string name="agree_desc">Acordați permisiunile necesare listate mai jos.</string>
     <string name="am">AM</string>
-    <string name="app_name">Partajare Mi</string>
+    <string name="app_name">Partajare Xiaomi</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
     <string name="blackshark">Black Shark</string>
@@ -100,7 +100,7 @@
     <string name="error_p2p_create_group_failure_china">Nu s-a putut conecta. Reconectați-vă la Wi-Fi pe ambele dispozitive și încercați din nou.</string>
     <string name="error_p2p_recv_connect_timeout">Nu s-a putut conecta. Reconectați-vă la Wi-Fi pe ambele dispozitive și încercați din nou.</string>
     <string name="error_p2p_recv_connect_timeout_china">Nu s-a putut conecta. Reconectați-vă la Wi-Fi pe ambele dispozitive și încercați din nou.</string>
-    <string name="error_permission_denied">Pentru a putea utiliza această caracteristică, acordați Partajării Mi toate permisiunile necesare din Setări.</string>
+    <string name="error_permission_denied">Pentru a putea utiliza această caracteristică, acordați Partajării Xiaomi toate permisiunile necesare din Setări.</string>
     <string name="error_receive_file_cannot_read">Nu s-a putut primi fișierul</string>
     <string name="error_receive_file_changed">Nu se poate primi. Elementul a fost modificat.</string>
     <string name="error_receive_file_file_opened">Nu s-a putut primi acest articol. Se pare că acesta este utilizat acum.</string>
@@ -119,8 +119,8 @@
     <string name="error_send_file_service_disabled">Transfer de ieșire anulat</string>
     <string name="error_send_transfer_error">Nu s-au putut trimite articolele. Așteptați un minut sau două și încercați din nou.</string>
     <string name="error_send_transfer_pc_error">Transferul a expirat. Actualizați aplicația de partajare a fișierelor de pe computer și încercați din nou.</string>
-    <string name="error_slave_wifi_in_use">Partajarea Mi nu va funcționa atunci când Wi-Fi dual este activat. Dezactivați Wi-Fi dual din Setări și încercați din nou.</string>
-    <string name="error_slave_wifi_in_use_china">Partajarea Mi nu va funcționa atunci când Wi-Fi dual este activat. Dezactivați Wi-Fi dual din Setări și încercați din nou.</string>
+    <string name="error_slave_wifi_in_use">Partajarea Xiaomi nu va funcționa atunci când Wi-Fi dual este activat. Dezactivați Wi-Fi dual din Setări și încercați din nou.</string>
+    <string name="error_slave_wifi_in_use_china">Partajarea Xiaomi nu va funcționa atunci când Wi-Fi dual este activat. Dezactivați Wi-Fi dual din Setări și încercați din nou.</string>
     <string name="error_timeout">Sesiunea a expirat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="error_user_refuse">Nu se poate trimite. Transferul a fost respins.</string>
     <string name="error_wifi_display_in_use">Nu se pot trimite fișiere pe alte dispozitive în timpul proiectării</string>
@@ -200,15 +200,21 @@
     <string name="go_to_settings">Setări</string>
     <string name="guide_summary_1">Cealaltă persoană poate atinge comutatorul în Perdeaua de notificări</string>
     <string name="guide_summary_2">Selectați dispozitivul către care doriți să trimiteți articole și atingeți pictograma acestuia</string>
-    <string name="guide_title_1">Activați Partajarea Mi pe ambele dispozitive</string>
+    <string name="guide_title_1">Activați Partajarea Xiaomi pe ambele dispozitive</string>
     <string name="guide_title_2">Selectați dispozitivul către care doriți să partajați</string>
     <string name="help">Nu puteți găsi alte dispozitive?</string>
-    <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, rugați-o pe cealaltă persoană să activeze Partajarea Mi.</string>
+    <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, rugați-o pe cealaltă persoană să activeze Partajarea Xiaomi.</string>
     <string name="hide">Ascundeți</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Am înțeles</string>
-    <string name="location_enabled">Partajarea Mi a activat serviciile de localizare pentru a găsi dispozitive în apropiere</string>
+    <string name="international_privacy_dialog_agree">De acord</string>
+    <string name="international_privacy_dialog_content">În timp ce utilizați această aplicație, trebuie să colectăm informațiile necesare pentru a ne putea conecta la dispozitive și pentru a transfera fișiere. Dacă alegeți să nu furnizați aceste informații, este posibil să nu vă putem oferi serviciile corespunzătoare sau să nu vă putem răspunde întrebărilor. Puteți trimite o solicitare de retragere a consimțământului în orice moment din Confidențialitate > Retragerea consimțământului.</string>
+    <string name="international_privacy_dialog_disagree">Nu sunt de acord</string>
+    <string name="international_privacy_dialog_title">Partajare Xiaomi</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Lenovo</string>
+    <string name="location_enabled">Partajarea Xiaomi a activat serviciile de localizare pentru a găsi dispozitive în apropiere</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">Detalii permisiuni</string>
@@ -222,7 +228,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Partajare Mi</string>
+    <string name="mi_drop">Partajare Xiaomi</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -230,14 +236,14 @@
     <string name="mi_share_turbo_mode">Transfer Turbo</string>
     <string name="midnight">Noapte</string>
     <string name="mini_pc_xiaomi_device_model_name">Mini PC Xiaomi</string>
-    <string name="mishare_folder_in_file_explorer">Gestionare fișiere > Partajare Mi</string>
-    <string name="mishare_service_channel_desc">Notificări despre procesele Partajării Mi</string>
-    <string name="mishare_settings_summary_international">"Partajarea Mi vă permite să trimiteți elemente wireless dispozitivelor din apropiere.
+    <string name="mishare_folder_in_file_explorer">Gestionare fișiere > Partajare Xiaomi</string>
+    <string name="mishare_service_channel_desc">Notificări despre procesele Partajării Xiaomi</string>
+    <string name="mishare_settings_summary_international">"Partajarea Xiaomi vă permite să trimiteți elemente wireless dispozitivelor din apropiere.
 Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți producători de telefoane. Puteți verifica lista dispozitivelor acceptate pe site-ul oficial al oricărei mărci selectate."</string>
-    <string name="mishare_state_protection">Activați Partajarea Mi în mod automat</string>
-    <string name="mishare_state_protection_summary">Activați din nou în mod automat Partajarea Mi când Bluetooth-ul sau Wi-Fi-ul sunt activate din nou</string>
-    <string name="mishare_state_protection_summary_china">Activați din nou în mod automat Partajarea Mi când Bluetooth-ul sau Wi-Fi-ul sunt activate din nou</string>
-    <string name="mishare_transefer_channel_desc">Notificări despre articolele trimise și primite prin Partajarea Mi</string>
+    <string name="mishare_state_protection">Activați Partajarea Xiaomi în mod automat</string>
+    <string name="mishare_state_protection_summary">Activați din nou în mod automat Partajarea Xiaomi când Bluetooth-ul sau Wi-Fi-ul sunt activate din nou</string>
+    <string name="mishare_state_protection_summary_china">Activați din nou în mod automat Partajarea Xiaomi când Bluetooth-ul sau Wi-Fi-ul sunt activate din nou</string>
+    <string name="mishare_transefer_channel_desc">Notificări despre articolele trimise și primite prin Partajarea Xiaomi</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
@@ -312,8 +318,8 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="nfc_check_the_touch_device">Pentru a conecta dispozitivele, Wi-Fi și Bluetooth ar trebui să fie activate și pe celălalt dispozitiv. Verificați dacă conexiunea pentru celălalt dispozitiv este permisă în Setări > Conexiune și partajare > Dispozitive conectate și încercați din nou.</string>
     <string name="nfc_check_the_touch_device_china">Pentru a conecta dispozitivele, Wi-Fi și Bluetooth ar trebui să fie activate și pe celălalt dispozitiv. Verificați dacă conexiunea pentru celălalt dispozitiv este permisă în Setări > Conexiune și partajare > Dispozitive conectate și încercați din nou.</string>
     <string name="nfc_connect_fail">Nu s-a putut conecta. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="nfc_connect_fail_lyra_secure">Puteți activa Mi Share din Centrul de control al dispozitivului dvs.</string>
-    <string name="nfc_connect_fail_lyra_secure_title">Mi Share este oprit</string>
+    <string name="nfc_connect_fail_lyra_secure">Puteți activa Partajarea Xiaomi din Centrul de control al dispozitivului dvs.</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Partajarea Xiaomi este oprită</string>
     <string name="nfc_connect_fail_pad">Nu s-a putut conecta</string>
     <string name="nfc_connecting">Se conectează…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Pentru a conecta dispozitivele, activați mai întâi Wi-Fi și Bluetooth pe acest dispozitiv. Activați acum?</string>
@@ -340,16 +346,16 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="pc_device_model_name">Computer</string>
     <string name="pc_redmi_device_model_name">Laptop Redmi</string>
     <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
-    <string name="permission_apply_purpose">Permiteți Mi Share să descopere și să se conecteze la dispozitivele din apropiere pentru ca acesta să poată transfera fișiere.</string>
-    <string name="permission_denied_hint">Acordați permisiunile necesare pentru a putea utiliza Partajarea Mi</string>
+    <string name="permission_apply_purpose">Permiteți Partajării Xiaomi  să descopere și să se conecteze la dispozitivele din apropiere pentru ca acesta să poată transfera fișiere.</string>
+    <string name="permission_denied_hint">Acordați permisiunile necesare pentru a putea utiliza Partajarea Xiaomi</string>
     <string name="permission_related">Permisiuni</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy_authorize">Autorizare</string>
     <string name="progress_ratio">%1$d%%</string>
-    <string name="purpose">"Bine ați venit în aplicația Partajare Mi! Puteți utiliza această aplicație pentru a transfera fișiere între dispozitive. Vă protejăm informațiile personale în conformitate cu legile, reglementările și politicile relevante.
-Înainte de a utiliza Partajare Mi trebuie să acordați următoarele permisiuni, precum și să îi permiteți să colecteze informațiile personale necesare:"</string>
-    <string name="purpose_v12">Bine ați venit în aplicația Partajare Mi! Puteți utiliza această aplicație pentru a transfera fișiere între dispozitive.</string>
+    <string name="purpose">"Bine ați venit în aplicația Partajare Xiaomi! Puteți utiliza această aplicație pentru a transfera fișiere între dispozitive. Vă protejăm informațiile personale în conformitate cu legile, reglementările și politicile relevante.
+Înainte de a utiliza Partajare Xiaomi trebuie să acordați următoarele permisiuni, precum și să îi permiteți să colecteze informațiile personale necesare:"</string>
+    <string name="purpose_v12">Bine ați venit în aplicația Partajare Xiaomi! Puteți utiliza această aplicație pentru a transfera fișiere între dispozitive.</string>
     <string name="queue_full">Finalizați transferurile în curs înainte de a adăuga altele noi.</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -452,7 +458,7 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="stop_scan">OPRIȚI SCANAREA</string>
     <string name="sub_title_mishare_switch">Această funcție se va dezactiva automat după %d minute</string>
     <string name="sub_title_turbo_mode">Transferuri super rapide între telefoanele Xiaomi și tablete. Rețeaua va fi deconectată în timpul transferului.</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">Retragerea consimțământului de la Politica de confidențialitate va dezactiva și Mi Share</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Retragerea consimțământului de la Politica de confidențialitate va dezactiva și Partajarea Xiaomi</string>
     <string name="success_receive_much_file_from_pc">S-au primit mai mult de 200 de fișiere de la %1$s. Atingeți pentru a le vedea.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
@@ -512,22 +518,22 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="time_picker_label_minute">M</string>
     <string name="tips_p2p_support_use5g">Pentru cele mai bune rezultate, utilizați o rețea Wi-Fi de 5 GHz.</string>
     <string name="tips_p2p_support_use5g_china">Pentru cele mai bune rezultate, utilizați o rețea Wi-Fi de 5 GHz.</string>
-    <string name="tips_prompt_enable_midrop">Partajare Mi</string>
+    <string name="tips_prompt_enable_midrop">Partajare Xiaomi</string>
     <string name="to_feedback">Raportați</string>
-    <string name="toast_auto_close_in_minutes">Mi Share se va opri după %d minute</string>
+    <string name="toast_auto_close_in_minutes">Partajarea Xiaomi Share se va opri după %d minute</string>
     <string name="toast_transfering">Se transferă articolele. Încercați mai târziu.</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="transfer_intercept_to_remote">Nu s-a putut trimite: %1$s</string>
     <string name="transfer_to_pc_summary">Cea mai recentă versiune a software-ului AIoT instalat pe notebook-urile Mi este compatibilă cu Partajarea Mi. Puteți verifica lista modelelor de laptopuri acceptate pe site-ul MIUI. Dacă laptopul dvs. este pe listă, dar AIoT nu este instalat pe acesta, actualizați BIOS-ul laptopului și driverul adaptorului de rețea și descărcați AIoT.</string>
     <string name="transfer_to_pc_summary_new"><Data>"Cea mai recentă versiune de MIUI+ instalată pe Mi Notebook-uri este compatibilă cu Mi Share. Puteți verifica lista de modele de laptopuri acceptate pe site-ul MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Dacă laptopul dvs. este în listă, dar MIUI+ nu este instalat pe el, actualizați BIOS-ul laptopului și driverul adaptorului de rețea și descărcați MIUI+."</Data></string>
-    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager acceptă acum Mi Share! Puteți găsi o listă de modele de computer acceptate &lt;a href=%1$s>aici&lt;/a>.</Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager acceptă acum Partajarea Xiaomi! Puteți găsi o listă de modele de computer acceptate &lt;a href=%1$s>aici&lt;/a>.</Data></string>
     <string name="transfer_to_pc_title">Trimiteți fișiere către computere</string>
-    <string name="transfer_to_phone_summary">Activați Partajarea Mi folosind comutatorul din perdeaua de Notificare. După aceea, veți putea vedea dispozitivele din apropiere când începeți să partajați o fotografie sau un fișier. Atingeți dispozitivul destinatarului pentru a trimite articolul pe care îl partajați către el.</string>
-    <string name="transfer_to_phone_summary_new">Activați Partajarea Mi din Centrul de control pentru a putea trimite și primi articole cu ușurință. După ce îl porniți, puteți partaja articole cu dispozitivele din apropiere timp de %d minute înainte ca acesta să se oprească automat.</string>
+    <string name="transfer_to_phone_summary">Activați Partajarea Xiaomi folosind comutatorul din perdeaua de Notificare. După aceea, veți putea vedea dispozitivele din apropiere când începeți să partajați o fotografie sau un fișier. Atingeți dispozitivul destinatarului pentru a trimite articolul pe care îl partajați către el.</string>
+    <string name="transfer_to_phone_summary_new">Activați Partajarea Xiaomi din Centrul de control pentru a putea trimite și primi articole cu ușurință. După ce îl porniți, puteți partaja articole cu dispozitivele din apropiere timp de %d minute înainte ca acesta să se oprească automat.</string>
     <string name="transfer_to_phone_title">Trimiteți fișiere către telefoane</string>
-    <string name="transfer_to_summary">Activați Partajarea Mi folosind comutatorul din perdeaua de Notificare. După aceea, veți putea vedea dispozitivele din apropiere când începeți să partajați o fotografie sau un fișier. Atingeți dispozitivul destinatarului pentru a trimite articolul pe care îl partajați către el.</string>
-    <string name="transfer_to_summary_new">Activați Partajarea Mi din Centrul de control pentru a putea trimite și primi articole cu ușurință. După ce o porniți, puteți partaja articole cu dispozitivele din apropiere timp de %d minute înainte ca aceasta să se oprească automat.</string>
+    <string name="transfer_to_summary">Activați Partajarea Xiaomi folosind comutatorul din perdeaua de Notificare. După aceea, veți putea vedea dispozitivele din apropiere când începeți să partajați o fotografie sau un fișier. Atingeți dispozitivul destinatarului pentru a trimite articolul pe care îl partajați către el.</string>
+    <string name="transfer_to_summary_new">Activați Partajarea Xiaomi din Centrul de control pentru a putea trimite și primi articole cu ușurință. După ce o porniți, puteți partaja articole cu dispozitivele din apropiere timp de %d minute înainte ca aceasta să se oprească automat.</string>
     <string name="transfer_to_title">Trimiteți fișiere pe dispozitivele mobile</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
@@ -536,8 +542,8 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="unrecognized_manufacture">Necunoscut</string>
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
     <string name="user_instructions">Atenție</string>
-    <string name="uwb_guide_summary_1">Dacă nu puteți găsi dispozitivul țintă, cereți celeilalte persoane să atingă comutatorul Partajare Mi din Centrul de control de pe dispozitivul lui.</string>
-    <string name="uwb_guide_title_1">Rugați cealaltă persoană să pornească Partajarea Mi</string>
+    <string name="uwb_guide_summary_1">Dacă nu puteți găsi dispozitivul țintă, cereți celeilalte persoane să atingă comutatorul Partajare Xiaomi din Centrul de control de pe dispozitivul lui.</string>
+    <string name="uwb_guide_title_1">Rugați cealaltă persoană să pornească Partajarea Xiaomi</string>
     <string name="uwb_guide_title_2">Găsiți mai rapid dispozitivul țintă cu Beam</string>
     <string name="uwb_setting_guide">Aflați mai multe</string>
     <string name="uwb_setting_guide_summary">Beam folosește tehnologia UWB pentru a recunoaște dispozitivele țintă fără fir. Odată ce dispozitivul țintă este recunoscut, pictograma acestuia va veni în prim plan.</string>
@@ -559,7 +565,7 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="wifi_is_not_enabled">Porniți mai întâi Wi-Fi-ul</string>
     <string name="wifi_is_not_enabled_china">Porniți mai întâi Wi-Fi-ul</string>
     <string name="withdraw">Retrageți</string>
-    <string name="withdraw_consent_message">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Mi Share. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Mi Share își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile Mi Share.</string>
+    <string name="withdraw_consent_message">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Partajării Xiaomi. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Partajarea Xiaomi își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile Partajării Xiaomi.</string>
     <string name="withdraw_consent_title">Retragerea consimțământului</string>
     <string name="withdraw_with_time">Retrageți (%1$ds)</string>
     <string name="xiaomi">Mi</string>

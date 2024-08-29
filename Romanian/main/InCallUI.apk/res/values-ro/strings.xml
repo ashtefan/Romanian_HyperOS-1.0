@@ -35,8 +35,11 @@
     <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manual</string>
     <string name="ai_mode_subtitles">Subtitrări</string>
+    <string name="align_satellite_model_call">Apel</string>
     <string name="align_satellite_model_exit">Ieșiți</string>
+    <string name="align_satellite_model_mms">Mesaj</string>
     <string name="align_satellite_model_use">Începeți</string>
+    <string name="align_satellite_model_use_exp">Finalizați</string>
     <string name="am">AM</string>
     <string name="antifraud_center">Platformă de avertizare antifraudă</string>
     <string name="antifraud_center_incoming_prompt">Nu ratați niciun apel de la platforma oficială de avertizare antifraudă</string>
@@ -96,6 +99,7 @@
     <string name="call_progress_info_user_busy">Cealaltă persoană este ocupată acum. Vă rugăm să reveniți mai târziu.</string>
     <string name="call_progress_info_user_call_rejected">Numărul dvs. nu este disponibil momentan</string>
     <string name="call_record_wait_label">Aşteptare</string>
+    <string name="call_recording">Înregistrare apel în curs</string>
     <string name="call_recording_deny_permission_msg">"Ați refuzat permisiunea de înregistrare; nu se poate înregistra."</string>
     <string name="call_recording_error_low_storage">Nu există spaţiu insuficient în mediul de stocare</string>
     <string name="call_recording_error_privacy">Nu se poate înregistra o convorbire în timp ce modul Vizitator este activ</string>
@@ -211,6 +215,10 @@
     <string name="enter_ai_assistant">Utilizați</string>
     <string name="enter_ai_assistant_tip">Asistentul AI poate transcrie vorbele celeilalte persoane dacă nu puteți vorbi acum. Utilizați AI pentru acest apel?</string>
     <string name="evening">După amiază</string>
+    <string name="flip_expand_conference_call_text">Depliați pentru a gestiona apelul conferință</string>
+    <string name="flip_expand_suport_videocall_text">Depliați pentru opțiunile de apel video</string>
+    <string name="flip_expand_switch_call_text">Depliați pentru a comuta la apel multicanal</string>
+    <string name="flip_video_incoming_call_label">Apel video</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -442,10 +450,18 @@
     <string name="satellite_diable_earpiece">Nu pot folosi căștile în apelurile prin satelit</string>
     <string name="satellite_dialog_button">Fereastră plutitoare</string>
     <string name="satellite_dialog_cancel">Renunțați</string>
-    <string name="satellite_guide_azimuth">Mutați până când pictograma satelitului se află în zona albastră</string>
+    <string name="satellite_dialog_cancel_exp">Renunțați</string>
+    <string name="satellite_get_gps_timeout">Nu se pot obține informații despre locație. Stați într-o zonă deschisă și evitați obiectele care blochează semnalul.</string>
+    <string name="satellite_guide_azimuth">Mutați până când pictograma satelitului se află în zona de scanare</string>
+    <string name="satellite_guide_azimuth_floating">Intrați în zona de scanare</string>
+    <string name="satellite_guide_azimuth_in">Satelitul este în zona de scanare</string>
+    <string name="satellite_guide_azimuth_in_floating">Satelitul este în zona de scanare</string>
+    <string name="satellite_guide_azimuth_leave">Satelitul a părăsit zona de scanare</string>
+    <string name="satellite_guide_azimuth_leave_floating">Se îndepărtează</string>
     <string name="satellite_guide_down">"Înclinați dispozitivul în jos
 pentru a pune mingea în zona albastră"</string>
-    <string name="satellite_guide_elevation">Mutați până când pictograma satelitului se află în cercul albastru</string>
+    <string name="satellite_guide_elevation">Înclinați dispozitivul pentru a muta cercul albastru pe satelit, apoi rămâneți nemișcat</string>
+    <string name="satellite_guide_elevation_floating">Puneți cercul pe satelit</string>
     <string name="satellite_guide_found">Satelit găsit</string>
     <string name="satellite_guide_left">"Înclinați dispozitivul spre stânga
 pentru a pune pictograma satelit în zona albastră"</string>
@@ -453,17 +469,40 @@ pentru a pune pictograma satelit în zona albastră"</string>
 pentru a pune pictograma satelit în zona albastră"</string>
     <string name="satellite_guide_searching">Se caută satelitul…</string>
     <string name="satellite_guide_searching_floating">Se caută…</string>
+    <string name="satellite_guide_searching_fold">Se caută satelitul... Nu depliați dispozitivul.</string>
+    <string name="satellite_guide_searching_unfold">Se caută satelitul... Nu pliați dispozitivul.</string>
+    <string name="satellite_guide_signal">Pentru un semnal mai bun, mișcați ușor dispozitivul în sus și în jos</string>
     <string name="satellite_guide_up">"Înclinați dispozitivul în sus
 pentru a pune mingea în zona albastră"</string>
-    <string name="satellite_incall_tip">Difuzor activ</string>
-    <string name="satellite_satellite_accessory">Folosesc accesorii de îmbunătățire a semnalului Tiantong Satellite</string>
-    <string name="satellite_service_provider">Serviciu furnizat de China Telecom</string>
+    <string name="satellite_incall_tip">Nu puteți utiliza căștile atunci când utilizați comunicații prin satelit</string>
+    <string name="satellite_knew">Am înțeles</string>
+    <string name="satellite_latitude_longitude">"Locația curentă: "</string>
+    <string name="satellite_location_deny_permission_msg">Permiteți accesul la locație pentru a activa comunicațiile prin satelit Tiantong</string>
+    <string name="satellite_ok">Utilizați</string>
+    <string name="satellite_satellite_accessory">Folosesc un amplificator de semnal prin satelit</string>
+    <string name="satellite_satellite_service_redirection">Activați</string>
+    <string name="satellite_satellite_service_tip">Se pare că nu ați activat serviciul de conexiune directă prin satelit. Încercați să căutați sateliți după activare.</string>
+    <string name="satellite_service_provider">Serviciu oferit de China Telecom</string>
+    <string name="satellite_service_reject_cause_imei">IMEI-ul dispozitivului nu este înregistrat</string>
+    <string name="satellite_service_reject_cause_not_enable_International_roaming">Activați roamingul internațional</string>
+    <string name="satellite_service_reject_cause_not_order_tiantong">Activați serviciile Tiantong Satellite</string>
+    <string name="satellite_service_reject_cause_not_use_ctc">Introduceți o cartelă SIM China Telecom</string>
+    <string name="satellite_signal_boost_setting_dialog">Selectați \"Utilizați\" dacă ați achiziționat și instalat deja amplificatorul de semnal. Utilizarea corectă a amplificatorului poate îmbunătăți puterea semnalului și poate asigura comunicații stabile prin satelit, chiar și pe vreme înnorată. Pentru a evita orice interferență potențială cu semnalul satelitului, nu selectați această opțiune dacă amplificatorul nu a fost încă instalat.</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Utilizați amplificatorul de semnal Tiantong</string>
     <string name="satellite_state">Nu mișcați dispozitivul</string>
     <string name="satellite_state_auto_exit">Ieșiți (%ds)</string>
-    <string name="satellite_state_connected">Conectat la satelit. Nu mișcați dispozitivul.</string>
+    <string name="satellite_state_connected">"Conectat la satelit.
+Păstrați dispozitivul în această poziție"</string>
+    <string name="satellite_state_connected_exp">Satelit localizat cu succes</string>
+    <string name="satellite_state_connected_exp_floating">Satelit localizat cu succes</string>
     <string name="satellite_state_connected_floating">Nu mișcați dispozitivul</string>
-    <string name="satellite_state_connecting">Se conectează… (%ds)</string>
+    <string name="satellite_state_connecting">Se conectează la satelit… (%ds)</string>
+    <string name="satellite_state_connecting_floating">Se conectează (%ds)</string>
+    <string name="satellite_state_gps_noti_content">Se utilizează informațiile despre locație…</string>
+    <string name="satellite_state_gps_noti_title">Comunicații prin satelit</string>
+    <string name="satellite_state_occlusion_prompt">Evitați clădirile sau copacii care ar putea bloca semnalul</string>
     <string name="satellite_state_retry">Încercați în continuare</string>
+    <string name="satellite_state_voice_reg_fail_exit">Ieșiți</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

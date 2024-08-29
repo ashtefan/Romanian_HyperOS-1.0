@@ -127,6 +127,7 @@
     <string name="cloud_storage_default_title">Stocare în cloud</string>
     <string name="cloud_storage_full">Stocarea în cloud este plină. Actualizați-vă abonamentul pentru a obține mai mult spațiu de stocare.</string>
     <string name="cloud_storage_info_type_backup">Copii de rezervă în cloud</string>
+    <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familie</string>
@@ -146,6 +147,9 @@
     <string name="create_folder_success">Dosar creat cu succes</string>
     <string name="create_other_pdf">PDF nou</string>
     <string name="create_pdf_manual">PDF nou</string>
+    <string name="creation_dialog_message">Vizualizați pânzele pe tabletă.</string>
+    <string name="creation_dialog_positive_btn">Am înțeles</string>
+    <string name="creation_dialog_title">Atenție</string>
     <string name="current_speed_content">Viteza curentă: %1$s</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>

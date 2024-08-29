@@ -293,6 +293,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Activați protecția de la capăt la capăt pentru a sincroniza elementele</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizată în cloud cu succes</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
