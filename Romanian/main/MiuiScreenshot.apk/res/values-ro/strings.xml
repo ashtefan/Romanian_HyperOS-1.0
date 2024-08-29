@@ -168,7 +168,7 @@
     <string name="global_pc">Laptopul meu</string>
     <string name="global_phone">Telefonul meu</string>
     <string name="help">Nu puteți găsi dispozitive?</string>
-    <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, cereți celeilalte persoane să activeze Mi Share.</string>
+    <string name="help_content">Dacă nu găsiți dispozitivul de care aveți nevoie, cereți celeilalte persoane să activeze Partajarea Xiaomi.</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="image_decode_failed">Nu s-a putut decoda imaginea</string>
@@ -204,7 +204,7 @@ o captură de ecran derulantă"</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Partajare Xiaomi</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -546,7 +546,7 @@ o captură de ecran derulantă"</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="tips_prompt_enable_midrop">Partajare Mi</string>
+    <string name="tips_prompt_enable_midrop">Partajare Xiaomi</string>
     <string name="toast_download_with_metered_network_btn_continue">Descărcați</string>
     <string name="toast_download_with_metered_network_msg">Se pare că dispozitivul dvs. nu este conectat la Wi-Fi. Descărcați elementele folosind date mobile?</string>
     <string name="toast_download_with_metered_network_title">Avertisment privind utilizarea datelor</string>

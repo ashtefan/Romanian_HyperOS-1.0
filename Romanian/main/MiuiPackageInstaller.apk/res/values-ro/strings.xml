@@ -93,6 +93,7 @@
     <string name="app_install_safe_check">Verificați aplicațiile înainte de instalare</string>
     <string name="app_installing_not_allow">"Ați blocat instalarea %1$s. "</string>
     <string name="app_installing_not_allow_1">S-a împiedicat %1$s să instaleze o aplicație.</string>
+    <string name="app_installing_not_allow_2">Instalarea a fost blocată. Căutați \"Instalare aplicații necunoscute\" în Setări pentru a vă modifica preferințele.</string>
     <string name="app_name">Program de instalare a pachetelor</string>
     <string name="app_name_unknown">Necunoscut</string>
     <string name="app_non_put_on_the_shelf">Indisponibil</string>
