@@ -98,6 +98,12 @@
     <string name="afternoon">După amiază</string>
     <string name="agreement_desc">Acordul Utilizatorului (obligatoriu)</string>
     <string name="alaka_required">Ar trebui să plătiți pentru a asculta această melodie</string>
+    <string name="alarm_clock_album_modify_fail">Nu s-a putut modifica</string>
+    <string name="alarm_clock_audio_name">Vremea de dimineață</string>
+    <string name="alarm_clock_audio_text_city">Astăzi în %1$s, vremea este: %2$s.</string>
+    <string name="alarm_clock_audio_text_date">Bună dimineața! Astăzi este %1$s.</string>
+    <string name="alarm_clock_audio_text_temperature">Temperatura: %1$s</string>
+    <string name="alarm_clock_click_hint">Atingeți pentru a asculta vremea de astăzi</string>
     <string name="alarm_clock_recommend_desc">Treziți-vă cu o melodie nouă în fiecare zi</string>
     <string name="alarm_clock_recommend_switch">Melodie alarmă recomandată</string>
     <string name="alarm_clock_ringtones_successful">Alarmă setată cu succes</string>
@@ -1280,6 +1286,7 @@
     <string name="network_error_and_retry">"Nu s-a putut conecta; atingeți pentru a reîncerca"</string>
     <string name="network_request_error">"Nu se poate conecta la rețea"</string>
     <string name="network_settings_error">"Nu se poate conecta la rețea"</string>
+    <string name="network_tip_title">Redați în flux o lume de muzică nouă</string>
     <string name="network_traffic">Utilizare date</string>
     <string name="news_mark">NOUTĂȚI</string>
     <string name="next_time">Nu acum</string>
@@ -1724,6 +1731,7 @@ Fiți fericit"</string>
     <string name="set_ringtones_failed">"Nu s-a putut seta tonul de apel"</string>
     <string name="set_ringtones_successful">%s setată ca ton de apel</string>
     <string name="setting_feature_setting">Setările caracteristicii</string>
+    <string name="setting_open">Activați</string>
     <string name="settings">Setări</string>
     <string name="settings_notification_text">Arată widgetul în panoul notificărilor</string>
     <string name="settings_notification_title">Widget în panoul de notificări</string>

@@ -234,6 +234,14 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">Câștigați %1$d monede astăzi</item>
         <item quantity="one">Câștigați %1$d monedă astăzi</item>
     </plurals>
+    <plurals name="temp_range_c">
+        <item quantity="other">%1$d la %2$d grade Celsius</item>
+        <item quantity="one">%1$d la %2$d grad Celsius</item>
+    </plurals>
+    <plurals name="temp_range_f">
+        <item quantity="other">%1$d la %2$d grade Fahrenheit</item>
+        <item quantity="one">%1$d la %2$d grade Fahrenheit</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videoclipuri</item>
         <item quantity="one">Videoclip</item>
