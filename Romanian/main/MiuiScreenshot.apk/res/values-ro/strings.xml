@@ -175,7 +175,7 @@
     <string name="image_not_found">Nu am putut găsi imaginea</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="loading_text_format" formatted="false">Se elimină informațiile private din fotografii(%d/%d)…</string>
+    <string formatted="false" name="loading_text_format">Se elimină informațiile private din fotografii(%d/%d)…</string>
     <string name="long_screenshot_content_auto">Se realizează captura de ecran…</string>
     <string name="long_screenshot_content_loading">Doar o secundă…</string>
     <string name="long_screenshot_content_manual">Ajustați manual punctul final al capturii de ecran, apoi atingeți \"Finalizat\".</string>

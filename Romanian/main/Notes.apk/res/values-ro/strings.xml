@@ -231,7 +231,7 @@
     <string name="doodle_guide_dialog_confirm">OK</string>
     <string name="doodle_guide_dialog_skip">Omiteți</string>
     <string name="doodle_guide_dialog_title">Schițare</string>
-    <string name="doodle_guide_quick_shape_hint" formatted="false">Apăsați și mențineți apăsat pe schiță %d–%d secunde pentru a regla cursele automat</string>
+    <string formatted="false" name="doodle_guide_quick_shape_hint">Apăsați și mențineți apăsat pe schiță %d–%d secunde pentru a regla cursele automat</string>
     <string name="doodle_palette">Paleta de culori</string>
     <string name="doodle_saving">Se salvează</string>
     <string name="doodle_setting_show_grid_background">Linii de grilă mâzgâlitură</string>

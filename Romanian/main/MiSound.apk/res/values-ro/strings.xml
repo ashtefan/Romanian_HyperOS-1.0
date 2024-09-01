@@ -441,7 +441,7 @@
     <string name="music_sound_num">Presetare personalizată %s</string>
     <string name="music_sound_sample">Presetări de sistem</string>
     <string name="music_sure_to_delete_sound_msg">Ștergeți presetările selectate acum?</string>
-    <string name="music_thirty_to_sixty_years" formatted="false">Între %d și %d ani</string>
+    <string formatted="false" name="music_thirty_to_sixty_years">Între %d și %d ani</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Căștile USB nu sunt acceptate</string>
     <string name="music_upper_sixty_years">Mai mult de %d de ani</string>

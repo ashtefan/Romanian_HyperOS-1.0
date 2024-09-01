@@ -828,7 +828,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="permission_status_allow">Acordat</string>
     <string name="permission_status_deny">Nepermis</string>
     <string name="permission_status_loading">Se accesează starea dispozitivului…</string>
-    <string name="phone_guarantee_service_description" formatted="false">Protecția împotriva deteriorării ecranului și a accidentelor poate fi achiziționată în %d zile de la activare. Garanția extinsă poate fi achiziționată în %d zile de la activare.</string>
+    <string formatted="false" name="phone_guarantee_service_description">Protecția împotriva deteriorării ecranului și a accidentelor poate fi achiziționată în %d zile de la activare. Garanția extinsă poate fi achiziționată în %d zile de la activare.</string>
     <string name="phone_guarantee_service_name">Garanția dispozitivului</string>
     <string name="phone_number_may_required_dspt_provision">"Acest serviciu poate solicita numărul dvs. de telefon. "</string>
     <string name="phone_number_required_dspt_provision">"Acest serviciu solicită numărul dvs. de telefon. "</string>

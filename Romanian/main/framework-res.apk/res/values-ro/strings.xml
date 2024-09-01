@@ -381,6 +381,7 @@ Puteți modifica caracteristicile selectate din Setări> Accesibilitate."</strin
      <string name="bugreport_option_interactive_title">Raport interactiv</string>
     <string name="bugreport_screenshot_failure_toast">Nu s-a putut realiza captura de ecran cu raportul de eroare</string>
     <string name="bugreport_screenshot_success_toast">Captura de ecran cu raportul de eroare a fost realizată</string>
+    <string formatted="false" name="bugreport_status">%s (%s)</string>
      <string name="bugreport_title">Compuneţi un raport despre erori</string>
      <string name="byteShort"> B</string>
     <string name="call_notification_answer_action">Răspundeți</string>
@@ -492,7 +493,7 @@ Volumul căștilor a fost mai mare decât cel recomandat, ceea ce vă poate dete
      <string name="data_usage_warning_title">Avertizare de utilizare a datelor</string>
      <string name="data_usage_wifi_limit_snoozed_title">S-a depăşit limita de date Wi-Fi</string>
      <string name="data_usage_wifi_limit_title">Limita de date Wi-Fi a fost atinsă</string>
-    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string formatted="false" name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
      <string name="date_picker_decrement_day_button">Reduceţi valoarea pentru zi</string>
      <string name="date_picker_decrement_month_button">Reduceţi valoarea pentru lună</string>
      <string name="date_picker_decrement_year_button">Reduceţi valoarea pentru an</string>
@@ -1279,7 +1280,7 @@ Dacă nu permiteți acestei aplicații să acceseze toate jurnalele dispozitivul
      <string name="mmiErrorWhileRoaming">Nu se pot modifica setările pentru redirecționarea apelurilor din telefon cât timp sunteți în roaming.</string>
      <string name="mmiFdnError">Operaţia este limitată la numerele cu apelări restricţionate.</string>
     <string name="mobile_no_internet">Rețeaua mobilă nu are acces la internet</string>
-     <string name="month_day_year" formatted="false">%-e %B %Y</string>
+     <string formatted="false" name="month_day_year">%-e %B %Y</string>
      <string name="more_item_label">Mai multe</string>
      <string name="move_button_text">Atingeți conturul butonului pentru a putea muta întreaga fereastră</string>
     <string name="mte_override_notification_message">Performanța și stabilitatea pot fi afectate. Reporniți pentru a dezactiva. Dacă este activat folosind arm64.memtag.bootctl, setați-l la none în prealabil.</string>
@@ -2131,7 +2132,7 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="tethered_notification_title">Tethering sau hotspot activ</string>
      <string name="textSelectionCABTitle">Selectare text</string>
      <string name="text_copied">Text copiat în clipboard.</string>
-     <string name="time_of_day" formatted="false">%H:%M:%S</string>
+     <string formatted="false" name="time_of_day">%H:%M:%S</string>
      <string name="time_picker_decrement_hour_button">Reduceţi valoarea pentru oră</string>
      <string name="time_picker_decrement_minute_button">Reduceţi valoarea pentru minute</string>
      <string name="time_picker_decrement_set_am_button">Setaţi valoarea AM</string>

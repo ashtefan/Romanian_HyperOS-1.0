@@ -161,7 +161,7 @@
     <string name="ai_create_image_photo_tip">Fotografiile vor fi șterse de pe serverele noastre după ce imaginea AI este creată</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
     <string name="ai_create_image_tip">Fotografiile vor fi șterse de pe serverele noastre după ce imaginea AI este creată</string>
-    <string name="ai_create_remain_time" formatted="false">Timpul de așteptare: %1s %2s</string>
+    <string formatted="false" name="ai_create_remain_time">Timpul de așteptare: %1s %2s</string>
     <string name="ai_creating_image_tip">Veți primi o notificare când imaginea dvs. este gata</string>
     <string name="ai_creating_image_title">Se crează imaginea AI…</string>
     <string name="ai_creation_button">Creați portretul</string>
@@ -257,9 +257,11 @@ Selectați alte fotografii și încercați din nou."</string>
     <string name="ai_recreate_image_dialog_msg">Puteți continua să încărcați fotografii sau să selectați altele noi.</string>
     <string name="ai_recreate_image_dialog_title">Fotografiile lui %s nu au fost încărcate</string>
     <string name="ai_refuse_update_toast">Selectați fotografii noi pentru a putea actualiza această imagine AI</string>
-    <string name="ai_select_people_sub_title" formatted="false">cele mai bune %1d–%2d fotografii vor fi selectate automat</string>
+    <string name="ai_search_picker_next_step">Următorul</string>
+    <string name="ai_search_picker_title">Selectați segmentul</string>
+    <string formatted="false" name="ai_select_people_sub_title">cele mai bune %1d–%2d fotografii vor fi selectate automat</string>
     <string name="ai_select_people_title">Selectați o persoană pentru a-i crea imaginea AI</string>
-    <string name="ai_select_photo_complete_description" formatted="false">"Selectați %1d–%2d fotografii de față sau jumătate de corp.
+    <string formatted="false" name="ai_select_photo_complete_description">"Selectați %1d–%2d fotografii de față sau jumătate de corp.
 Cele mai bune fotografii au fost selectate automat. Puteți adăuga mai multe fotografii manual."</string>
     <string name="ai_select_photo_complete_toast">Cele mai bune fotografii au fost filtrate automat</string>
     <string name="ai_select_photo_count">Fotografii selectate (%d)</string>
@@ -576,7 +578,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="btn_cancel_send">Anulați acest transfer</string>
     <string name="btn_exit_send">Ieșiți</string>
     <string name="btn_sure">OK</string>
-    <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
+    <string formatted="false" name="burst_image_download_item_title">Descărcați originalul (%s|%s)</string>
     <string name="burst_photo_enter">Rafală</string>
     <string name="burst_photo_preview_thumbnail_content_description">Fotografia %d</string>
     <string name="burst_preview_title">Fotografiere în rafală</string>
@@ -1266,6 +1268,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="delete_album_msg_format_cloud">Ștergeți %1$s %2$s din Xiaomi Cloud și de pe toate dispozitivele sincronizate?</string>
     <string name="delete_album_msg_format_local">Ștergeți %1$s %2$s?</string>
     <string name="delete_album_success">Album șters</string>
+    <string name="delete_all_photos">Sunteți pe cale să ștergeți toate fotografiile de pe acest dispozitiv. Acest lucru vă poate face să pierdeți date importante. Ștergeți oricum?</string>
     <string name="delete_from_all_devices_and_cloud">de pe toate dispozitivele și din Xiaomi Cloud</string>
     <string name="delete_from_cloud">Ștergeți fotografiile din cloud de asemenea</string>
     <string name="delete_from_devices">De pe toate dispozitivele cu sincronizare automată</string>
@@ -1276,10 +1279,14 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="delete_in_album">Elementele selectate vor fi șterse din cloud și de pe toate dispozitivele conectate și vor fi stocate printre elementele șterse recent timp de %d de zile dacă aveți un abonament gratuit de stocare în cloud. Le ștergeți oricum?</string>
     <string name="delete_in_home_page">Elementele selectate vor fi șterse din cloud și de pe toate dispozitivele conectate și vor fi stocate printre elementele șterse recent timp de %d de zile dacă aveți un abonament gratuit de stocare în cloud. Le ștergeți oricum?</string>
     <string name="delete_in_process">Ștergere…</string>
+    <string name="delete_media_dialog_comment">Aceste elemente vor fi mai întâi mutate în dosarul \"Elemente șterse\". De acolo, le puteți recupera sau le puteți șterge definitiv.</string>
     <string name="delete_media_for_cloud">Elementele selectate vor fi eliminate din cloud și mutate pe toate dispozitivele sincronizate în dosarul Elemente șterse recent.</string>
+    <string name="delete_media_from_cloud">Elementele selectate vor fi șterse de pe toate dispozitivele și din cloud. Le ștergeți oricum?</string>
     <string name="delete_origin">Ștergeți imaginile din albumul original</string>
-    <string name="delete_other_shared_images">"Nu puteți șterge fotografiile partajate de alte persoane"</string>
+    <string name="delete_other_shared_images">Nu puteți șterge fotografiile partajate de alte persoane</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d șterse，%2$d menținute</string>
+    <string name="delete_risk_alert_message">Ați selectat un număr mare de elemente de șters. Dacă veți continua, aceste elemente vor fi mutate în dosarul \"Elemente șterse\". Ștergeți elementele acum?</string>
+    <string name="delete_risk_alert_title">Atenție</string>
     <string name="delete_third_party_photo">Ștergeți această fotografie?</string>
     <string name="delete_third_party_video">Ștergeți acest videoclip?</string>
     <string name="deny">Respingeți</string>
@@ -1491,6 +1498,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="ext_sdcard_permission_request_title">Permiteți aplicației de Galerie să acceseze cardul SD</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">"Sunteți gata!"</string>
+    <string name="external_delete_notification_content">Atingeți pentru a vedea elementele șterse recent pentru a vă asigura că nu se pierde nimic important</string>
+    <string name="external_delete_notification_title">Elemente șterse din Galerie</string>
     <string name="face_album_empty">"Sunt prea puține fotografii pentru recunoașterea persoanelor.
 Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_album_empty_syncing">Se sincronizează datele; reveniți mai târziu</string>
@@ -1804,7 +1813,7 @@ efecte pentru fotografii"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
-    <string name="foods_people_title">Paradisul papilelor gustative</string>
+    <string name="foods_people_title">Nu ne-am văzut de mult</string>
     <string name="foods_people_travel_title">Mâncând în drum spre %2$s cu %1$s</string>
     <string name="foods_travel_title_one">Un gust de %1$s</string>
     <string name="foods_travel_title_three">Gastronomia lui %1$s</string>
@@ -1842,13 +1851,19 @@ efecte pentru fotografii"</string>
     <string name="global_pc">Laptopul meu</string>
     <string name="global_phone">Telefonul meu</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">Elementele șterse pentru care s-a făcut backup pot rămâne în cloud până la %1$s zile. Elementele pentru care nu s-a făcut backup vor fi păstrate până la %2$s zile.</string>
+    <string name="google_banner_back_stop">Copierea de rezervă s-a oprit</string>
+    <string name="google_banner_back_stop_des">Ați epuizat spațiul de stocare al Contului Google. Pentru a relua copierea de rezervă a fotografiilor, obțineți mai mult spațiu de stocare sau eliberați spațiu.</string>
     <string name="google_banner_backup_des">Începeți acum și păstrați-vă fotografiile și videoclipurile în siguranță în Google Foto.</string>
     <string name="google_banner_backup_left_btn_text">Nu acum</string>
     <string name="google_banner_backup_right_btn_text">Activați copia de rezervă</string>
     <string name="google_banner_backup_title">Faceți backup pentru articolele dvs. în Google Foto</string>
     <string name="google_banner_upgrade_des">Puteți cumpăra mai mult spațiu de stocare în cloud pentru Contul dvs. Google.</string>
+    <string name="google_banner_upgrade_left_btn_clean_space">Eliberați spațiul de stocare</string>
     <string name="google_banner_upgrade_left_btn_text">Vedeți detalii</string>
+    <string name="google_banner_upgrade_right_btn_get_storage">Obțineți spațiu de stocare</string>
     <string name="google_banner_upgrade_right_btn_text">Cumpărați spațiu de stocare</string>
+    <string name="google_banner_upgrade_space_low_des">În curând, nu veți mai putea face copii de rezervă pentru fotografii și videoclipuri noi</string>
+    <string name="google_banner_upgrade_space_low_title">Spațiul de stocare este %s ocupat</string>
     <string name="google_banner_upgrade_title">Stocarea în cloud este plină</string>
     <string name="google_open_backup_error">Nu s-a putut conecta la Google Foto</string>
     <string name="google_secret_add_content">Pentru a vedea articolele pe care le-ați făcut private, glisați în jos în fila \"Albume\"</string>
@@ -2442,6 +2457,7 @@ pentru a personaliza Galeria"</string>
     <string name="multi_view_tip_button_text">Am înțeles</string>
     <string name="multi_view_tip_sub_title">Îndepărtați două degete sau mutați-le unul spre celălalt pentru a ajusta dimensiunea articolelor afișate.</string>
     <string name="multi_view_tip_title">Mărire și micșorare</string>
+    <string name="multiwindow_not_support_camera">Camera foto nu poate fi utilizată în modul Ferestre multiple</string>
     <string name="must_pick_file">Selectaţi o fotografie</string>
     <string name="my_family">Casa mea</string>
     <string name="name_split">, </string>
@@ -3585,7 +3601,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_dialog_empty_message">Nu s-au găsit elemente de optimizat.</string>
     <string name="slim_dialog_empty_positive">Am înțeles</string>
     <string name="slim_dialog_empty_title">Atenție</string>
-    <string name="slim_dialog_message" formatted="false">Înlocuiți fotografiile și videoclipurile originale cu copii de înaltă calitate la %d zile după crearea articolelor. Fișierele originale vor fi stocate în cloud. Veți putea elibera în jur de %s din spațiul de stocare local.</string>
+    <string formatted="false" name="slim_dialog_message">Înlocuiți fotografiile și videoclipurile originale cu copii de înaltă calitate la %d zile după crearea articolelor. Fișierele originale vor fi stocate în cloud. Veți putea elibera în jur de %s din spațiul de stocare local.</string>
     <string name="slim_dialog_positive">Optimizați</string>
     <string name="slim_dialog_title">Optimizați spațiul de stocare</string>
     <string name="slim_exit_dialog_positive">Opriți</string>
@@ -4014,7 +4030,9 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="today_of_year_function_closed_btn_tip">Activați</string>
     <string name="today_of_year_function_closed_tip">Nu ați activat încă „În această zi”.</string>
     <string name="today_of_year_location_num">Locații</string>
+    <string name="today_of_year_next_day">Ziua următoare</string>
     <string name="today_of_year_photo_num">Fotografii</string>
+    <string name="today_of_year_pre_day">Ziua anterioară</string>
     <string name="tomorrow">Mâine</string>
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
     <string name="tran_notification_complete_title">Transfer finalizat</string>
@@ -4129,7 +4147,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="update_email_address_dialog_title">Actualizați e-mailul de recuperare</string>
     <string name="update_ignore">Ignorați această versiune</string>
     <string name="update_latest_version">Versiunea curentă este actualizată</string>
-    <string name="update_log_format" formatted="false">%s %s</string>
+    <string formatted="false" name="update_log_format">%s %s</string>
     <string name="update_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="update_new_version">Este disponibilă o actualizare</string>
     <string name="update_title">Versiunea %s este disponibilă acum</string>
@@ -4190,10 +4208,10 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="video_editor_auto_trim_tip">Auto ajustare…</string>
     <string name="video_editor_cancel">Renunțați</string>
     <string name="video_editor_cancel_download">Renunțați</string>
-    <string name="video_editor_component_delete_btn_content_description">Eliminați videoclipul %d</string>
+    <string name="video_editor_component_delete_btn_content_description">Eliminați segmentul %d</string>
     <string name="video_editor_component_next_step">Următorul %1$d/%2$d</string>
     <string name="video_editor_component_next_step_enabled_content_description">Următorul</string>
-    <string name="video_editor_component_picked_imageview_content_description">Slot video adăugat %d</string>
+    <string name="video_editor_component_picked_imageview_content_description">Segment adăugat la slotul %d</string>
     <string name="video_editor_done">Terminat</string>
     <string name="video_editor_down_load_later">Mai târziu</string>
     <string name="video_editor_down_load_no_wifi_tips">Conectați-vă la Wi-Fi pentru a descărca</string>

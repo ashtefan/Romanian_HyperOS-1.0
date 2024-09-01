@@ -159,7 +159,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="create_work_space">Creați Spațiul pentru Servici</string>
     <string name="creating_app_icon">Se crează pictograma…</string>
     <string name="cta_declaration_agree_and_continue">De acord</string>
-    <string name="cta_declaration_message_format" formatted="false">Trebuie să citiți și să acceptați &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> înainte de a utiliza modul Companie. Telefonul trebuie să se conecteze la internet pentru a activa modul Companie. Sunteți de acord?</string>
+    <string formatted="false" name="cta_declaration_message_format">Trebuie să citiți și să acceptați &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> înainte de a utiliza modul Companie. Telefonul trebuie să se conecteze la internet pentru a activa modul Companie. Sunteți de acord?</string>
     <string name="cta_declaration_title">Termenii și Condițiile</string>
     <string name="current_space">Spațiul curent</string>
     <string name="custom_gesture_title">Gesturi personalizate</string>
@@ -561,7 +561,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="long_press_menu_key">Apăsare lungă a butonului Meniu</string>
     <string name="long_press_menu_key_when_lock">Apăsare lungă a butonului Meniu în Blocarea ecranului</string>
     <string name="long_press_power_guide_know">Am înțeles</string>
-    <string name="long_press_power_guide_message" formatted="false">"Apăsați și mențineți apăsat butonul de pornire timp de %s secunde pentru a activa Asistentul Google.
+    <string formatted="false" name="long_press_power_guide_message">"Apăsați și mențineți apăsat butonul de pornire timp de %s secunde pentru a activa Asistentul Google.
 Dacă țineți apăsat butonul timp de %s secunde, veți deschide meniul de oprire a dispozitivului."</string>
     <string name="long_press_power_guide_settings">Setări</string>
     <string name="long_press_power_guide_title">Treziți cu butonul de Pornire</string>

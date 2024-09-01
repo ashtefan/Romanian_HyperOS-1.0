@@ -32,7 +32,7 @@
     <string name="allow">Permiteți</string>
     <string name="allowed">Permis</string>
     <string name="altitude">%.1f</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
+    <string formatted="false" name="altitude_longitude_Degree_format">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitudine</string>
     <string name="altitude_uncalibrate_cancel">Anulaţi</string>
     <string name="altitude_uncalibrate_msg">"Nu se poate calibra altitudinea cu exactitate fără GPS sau conexiune de date mobile active."</string>

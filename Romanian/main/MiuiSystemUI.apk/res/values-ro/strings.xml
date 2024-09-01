@@ -1635,7 +1635,7 @@ prioritățile"</string>
     <string name="keyguard_accessibility_sim_pin_area">Zona codului PIN SIM</string>
     <string name="keyguard_accessibility_sim_puk_area">Zona codului PUK SIM</string>
     <string name="keyguard_carrier_default">Fără serviciu</string>
-    <string name="keyguard_carrier_name_with_sim_locked_template" formatted="false">%s (%s)</string>
+    <string formatted="false" name="keyguard_carrier_name_with_sim_locked_template">%s (%s)</string>
     <string name="keyguard_charged">Încărcat</string>
     <string name="keyguard_charging_back_to_lockscreen">Înapoi la Blocarea ecranului</string>
     <string name="keyguard_charging_battery_level">%s%%</string>

@@ -364,7 +364,7 @@
     <string name="com_facebook_smart_login_confirmation_continue_as">Continuați ca %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Confirmați Autentificarea</string>
     <string name="com_facebook_tooltip_default">"Dețineți controlul - alegeți ce informații doriți să partajați cu aplicațiile."</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
+    <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Activați</string>
     <string name="common_google_play_services_enable_text">"%1$s nu va funcționa dacă nu activați serviciile Google Play."</string>
     <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
@@ -539,6 +539,8 @@
     <string name="download_paused_in_power_save_mode">Sarcinile de descărcare sunt oprite când modul Economisire energie este activ</string>
     <string name="download_pending">Se așteaptă descărcarea</string>
     <string name="download_processing">Descărcare…</string>
+    <string name="download_progress">%d%%</string>
+    <string formatted="false" name="download_progress_detail">%.1fM/%.1fM</string>
     <string name="download_quality">Calitate descărcare</string>
     <string name="download_quality_summary">Setări suplimentare pentru melodiile pe care le descărcați</string>
     <string name="download_queued">Pusă în coada de așteptare</string>
@@ -1354,7 +1356,7 @@
     <string name="online_apk_install_completed">Conținut online încărcat cu succes. Atingeți %s pentru a vedea.</string>
     <string name="online_apk_install_error_no_enough_space">"Nu s-a putut instala datorită spațiului de stocare insuficient."</string>
     <string name="online_apk_install_error_with_reason">"Nu s-a putut instala (Eroare %d)"</string>
-    <string name="online_apk_install_failed_with_reason" formatted="false">"Nu s-a putut încărca conținutul online. Atingeți %s pentru a încerca din nou. Codul erorii: %d."</string>
+    <string formatted="false" name="online_apk_install_failed_with_reason">"Nu s-a putut încărca conținutul online. Atingeți %s pentru a încerca din nou. Codul erorii: %d."</string>
     <string name="online_apk_install_in_background">Se încarcă conținutul online în fundal…</string>
     <string name="online_apk_install_network_change_paused">"Utilizați datele mobile. S-a oprit încărcarea elementelor. Atingeți %s pentru a vedea."</string>
     <string name="online_apk_install_network_error">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
@@ -1836,7 +1838,7 @@ Fiți fericit"</string>
     <string name="sort_by_time">Dată</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Încercați să creați o tranziție între melodii pe durata redării</string>
     <string name="source_from">Sursă: %1$s</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsifică zona,
+    <string formatted="false" name="srl_component_falsify">"%s falsifică zona,
   Reprezintă înălțimea[%.1fdp] de glisare în timpul rulării,
   Nu arată nimic."</string>
     <string name="srl_content_empty">Vizualizarea conținutului din SmartRefreshLayout este goală. Ați uitat să-l adăugați în fișierul de aspect xml?</string>
@@ -2261,7 +2263,7 @@ Fiți fericit"</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
     <string name="whitelist_title">Fișiere exceptate</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="wifi_required_body" formatted="false">"Conectați-vă la o rețea Wi-Fi pentru a finaliza descărcarea %s. 
+    <string formatted="false" name="wifi_required_body">"Conectați-vă la o rețea Wi-Fi pentru a finaliza descărcarea %s. 
 
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>

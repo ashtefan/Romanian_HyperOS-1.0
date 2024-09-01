@@ -696,8 +696,8 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="recording_quality_standard">Calitate standard</string>
     <string name="recording_status_focus_notification">Se înregistrează</string>
     <string name="recording_stopped">Înregistrare oprită</string>
-    <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
-    <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+    <string formatted="false" name="recording_timer_format_four_sections">%02d:%02d:%02d.%02d</string>
+    <string formatted="false" name="recording_timer_format_three_sections">%02d:%02d.%02d</string>
     <string name="recovery">Restaurați</string>
     <string name="recovery_failed_dialog_button">Am înțeles</string>
     <string name="recovery_failed_dialog_title">Atenție</string>
@@ -886,9 +886,9 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="timer_format_two_sections" formatted="false">%02d:%02d</string>
+    <string formatted="false" name="timer_format">%02d:%02d</string>
+    <string formatted="false" name="timer_format_three_sections">%02d:%02d:%02d</string>
+    <string formatted="false" name="timer_format_two_sections">%02d:%02d</string>
     <string name="toast_enter_silent_mode">Se înregistrează. Modul Silențios este activ.</string>
     <string name="toast_exit_silent_mode">S-a finalizat înregistrarea. Modul  Silențios este oprit.</string>
     <string name="toast_max_record_time">Durată maximă atinsă: %1$s susţine până la %2$s ataşamente</string>
@@ -939,7 +939,7 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="weibo_login_btn_content_description">Conectați-vă prin Weibo</string>
     <string name="weixin_login_btn_content_description">Conectați-vă prin WeChat</string>
-    <string name="wifi_recommended_body" formatted="false">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
+    <string formatted="false" name="wifi_recommended_body">Utilizarea conexiunii de date mobile pentru descărcarea acestui fișier (%s) va crește utilizarea datelor. Dacă treceţi de limita de utilizare a datelor din planul dvs., operatorul ar putea percepe taxe suplimentare. Pentru a aștepta o conexiune Wi-Fi, atingeți %s.</string>
     <string name="wifi_recommended_title">Avertisment utilizare date</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>

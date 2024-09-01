@@ -470,6 +470,7 @@
     <string name="gadget_weather_title_24">Meteo</string>
     <string name="global_search">Căutați</string>
     <string name="global_search_hint">Căutare</string>
+    <string name="global_shelf">Găsire aplicații</string>
     <string name="got_it_botton">Am înțeles</string>
     <string name="group_folder">Dosar nou</string>
     <string name="group_live_folders">Dosare</string>
@@ -482,6 +483,7 @@
     <string name="hide_apps_title">Ascunde pictogramele aplicațiilor</string>
     <string name="home_gesture_content_center">Centrul de Conținut</string>
     <string name="home_gesture_global_search">Căutați</string>
+    <string name="home_gesture_global_shelf">Găsire aplicații</string>
     <string name="home_gesture_no_action">Nimic</string>
     <string name="home_gesture_notification_and_control_center">Perdeaua de notificări și Centrul de control</string>
     <string name="home_gesture_notification_bar">Notificări</string>

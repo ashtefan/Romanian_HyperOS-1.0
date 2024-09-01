@@ -1973,9 +1973,9 @@ Pentru a începe, atingeți butonul \"Îmbinare\" din partea de jos a ecranului.
     <string name="t9_search_empty_send_sms">Trimiteți un mesaj</string>
     <string name="t9_search_empty_video_call">Apel video</string>
     <string name="t9_search_guide_pinyin_title1">Căutați rapid contactele introducând literele de început</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduceți %d și %d pentru a căuta Dragoș Scurtu</string>
+    <string formatted="false" name="t9_search_guide_pinyin_title2">Introduceți %d și %d pentru a căuta Dragoș Scurtu</string>
     <string name="t9_search_guide_zhuyin_title1">Introduceți cifre pentru a găsi contacte</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduceți %d și %d pentru a căuta Jana Munteanu</string>
+    <string formatted="false" name="t9_search_guide_zhuyin_title2">Introduceți %d și %d pentru a căuta Jana Munteanu</string>
     <string name="take_new_photo">Realizați o fotografie nouă</string>
     <string name="take_photo">Fotografiaţi</string>
     <string name="text_buy_time">Comandă creată</string>

@@ -8429,9 +8429,9 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="resetting_second_space_passwd">Resetarea parolei Spațiului Secundar</string>
     <string name="resident_timezone_summary">Al doilea ceas</string>
     <string name="resolution_fhd">FHD+</string>
-    <string name="resolution_fhd_summary" formatted="false">%d×%d (economisește acumulatorul)</string>
+    <string formatted="false" name="resolution_fhd_summary">%d×%d (economisește acumulatorul)</string>
     <string name="resolution_qhd">WQHD+</string>
-    <string name="resolution_qhd_summary" formatted="false">%d×%d (adaugă claritate)</string>
+    <string formatted="false" name="resolution_qhd_summary">%d×%d (adaugă claritate)</string>
     <string name="resolution_sub_title">MIUI ar putea închide aplicațiile care rulează în fundal în timp ce schimbați rezoluția</string>
     <string name="resolver_settings_label">Aranjați</string>
     <string name="restore_default_apn">Se restabilesc setările APN implicite.</string>
@@ -10776,7 +10776,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="today">Astăzi</string>
     <string name="tof_gesture_cue_tone_summary">Redați sunet de confirmare ori de câte ori palma este detectată</string>
     <string name="tof_gesture_cue_tone_title">Redați sunet de confirmare</string>
-    <string name="tofgesture_description_summary" formatted="false"> Când dispozitivul este în modul peisaj, țineți mâna de la %d până la %d cm de cameră și efectuați gesturi după ce pictograma mâinii apare în partea de sus a ecranului.</string>
+    <string formatted="false" name="tofgesture_description_summary"> Când dispozitivul este în modul peisaj, țineți mâna de la %d până la %d cm de cameră și efectuați gesturi după ce pictograma mâinii apare în partea de sus a ecranului.</string>
     <string name="tofgesture_enable_title">Gesturi fără contact (Beta)</string>
     <string name="tofgesture_settings">Gesturi fără contact (Beta)</string>
     <string name="toggle_auto_speaker_preference_summary">Dispozitivul va comuta la difuzor când îl îndepărtați de ureche pe durata apelurilor. Această caracteristică funcționează doar când TalkBack este activ.</string>

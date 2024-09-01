@@ -1664,7 +1664,7 @@ Atingeți de două ori pentru a începe."</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selectate %s. Se comută widget-urile.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
 Atingeți de două ori butonul de sub acesta pentru a-l înlocui cu un alt widget."</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Stare instalare: %3$s. Butonul \"Comutare\" se află dedesubt. 
+    <string formatted="false" name="pa_accessibility_picker_home_widget_replace_card_content_desc_status">"%s. Stare instalare: %3$s. Butonul \"Comutare\" se află dedesubt. 
 Apăsați de două ori pentru a comuta."</string>
     <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Stare instalare: %3$s, 
 atingeți de două ori pentru detalii,
@@ -1694,8 +1694,8 @@ Atingeți de două ori pentru a vedea detaliile."</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Editați</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget selectat. Trageți pentru a adăuga acest element pe Ecranul principal.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget selectat. Trageți pentru a adăuga acest element la Asistentul inteligent.</string>
-    <string name="pa_accessibility_picker_widget_group_all" formatted="false">Magazinul de widgeturi. Selectați pentru a vedea toate widgeturile pentru %s. Atingeți de două ori pentru a vedea toate widget-urile pentru %s.</string>
-    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Magazinul de widgeturi. %s Selectat. Atingeți de două ori pentru a deschide descrierea widgetului. Articolul conține %s widget.</string>
+    <string formatted="false" name="pa_accessibility_picker_widget_group_all">Magazinul de widgeturi. Selectați pentru a vedea toate widgeturile pentru %s. Atingeți de două ori pentru a vedea toate widget-urile pentru %s.</string>
+    <string formatted="false" name="pa_accessibility_picker_widget_group_item">Magazinul de widgeturi. %s Selectat. Atingeți de două ori pentru a deschide descrierea widgetului. Articolul conține %s widget.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
@@ -1972,7 +1972,6 @@ Rămâneţi aproape!"</string>
     <string name="pa_picker_home_search_hint">Căutați widgeturi</string>
     <string name="pa_picker_home_title">Adăugați widgeturi</string>
     <string name="pa_picker_image_text_share">Partajați</string>
-    <string name="pa_picker_image_text_share_content" formatted="false">\#MIUI 小部件# 用%sMIUI小部件装扮你的桌面！%s</string>
     <string name="pa_picker_image_text_share_copy_url">Copiați URL-ul</string>
     <string name="pa_picker_image_text_share_more">Mai multe</string>
     <string name="pa_picker_image_text_share_wechat_favourite">Favorite WeChat</string>
@@ -2092,7 +2091,7 @@ Adăugați widget-uri pentru a începe."</string>
     <string name="pa_setting_privacy_policy_update_agree">De acord</string>
     <string name="pa_setting_privacy_policy_update_exit">Ieșiți</string>
     <string name="pa_setting_privacy_policy_update_link">Politica de Confidențialitate</string>
-    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Politica de Confidențialitate a Asistentului inteligent a fost actualizată:
+    <string formatted="false" name="pa_setting_privacy_policy_update_message">"Politica de Confidențialitate a Asistentului inteligent a fost actualizată:
 %sCitiți și acceptați noua versiune a %s înainte de a continua."</string>
     <string name="pa_setting_privacy_policy_update_title">Politica de Confidențialitate a fost actualizată</string>
     <string name="pa_setting_privacy_revoke_cta">Retragerea consimțământului</string>

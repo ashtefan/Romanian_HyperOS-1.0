@@ -302,7 +302,7 @@
     <string name="public_search_empty">Introduceți mai întâi conținut</string>
     <string name="public_searchnotfound">Niciun rezultat</string>
     <string name="public_secre_dialog_content_1">Pentru a vă oferi serviciile noastre și pentru a ne îmbunătăți produsele, avem nevoie de permisiunea de a accesa stocarea și de a colecta informațiile care descriu modul în care utilizați caracteristicile noastre.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Vă vom proteja informațiile personale în conformitate cu &lt;a href=\"%s\">Acordul Utilizatorului&lt;/a > și &lt;a href=\"%s\">Politica noastră de Confidențialitate&lt;/a >.&lt;/Data></string>
+    <string formatted="false" name="public_secre_dialog_content_2">&lt;Data>Vă vom proteja informațiile personale în conformitate cu &lt;a href=\"%s\">Acordul Utilizatorului&lt;/a > și &lt;a href=\"%s\">Politica noastră de Confidențialitate&lt;/a >.&lt;/Data></string>
     <string name="public_secre_dialog_exit">Ieșiți</string>
     <string name="public_secre_dialog_positive">De acord</string>
     <string name="public_secre_dialog_tips_agree">Dacă acceptați termenii și condițiile Acordului de utilizare și a Politicii noastre de confidențialitate, atingeți \"Accept\" pentru a începe să utilizați serviciile noastre.</string>
@@ -383,12 +383,12 @@
     <string name="writer_page_break">Frântură de pagină</string>
     <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">inci</string>
-    <string name="writer_paragraph_set_firstlineindent" formatted="false">Identarea primei linii: %.2f%2$s</string>
-    <string name="writer_paragraph_set_hangingindent" formatted="false">Indentare suspendată: %.2f%2$s</string>
-    <string name="writer_paragraph_set_leftindent" formatted="false">Indentare stânga: %.2f%2$s</string>
-    <string name="writer_paragraph_set_rightindent" formatted="false">Indentare dreapta: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spaceafter" formatted="false">Spațiu după linie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spacebefore" formatted="false">Spațiu înainte de linie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_firstlineindent">Identarea primei linii: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_hangingindent">Indentare suspendată: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_leftindent">Indentare stânga: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_rightindent">Indentare dreapta: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spaceafter">Spațiu după linie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spacebefore">Spațiu înainte de linie: %.2f%2$s</string>
     <string name="writer_read_mode">Mod vizualizare</string>
     <string name="writer_revision_edit_nottrack">Această operațiune nu va fi marcată ca o revizuire. Continuați oricum?</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">Nu se poate edita această revizuire în prezent</string>

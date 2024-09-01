@@ -97,6 +97,14 @@
         <item quantity="other">%d minute</item>
         <item quantity="one">%d minut</item>
     </plurals>
+    <plurals name="ai_search_picker_hint_text">
+        <item quantity="other">Selectați %1$d-%2$d fotografii sau videoclipuri (%3$d selectate)</item>
+        <item quantity="one">Selectați %1$d-%2$d fotografie sau videoclip (%3$d selectat)</item>
+    </plurals>
+    <plurals name="ai_search_picker_total_duration_exceed_limit">
+        <item quantity="other">Durata totală a videoclipului nu poate depăși %d secunde</item>
+        <item quantity="one">Durata totală a videoclipului nu poate depăși %d secundă</item>
+    </plurals>
     <plurals name="ai_select_photo_time_count">
         <item quantity="other">Sunt selectate fotografii (%d secunde rămase)…</item>
         <item quantity="one">Sunt selectate fotografii (%d secund[ rămasă)…</item>
@@ -217,9 +225,9 @@
         <item quantity="other">Ștergeți %d fotografieri în rafală?</item>
         <item quantity="one">Ștergeți %d fotografiere în rafală?</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Ștergeți %d fotografieri în rafală din Xiaomi Cloud și de pe acest dispozitiv?</item>
-        <item quantity="one">Ștergeți %d fotografiere în rafală din Xiaomi Cloud și de pe acest dispozitiv?</item>
+    <plurals name="delete_confirm_count_down">
+        <item quantity="other">Ștergeți (%ds)</item>
+        <item quantity="one">Ștergeți (%ds)</item>
     </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d elemente șterse</item>
@@ -451,6 +459,14 @@
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"S-au omis %d fotografii care nu există pe telefon."</item>
         <item quantity="one">"S-a omis %d fotografie care nu există pe telefon."</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component">
+        <item quantity="other">Selectați %d segmente</item>
+        <item quantity="one">Selectați %d segment</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component_format">
+        <item quantity="other">Selectați %1$d segmente (%2$d)</item>
+        <item quantity="one">Selectați %1$d segment (%2$d)</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">S-au găsit %1$d fotografii noi</item>
@@ -724,6 +740,10 @@
         <item quantity="other">Nu s-au putut transfera %1$d elemente. Vizitați i.mi.com pentru a le descărca.</item>
         <item quantity="one">Nu s-a putut transfera %1$d element. Vizitați i.mi.com pentru a-l descărca.</item>
     </plurals>
+    <plurals name="trash_purge_count_down">
+        <item quantity="other">Ștergeți (%ds)</item>
+        <item quantity="one">Ștergeți (%ds)</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d elemente selectate vor fi șterse definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>
         <item quantity="one">%d element selectat va fi șters definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>
@@ -765,16 +785,16 @@
         <item quantity="one">%1$d fișier</item>
     </plurals>
     <plurals name="video_editor_component_hint_text">
-        <item quantity="other">Selectați %d segmente video</item>
-        <item quantity="one">Selectați %d segment video</item>
+        <item quantity="other">%d segmente necesare</item>
+        <item quantity="one">%d segment necesar</item>
     </plurals>
     <plurals name="video_editor_component_imageview_content_description">
-        <item quantity="other">Spațiu video %1$d, așteaptă adăugarea unui videoclip de %2$s secunde sau mai mare</item>
-        <item quantity="one">Spațiu video %1$d, așteaptă adăugarea unui videoclip de %2$s secundă sau mai mare</item>
+        <item quantity="other">Slot %1$d: Adăugați un segment nu mai scurt de %2$s secunde</item>
+        <item quantity="one">Slot %1$d: Adăugați un segment nu mai scurt de %2$s secundă</item>
     </plurals>
     <plurals name="video_editor_component_next_step_disabled_content_description">
-        <item quantity="other">Adăugați încă %d videoclipuri pentru a putea continua</item>
-        <item quantity="one">Adăugați încă %d videoclip pentru a putea continua</item>
+        <item quantity="other">Adăugați încă %d segmente pentru a putea continua</item>
+        <item quantity="one">Adăugați încă %d segment pentru a putea continua</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d videoclipuri</item>

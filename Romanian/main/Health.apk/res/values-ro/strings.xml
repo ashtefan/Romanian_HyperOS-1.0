@@ -1508,7 +1508,7 @@ despre somn"</string>
     <string name="sport_outdoor_running">Alergare</string>
     <string name="sport_pace_chart_last_km">Mai puțin de 1 km</string>
     <string name="sport_pace_step_unit">SPM</string>
-    <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
+    <string formatted="false" name="sport_pace_time_format">"%d'%d\""</string>
     <string name="sport_pref_category_voice">Audio</string>
     <string name="sport_pref_gps_voice_title">Instrucțiuni vocale de semnal GPS</string>
     <string name="sport_pref_voice_assist_summary">Ascultați informații și sugestii în timpul antrenamentelor</string>
@@ -1719,7 +1719,7 @@ despre somn"</string>
     <string name="tb_mens_unmark_success">Anulat cu succes</string>
     <string name="tb_month_dialog_go_today">Selectat azi</string>
     <string name="tb_month_dialog_select_date">Selectat %1$s</string>
-    <string name="tb_month_dialog_select_date_with_snore" formatted="false">Selectat %1$s, %s</string>
+    <string formatted="false" name="tb_month_dialog_select_date_with_snore">Selectat %1$s, %s</string>
     <string name="tb_multiple_selecte_all">Selectați tot</string>
     <string name="tb_not_add_list">Neadăugat</string>
     <string name="tb_pause_detection">Pauză</string>
@@ -1753,7 +1753,7 @@ despre somn"</string>
     <string name="tb_stand_day_ring">Episoade de ridicare astăzi: %1$s. Trebuie să faceți cel puțin 12 azi.</string>
     <string name="tb_stand_wm_column_chart">Episoade de ridicare între %1$s și%2$s. Glisați orizontal pentru a comuta între perioadele de timp. Atingeți pentru a vedea detaliile.</string>
     <string name="tb_stand_wm_column_click">%1$s. Episoade de ridicare: %2$d. %3$s.</string>
-    <string name="tb_step_widget" formatted="false">Astăzi. %1$s. Progres: %2$d%</string>
+    <string formatted="false" name="tb_step_widget">Astăzi. %1$s. Progres: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Deselectați tot</string>
     <string name="tb_user_account_signed">Cont Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Atingeți pentru a vă conecta la contul Mi</string>

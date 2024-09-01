@@ -1562,7 +1562,7 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Videoclip</string>
     <string name="module_name_vlog">VLOG</string>
-    <string name="moiton_detection_960_fps_video_tip" formatted="false">Videoclipurile %1dfps pot dura până la %2d secunde</string>
+    <string formatted="false" name="moiton_detection_960_fps_video_tip">Videoclipurile %1dfps pot dura până la %2d secunde</string>
     <string name="moiton_detection_tip">Se detectează mișcare… Păstrați dispozitivul stabil.</string>
     <string name="moiton_detection_video_3840fps_3840">%d fps</string>
     <string name="moiton_detection_video_electric_quantity_tip">Încărcați-vă dispozitivul pentru a putea folosi această funcție</string>
@@ -3015,7 +3015,7 @@ să înregistrați și să editați videoclipuri în timp real"</string>
     <string name="wait">O secundă…</string>
     <string name="watermark_choose_one_tip">Puteți aplica un singur filigran pentru fiecare fotografie.</string>
     <string name="watermark_choose_one_tip_film">Puteți aplica un singur filigran pentru fiecare fotografie.</string>
-    <string name="watermark_count_format" formatted="false">%d/%d</string>
+    <string formatted="false" name="watermark_count_format">%d/%d</string>
     <string name="watermark_function_description">Despre filigrane</string>
     <string name="watermark_keep_at_least_one">Selectați cel puțin o opțiune</string>
     <string name="watermark_tab_city">Oraș</string>

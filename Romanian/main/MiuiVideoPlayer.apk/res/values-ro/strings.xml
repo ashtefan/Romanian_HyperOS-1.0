@@ -422,7 +422,7 @@ Mi Video trebuie să colecteze informațiile personale necesare pentru a vă ofe
     <string name="download_power_off_tips">Această funcție nu este disponibilă acum</string>
     <string name="download_progress">%d%%</string>
     <string name="download_retry">Încercați din nou</string>
-    <string name="download_space_info" formatted="false">%s, %s</string>
+    <string formatted="false" name="download_space_info">%s, %s</string>
     <string name="download_unable_tip">Nu se poate descărca acest element</string>
     <string name="download_video">Se descarcă videoclipul</string>
     <string name="downloading">Se descarcă…</string>
@@ -682,7 +682,7 @@ Mi Video trebuie să colecteze informațiile personale necesare pentru a vă ofe
     <string name="galleryplus_network_error">Nu s-a putut conecta la rețea</string>
     <string name="galleryplus_network_not_wifi">Utilizarea datelor mobile pentru a reda videoclipuri online poate genera taxe suplimentare de la operator</string>
     <string name="galleryplus_next_step">Următorul</string>
-    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gestionați fișierele %$s Adăugați subtitrări %$s Proiectați videoclipuri %$s</string>
+    <string formatted="false" name="galleryplus_notification_linkvideo_subtitle1">Gestionați fișierele %$s Adăugați subtitrări %$s Proiectați videoclipuri %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle1_new">Utilizați imagine în imagine, redare în fundal, zoom, proiectare și multe altele %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Protejați-vă videoclipurile private cu o parolă %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2_new">Protejați prin parolă videoclipurile private și gestionați-vă fișierele %$s</string>
@@ -2037,7 +2037,7 @@ Verificați alte videoclipuri!"</string>
     <string name="source">"Sursă: "</string>
     <string name="special_type_8k">AI 8K</string>
     <string name="special_type_log">LOG</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsifică aria,
+    <string formatted="false" name="srl_component_falsify">"%s falsifică aria,
  Reprezintă înălțimea[%.1fdp] of drag at run time,
  Nu arată nimic."</string>
     <string name="srl_content_empty">Conținutul văzut în SmartRefreshLayout este gol. Ați uitat să îl adăugați în dispunerea fișierului xml?</string>
@@ -2213,7 +2213,7 @@ Verificați alte videoclipuri!"</string>
     <string name="tip_play_a_video">%d. Redați un videoclip</string>
     <string name="tip_playlist_guide_hint_a">Vizualizați videoclipuri din listele dvs. de redare Google</string>
     <string name="tip_playlist_guide_hint_b">Redați videoclipuri din listele dvs. de redare YouTube fără anunțuri</string>
-    <string name="tip_storage_used_space" formatted="false">Ați utilizat %.2f GB/%.2f GB</string>
+    <string formatted="false" name="tip_storage_used_space">Ați utilizat %.2f GB/%.2f GB</string>
     <string name="tip_subscribe_guide_hint_a">Vedeți creatorii din abonamentele dvs. Google</string>
     <string name="tip_subscribe_guide_hint_b">Urmăriți actualizări de la canalele YouTube la care sunteți abonat, fără anunțuri</string>
     <string name="tip_tap_download_button">%d. Apăsați \"Descărcări\"</string>
@@ -2222,7 +2222,7 @@ Verificați alte videoclipuri!"</string>
     <string name="title_continue_to_borwser">Deschideți în browser</string>
     <string name="title_download_setting">Descărcați setările</string>
     <string name="title_history">Istoric</string>
-    <string name="title_mangotv_history_sub" formatted="false">%s (Episodul %d)</string>
+    <string formatted="false" name="title_mangotv_history_sub">%s (Episodul %d)</string>
     <string name="title_mangotv_subtitle_language">Limba subtitrării</string>
     <string name="title_more_wonderful_smallvideo">Mai multe filmulețe</string>
     <string name="title_select_directory">Selectați dosarul</string>

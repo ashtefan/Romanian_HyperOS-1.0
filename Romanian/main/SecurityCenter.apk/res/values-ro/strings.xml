@@ -208,6 +208,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Proiectarea nu va fi înteruptă cât timp ecranul este închis și aplicația rulează în fundal. Puteți apăsa butonul de Pornire pentru a reactiva ecranul.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
     <string name="allow_all">Permiteți tot</string>
+    <string name="allow_device_id_access">Selectați aplicațiile care pot folosi ID-ul dispozitivului</string>
     <string name="allow_notify">permite_notificarea</string>
     <string name="allow_onetime">Permiteți odată</string>
     <string name="allow_tips_smart_task">permite_sfaturi_sarcină_inteligentă</string>
@@ -1439,6 +1440,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Jocurile Turbo</string>
     <string name="cs_color_sense">Temperatura de culoare</string>
     <string name="cs_conversation_record_using">Se înregistrează</string>
+    <string name="cs_func_toast_bluetooth_headset">Deconectați căștile Bluetooth pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_headset">Deconectați-vă căștile pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_light">Comutați la camera frontală pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_pickup">Comutați la un apel video pentru a putea folosi această funcție</string>
@@ -1469,6 +1471,9 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cs_tool_box_phone_guide_case_1">Încercați interpretarea simultană și alte funcții în noua casetă de Instrumente apel</string>
     <string name="cs_tool_box_phone_guide_case_2">Încercați o serie de funcții din noua casetă de Instrumente apel</string>
     <string name="cs_voice_print">Înregistrați amprenta vocală</string>
+    <string name="cs_voice_search">amprentă vocală</string>
+    <string name="cs_vt_camera_toast_case1">Deschideți camera în aplicația curentă</string>
+    <string name="cs_vt_camera_toast_case2">Nu există dispozitive compatibile în apropiere</string>
     <string name="cta_HIPS_Perm_Location_Desc">obținere locație precisă (bazată pe GPS și rețea)</string>
     <string name="cta_agree_desc">Pentru a putea utiliza serviciile noastre, permiteți acestei aplicații să se conecteze la internet și acordați permisiunile de mai jos.</string>
     <string name="cta_close_dialog_cancel">Anulați</string>
@@ -1567,15 +1572,31 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="delete_input">Ștergeți</string>
     <string name="deleted_apps">Aplicaţii dezinstalate</string>
     <string name="demo_number">241</string>
+    <string formatted="false" name="desc_share_uid_sec">%1s. %2s</string>
     <string name="descx_quick_scan_cancel">Scanare anulată</string>
     <string name="descx_quick_scan_preparation">Doar o secundă…</string>
     <string name="detail_app_button">Informaţii aplicaţie</string>
     <string name="details_subtitle">Detalii despre utilizare</string>
+    <string name="device_id">ID dispozitiv pentru recomandări personalizate</string>
+    <string name="device_id_app_manager_dialog_continue">Nu opri</string>
+    <string name="device_id_app_manager_dialog_message">Ați permis unor aplicații să vă urmărească activitățile. Puteți opri urmărirea acum.</string>
+    <string name="device_id_app_manager_dialog_stop">Oprește</string>
+    <string name="device_id_app_manager_switch_sub_title">Când această funcție este dezactivată, toate solicitările de urmărire noi vor fi respinse automat</string>
+    <string name="device_id_app_manager_switch_title">Permite aplicațiilor să solicite urmărirea</string>
+    <string name="device_id_app_manager_tips">Aplicațiile vă pot urmări activitățile în diferite aplicații și site-uri web folosind identificatori de urmărire pentru a oferi recomandări personalizate de anunțuri și alte funcții</string>
+    <string name="device_id_app_manager_title">Gestionați urmărirea aplicației</string>
+    <string name="device_id_manager_tips">Sistemul oferă aplicațiilor identificatori de urmărire resetabili (OAID) în loc de identificatori de dispozitiv, pentru a vă proteja confidențialitatea</string>
+    <string name="device_id_manager_title">Gestionați identificatorul de urmărire</string>
+    <string name="device_id_reset">Resetați identificatorul de urmărire</string>
+    <string name="device_id_reset_msg">După resetare, un nou identificator va fi asociat cu acest dispozitiv.</string>
+    <string name="device_id_str">Identificatorul de urmărire curent: %s</string>
     <string name="device_manager_apply_step_1">Activați administrarea dispozitivului pentru această aplicație?</string>
     <string name="device_manager_apply_step_2">"Activarea administrării dispozitivului pentru această aplicație poate duce la expunerea datelor personale ale dvs.
 Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului poate fi resetată."</string>
     <string name="device_manager_apply_step_3">Asigurați-vă că înțelegeți toate riscurile posibile înainte de a începe. Activați administrarea dispozitivului pentru această aplicație acum?</string>
-    <string name="diagnostic_attention_dialog_message">"Diagnosticarea pentru %1$s este în curs. Așteptați finalizarea procesului și reîncercați."</string>
+    <string name="device_oaid">Gestionați ID-ul virtual</string>
+    <string name="device_oaid_desc">În loc de identificatorul dvs. unic, sistemul va furniza un ID virtual (OAID) aplicațiilor instalate. Împiedică aplicațiile să vă urmărească comportamentul și preferințele și vă protejează confidențialitatea.</string>
+    <string name="device_oaid_title">ID virtual</string>
     <string name="dialog_app_roaming_message">%1$s nu poate utiliza datele mobile în roaming. Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat la excepţii pot utiliza datele mobile.</string>
     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
     <string name="dialog_btn_delete_icon">Eliminați</string>
@@ -2482,7 +2503,7 @@ Xiaomi Gaming Cooler"</string>
     <string name="gb_dialog_record_way_ai_new">Înregistrările AI sunt salvate în caseta de joc și stocate acolo timp de %d zile.</string>
     <string name="gb_dialog_record_way_finish">Finalizat</string>
     <string name="gb_dialog_record_way_manual">Înregistrați în mod manual videoclipurile de până la 30 de secunde</string>
-    <string name="gb_dialog_record_way_manual_desc" formatted="false">Înregistrați manual %d-%d secunde de videoclip în timpul sesiunii de joc.</string>
+    <string formatted="false" name="gb_dialog_record_way_manual_desc">Înregistrați manual %d-%d secunde de videoclip în timpul sesiunii de joc.</string>
     <string name="gb_dialog_record_way_manual_new">Înregistrați manual videoclipuri de până la %d secunde</string>
     <string name="gb_dialog_record_way_setting_tip_one">Creșterea consumului de energie și a decalajului</string>
     <string name="gb_dialog_record_way_setting_tip_title">Această caracteristică poate cauza următoarele probleme:</string>
@@ -2933,7 +2954,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_setting">Setări</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Blocați toate serviciile de comunicații pe SIM secundar în timpul sesiunilor de joc pentru a menține conexiunea stabilă și pentru a evita comutarea între rețele. SIM secundar va fi deblocat atunci când încetați să jucați.</string>
     <string name="gtb_setting_item_summary_smart_5g">Atunci când aplicația Jocuri Turbo detectează o rețea 5G, aceasta poate conecta dispozitivul la cea mai bună rețea disponibilă, pentru a reduce încetinirea rețelei</string>
-    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Creșteți viteza de conectare cu 10%-20% atunci când este conectat la routere Mi/Redmi</string>
+    <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Creșteți viteza de conectare cu 10%-20% atunci când este conectat la routere Mi/Redmi</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Creșteți viteza conexiunii cu %1$s-%2$s când vă conectați la routerele Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Reduceți automat luminozitatea ecranului</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Blocați SIM-ul secundar</string>
@@ -3019,7 +3040,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="ime_security_warning">%1$s poate înregistra orice tastați, inclusiv parolele sau alte informații sensibile. O utilizați oricum?</string>
     <string name="in_delete">Ștergere…</string>
     <string name="in_recover">Restaurare…</string>
-    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
+    <string formatted="false" name="infinite_daily_package_usage_summary">%1s (%2s)</string>
     <string name="infinite_remind_warning_text_tips">Avertizează când este atinsă limita lunară</string>
     <string name="info_and_call">Apeluri şi mesagerie</string>
     <string name="info_antispam_close">Lista blocărilor este oprită</string>
@@ -3110,7 +3131,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="list_empty_text">Gol</string>
     <string name="load_only_under_wlan">Descarcă doar prin Wi-Fi</string>
     <string name="loading">Doar o secundă…</string>
-    <string name="loading_text_format" formatted="false">Se verifică dacă fotografiile conțin informații private %d/%d</string>
+    <string formatted="false" name="loading_text_format">Se verifică dacă fotografiile conțin informații private %d/%d</string>
     <string name="local_ip_exception_summary">"Nu s-a putut obține adresa IP locală. Pentru a raporta această problemă către MIUI, deschideţi aplicaţia Raportare probleme și trimiteţi un jurnal de erori de pe dispozitivul dvs."</string>
     <string name="location">Locație</string>
     <string name="lock_all_title">Blocați toate aplicațiile</string>
@@ -3266,7 +3287,7 @@ răspunsul operatorului"</string>
     <string name="memory_clean_no_need_clean">Totul arată bine</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"S-au eliberat %s.
 Viteza telefonului a crescut cu %d%%."</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"S-au eliberat %s.
+    <string formatted="false" name="memory_clean_no_need_clean_1_new">"S-au eliberat %s.
 Viteza telefonului a crescut cu %s."</string>
     <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
@@ -3600,10 +3621,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="no_sim_card_by_tips">Pentru a putea seta soldul telefonului și avertismentele privind utilizarea datelor, introduceți mai întâi o cartelă SIM.</string>
     <string name="noon">Amiază</string>
     <string name="normal1">Permisiuni restricționate: %1s. Atingeți pentru a schimba.</string>
-    <string name="normal2" formatted="false">Permisiuni restricționate: %1s, %2s. Atingeți pentru a schimba.</string>
-    <string name="normal3" formatted="false">Permisiuni restricționate: %1s, %2s, %3s. Atingeți pentru a schimba.</string>
-    <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Atingeți pentru a schimba.</string>
-    <string name="normal_package_usage_summary" formatted="false">%2s din %1s (%3s)</string>
+    <string formatted="false" name="normal2">Permisiuni restricționate: %1s, %2s. Atingeți pentru a schimba.</string>
+    <string formatted="false" name="normal3">Permisiuni restricționate: %1s, %2s, %3s. Atingeți pentru a schimba.</string>
+    <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Atingeți pentru a schimba.</string>
+    <string formatted="false" name="normal_package_usage_summary">%2s din %1s (%3s)</string>
     <string name="not_closed">Continuați</string>
     <string name="not_limited_brand">Nelimitat</string>
     <string name="not_set">Nesetat</string>
@@ -3714,9 +3735,12 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="numeric_recording_intro_header">Introduceți parola</string>
     <string name="numeric_retry_button_text">Renunțați</string>
     <string name="numeric_settings_help_how_to_record">Cum setez codul PIN</string>
+    <string name="oaid_apps_summary">Permiteți sau restricționați accesul pentru aplicații individuale</string>
     <string name="oaid_apps_title">Gestionați ID-ul virtual</string>
     <string name="oaid_reset_content_tip">Dacă dezactivați ID-ul virtual acum, unele aplicații ar putea înceta să funcționeze corect, o parte din datele aplicației dvs. ar putea fi pierdute sau să devină inutilizabile.</string>
     <string name="oaid_reset_final_tip">Dezactivați oricum ID-ul virtual?</string>
+    <string name="oaid_string">"ID-ul virtual curent:
+%1s"</string>
     <string name="oaid_tips_content">ID-urile virtuale (OAID) pot fi utilizate pentru urmărirea comportamentului dvs. și personalizarea anunțurilor pentru dvs. Puteți selecta ce aplicații au permisiunea de a vă accesa ID-ul virtual. Rețineți că, dacă restricționați accesul, recomandările publicitare ar putea deveni irelevante sau aplicațiile ar putea să nu funcționeze normal.</string>
     <string name="offline_voice_input">Introducere vocală offline</string>
     <string name="offline_voice_input_detail">Nu veți avea nevoie de internet pentru introducerea vocală.</string>
@@ -4215,6 +4239,7 @@ Ultra economisirea acumulatorului"</string>
     <string name="permission_instruction_write_contacts">Această permisiune dă dreptul aplicațiilor să editeze, să adauge și să șteargă informațiile de contact stocate pe dispozitivul dvs. Aceste informații pot conține frecvența comunicării dvs. cu anumite contacte prin apeluri, e-mailuri și alte metode. Această permisiune permite, de asemenea, aplicațiilor să vă șteargă contactele.</string>
     <string name="permission_instruction_write_settings">Această permisiune dă dreptul aplicațiilor să modifice setările sistemului. Aplicațiile rău intenționate pot utiliza această permisiune cu setările sistemului și pot afecta utilizarea normală a dispozitivului.</string>
     <string name="permission_legacy_storage">Accesarea fotografiilor, a videoclipurilor, a sunetelor audio și a fișierelor</string>
+    <string name="permission_oaid_desc">Permiteți %1$s să vă urmărească activitățile pe alte aplicații și site-uri web?</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Aplicațiile nu vă vor cere permisiunea înainte de a vă citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările sistemului sau de a accesa camera și alte resurse ale dispozitivului. Puteți activa această caracteristică în Setările permisiunilor.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestionare permisiuni</string>
     <string name="permission_precise_location">Locația precisă</string>
@@ -4553,7 +4578,7 @@ Ultra economisirea acumulatorului"</string>
     <string name="power_optimize_loading">Încărcare</string>
     <string name="power_optimize_open_hide_mode">Activați Economisirea acumulatorului</string>
     <string name="power_optimize_power_save_extend_time">Adăugați %s</string>
-    <string name="power_optimize_power_save_extend_time_new" formatted="false">Extinde pentru %1s %2s</string>
+    <string formatted="false" name="power_optimize_power_save_extend_time_new">Extinde pentru %1s %2s</string>
     <string name="power_optimize_power_save_summary">Activați Economisirea acumulatorului pentru a aplica mai multe optimizări de sistem ce limitează activitatea din fundal</string>
     <string name="power_optimize_prohibit_app_autostart">Nu permiteți aplicațiilor să pornească automat</string>
     <string name="power_optimize_reduce_fps">Scădeți rata de reîmprospătare a ecranului la %d Hz</string>
@@ -5180,6 +5205,16 @@ Retrageți consimțământul acum?"</string>
     <string name="reset_data_dialog_message">"Acest dispozitiv nu este asociat contului dvs. Mi. Nu se poate restaura sau reseta parola. Faceți mai întâi o copie de rezervă a tuturor elementelor importante și faceți o resetare la valorile din fabrică. Toate datele vor fi șterse definitiv iar cardul SD va fi formatat pe durata procesului de resetare."</string>
     <string name="reset_data_dialog_ok">Resetare la valorile din fabrică</string>
     <string name="reset_data_title">"Nu se poate recupera parola"</string>
+    <string name="restore_device_id_content">Recomandările personalizate vor fi resetate</string>
+    <string name="restore_device_id_title">Resetați ID-ul dispozitivului</string>
+    <string name="restore_dialog_content">Resetarea ID-ului actual al dispozitivului va reseta și recomandările personalizate. Resetați acum?</string>
+    <string name="restore_dialog_positive">Resetați</string>
+    <string name="restore_dialog_title">Atenție</string>
+    <string name="restore_oaid_content">Resetați ID-ul virtual pentru a vă șterge înregistrările de comportament și preferințe</string>
+    <string name="restore_oaid_dialog_content">Mai multe aplicații folosesc ID-ul dvs. virtual. Dacă o resetați acum, o parte din datele aplicației dvs. s-ar putea pierde sau deveni inutilizabilă. Resetați ID-ul virtual oricum?</string>
+    <string name="restore_oaid_positive">Resetați</string>
+    <string name="restore_oaid_positive_step">Resetați (%1$d)</string>
+    <string name="restore_oaid_title">Resetați ID-ul virtual</string>
     <string name="result_autoscan_header">Monitorizare plăți</string>
     <string name="result_autoscan_info">Monitorizați în mod automat mediul sistemului atunci când aplicațiile de plăți sunt pornite</string>
     <string name="result_sms_header">Au fost găsite riscuri în aplicația de mesagerie</string>
@@ -5412,7 +5447,7 @@ Retrageți consimțământul acum?"</string>
     <string name="sim_lock_lockscreen_notification_message">Nu se poate verifica codul PIN fără blocarea ecranului</string>
     <string name="sim_lock_lockscreen_notification_title">Cartela SIM nu este protejată</string>
     <string name="sim_lock_new_pin_different_error">PIN-urile pe care le-ați introdus nu se potrivesc. Încercați din nou.</string>
-    <string name="sim_lock_new_pin_hint" formatted="false">Introduceți între %d și %d cifre</string>
+    <string formatted="false" name="sim_lock_new_pin_hint">Introduceți între %d și %d cifre</string>
     <string name="sim_lock_new_pin_message">Amintiți-vă noul PIN. Dacă îl uitați, va trebui să contactați serviciul de asistență pentru clienți al operatorului dvs. pentru a-l putea restabili.</string>
     <string name="sim_lock_new_pin_title">Setați un nou PIN</string>
     <string name="sim_lock_no_sim_notification_message">Atingeți pentru a verifica codul PIN SIM</string>
@@ -5423,7 +5458,7 @@ Retrageți consimțământul acum?"</string>
     <string name="sim_lock_pin_dialog_message">Ați introdus de mai multe ori un cod PIN incorect. Acum au mai rămas doar %d. Dacă introduceți un alt cod PIN incorect, cartela SIM va fi blocată. Continuați oricum?</string>
     <string name="sim_lock_pin_dialog_title">Ultima încercare</string>
     <string name="sim_lock_pin_hint">Introduceți PIN-ul SIM</string>
-    <string name="sim_lock_pin_message" formatted="false">Dacă nu ați setat un cod PIN pentru cartela SIM, încercați codul PIN implicit al operatorului dvs (%s): %d.</string>
+    <string formatted="false" name="sim_lock_pin_message">Dacă nu ați setat un cod PIN pentru cartela SIM, încercați codul PIN implicit al operatorului dvs (%s): %d.</string>
     <string name="sim_lock_pin_success">PIN verificat cu succes</string>
     <string name="sim_lock_pin_title">Verificați codul PIN SIM</string>
     <string name="sim_lock_puk_dialog_title">Ați rămas fără încercări</string>
@@ -5437,7 +5472,7 @@ Retrageți consimțământul acum?"</string>
     <string name="sim_lock_query_new_pin">Setați un nou PIN</string>
     <string name="sim_lock_query_pin">PIN</string>
     <string name="sim_lock_query_pin_error">Nu s-a putut schimba PIN-ul</string>
-    <string name="sim_lock_query_pin_length_error" formatted="false">PIN-ul trebuie să conțină între %d și %d cifre</string>
+    <string formatted="false" name="sim_lock_query_pin_length_error">PIN-ul trebuie să conțină între %d și %d cifre</string>
     <string name="sim_lock_query_pin_mismatch_error">PIN-urile pe care le-ați introdus nu se potrivesc</string>
     <string name="sim_lock_query_pin_same_error">Noul PIN este același cu cel vechi</string>
     <string name="sim_lock_query_title">Verificați PIN-ul</string>
@@ -6063,7 +6098,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="system_permission_declare_analytics_declare">"Vă mulțumim pentru că v-ați înscris în programul nostru de experiență pentru utilizatori. Dispozitivul trebuie să fie conectat la internet pentru a permite funcționarea normală a acestei funcții. De asemenea, vi se solicită să acordați următoarele permisiuni pentru a ne permite să colectăm datele care ne vor ajuta să îmbunătățim produsele și serviciile noastre. Aceste date sunt colectate doar în scopuri statistice. Nu vom putea folosi aceste date pentru a vă identifica personal."</string>
     <string name="system_permission_declare_disagree">Nu sunt de acord</string>
     <string name="system_permission_declare_double_link"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și pentru a înțelege modurile în care utilizăm datele personale, citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit în aplicația %1s! Aceasta vă permite să utilizați următoarele funcții: %2s.</string>
+    <string formatted="false" name="system_permission_declare_main_purpose">Bine ați venit în aplicația %1s! Aceasta vă permite să utilizați următoarele funcții: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>În același timp, pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modalitățile prin care folosim datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>.</Data></string>

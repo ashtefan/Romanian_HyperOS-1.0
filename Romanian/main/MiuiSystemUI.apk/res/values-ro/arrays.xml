@@ -88,12 +88,6 @@
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LC3</item>
     </string-array>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>, activ</item>
-        <item>, activ (media)</item>
-        <item>, activ (telefon)</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (Implicit)</item>
         <item>AVRCP 1.3</item>

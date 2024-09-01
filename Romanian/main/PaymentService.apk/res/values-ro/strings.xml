@@ -41,6 +41,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="access_denied_info">Prea multe încercări. Așteptați un minut sau două și încercați din nou.</string>
     <string name="account_bind_secure_email_title">Adăugați o adresă de e-mail pentru recuperare</string>
     <string name="account_bind_secure_phone_title">Adăugați un număr de telefon pentru recuperare</string>
     <string name="account_crop_user_avatar">Decupați fotografia</string>
@@ -91,6 +92,7 @@
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
+    <string name="close_country_code_content_description">Șterge codul țării</string>
     <string name="collect_diagnosis_log">Colectați jurnale de diagnoză</string>
     <string name="confirm_activate_email">Verificată</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmați numărul de telefon asociat</string>
@@ -102,11 +104,15 @@
     <string name="diagnosis_log_sent_format">"Jurnalele de diagnoză au fost trimise cu succes.
 ID: %s
 Trimiteți acest cod supervizorului."</string>
+    <string name="doing_login">Conectare…</string>
+    <string name="doing_query_account">Se verifică informațiile contului…</string>
+    <string name="doing_register">Se crează contul…</string>
     <string name="early_morning">Dimineață</string>
     <string name="error_dup_binded_email">Această adresă de e-mail este asociată deja altui cont Mi.</string>
     <string name="error_invalid_bind_address">Adresa de e-mail introdusă nu este validă.</string>
     <string name="evening">După amiază</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja altui cont Mi.</string>
+    <string name="facebook_login_btn_content_description">Conectați-vă cu Facebook</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="find_psw">Am uitat parola</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -169,18 +175,29 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="getverifycode_seconde">s</string>
+    <string name="google_login_btn_content_description">Conectați-vă cu Google</string>
     <string name="goto_sign_up">Creați un cont</string>
+    <string name="header_help">Ajutor</string>
     <string name="hybrid_provider">Furnizat de %1$s</string>
     <string name="i_know">OK</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
     <string name="input_email_address_notice">Vom utiliza această adresă de e-mail pentru a vă verifica contul</string>
+    <string name="input_length_exceeds_limit">Textul introdus este prea lung</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="login_by_local_phone_long_text">Conectați-vă acum</string>
+    <string name="login_by_local_phone_short_text">Conectați-vă</string>
+    <string name="login_other">Alt cont Mi</string>
+    <string name="login_register_by_local_phone_long_text">Creați un cont</string>
+    <string name="login_with_sns">Alte modalități de conectare</string>
     <string name="logout_account">Deconectați-vă</string>
-    <string name="mibi_account_disable_dialog_msg">Pentru a utiliza MiCoin, trebuie să vă conectați la contul XiaoXiaomi. Vă rugăm să activați serviciul contului XiaoXiaomi în Setări-Gestionare aplicații.</string>
+    <string name="mibi_account_disable_dialog_btn_negative">Renunțați</string>
+    <string name="mibi_account_disable_dialog_btn_positive">Activați</string>
+    <string name="mibi_account_disable_dialog_msg">Pentru a utiliza MiCoin, trebuie să vă conectați la contul Xiaomi. Vă rugăm să activați serviciul contului Xiaomi din Setări-Gestionare aplicații.</string>
     <string name="mibi_account_disable_dialog_title">Înștiințare</string>
     <string name="mibi_all_license_message">"Sunteți pe cale să utilizați Monede Mi, un serviciu furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să acceptați Termenii Serviciului din %1$s. Atingeți butonul OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s și %1$s. Trebuie să vă conectați la internet și să permiteți localizarea dispozitivului pentru a utiliza Mi Credit."</string>
     <string name="mibi_all_purpose">Bine ați venit în aplicația Monede Mi. Puteți folosi această aplicație pentru a reîncărca Monede Mi, pentru a vă verifica cardurile cadou etc.</string>
@@ -225,6 +242,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="mibi_button_pay">Confirmați</string>
     <string name="mibi_button_reget">Retrimiteți</string>
     <string name="mibi_button_retry">Reîncercați</string>
+    <string name="mibi_camera">Camera</string>
+    <string name="mibi_camera_detail">Pentru scanarea codurilor QR</string>
     <string name="mibi_camera_open_failed">Pornirea Camerei a eșuat</string>
     <string name="mibi_cancel">Renunțați</string>
     <string name="mibi_change_security_lock">Mai multe metode de blocare a ecranului</string>
@@ -354,6 +373,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_incognito_mode_dialog_title">Sunteți incognito</string>
     <string name="mibi_incognito_mode_dialog_to_close">Setări</string>
     <string name="mibi_is_what">Ce puteți cumpăra cu Monedele Mi?</string>
+    <string name="mibi_kr_license_content">Sunteți pe cale să utilizați serviciul de plată oferit de Xiaomi Inc. Înainte de a începe să utilizați acest serviciu, trebuie să fiți de acord cu următorii termeni:</string>
+    <string name="mibi_kr_required">(Necesar)</string>
     <string name="mibi_label_balance">Balanță</string>
     <string name="mibi_label_giftcard">Card cadou</string>
     <string name="mibi_label_giftcard_with_num">Card cadou(%1$s)</string>
@@ -361,6 +382,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_license_message_span">Acordul utilizatorului Monede Mi</string>
     <string name="mibi_license_title">Termenii și condițiile</string>
     <string name="mibi_list_item_bottom_hint">"Ați ajuns la capătul listei"</string>
+    <string name="mibi_location">Locație</string>
+    <string name="mibi_location_detail">Accesarea informațiilor despre locație pentru a asigura securitatea plății</string>
     <string name="mibi_login">Conectare</string>
     <string name="mibi_memu_refresh">Reîncărcați</string>
     <string name="mibi_menu_feedback">Feedback</string>
@@ -437,6 +460,8 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_permanently_denied_perm_camera">Permiteți accesul la camera foto din Setări pentru a utiliza această funcție.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Permiteți trimiterea de mesaje SMS din Setări pentru a utiliza această funcție.</string>
     <string name="mibi_permission_des_camera">Folosit pentru OCR pentru a identifica numărul cardului de reîncărcare a telefonului mobil etc.</string>
+    <string name="mibi_phone">Telefon</string>
+    <string name="mibi_phone_detail">Accesarea IMEI-ului pentru a asigura securitatea plăților</string>
     <string name="mibi_prepaid_card_hint">Toate reîncărcările sunt o singură dată, iar valoarea nominală selectată trebuie să fie în concordanță cu cardul de reîncărcare. O selecție greșită va duce la pierderea de fonduri.</string>
     <string name="mibi_prepaid_card_hint_input_card_num">Vă rugăm să introduceți numărul cardului</string>
     <string name="mibi_prepaid_card_hint_input_pwd">Vă rugăm să introduceți parola</string>
@@ -498,7 +523,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"Plata nu a ajuns în contul dvs. încă."</string>
     <string name="mibi_prompt_info_button_hint">Atenție(%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use"><Data>&lt;font color=#ff7700>Monedele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe mi.com.&lt;/font></Data></string>
+    <string name="mibi_prompt_info_for_first_use"><Data>"&lt;font color=#ff7700>Mi Coin nu poate fi folosit pentru a cumpăra produse hardware pe Mi.com.&lt;/font>"</Data></string>
     <string name="mibi_prompt_info_title">Ponturi</string>
     <string name="mibi_push_register_fail">Înregistrare push eșuată.</string>
     <string name="mibi_push_register_success">Înregistrare push cu succes.</string>
@@ -511,7 +536,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_recharge_amount_list_mibi_unit">Mi</string>
     <string name="mibi_recharge_grid_error_denomination">Suma trebuie să fie între %1$s și %2$s Monede Mi.</string>
     <string name="mibi_recharge_grid_item_more">Mai multe</string>
-    <string name="mibi_recharge_grid_mibi_picker_hint">Selectați suma</string>
+    <string name="mibi_recharge_grid_mibi_picker_hint">Alegeți suma</string>
     <string name="mibi_recharge_grid_money_picker_hint">Selectați suma</string>
     <string name="mibi_recharge_input_amount_hint">Vă rugăm să introduceți suma</string>
     <string name="mibi_recharge_label">Suplimentați</string>
@@ -576,6 +601,8 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="mibi_sms_code_empty">Introduceți codul de verificare trimis către telefonul dvs.</string>
     <string name="mibi_sms_code_error">Eroare cod de verificare, vă rugăm să-l obțineți din nou</string>
     <string name="mibi_sms_code_hint">Introduceți codul de verificare format din 3 ~ 6 cifre</string>
+    <string name="mibi_storage">Stocarea</string>
+    <string name="mibi_storage_detail">Pentru salvarea articolelor din cache ale unor metode de plată terțe</string>
     <string name="mibi_string_with_bracket">(%s)</string>
     <string name="mibi_summary_bind_phone">Pentru asigurarea securității contului dvs., vă rugăm să efectuați plata după asocierea numărului de telefon mobil.</string>
     <string name="mibi_summary_custom_service_phone">Tel:</string>
@@ -604,6 +631,7 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="mibi_web_login_waiting">Așteptați vă rog…</string>
     <string name="mibi_web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="midnight">Noapte</string>
+    <string name="mishop_login_other">Alt cont</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
@@ -673,6 +701,8 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="nick_name">Pseudonim</string>
     <string name="night">Seară</string>
     <string name="no_account">Neconectat</string>
@@ -680,7 +710,7 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="noon">Amiază</string>
     <string name="ok">OK</string>
-    <string name="open_settings">Mergeți la setări</string>
+    <string name="open_settings">Setări</string>
     <string name="passport_access_denied">Acces nepermis</string>
     <string name="passport_account_crop_user_avatar">Decupați fotografia</string>
     <string name="passport_account_empty_user_name">Introduceți numele dvs.</string>
@@ -690,6 +720,7 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_account_error_shorter_user_name">Numele trebuie să fie mai lung de %d caractere</string>
     <string name="passport_account_error_user_name">Acest pseudonim este nevalid. Încercați unul diferit.</string>
     <string name="passport_account_invalid_user_avatar">Această fotografie este nevalidă. Încercați una diferită.</string>
+    <string name="passport_account_label">Cont Mi</string>
     <string name="passport_account_name">"Cont: %1$s "</string>
     <string name="passport_account_no_set">Nimic</string>
     <string name="passport_account_none_bind_info">Nimic</string>
@@ -707,6 +738,7 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_account_user_name">Pseudonim</string>
     <string name="passport_account_user_name_dialog_title">Introduceți numele</string>
     <string name="passport_account_user_phone">Telefon de recuperare</string>
+    <string name="passport_activate_token_expired">Codul de verificare a expirat. Încercați din nou.</string>
     <string name="passport_activity_not_found_notice">Nu se poate găsi aplicația</string>
     <string name="passport_agree">Accept</string>
     <string name="passport_area_code_title">Prefixul țării</string>
@@ -714,13 +746,15 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="passport_back">Înapoi</string>
     <string name="passport_bad_authentication">Numele de utilizator sau parola sunt incorecte</string>
-    <string name="passport_can_not_recevie_verify_code">Nu ați primit un cod?</string>
-    <string name="passport_change_password">Modificați parola</string>
-    <string name="passport_check_security">Se verifică problemele de securitate…</string>
+    <string name="passport_barcode_add_account_prompt">Pentru a adăuga un cont, scanați din nou codul QR după ce vă conectați.</string>
+    <string name="passport_can_not_receive_verification_code">Nu puteți primi codul de verificare?</string>
+    <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Se verifică parola…</string>
     <string name="passport_clear_input">Ștergeți conținutul introdus</string>
+    <string name="passport_close">Închideți</string>
     <string name="passport_copy_link">Copiați URL-ul</string>
     <string name="passport_copy_to_clipboard_successful">Copiat cu succes</string>
+    <string name="passport_delete_account">Deconectați-vă</string>
     <string name="passport_dialog_captcha_title">Cod</string>
     <string name="passport_dialog_doing_login">Se conectează…</string>
     <string name="passport_dialog_doing_register">Se crează contul…</string>
@@ -731,17 +765,22 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_dialog_phone_number_prefix">Numărul de telefon: %s</string>
     <string name="passport_dialog_register_other">Nu, voi crea unul</string>
     <string name="passport_doing_query_account">Se verifică informațiile contului…</string>
+    <string name="passport_email">Adresa de e-mail</string>
+    <string name="passport_empty_password">Parola nu poate fi necompletată</string>
+    <string name="passport_empty_user_name">Numele de utilizator nu poate fi necompletat</string>
     <string name="passport_error_auth_fail">Sesiunea a expirat. Autentificați-vă din nou.</string>
     <string name="passport_error_device_id">Nu s-a putut obține ID-ul telefonului</string>
-    <string name="passport_error_dup_binded_email">Această adresă de e-mail este deja asociată cu un alt cont Xiaomi.</string>
-    <string name="passport_error_empty_password">Introduceți parola</string>
-    <string name="passport_error_empty_pwd">Parola nu poate fi lăsată necompletată</string>
-    <string name="passport_error_empty_user_id">Introduceți numele de utilizator</string>
-    <string name="passport_error_invalid_bind_address">Adresa de e-mail pe care ați introdus-o nu este validă.</string>
-    <string name="passport_error_length_limit">Textul introdus este prea lung</string>
+    <string name="passport_error_email">Adresa de e-mail pe care ați introdus-o nu este validă</string>
+    <string name="passport_error_empty_captcha_code">Introduceți codul captcha</string>
+    <string name="passport_error_empty_email">Introduceți adresa de e-mail</string>
+    <string name="passport_error_empty_phone_num">Introduceți numărul de telefon</string>
+    <string name="passport_error_empty_pwd">Parola nu poate fi necompletată</string>
+    <string name="passport_error_empty_vcode">Introduceți codul de verificare</string>
+    <string name="passport_error_empty_voice_code">Introduceți codul captcha</string>
+    <string name="passport_error_illegal_pwd">Parolă nevalidă</string>
     <string name="passport_error_network">Nu se poate conecta la rețea</string>
     <string name="passport_error_no_password_user">Nu ați setat încă parola. Conectați-vă prin SMS.</string>
-    <string name="passport_error_phone">Număr de telefon nevalid</string>
+    <string name="passport_error_phone_error">Număr de telefon nevalid</string>
     <string name="passport_error_server">Eroare de server</string>
     <string name="passport_error_sms_limit">Au fost trimise prea multe coduri de verificare la acest număr. Încercați mai târziu.</string>
     <string name="passport_error_ticket_invalid">Acest cod este incorect</string>
@@ -751,13 +790,11 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_error_unknow_host_network_error">Nu s-a putut conecta la rețea</string>
     <string name="passport_error_unknow_network_error">A apărut o eroare de rețea</string>
     <string name="passport_error_unknown">Eroare necunoscută</string>
+    <string name="passport_error_user_agreement_error">Acceptați mai întâi termenii și condițiile</string>
     <string name="passport_error_user_name">Numele de utilizator introdus nu este valid.</string>
-    <string name="passport_error_user_password">Parolele nu se potrivesc</string>
-    <string name="passport_exceed_binded_phone_times_notice">Acest număr de telefon este deja asociat cu un alt cont Xiaomi.</string>
-    <string name="passport_facebook_login_btn_content_description">Conectați-vă cu Facebook</string>
-    <string name="passport_frequency_try_later">Prea multe incercări. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="passport_get_login_type_next">Următorul</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">Au fost trimise prea multe coduri de verificare la acest număr. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="passport_forget_password"><u>Am uitat parola</u></string>
+    <string name="passport_get_verify_code">Obțineți codul</string>
+    <string name="passport_getting_verify_code">Doar o secundă…</string>
     <string name="passport_google_login_btn_content_description">Conectați-vă cu Google</string>
     <string name="passport_help">Ajutor</string>
     <string name="passport_i_know">Am înțeles</string>
@@ -765,12 +802,15 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_input_captcha_hint">Introduceți codul</string>
     <string name="passport_input_email_address_notice">Vom folosi această adresă de e-mail pentru a vă verifica contul</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
-    <string name="passport_input_phone_number_hint">Introduceți numărul de telefon</string>
-    <string name="passport_input_verify_code">Introduceți codul de verificare</string>
+    <string name="passport_input_phone_hint">Introduceți numărul de telefon</string>
+    <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
     <string name="passport_input_voice_captcha_hint">Introduceți codul vocal de verificare</string>
     <string name="passport_input_voice_hint">Introduceți codul vocal</string>
+    <string name="passport_international_phone_password_login_tip">(Utilizatorii din afara Chinei trebuie să introducă numărul de telefon mobil în următorul format: +[prefix [prefix] [număr de telefon], de exemplu: +91 817282982)</string>
+    <string name="passport_log_detail">Vedeți detalii</string>
     <string name="passport_login_by_local_phone_long_text">Conectați-vă acum</string>
     <string name="passport_login_by_local_phone_short_text">Conectați-vă</string>
+    <string name="passport_login_failed">Nu s-a putut conecta</string>
     <string name="passport_login_other">Alt cont Xiaomi</string>
     <string name="passport_login_register_by_local_phone_long_text">Creați un cont</string>
     <string name="passport_login_with_sns">Alte modalități de conectare</string>
@@ -781,21 +821,21 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_network_error_hint">Verificați adresa URL și încercați din nou sau copiați adresa URL și deschideți-o în browser.</string>
     <string name="passport_network_timeout">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="passport_next">Următorul</string>
-    <string name="passport_no_account">Neconectat</string>
-    <string name="passport_open_settings">Setări</string>
-    <string name="passport_page_load_failed">Nu se poate deschide pagina</string>
-    <string name="passport_password_login_btn">Conectați-vă</string>
-    <string name="passport_password_not_show">Nu afișa parola</string>
-    <string name="passport_password_show">Afișează parola</string>
-    <string name="passport_phone_auto_login_register_with_local_number">Creați un cont</string>
-    <string name="passport_photo_picker_not_found">Nicio fotografie disponibilă.</string>
-    <string name="passport_qq_login_btn_content_description">Conectați-vă prin QQ</string>
+    <string name="passport_next_step">URMĂTORUL</string>
+    <string name="passport_oauth_actionbar_title">Cont Mi</string>
+    <string name="passport_oauth_sucess_tip">Autorizat cu succes</string>
+    <string name="passport_password_req_notice">Parola trebuie să aibă 8-16 caractere și să combine cel puțin două dintre următoarele: cifre, litere și simboluri speciale (de exemplu, 123abc@#, sau 123abc sau abc@#).</string>
     <string name="passport_querying_phone_info">Se solicită informațiile contului…</string>
+    <string name="passport_quick_login_dialog_step2_title">verificare în 2 pași</string>
+    <string name="passport_quick_login_dialog_title">Verificați parola</string>
+    <string name="passport_quick_login_step2_title">verificare în 2 pași</string>
     <string name="passport_quick_login_title">Introduceți parola</string>
+    <string name="passport_re_get_verify_code">Obțineți codul din nou</string>
     <string name="passport_reging">Se crează contul…</string>
     <string name="passport_register_by_local_phone_long_text">Creați un cont</string>
     <string name="passport_register_by_local_phone_short_text">Creați un cont</string>
     <string name="passport_register_restricted">S-au asociat prea multe conturi acestui număr de telefon. Încercați cu un altul.</string>
+    <string name="passport_reload_ph_ticket">Trimiteți din nou</string>
     <string name="passport_relogin_notice">Trebuie să vă conectați din nou</string>
     <string name="passport_request_agree">Permiteți</string>
     <string name="passport_request_camera_permission_message">"Vă vom proteja informațiile personale în conformitate cu legile și reglementările relevante. Această aplicație are nevoie de următoarele permisiuni pentru a funcționa normal:&lt;br>&lt;br>&lt;b>Utilizarea camerei (pentru setarea fotografiei de profil)&lt;/b>&lt;br>&lt;br>Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea folosi unele funcții ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs. Puteți oricând să restricționați permisiunile sau să vă revocați autorizația din Setări."</string>
@@ -811,38 +851,32 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="passport_same_new_and_old_pwd">u poate fi aceeași cu parola actuală</string>
     <string name="passport_send_sms_to">Cod trimis la %1$s</string>
     <string name="passport_send_too_many_code">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="passport_send_too_many_sms">Au fost trimise prea multe coduri de verificare la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="passport_sending_vcode">Se trimite codul…</string>
-    <string name="passport_service_error">Eroare de server</string>
+    <string name="passport_set_password">Setați parola</string>
     <string name="passport_set_password_no_phone_msg">Adăugați-vă numărul de telefon pentru a vă proteja contul.</string>
-    <string name="passport_skip_query_account">Omiteți</string>
-    <string name="passport_sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
-    <string name="passport_sns_bind_limit">Prea multe incercări. Încercați alte modalități de a vă conecta.</string>
-    <string name="passport_system_error">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="passport_sign_in">Conectați-vă</string>
+    <string name="passport_sign_in_or_sign_up">Conectați-vă/Creați un cont</string>
+    <string name="passport_sms_phone_intro">Cod trimis la %1$s</string>
     <string name="passport_talkback_image_captcha">Cod de verificare sub formă de imagine</string>
     <string name="passport_talkback_switch_image_captcha">Comutați la cod de verificare sub formă de imagine</string>
     <string name="passport_talkback_switch_voice_captcha">Comutați la cod de verificare vocal</string>
     <string name="passport_talkback_voice_captcha">Redați codul de verificare vocal</string>
-    <string name="passport_ticket_send_by_second">Trimiteți în %d</string>
-    <string name="passport_to_forget_password">Aţi uitat parola?</string>
-    <string name="passport_to_password_login">Conectați-vă utilizând parola</string>
-    <string name="passport_to_verify_code_login">Conectați-vă prin SMS</string>
-    <string name="passport_unknown_error">Eroare necunoscută</string>
-    <string name="passport_unknown_host_network_error">Verificați setările de rețea și încercați din nou</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href=%3 a contului Xiaomi $s>Acordul utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a contului Xiaomi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a contului Xiaomi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a contului Xiaomi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și cu &lt;a href=%2$s>Politica de confidențialitate a contului Xiaomi&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_first_login">Vom crea un cont automat dacă utilizați numărul de telefon pentru prima dată.</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a contului Xiaomi, precum și cu &lt;a href =%3$s>Termenii și condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a contului Xiaomi, precum și cu &lt;a href =%3$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a contului Xiaomi, precum și cu &lt;a href =%3$s>Termenii și condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_avatar_update_title">Schimbați fotografia de profil</string>
-    <string name="passport_user_avatar_uploading">Doar o secundă…</string>
-    <string name="passport_user_id_hint">E-mail/număr de telefon/ID cont Xiaomi</string>
-    <string name="passport_user_name_phone_number">Număr de telefon</string>
-    <string name="passport_user_password_hint">Parola</string>
-    <string name="passport_vcode_what_app_send_prompt">Codul de verificare WhatsApp va fi trimis pe telefonul de recuperare (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+    <string name="passport_timeout_network_error">Solicitarea rețelei a expirat</string>
+    <string name="passport_trust_device">Acesta este un dispozitiv de încredere</string>
+    <string name="passport_trying_read_verify_code_sms">Se obține codul de verificare…</string>
+    <string name="passport_unknow_error">A apărut o eroare necunoscută</string>
+    <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
+    <string name="passport_unknow_network_error">A apărut o eroare de rețea</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate Xiaomi&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Am citit și am acceptat următoarele documente: &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate Xiaomi&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
+    <string name="passport_v_code_error">Codul de verificare este incorect</string>
+    <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
+    <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
+    <string name="passport_vcode_sms_send_prompt">Cod trimis la %s</string>
+    <string name="passport_verification_failed">Nu s-a putut verifica</string>
+    <string name="passport_verify">Verificați</string>
     <string name="passport_wechat_not_install">Mai întâi instalați WeChat</string>
     <string name="passport_weibo_login_btn_content_description">Conectați-vă prin Weibo</string>
     <string name="passport_weixin_login_btn_content_description">Conectați-vă prin WeChat</string>
@@ -856,11 +890,25 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="phone_number">Număr de telefon</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
+    <string name="please_agree_protocal">Vă rugăm să acceptați Protocolul</string>
     <string name="pm">PM</string>
+    <string name="progressbar_title">Se verifică problemele de securitate…</string>
+    <string name="protocal_dialog_cancel">Renunțați</string>
+    <string name="protocal_dialog_confirm">De acord</string>
+    <string name="protocal_dialog_title">Atenție</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
     <string name="qq_application_id"/>
-    <string name="request_camera_permission_message">Acest serviciu trebuie să vă solicite permisiunea după cum urmează; vom respecta cu strictețe legile în vigoare pentru a vă proteja informațiile personale: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesarea Camerei foto: experimentați servicii de înregistrare în timp real pentru setarea Avatarului &lt;/b&gt;&lt;br&gt;&lt;br&gt; Dacă nu sunteți de acord să acordați permisiunile de mai sus, această funcție nu va funcționa corect, dar nu va afecta utilizarea funcțiilor de bază ale acestei aplicații. Puteți alege să dezactivați acordarea permisiunii de mai sus din setările sistemului pentru a vă retrage consimțământul.</string>
+    <string name="qq_login_btn_content_description">Conectați-vă utilizând QQ</string>
+    <string name="register_by_local_phone_long_text">Creați un cont</string>
+    <string name="register_by_local_phone_short_text">Creați un cont</string>
+    <string name="request_agree">Permiteți</string>
+    <string name="request_camera_permission_message">"Vă vom proteja informațiile personale în conformitate cu legile și reglementările relevante. Această aplicație are nevoie de următoarele permisiuni pentru a funcționa normal:&lt;br>&lt;br>&lt;b>Utilizarea camerei(pentru setarea fotografiei de profil)&lt;/b>&lt;br>&lt;br>Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea folosi unele funcții ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs. Puteți oricând să restricționați permisiunile sau să vă revocați autorizația din Setări."</string>
+    <string name="request_cancel">Renunțați</string>
+    <string name="request_error_invalid_token">Nu s-a putut verifica</string>
+    <string name="request_error_network">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="request_error_unknown">A apărut o eroare de sistem. Întoarceți-vă și încercați din nou.</string>
+    <string name="request_gallery_permission_message">Permiteți accesul la Galerie:&lt;br />Pentru setarea fotografiilor de profil</string>
     <string name="resend_active_email">Retrimiteți</string>
     <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailul de verificare nu a ajuns în dosarul Spam.</string>
     <string name="resend_email_reach_limit_title">Prea multe încercări</string>
@@ -882,6 +930,7 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="sign_in">Se conectează</string>
     <string name="sign_in_progress">Se conectează…</string>
     <string name="sign_in_title">Conectați-vă prin contul Mi</string>
+    <string name="skip_query_account">Omiteți</string>
     <string name="sms_send_success">Trimis cu succes</string>
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
     <string name="sns_bind_limit">Prea multe încercări. Încercați alte modalități de conectare.</string>
@@ -913,6 +962,7 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="temporary_not_available">Această caracteristică nu este disponibilă încă</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
@@ -968,13 +1018,27 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul de recuperare.</string>
     <string name="update_email_address_dialog_title">Actualizați e-mailul de recuperare</string>
     <string name="update_phone_notice">Modificați setările de securitate</string>
     <string name="upload_error_log">Încărcați jurnalul</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> precum și &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a> a Contului Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a> a Contului Mi, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare a China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a> a Contului Mi, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a> a Contului Mi, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> a Contului Mi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate.&lt;/a> Prima conectare va crea automat un cont Xiaomi"</Data></string>
+    <string name="user_agreement_hint_first_login">Vom crea un cont automat dacă utilizați numărul de telefon pentru prima dată.</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> a Contului Mi, precum și &lt;a href=%3$s>Termenii și condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> a Contului Mi, precum și &lt;a href=%3$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> a Contului Mi, precum și &lt;a href=%3$s>Termenii și condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> precum și &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a> a Contului Mi."</Data></string>
     <string name="user_avatar_update_title">Modificați fotografia de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="user_id_hint">E-mail/Număr de telefon/ID-ul contului Mi</string>
+    <string name="user_name_phone_number">Număr de telefon</string>
     <string name="v_code_title">Introduceți codul de verificare</string>
     <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="web_sso_login_message">Se conectează…</string>
@@ -986,6 +1050,8 @@ Deoarece furnizarea serviciilor MiCoin se bazează pe colectarea informațiilor 
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="weibo_application_id"/>
+    <string name="weibo_login_btn_content_description">Conectați-vă cu Weibo</string>
     <string name="weibo_redirect_uri"/>
+    <string name="weixin_login_btn_content_description">Conectați-vă cu WeChat</string>
     <string name="yesterday">Ieri</string>
 </resources>
