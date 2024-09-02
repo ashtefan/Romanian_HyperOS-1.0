@@ -992,7 +992,7 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="priority_normal">Normală</string>
     <string name="privacy_dialog_error_service">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="privacy_dialog_text_policy_link">Politica de confidențialitate</string>
-    <string formatted="false" name="privacy_dialog_tips_revoke"Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a %s. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece %s își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile %s. Retrageți consimțământul acum?</string>
+    <string formatted="false" name="privacy_dialog_tips_revoke">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a %s. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece %s își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile %s. Retrageți consimțământul acum?</string>
     <string formatted="false" name="privacy_dialog_tips_update">"%s Politica de confidențialitate a fost actualizată:
 %s
 Citiți și acceptați noua versiune a Politicii de confidențialitate înainte de a continua."</string>
