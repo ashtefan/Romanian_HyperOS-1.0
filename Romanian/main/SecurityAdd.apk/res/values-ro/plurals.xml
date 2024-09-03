@@ -105,4 +105,12 @@
         <item quantity="other">%s minute de timp de ecran activ rămas</item>
         <item quantity="one">%s minut de timp de ecran activ rămas</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
 </resources>

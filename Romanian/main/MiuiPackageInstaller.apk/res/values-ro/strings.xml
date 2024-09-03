@@ -601,7 +601,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="install_hint_risk_detail">Detalii</string>
     <string name="install_hint_risk_found">Riscuri detectate</string>
     <string name="install_hint_risk_found_description">"Instalarea acestei aplicații poate prezenta riscuri de securitate. "</string>
-    <string name="install_hint_risk_unregistered">"Dezvoltatorul nu a furnizat autorităților de reglementare listarea acestei aplicații. Ar putea să conțină viruși, să vă acceseze informațiile personale și să prezinte alte probleme de securitate. Dacă ați furnizat deja lista acestei aplicații autorităților de reglementare în calitate de dezvoltator, puteți trimite o contestație. Trimiteți acum"</string>
+    <string name="install_hint_risk_unregistered">Dezvoltatorul nu a furnizat autorităților de reglementare listarea acestei aplicații. Ar putea să conțină viruși, să vă acceseze informațiile personale și să prezinte alte probleme de securitate. Dacă ați furnizat deja lista acestei aplicații autorităților de reglementare în calitate de dezvoltator, puteți trimite o contestație. Trimiteți acum</string>
     <string name="install_hint_risk_unregistered_clickable">Trimiteți acum</string>
     <string name="install_package_description">>Detalii pachet de instalare</string>
     <string name="install_package_error">Această aplicație nu este compatibilă cu sistemul dvs.</string>
@@ -800,7 +800,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_install_fail_reason">Motivul</string>
     <string name="miui_install_failed_reason">Această aplicație nu este compatibilă cu dispozitivul dvs</string>
     <string name="miui_install_failed_suggestion">Utilizați o versiune compatibilă a acestei aplicații</string>
-    <string name="miui_install_source_unkown">necunoscut</string>
+    <string name="miui_install_source_unkown">Necunoscut</string>
     <string name="miui_install_success">Instalată cu succes</string>
     <string name="miui_install_version">Versiune: %1$s | Dimensiune: %2$s</string>
     <string name="miui_install_version_3">Versiunea: %1$s -> %2$s | Dimensiune: %3$s</string>
@@ -1573,6 +1573,8 @@ aplicațiile"</string>
     <string name="sure_ok">Am înțeles</string>
     <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="system_warning">Dacă refuzați această permisiune, este posibil ca funcțiile de bază ale dispozitivului să nu mai funcționeze corespunzător.</string>
+    <string name="tango_dialog_content">Activați Modul de compatibilitate a aplicațiilor pentru a putea instala aplicații pe %1$d biți.</string>
+    <string name="tango_dialog_title">Modul de compatibilitate a aplicațiilor</string>
     <string name="telephony_monitor_switch">Monitorizare Telefon</string>
     <string name="telephony_monitor_switch_summary">Monitorizarea Telefonului va colecta jurnale când va detecta o problemă cu funcționalitatea telefonului/modemului și va afișa o notificare de trimitere raport</string>
     <string name="tether_settings_title_all">Tethering și hotspot portabil</string>

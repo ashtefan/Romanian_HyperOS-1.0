@@ -54,12 +54,17 @@
     <string name="account_user_name">Pseudonim</string>
     <string name="account_user_name_dialog_title">Introduceți numele de utilizator</string>
     <string name="account_user_phone">Număr de telefon pentru recuperare</string>
+    <string name="action_copy">Copiați</string>
+    <string name="action_notes">Salvați în Notițe</string>
+    <string name="action_retry">Încercați din nou</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în 24 de ore</string>
     <string name="activity_not_found_notice">Nu se poate găsi aplicația</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
     <string name="afternoon">După amiază</string>
     <string name="agree_description">Permiteți acestei aplicații să se conecteze la internet pentru a putea utiliza toate funcțiile acesteia.</string>
+    <string name="ai_summary">Rezumat AI</string>
+    <string name="ai_watermark">Acest conținut este generat de inteligența artificială și este furnizat doar pentru referință.</string>
     <string name="alert_message_clear_records">Ștergeți înregistrările selectate?</string>
     <string name="alert_message_delete_local_record">Ștergeți această înregistrare?</string>
     <string name="alert_message_delete_record">Dacă ștergeți înregistrarea de pe telefon, aceasta va fi ștearsă și din Xiaomi Cloud. Ştergeți înregistrările selectate oricum?</string>
@@ -72,10 +77,18 @@
     <string name="app_record_preference_title">Înregistrare Apeluri Telefonice</string>
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="back">Înapoi</string>
+    <string name="back_playback_position">Reveniți la poziția curentă</string>
     <string name="bottomsheet_action_expand_halfway">Extinde pe jumătate</string>
     <string name="btn_continue_record_description">Reluați înregistrarea</string>
     <string name="button_queue_for_wifi">În coadă</string>
     <string name="button_start_now">Descărcaţi</string>
+    <string name="call_notification_answer_action">Răspundeți</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Refuzați</string>
+    <string name="call_notification_hang_up_action">Închideți</string>
+    <string name="call_notification_incoming_text">Apel de intrare</string>
+    <string name="call_notification_ongoing_text">Apel în curs</string>
+    <string name="call_notification_screening_text">Afișarea unui apel primit</string>
     <string name="call_record">Apeluri înregistrate</string>
     <string name="call_record_list_group_all">Toate</string>
     <string name="call_record_list_group_connected">Conectate</string>
@@ -156,6 +169,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="error_invalid_bind_address">Adresa de e-mail pe care ați introdus-o nu este validă.</string>
     <string name="error_sdcard_access">"Nu se poate accesa cardul SD"</string>
     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
+    <string name="error_tip">A apărut o eroare de rețea</string>
     <string name="evening">După amiază</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este deja asociat cu un alt cont Mi.</string>
     <string name="expand_button_title">Avansat</string>
@@ -222,6 +236,14 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_phone_verifycode_exceed_limit">Au fost trimise prea multe coduri de verificare la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="getverifycode_seconde">s</string>
     <string name="google_login_btn_content_description">Conectați-vă prin Google</string>
+    <string name="guide_update_confirm_dialog_message">Dacă alegeți să nu actualizați Mi AI Translate, nu veți putea accesa unele funcții.</string>
+    <string name="guide_update_confirm_dialog_negative_button">Nu acum</string>
+    <string name="guide_update_confirm_dialog_positive_button">Actualizează</string>
+    <string name="guide_update_confirm_dialog_title">Omiteți această actualizare?</string>
+    <string name="guide_update_dialog_message">Actualizați Mi AI Translate pentru a obține acces la funcții precum transcrierea audio, recunoașterea inteligentă a difuzoarelor și multe altele. Actualizați acum?</string>
+    <string name="guide_update_dialog_negative_button">Nu acum</string>
+    <string name="guide_update_dialog_positive_button">Actualizează</string>
+    <string name="guide_update_dialog_title">Actualizați Mi AI Translate</string>
     <string name="head_set_tip_dialog_msg">Deconectați căștile pentru a putea înregistra sunetul cu presetările specifice (de ex. Muzică, Voce).</string>
     <string name="head_set_tip_dialog_ok">Am înțeles</string>
     <string name="head_set_tip_dialog_title">Utilizați microfonul intern</string>
@@ -249,6 +271,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher pentru Android</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_more">Doar o secundă…</string>
+    <string name="loading_text">Sumarizare…</string>
     <string name="login_by_local_phone_long_text">Înscrieți-vă acum</string>
     <string name="login_by_local_phone_short_text">Înscrieți-vă</string>
     <string name="login_other">Alt cont Mi</string>
@@ -262,7 +285,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="lyric_item_point_count">%1$d la %2$d</string>
     <string name="manage_external_storage">Accesați toate fișierele</string>
-    <string name="mark_point_list_title">Marcaje</string>
+    <string name="mark_add_toast">Adăugat cu succes</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
     <string name="material_hour_selection">Selectați ora</string>
@@ -583,7 +606,14 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="play_speed">Viteza %1$.1fX</string>
     <string name="playback_delete_records">Ștergeți înregistrarea</string>
+    <string name="playback_menu_hide_speaker">Ascunde numele vorbitorilor</string>
+    <string name="playback_menu_rerecognize">Transcrie din nou</string>
+    <string name="playback_menu_share">Partajează</string>
+    <string name="playback_menu_show_speaker">Afișați numele vorbitorilor</string>
+    <string name="playback_menu_to_note">Salvează în Notițe</string>
     <string name="playback_share_records">Partajați înregistrarea</string>
+    <string name="playback_tabs_audio">Audio</string>
+    <string name="playback_tabs_text">Text</string>
     <string name="please_agree_protocal">Vă rugăm să acceptați Protocolul</string>
     <string name="pm">PM</string>
     <string name="preference_clear_data">Goliți datele</string>
@@ -602,8 +632,12 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="preference_silent_mode">Dezactivaţi soneria în timpul înregistrării</string>
     <string name="preference_status_bar_indicator_prompt">Afișați un indicator albastru pe ecranul de blocare în timpul înregistrării</string>
     <string name="preference_tip_rename">Denumire înregistrare în mod manual</string>
-    <string name="privacy_policy_title">Politica de Confidențialitate</string>
+    <string name="privacy_dialog_content">Dacă veți continua, vă veți retrage consimțământul de la Politica de confidențialitate a Înregistrării de sunete. Vom înceta să colectăm informațiile dvs. personale. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specificată, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Înregistrare sunete își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile aplicației. Retragerea consimțământului nu va șterge înregistrările stocate pe dispozitivul dvs. Retrageți consimțământul acum?</string>
+    <string name="privacy_dialog_negative_button">Retrageți</string>
+    <string name="privacy_dialog_positive_button">Renunțați</string>
+    <string name="privacy_dialog_title">Retragerea consimțământului</string>
     <string name="privacy_settings">Confidențialitate</string>
+    <string name="privacy_withdraw">Retragerea consimțământului</string>
     <string name="progress">Bara de progres a redării</string>
     <string name="progressbar_title">Se verifică problemele de securitate…</string>
     <string name="protocal_dialog_confirm">De acord</string>
@@ -630,6 +664,8 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="recognition_error_stopped">Transcrierea s-a oprit</string>
     <string name="recognition_error_unknown">A apărut o eroare necunoscută. Raportați-o și încercați din nou.</string>
     <string name="recognition_interrupt_current_dialog_body">"Transcrierea poate dura ceva timp. Veți primi o notificare când sarcina s-a finalizat. \"%s\" este în curs de transcriere. O adăugați în lista sarcinilor de transcriere acum?</string>
+    <string name="recognition_language_dialog_cancel">Renunțați</string>
+    <string name="recognition_language_dialog_title">Selectați limba sursă</string>
     <string name="recognition_notification_channel">Se transcrie</string>
     <string name="recognition_notification_complete_success">\"%s\" s-a transcris cu succes. Atingeți pentru a vedea.</string>
     <string name="recognition_notification_error">Nu s-a putut transcrie \"%s\"</string>
@@ -651,7 +687,9 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="recognize_choose_dialog_service_desp">Serviciile de transcriere sunt furnizate de către iflyrec.com</string>
     <string name="recognize_choose_dialog_service_intruction">Termenii Serviciului</string>
     <string name="recognize_choose_dialog_title">Selectați metoda de transcriere</string>
+    <string name="recognize_complete_toast">Transcriere completă</string>
     <string name="recognize_extra_price_desp">(Ofertă exclusivă pentru utilizatorii Mi)</string>
+    <string name="recognizing_not_rename">Nu se poate redenumi în timpul înregistrării</string>
     <string name="record">Înregistrați</string>
     <string name="record_back_pressed_hint">Pentru a opri înregistrarea, atingeţi Înapoi din nou</string>
     <string name="record_download">Descărcaţi din Xiaomi Cloud</string>
@@ -722,6 +760,8 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="rename_duplicate">O altă înregistrare cu acelaşi nume există deja.</string>
     <string name="rename_fail_tip">"Nu s-a putut redenumi. Un element cu acest nume există deja."</string>
     <string name="rename_no_more_tip">Nu se afişează din nou</string>
+    <string name="rename_speaker_dialog_checkbox">Actualizați doar în secțiunea curentă</string>
+    <string name="rename_speaker_dialog_title">Redenumiți vorbitorul</string>
     <string name="request_agree">Permiteți</string>
     <string name="request_camera_permission_message">"Vă vom proteja informațiile personale în conformitate cu legile și reglementările relevante. Această aplicație are nevoie de următoarele permisiuni pentru a funcționa normal:&lt;br>&lt;br>&lt;b>Folosirea camerei (pentru setarea fotografiei de profil)&lt;/b>&lt;br>&lt;br>Dacă nu sunteți de acord cu astfel de permisiuni, nu veți putea folosi unele funcții ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs. Puteți oricând să restricționați permisiunile sau să vă revocați autorizația din Setări."</string>
     <string name="request_cancel">Renunțați</string>
@@ -730,11 +770,16 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="request_error_unknown">A apărut o eroare de sistem. Întoarceți-vă și încercați din nou.</string>
     <string name="request_gallery_permission_message">Permiteți accesul la Galerie:&lt;br />Pentru setarea fotografiilor de profil</string>
     <string name="required_permissions">;</string>
+    <string name="rerecognize_dialog_message">Funcția noastră de transcriere actualizată poate recunoaște automat vorbitorii și pauzele de propoziție. Transcrieți din nou acest articol pentru a utiliza aceste noi funcții.</string>
+    <string name="rerecognize_dialog_negative_button">Nu acum</string>
+    <string name="rerecognize_dialog_positive_button">Transcrieți</string>
+    <string name="rerecognize_dialog_title">Transcrieți din nou?</string>
     <string name="resend_active_email">Retrimiteți</string>
     <string name="resend_email_reach_limit_message">Ați solicitat prea multe e-mailuri de verificare. Asigurați-vă că e-mailul de verificare nu se află în dosarul Spam al căsuței dvs. de e-mail.</string>
     <string name="resend_email_reach_limit_title">Prea multe încercări</string>
     <string name="resend_email_success">Trimis cu succes</string>
     <string name="retry">Reîncercaţi</string>
+    <string name="retry_toast">A apărut o eroare de rețea. Încercați din nou.</string>
     <string name="runtime_permission_ungranted">"Nu se poate utiliza aplicația de Înregistrare din cauza unor permisiuni neacordate</string>
     <string name="saf_permission_dialog_content">Din cauza restricțiilor Android, aplicația de Înregistrare are nevoie de permisiunea de a accesa înregistrările realizate de alte aplicații. Permiteți aplicației de Înregistrare să acceseze aceste înregistrări pentru a le putea vizualiza.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Setări</string>
@@ -804,6 +849,7 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="sound_recorder_settings">Setări</string>
+    <string name="speaker">SpeakerȀ</string>
     <string name="speech_recognition_complete">Transcris</string>
     <string name="speech_recognition_running_tip">"Se procesează "</string>
     <string name="start">Reluaţi</string>
@@ -812,6 +858,15 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="status_bar_recording_pause">Pauză înregistrare</string>
     <string name="stop_status_focus_notification">Înregistrare finalizată</string>
     <string name="storage_permission_dialog_title">Sunt necesare permisiuni pentru stocare</string>
+    <string name="summary_content_need_deal">Sarcini</string>
+    <string name="summary_content_result_content">Conținutul principal</string>
+    <string name="summary_content_theme">Subiect</string>
+    <string name="summary_copy">Copiat cu succes</string>
+    <string name="summary_error_limit_tip">Utilizarea acestei funcții a fost blocată</string>
+    <string name="summary_error_tip">Nu se poate rezuma conținut sensibil sau jignitor</string>
+    <string name="summary_information_tip">Conținutul de mai sus este generat de inteligența artificială și este oferit doar pentru referință.</string>
+    <string name="summary_size_max_tip">Prea mult conținut pentru a rezuma</string>
+    <string name="summary_size_min_tip">Prea puțin conținut pentru a rezuma</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
@@ -896,6 +951,7 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="toast_uninstall_fileexplorer">Aplicaţia Gestionare fișiere nu este instalată</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="translation_language">Selectați limba țintă</string>
     <string name="trash_box">Elemente șterse recent</string>
     <string name="trash_box_close_tip">Închideți fereastra de dialog</string>
     <string name="trash_box_delete_all">Ștergeți toate elementele din coșul de gunoi permanent?</string>
@@ -909,6 +965,7 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul de recuperare.</string>
     <string name="update_email_address_dialog_title">Actualizați e-mailul de recuperare</string>
     <string name="usage_description">Transcrierea înregistrărilor audio și sincronizarea elementelor în cloud</string>
+    <string name="user_agreement">Acordul utilizatorului</string>
     <string name="user_agreement_hint_3rd_app"><Data>"Am citit și am acceptat &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href=%3 a Contului Mi $s>Acordul utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>."</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a Contului Mi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a Contului Mi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>

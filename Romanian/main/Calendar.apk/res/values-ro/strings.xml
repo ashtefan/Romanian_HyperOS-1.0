@@ -288,7 +288,7 @@
     <string name="edit_event_reminder_3_days_before_time">Amintește-mi și cu %d zile înainte</string>
     <string name="edit_event_reminder_summary">În acea zi la %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">Cu %2$d zile înainte și în acea zi la %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before_today">Cu %1$d zile înainte și la %1$s în data stabilită</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">Cu %2$d zile înainte și la %1$s în data stabilită</string>
     <string name="edit_event_reminder_text">Pe %1$s la %2$s</string>
     <string name="edit_event_reminder_time">Oră memento</string>
     <string name="edit_event_reminder_with_another_day_text">Pe %1$s, %2$s la %3$s</string>

@@ -177,12 +177,8 @@
         <item quantity="one">S-a găsit %1$s videoclip nou</item>
     </plurals>
     <plurals name="search_head_hint_all">
-        <item quantity="other">Căutați rezultate (%1$d elemente)</item>
-        <item quantity="zero">Căutați rezultate (%1$d elemente)</item>
-        <item quantity="one">Căutați rezultate (%1$d element)</item>
-        <item quantity="two">Căutați rezultate (%1$d elemente)</item>
-        <item quantity="few">Căutați rezultate (%1$d elemente)</item>
-        <item quantity="many">Căutați rezultate (%1$d elemente)</item>
+        <item quantity="other">Rezultat (%1$d elemente)</item>
+        <item quantity="one">Rezultat (%1$d element)</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Fișiere asociate cu aplicaţia %1$s (%2$d elemente)</item>

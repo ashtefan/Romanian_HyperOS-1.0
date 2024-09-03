@@ -4016,6 +4016,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_low_battery_fast_charge_summary">Conectați încărcătorul furnizat pentru a accelera încărcarea atunci când ecranul este oprit și bateria este descărcată. Această caracteristică poate provoca încălzirea dispozitivului.</string>
     <string name="pc_low_temp_charge_summary">Țineți încărcătorul conectat și așteptați ca bateria să se încălzească după ce ecranul se stinge pentru a se încărca normal</string>
     <string name="pc_low_temp_charge_title">Încărcare la temperatură scăzută</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Limitați performanța dispozitivului pentru a prelungi durata de viață a acumulatorului atunci când temperatura ambientală este extrem de scăzută</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Modul de rezistență la rece</string>
     <string name="pc_main_activity_back">Înapoi</string>
     <string name="pc_main_battery_text_day">S-au adăugat %1$sm, aproximativ %2$sz rămase</string>
     <string name="pc_main_battery_text_day_hour">S-au adăugat %1$sm, aproximativ %2$sz și %3$sh rămase</string>
@@ -6050,8 +6052,9 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_dialog_massage">"Ultra economisirea acumulatorului restricționează cele mai multe caracteristici consumatoare de energie și scade performanța dispozitivului pentru a lăsa disponibile cât mai mult timp posibil funcționalități de bază (de exemplu apeluri, SMS și conectarea la rețea). Activați Ultra economisirea acumulatorului?"</string>
     <string name="superpower_dialog_title">Ultra economisirea acumulatorului</string>
-    <string name="superpower_notification_hint_enter">Activați</string>
-    <string name="superpower_notification_new_title">Mai puțin de %d%% acumulator disponibil</string>
+    <string name="superpower_notification_low_temp_btn_txt">Activați</string>
+    <string name="superpower_notification_low_temp_summary">Modul de rezistență la rece poate economisi mai mult acumulator atunci când Ultra Economisirea acumulatorului este activată și temperatura ambientală este extrem de scăzută</string>
+    <string name="superpower_notification_low_temp_title">Activați Ultra Economisirea acumulatorului?</string>
     <string name="superpower_notification_new_title_new">Mai puțin de %s acumulator disponibil</string>
     <string name="superpower_notification_summary">Încărcați dispozitivul sau activați Ultra economisirea acumulatorului</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
@@ -6059,6 +6062,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="superpower_notification_title_new">Mai puțin de %s acumulator disponibil</string>
     <string name="superpower_progress_content">Se activează Ultra economisirea acumulatorului…</string>
     <string name="superpower_progress_left_time">%1$dh și %2$dm</string>
+    <string name="superpower_progress_low_temp_content">Se activează modul de rezistență la rece…</string>
     <string name="superpower_progress_switch_home">Se comută la tema întunecată</string>
     <string name="superpower_progress_title">Timp rămas</string>
     <string name="superpower_progress_turndown_brightness">Se reduce iluminarea ecranului</string>

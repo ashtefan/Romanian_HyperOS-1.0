@@ -29,6 +29,10 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu %d minut în urmă</item>
     </plurals>
+    <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">Conținutul acestei notițe depășește limitele de procesare AI. Introduceți maxim %1$s caractere și încercați din nou.</item>
+        <item quantity="one">Conținutul acestei notițe depășește limitele de procesare AI. Introduceți maxim %1$s caracter și încercați din nou.</item>
+    </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Ștergeți %1$s elemente?</item>
         <item quantity="one">Ștergeți %1$s element?</item>
@@ -36,6 +40,10 @@
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$s nu s-au sincronizat"</item>
         <item quantity="one">"%1$s nu s-a sincronizat"</item>
+    </plurals>
+    <plurals name="corrected_title">
+        <item quantity="other">%1$s corecții</item>
+        <item quantity="one">%1$s corecție</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">Peste %1$d zile</item>

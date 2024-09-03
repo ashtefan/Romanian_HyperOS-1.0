@@ -54,6 +54,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Nu există suficient spațiu de stocare în cloud pentru a face copii de rezervă ale datelor WeChat. Actualizați planul de stocare pentru a face copii de rezervă pentru articole.</string>
     <string name="backup_action_no_space_with_wechat_on_title">Nu s-a putut face o copie de rezervă pentru datele WeChat</string>
     <string name="backup_action_retry_now">Încercați din nou</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Copierea de rezervă în cloud va colecta lista de aplicații instalate pe dispozitivul dvs. și va stoca aceste informații pe serverele noastre. Stocăm aceste date astfel încât să le puteți descărca și restaura ori de câte ori este necesar. Dacă sunteți de acord cu colectarea acestor informații, atingeți butonul \"Permiteți\" de mai jos.</string>
     <string name="backup_failed_reason_app_data_error">Nu s-a putut face o copie de rezervă pentru datele WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Acordați permisiunile necesare pentru a putea face o copie de rezervă</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nu există suficient spațiu de stocare în Xiaomi Cloud. Actualizați-vă planul sau eliberați spațiu de stocare.</string>
@@ -157,8 +158,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="cloud_backup_detail_manage">Administrare copii de rezervă</string>
     <string name="cloud_backup_detail_no_time">Nicio înregistrare de rezervă</string>
     <string name="cloud_backup_detail_state">Copii de rezervă automate</string>
-    <string name="cloud_backup_detail_state_summary">Creați copii de rezervă în Xiaomi Cloud în mod automat atunci când sunteți conectat la Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Dispozitivul trebuie să fie conectat la Wi-Fi, să fie la încărcat și să fie blocat</string>
+    <string name="cloud_backup_detail_state_summary">Necesită conexiune la Wi-Fi, acumulator de cel puțin %s și ecranul să fie oprit</string>
+    <string name="cloud_backup_detail_state_summary_china">Necesită conexiune la Wi-Fi, acumulator de cel puțin %s și ecranul să fie oprit</string>
     <string name="cloud_backup_detail_time">Data ultimei copii de rezervă: %1$s</string>
     <string name="cloud_backup_detail_title">Creați o copie de rezervă a elementelor.</string>
     <string name="cloud_backup_get_installed_apps_summary">Pentru a face backup și a restabili aplicațiile de pe Ecranul principal</string>

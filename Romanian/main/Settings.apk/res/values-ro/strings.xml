@@ -4970,7 +4970,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="importance_default">Implicit</string>
     <string name="importance_high">Ridicată</string>
     <string name="importance_low">Redusă</string>
-    <string name="importance_min">Minimă</string>
+    <string name="importance_min">Banală</string>
     <string name="importance_title">Importanță</string>
     <string name="important_bubble">Conversații prioritare cu bule</string>
     <string name="important_conversation_behavior_summary">Conversațiile prioritare sunt afișate în partea de sus a perdelei de glisare în jos. Puteți, de asemenea, să le setați să afișeze bule și să întrerupă modul Nu deranjați.</string>
@@ -5905,6 +5905,8 @@ Dacă această permisiune este refuzată, sistemul va limita cât timp aplicați
     <string name="long_background_tasks_title">Sarcini lungi în fundal</string>
     <string name="long_press_back_key">Apăsare lungă a butonului Înapoi</string>
     <string name="long_press_buttom_key">Apăsare lungă a butonului Acasă în Blocarea ecranului</string>
+    <string name="long_press_editor_style_summary">Apăsați și mențineți apăsat Ecranul de blocare pentru a edita ceasul și imaginea de fundal</string>
+    <string name="long_press_editor_style_title">Apăsați și mențineți apăsat pentru a edita</string>
     <string name="long_press_home_key">Apăsare lungă a butonului Acasă</string>
     <string name="long_press_menu_key">Apăsare lungă a butonului Meniu</string>
     <string name="long_press_menu_key_when_lock">Apăsare lungă a butonului Meniu în Blocarea ecranului</string>
@@ -7361,7 +7363,7 @@ Acest lucru va permite de asemenea aplicației să activeze sau să dezactiveze 
     <string name="notification_importance_low_title">Medie</string>
     <string name="notification_importance_min">Afișează fără sunet și minimizează</string>
     <string name="notification_importance_min_title">Redusă</string>
-    <string name="notification_importance_title">Importanță</string>
+    <string name="notification_importance_title">Comportament</string>
     <string name="notification_importance_unspecified">Lasă aplicația să decidă</string>
     <string name="notification_listener_allowed">Permis</string>
     <string name="notification_listener_disable_warning_cancel">Renunțați</string>

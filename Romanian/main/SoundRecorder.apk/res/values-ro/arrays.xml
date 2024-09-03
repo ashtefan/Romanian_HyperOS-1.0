@@ -15,6 +15,20 @@
         <item>Voce</item>
         <item>Interviu</item>
     </string-array>
+    <string-array name="recognition_language_list">
+        <item>Chineză</item>
+        <item>Engleză</item>
+        <item>Germană</item>
+        <item>Rusă</item>
+        <item>Franceză</item>
+        <item>Koreană</item>
+        <item>Portugheză</item>
+        <item>Japoneză</item>
+        <item>Spaniolă</item>
+        <item>Italiană</item>
+        <item>Hindi</item>
+        <item>Indoneziană</item>
+    </string-array>
     <string-array name="record_format_entries">
         <item>M4A</item>
         <item>MP3</item>
@@ -44,6 +58,10 @@
         <item>Apropiați microfonul de sursa sunetului pentru a obține rezultate mai bune</item>
         <item>Plasați telefonul între 2 persoane pentru a înregistra clar vocea amândurora</item>
         <item>Tehnologia High Dynamic Range permite captarea mult mai fidelă a sunetului de către microfon</item>
+    </string-array>
+    <string-array name="share_category">
+        <item>Partajați audio</item>
+        <item>Partajați text</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
         <item>Înregistrare pe 2 canale, ascultați sunet stereo în căști</item>

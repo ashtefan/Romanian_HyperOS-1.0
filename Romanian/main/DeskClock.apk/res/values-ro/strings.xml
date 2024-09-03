@@ -648,7 +648,7 @@ mm"</string>
     <string name="sleep_analysis">Statistici</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Date despre somn furnizate de către Sănătate Xiaomi</string>
-    <string name="sleep_date_provider_text_new">Date despre somn furnizate de către Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Date despre somn furnizate de către Sănătate Xiaomi</string>
     <string name="sleep_duration">"Durata somnului: "</string>
     <string name="sleep_duration_avg_text_diff">Durata medie a somnului (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Ați dormit %1$s %2$s</string>
@@ -665,7 +665,7 @@ mm"</string>
     <string name="sleep_record">Monitorizați somnul</string>
     <string name="sleep_record_desc">Activați pentru a începe să înregistrați date despre somn</string>
     <string name="sleep_record_desc_detailed">Funcționalitatea de urmărire a somnului este oferită de Xiaomi Health. Odată pornit, Xiaomi Health vă înregistrează automat somnul pe baza utilizării telefonului, a statisticilor de activitate și a orelor de culcare și de trezire pe care le setați, arătându-vă statisticile sub formă de diagrame. Pentru a urmări somnul mai precis, permiteți Xiaomi Health să pornească automat. Toate datele aferente vor fi stocate local pe dispozitivul dvs. pentru o gestionare ușoară.</string>
-    <string name="sleep_record_desc_detailed_new">Monitorizarea somnului este oferită de caracteristica Mi Fitness Sleep. Dacă activați această funcție, Mi Fitness va colecta și afișa automat date despre somnul dvs., pe baza utilizării telefonului, a activității și a orei de culcare și a orei de trezire pe care le-ați setat. Pentru a urmări somnul mai precis, permiteți Mi Fitness să pornească automat.</string>
+    <string name="sleep_record_desc_detailed_new">Monitorizarea somnului este oferită de caracteristica Sănătatea Somnului Xiaomi. Dacă activați această funcție, Sănătate Xiaomi va colecta și afișa automat date despre somnul dvs., pe baza utilizării telefonului, a activității și a orei de culcare și a orei de trezire pe care le-ați setat. Pentru a urmări somnul mai precis, permiteți aplicației Sănătate Xiaomi să pornească automat.</string>
     <string name="sleep_record_no_data">Statisticile dvs vor apărea aici după ce aplicația Sănătate Xiaomi analizează suficiente date</string>
     <string name="sleep_remind">Memento oră de culcare</string>
     <string name="sleep_time">Ați adormit la</string>
@@ -868,8 +868,8 @@ mm"</string>
     <string name="upcoming_alarm_new">Alarma următoare: %s</string>
     <string name="update_health_app">Actualizați Sănătate Xiaomi</string>
     <string name="update_health_app_desc">Funcția de monitorizare a somnului este furnizată de către Sănătate Xiaomi. Actualizați aplicația Sănătate Xiaomi la cea mai recentă versiune pentru a accesa caracteristicile corelate.</string>
-    <string name="update_health_app_desc_new">Funcția de monitorizare a somnului este oferită de Mi Fitness. Actualizați Mi Fitness la cea mai recentă versiune pentru a accesa funcțiile conexe.</string>
-    <string name="update_health_app_new">Actualizați Mi Fitness</string>
+    <string name="update_health_app_desc_new">Funcția de monitorizare a somnului este oferită de Sănătate Xiaomi. Actualizați aplicația Sănătate Xiaomi la cea mai recentă versiune pentru a accesa funcțiile conexe.</string>
+    <string name="update_health_app_new">Actualizați Sănătate Xiaomi</string>
     <string name="update_it">Actualizați</string>
     <string name="update_notification_info">Se actualizează datele în fundal…</string>
     <string name="usage_start">Începeți</string>

@@ -34,8 +34,8 @@
         <item quantity="one">Ștergeți %d descărcare?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%s descărcări au fost șterse</item>
-        <item quantity="one">%s descărcare a fost ștearsă</item>
+        <item quantity="other">%d descărcări au fost șterse cu succes</item>
+        <item quantity="one">%d descărcare a fost ștearsă cu succes</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d zile</item>
@@ -85,8 +85,8 @@
         <item quantity="one">Ștergeți acest element?</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s elemente</item>
-        <item quantity="one">%s element</item>
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
     </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">S-au găsit %d elemente</item>

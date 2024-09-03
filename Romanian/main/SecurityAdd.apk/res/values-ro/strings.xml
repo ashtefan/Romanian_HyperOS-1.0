@@ -161,8 +161,13 @@ de monitorizare a cutremurelor"</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="game_booster">Creștere viteză în jocuri</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Nu sunt de acord</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">De acord</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> Xunyou Game Booster</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Acceptați Politica noastră de Confidențialitate</string>
     <string name="gamebooster_dialog_recover">Reînnoiți</string>
     <string name="gamebooster_dialog_start_booster">Începeți</string>
+    <string name="gamebooster_dialog_start_booster_new">Accelerați</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a putea utiliza toate funcțiile Creșterii vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_message_pad">Permiteți aplicației de Securitate să se conecteze la rețea pentru a putea utiliza toate funcțiile Creșterii vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
@@ -259,8 +264,11 @@ de monitorizare a cutremurelor"</string>
     <string name="gb_webwindow_schemedialog_title">Deschideți aplicația Jocuri acum?</string>
     <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="gdpr_msg"><Data>"Pentru a utiliza funcțiile de bază ale Securității, trebuie să fiți de acord că Xiaomi va colecta, procesa și utiliza datele dumneavoastră personale, inclusiv informații despre modurile în care utilizați funcțiile Securității (de exemplu, statistici de utilizare a datelor mobile, informații despre malware, precum și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de confidențialitate&lt;/a>."</Data></string>
+    <string name="global_satisfaction_network_error">Nu s-au putut obține date. Verificați setările de rețea și încercați din nou.</string>
+    <string name="global_satisfactionnetwork_loading">Se obțin date…</string>
     <string name="gtb_dialog_privacy_speed_message">Sunteți pe cale să utilizați Xunyou Game Booster. Acest serviciu va colecta ID-ul contului dvs. Xiaomi pentru a înregistra durata calității dvs. de membru.</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Am citit și sunt de acord cu &lt;a href=\"%1$s\">Politica de confidențialitate.&lt;/a> a Xunyou Game Booster"</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Am citit și sunt de acord cu &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>. a Xunyou Game Booster"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="gtb_dialog_privacy_voice_message">Sunteți pe cale să utilizați Xunyou Game Voice Changer. Acest serviciu va colecta ID-ul contului dvs. Xiaomi pentru a înregistra durata calității dvs. de membru.</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Am citit și accept &lt;a href=\"%1$s\">Politica de confidențialitate pentru Xunyou Game Voice Changer.&lt;/a>"</Data></string>
@@ -399,6 +407,8 @@ de monitorizare a cutremurelor"</string>
     <string name="month_report_warning_dialog_title">Raport lunar de securitate</string>
     <string name="more_game">Mai multe jocuri</string>
     <string name="net_delay_title">Întârziere</string>
+    <string name="net_free_booster_new_user_tip">Obțineți un amplificator de joc gratuit și înscrieți-vă pentru a câștiga un telefon Xiaomi!</string>
+    <string name="net_free_booster_new_user_title">Cadou pentru utilizator nou</string>
     <string name="network_error">A apărut o eroare de rețea.</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="night">Seară</string>
@@ -425,6 +435,9 @@ de monitorizare a cutremurelor"</string>
     <string name="pc_extreme_mode_title">Mod Hibernare</string>
     <string name="pc_going_to_exit_extreme_mode">Se părăsește modul Hibernare</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Dispozitivul dvs. se încarcă. Modul de hibernare este dezactivat.</string>
+    <string name="pc_satellite_auto_enter_super_power">S-a activat Ultra Economisirea acumulatorului pentru a asigura comunicațiile prin satelit</string>
+    <string name="pc_satellite_superpower_dialog_subtitle">Acumulatorul este descărcat. Comunicațiile prin satelit Tiantong vor fi oprite împreună cu Ultra economisirea acumulatorului. Opriți oricum?</string>
+    <string name="pc_satellite_superpower_dialog_title">Comunicații prin satelit Tiantong</string>
     <string name="pm">PM</string>
     <string name="pm_lable_name">Despre accesul root</string>
     <string name="power_center_battery_duration_screen_on">Timp de ecran activ rămas</string>
@@ -477,6 +490,7 @@ de monitorizare a cutremurelor"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="super_power_satellite_endurance_time">Poate efectua un apel prin satelit pentru ≈%1$s %2$s</string>
     <string name="superpower_app_add">Adăugați</string>
     <string name="superpower_app_contact">Contacte</string>
     <string name="superpower_app_delete">Ștergeți</string>
@@ -492,7 +506,9 @@ de monitorizare a cutremurelor"</string>
     <string name="superpower_dialog_app_select_title">Atenție</string>
     <string name="superpower_dialog_button_ok">OK</string>
     <string name="superpower_exit_hint">Se dezactivează Ultra economisirea acumulatorului…</string>
+    <string name="superpower_exit_low_temperature_hint">Oprirea modului de rezistență la rece…</string>
     <string name="superpower_incharging">Se încarcă</string>
+    <string name="superpower_low_temp_mode_take_effect">Modul de rezistență la rece este activat</string>
     <string name="superpower_progress_battery_last">%s rămas</string>
     <string name="superpower_progress_left_time">%1$dh și %2$dm</string>
     <string name="superpower_search_hint">Căutați aplicații</string>
