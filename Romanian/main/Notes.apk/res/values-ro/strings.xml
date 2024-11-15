@@ -298,6 +298,8 @@
     <string name="excerpting">Se crează un extras…</string>
     <string name="expand_button_title">Avansate</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
+    <string name="external_share_to_note">%1$s partajat în Notițe</string>
+	
     <string name="first_enter_custom_folder_hint">Puteți redenumi sau șterge dosarele aici</string>
     <string name="float_note_empty">Nicio notiță aici</string>
     <string name="float_note_title">Note</string>

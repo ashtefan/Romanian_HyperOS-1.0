@@ -877,6 +877,8 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="tab_call">Apeluri</string>
     <string name="tab_fm">FM</string>
     <string name="tap_to_record">Apăsați butonul pentru a începe înregistrarea</string>
+    <string name="talkback_traslation">Traduceți</string>
+    <string name="talkback_traslation_close">Oprește traducerea</string>
     <string name="temporary_not_available">Această funcție nu este disponibilă încă</string>
     <string name="text_btn_backward_3_seconds">%d secunde înapoi</string>
     <string name="text_btn_complete">Stop</string>

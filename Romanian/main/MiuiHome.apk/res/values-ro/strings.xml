@@ -482,6 +482,7 @@
     <string name="guide_tips_editing_mode">Atingeți și mențineți apăsat pentru a plasa un widget pe ecran</string>
     <string name="hide_apps_title">Ascunde pictogramele aplicațiilor</string>
     <string name="home_gesture_content_center">Centrul de Conținut</string>
+    <string name="home_gesture_content_center_settings">Setările Centrului de Conținut</string>
     <string name="home_gesture_global_search">Căutați</string>
     <string name="home_gesture_global_shelf">Găsire aplicații</string>
     <string name="home_gesture_no_action">Nimic</string>
@@ -1028,6 +1029,7 @@ Securitate sporită."</string>
     <string name="system_shortcuts_more_operation">Informații aplicație</string>
     <string name="system_shortcuts_remove">Eliminați</string>
     <string name="system_text">Auto</string>
+    <string name="talkback_systemaction_item_cts">Încercuiți pentru a căuta</string>
     <string name="task_access_locked_app_msg">A fost activată blocarea aplicațiilor</string>
     <string name="term_of_service">Termeni și condiții</string>
     <string name="terms_of_services_one">Bun venit la Sertarul de aplicații și la Căutarea rapidă. Căutarea rapidă vă permite să găsiți mai rapid aplicații, conținut în aplicație și articole online. Citiți și acceptați "<font color="#B3000000"><a href="http://url1">Politica de Confidențialitate Xiaomi </a></font> înainte de a utiliza aceste caracteristici.</string>

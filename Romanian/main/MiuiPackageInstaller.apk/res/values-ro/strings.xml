@@ -341,8 +341,8 @@ Sample Rate"</string>
     <string name="dev_complaint">Formular de contestație</string>
     <string name="dev_complaint_btntext">Trimiteți</string>
     <string name="dev_complaint_result_tip1">Contestația a fost trimisă cu succes</string>
-    <string name="dev_complaint_result_tip2">Vă vom contacta în termen de %d zile lucrătoare. Vă rugăm să nu trimiteți contestații duble.</string>
-    <string name="dev_complaint_tiptext">Vă vom contacta în termen de %d zile lucrătoare de la trimiterea contestației</string>
+    <string name="dev_complaint_result_tip2">Vă vom contacta în termen de 5 zile lucrătoare. Vă rugăm să nu trimiteți contestații duble.</string>
+    <string name="dev_complaint_tiptext">Vă vom contacta în termen de 5 zile lucrătoare de la trimiterea contestației</string>
     <string name="dev_logpersist_clear_warning_message">Când nu mai monitorizăm cu logger-ul persistent, trebuie să ștergem datele reziduale de pe dispozitiv.</string>
     <string name="dev_logpersist_clear_warning_title">Ștergeți stocarea logger-ului persistent?</string>
     <string name="dev_settings_warning_message">Aceste setări sunt destinate exclusiv dezvoltării. Ele pot cauza oprirea sau comportamentul necorespunzător al aplicațiilor instalate pe telefon.</string>
