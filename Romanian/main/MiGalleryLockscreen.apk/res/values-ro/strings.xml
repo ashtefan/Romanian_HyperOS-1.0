@@ -86,6 +86,7 @@
     <string name="ad_btn_pending">În așteptare</string>
     <string name="ad_delimiter_4">%1$s | %2$s | %3$s | %4$s</string>
     <string name="ad_delimiter_5">%1$s | %2$s | %3$s | %4$s | %5$s</string>
+    <string name="ad_delimiter_5_version">版本：%1$s | %2$s | %3$s | %4$s | %5$s</string>
     <string name="ad_delimiter_6">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
     <string name="ad_delimiter_6_version">版本：%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
     <string name="ad_delimiter_7">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s | %7$s</string>
@@ -426,8 +427,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="lks_cta_dont_mention">Nu arăta din nou</string>
     <string name="lks_cta_ok">De acord</string>
     <string name="lks_cta_reject">Nu sunt de acord</string>
-    <string name="lks_cta_summary1">Caruselul de imagini de fundal oferă următoarele caracteristici:</string>
-    <string name="lks_cta_summary2">"1. Imagini de fundal actualizate automat&lt;br>2. Imagini și povești noi livrate pe ecranul de blocare&lt;br>3. Opțiuni de personalizare&lt;br>Această funcție trebuie să se conecteze la internet pentru a funcționa normal.&lt;br>&lt;br>Pentru a oferi servicii suplimentare, este posibil să cerem permisiunea de a accesa și de a salva articole în spațiul de stocare al acestui dispozitiv. Citiți și acceptați &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Acordul nostru de utilizare&lt;/font>&lt;/a> și &lt;font color ='#37A5FF'>&lt; ;a href='%2$s'>Politica de confidențialitate&lt;/font>&lt;/a> înainte de a continua."</string>
+    <string name="lks_cta_summary1_new">Această aplicație oferă o gamă diversă de imagini de fundal recomandate, acoperind teme precum călătorii, animale de companie, mâncare, artă și multe altele.</string>
+    <string name="lks_cta_summary2_new">Caruselul de imagini de fundal trebuie să se conecteze la internet pentru a vă oferi serviciile. Citiți și acceptați termenii și condițiile &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Acordului de utilizare al sistemului de operare Xiaomi&lt;/font>&lt;/a> și &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Politica de confidențialitate a Caruselului de imagini de fundal&lt;/font>&lt;/a> înainte de a continua.</string>
     <string name="lks_cta_title">Termeni și condiții</string>
     <string name="lks_current_lks_wallpaper" />
     <string name="lks_data_warning_toast_1">"Folosiți date mobile pentru a căuta imagini de fundal.

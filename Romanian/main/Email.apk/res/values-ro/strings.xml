@@ -614,6 +614,7 @@ căii pentru accesul IMAP</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
     <string name="icon_content_description">Pictogramă de dialog</string>
     <string name="icoud_login_pw_hint">Introduceți parola</string>
+    <string name="icp_version_code">ICP备案号：京ICP备14035597号-15A</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">Parola pentru serverul de intrare este incorectă</string>
     <string name="info_item_hide">Ștergeți</string>
@@ -632,6 +633,7 @@ căii pentru accesul IMAP</string>
     <string name="invoice_card_save">Salvați</string>
     <string name="invoice_card_seller">Vânzător</string>
     <string name="invoice_card_title">Factură electronică</string>
+    <string name="ipc_link_url">https://beian.miit.gov.cn</string>
     <string name="item_view_role_description">Filă</string>
     <string name="kilobytes">%s KB</string>
     <string name="load_from_remote">Căutaţi pe server</string>

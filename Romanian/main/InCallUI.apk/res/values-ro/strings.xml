@@ -271,7 +271,9 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="focus_notification_in_calling">Pe durata apelurilor</string>
     <string name="focus_notification_on_call">Apelare…</string>
+    <string name="focus_notification_on_ringing">Apel de intrare</string>
     <string name="font_camera_tip">Pliați dispozitivul pentru a utiliza camera frontală</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
@@ -401,6 +403,7 @@
     <string name="notification_ongoing_call">Apel în curs</string>
     <string name="notification_requesting_video_call">Solicitare apel video</string>
     <string name="ok">OK</string>
+    <string name="on_call_recording">Înregistrare</string>
     <string name="onscreenEndCallText">Încheiaţi</string>
     <string name="onscreen_add_call_text">Adăugaţi un apel</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>

@@ -5,6 +5,15 @@
         <item>Numai WCDMA</item>
         <item>Numai GSM</item>
     </string-array>
+    <string-array name="config_supportNewCallDevices">
+        <item>aurora</item>
+        <item>rothko</item>
+        <item>ruyi</item>
+        <item>goku</item>
+        <item>xuanyuan</item>
+        <item>haotian</item>
+        <item>dada</item>
+    </string-array>
     <string-array name="umts_network_preferences_choices">
         <item>GSM/WCDMA (mod automat)</item>
         <item>Numai WCDMA</item>
