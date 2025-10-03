@@ -110,7 +110,7 @@
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="progress_text">Acest proces va dura câteva momente</string>
     <string name="search_menu_title">Căutați</string>
-    <string name="show_terms_and_condition_error">Nu se pot afișa termenii și condițiile operatorului. Încercați din nou mai târziu.</string>
+    <string name="show_terms_and_condition_error">Nu se pot afișa Termenii și condițiile operatorului. Încercați din nou mai târziu.</string>
     <string name="sud_back_button_label">Înapoi</string>
     <string name="sud_default_device_name">dispozitiv</string>
     <string name="sud_more_button_label">Mai multe</string>

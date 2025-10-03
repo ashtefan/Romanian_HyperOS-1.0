@@ -2143,6 +2143,7 @@ Adăugați widget-uri pentru a începe."</string>
     <string name="pa_shortcut_desc_add_button_install">Pentru a putea utiliza \"%2$s\", instalați mai întâi %1$s. </string>
     <string name="pa_shortcut_desc_delete_button">Eliminați %1$s din pagina de pornire</string>
     <string name="pa_shortcut_desc_more_button">Vedeți toate comenzile rapide</string>
+    <string name="pa_shortcut_desc_more_title">Mai multe</string>
     <string name="pa_shortcut_download_tip">Pentru a putea utiliza \"%2$s\", instalați mai întâi %1$s.</string>
     <string name="pa_shortcut_empty">Neadăugat</string>
     <string name="pa_shortcut_group_title_start_page">Pagina de pornire</string>

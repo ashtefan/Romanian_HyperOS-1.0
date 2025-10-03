@@ -169,7 +169,7 @@ Vizitați https://appleid.apple.com/#!&amp;page=signin pentru a dezactiva"</stri
     <string name="com_xiaomi_shop">Magazin Mi</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="comma_seperator">", "</string>
-    <string name="confirm_description">Confirmați</string>
+    <string name="compatibility32Bit_mode_toast">Nu se pot transfera articolele. Schimbați selecțiile și încercați din nou.</string>
     <string name="connect_icloud_fail">Nu s-a putut conecta la iCloud</string>
     <string name="connect_icloud_fail_tips">Asigurați-vă că a fost activat contul dvs. iCloud. Dacă nu, mergeți la icloud.com și urmați instrucțiunile pentru a vă activa contul.</string>
     <string name="connect_wifi">Conectați-vă la Wi-Fi</string>
@@ -635,6 +635,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="old_task_cleared">S-au eliminat cu succes sarcinile vechi</string>
     <string name="old_wait_link">Selectați elementele de transferat pe dispozitivul vechi</string>
     <string name="old_wait_link_extra">Atingeți \"Transferați\"</string>
+    <string name="open_compatibility_mode">Activați</string>
     <string name="open_photo_and_contacts_cloud_sync_complete">Începeți</string>
     <string name="open_photo_and_contacts_cloud_sync_content1">%d. Activați sincronizarea contactelor și a elementelor din Galerie.</string>
     <string name="open_photo_and_contacts_cloud_sync_content2">%d. Apăsați \"Sincronizați acum\".</string>
@@ -854,6 +855,7 @@ Eliberați cel puțin %s."</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_compatibility_mode">Nu acum</string>
     <string name="skip_transfer">Omiteți</string>
     <string name="skip_underline">Omiteți acest pas</string>
     <string name="sms">SMS</string>
@@ -885,6 +887,7 @@ Eliberați cel puțin %s."</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="ssid_name">Numele SSID/Wi-Fi</string>
+    <string name="subtitle_compatibility_mode">Următoarele aplicații nu sunt compatibile cu arhitectura pe %d biți. Activează modul de compatibilitate cu aplicațiile pentru a le putea transfera.</string>
     <string name="succ_description">Finalizat</string>
     <string name="summary_open_wlan">Mi Mover are nevoie de această permisiune pentru a asigura stabilitatea procesului de transfer.</string>
     <string name="summary_request_alert_window_prem">Mi Mover are nevoie de această permisiune pentru a asigura stabilitatea procesului de transfer.</string>
@@ -980,6 +983,7 @@ Eliberați cel puțin %s."</string>
     <string name="tips_secret_note">notițe</string>
     <string name="tips_secret_title">%d. Unele articole private nu pot fi transferate.</string>
     <string name="tips_subtitle">Citiți și confirmați următoarele mementouri înainte de a continua.</string>
+    <string name="title_compatibility_mode">Activați modul de compatibilitate cu aplicațiile</string>
     <string name="title_open_wlan">Activați Wi-Fi-ul</string>
     <string name="title_request_alert_window_perm">Permiteți ferestrele plutitoare</string>
     <string name="title_request_manage_external_storage_perm">Sunt necesare unele permisiuni</string>
@@ -998,6 +1002,7 @@ Eliberați cel puțin %s."</string>
     <string name="trans_apple_hint_1_title">%d. Instalați aplicația Mutare Mi</string>
     <string name="trans_apple_hint_2_content">Deschideți Mutare Mi pe iPhone, atingeți \"Apăsați pentru a trimite articole\" și scanați codul QR.</string>
     <string name="trans_apple_hint_2_title">%d. Conectați dispozitivele</string>
+    <string name="trans_apple_hint_china">Nu părăsiți această pagină și nu utilizați Wi-Fi-ul până când transferul nu este complet.</string>
     <string name="trans_apple_interrupt_sub">Atingeți mai jos pentru a vă conecta din nou.</string>
     <string name="trans_apple_interrupt_title">Transferul a fost întrerupt</string>
     <string name="trans_detail_item_app_data_skip_data">Nu se pot transfera datele aplicației</string>

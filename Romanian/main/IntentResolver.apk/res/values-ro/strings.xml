@@ -75,45 +75,44 @@
     <string name="sharing_files_only">{count, plural, =1 {Doar fișier} other {Doar fișiere} }</string>
     <string name="sharing_files_with_link">{count, plural, =1 {Se partajează un fișier prin link} other {Se partajează # fișiere prin link} }</string>
     <string name="sharing_files_with_text">{count, plural, =1 {Se partajează un fișier prin text} other {Se partajează # fișiere prin text} }</string>
-    <string name="sharing_images">{count, plural, =1 {Sharing image} other {Sharing # images} }</string>
-    <string name="sharing_images_only">{count, plural, =1 {Image only} other {Images only} }</string>
-    <string name="sharing_images_with_link">{count, plural, =1 {Sharing image with link} other {Sharing # images with link} }</string>
-    <string name="sharing_images_with_text">{count, plural, =1 {Sharing image with text} other {Sharing # images with text} }</string>
-    <string name="sharing_link">Sharing link</string>
-    <string name="sharing_text">Sharing text</string>
-    <string name="sharing_videos">{count, plural, =1 {Sharing video} other {Sharing # videos} }</string>
-    <string name="sharing_videos_only">{count, plural, =1 {Video only} other {Videos only} }</string>
-    <string name="sharing_videos_with_link">{count, plural, =1 {Sharing video with link} other {Sharing # videos with link} }</string>
-    <string name="sharing_videos_with_text">{count, plural, =1 {Sharing video with text} other {Sharing # videos with text} }</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="unpin_specific_target">Unpin %1$s</string>
-    <string name="usb_device_resolve_prompt_warn">This app has not been granted record permission but could capture audio through this USB device.</string>
-    <string name="use_a_different_app">Use a different app</string>
-    <string name="video_preview_a11y_description">Video preview thumbnail</string>
-    <string name="whichApplication">Complete action using</string>
-    <string name="whichApplicationLabel">Complete action</string>
-    <string name="whichApplicationNamed">Complete action using %1$s</string>
-    <string name="whichEditApplication">Edit with</string>
-    <string name="whichEditApplicationLabel">Edit</string>
-    <string name="whichEditApplicationNamed">Edit with %1$s</string>
-    <string name="whichGiveAccessToApplicationLabel">Give access</string>
-    <string name="whichHomeApplication">Select a Home app</string>
-    <string name="whichHomeApplicationLabel">Capture image</string>
-    <string name="whichHomeApplicationNamed">Use %1$s as Home</string>
-    <string name="whichImageCaptureApplication">Capture image with</string>
-    <string name="whichImageCaptureApplicationLabel">Capture image</string>
-    <string name="whichImageCaptureApplicationNamed">Capture image with %1$s</string>
-    <string name="whichOpenHostLinksWith">Open %1$s links with</string>
-    <string name="whichOpenHostLinksWithApp">Open %1$s links with %2$s</string>
-    <string name="whichOpenLinksWith">Open links with</string>
-    <string name="whichOpenLinksWithApp">Open links with %1$s</string>
-    <string name="whichSendApplication">Share</string>
-    <string name="whichSendApplicationLabel">Share</string>
-    <string name="whichSendApplicationNamed">Share with %1$s</string>
-    <string name="whichSendToApplication">Send using</string>
-    <string name="whichSendToApplicationLabel">Send</string>
-    <string name="whichSendToApplicationNamed">Send using %1$s</string>
-    <string name="whichViewApplication">Open with</string>
-    <string name="whichViewApplicationLabel">Open</string>
-    <string name="whichViewApplicationNamed">Open with %1$s</string>
+    <string name="sharing_images">{count, plural, =1 {Se partajează imaginea} other {Se partajează # imagini} }</string>
+    <string name="sharing_images_only">{count, plural, =1 {Doar imaginea} other {Doar imaginile} }</string>
+    <string name="sharing_images_with_link">{count, plural, =1 {Se partajează imaginea cu link} other {Se partajează # imagini cu link} }</string>
+    <string name="sharing_images_with_text">{count, plural, =1 {Se partajează imaginea cu text} other {Se partajează # imagini cu text} }</string>
+    <string name="sharing_link">Se partajează linkul</string>
+    <string name="sharing_text">Se partajează textul</string>
+    <string name="sharing_videos">{count, plural, =1 {Se partajează videoclipul} other {Se partajează # videoclipuri} }</string>
+    <string name="sharing_videos_only">{count, plural, =1 {Doar videoclipul} other {Doar videoclipurile} }</string>
+    <string name="sharing_videos_with_link">{count, plural, =1 {Se partajează videoclipul cu link} other {Se partajează # videoclipuri cu link} }</string>
+    <string name="sharing_videos_with_text">{count, plural, =1 {Se partajează videoclipul cu text} other {Se partajează # videoclipuri cu text} }</string>
+    <string name="unpin_specific_target">Anulați fixarea %1$s</string>
+    <string name="usb_device_resolve_prompt_warn">Această aplicație nu are permisiunea de înregistrare, dar poate capta sunete audio prin acest dispozitiv USB..</string>
+    <string name="use_a_different_app">Utilizați o aplicație diferită</string>
+    <string name="video_preview_a11y_description">Miniatură de previzualizare video</string>
+    <string name="whichApplication">Finalizați acțiunea folosind</string>
+    <string name="whichApplicationLabel">Finalizați acțiunea</string>
+    <string name="whichApplicationNamed">Finalizați acțiunea utilizând %1$s</string>
+    <string name="whichEditApplication">Editați cu</string>
+    <string name="whichEditApplicationLabel">Editați</string>
+    <string name="whichEditApplicationNamed">Editați cu %1$s</string>
+    <string name="whichGiveAccessToApplicationLabel">Permiteți acces</string>
+    <string name="whichHomeApplication">Selectați o aplicație Acasă</string>
+    <string name="whichHomeApplicationLabel">Captați imaginea</string>
+    <string name="whichHomeApplicationNamed">Utilizați %1$s ca aplicație Acasă</string>
+    <string name="whichImageCaptureApplication">Captați imaginea cu</string>
+    <string name="whichImageCaptureApplicationLabel">Captați imaginea</string>
+    <string name="whichImageCaptureApplicationNamed">Captați imaginea cu %1$s</string>
+    <string name="whichOpenHostLinksWith">Deschideți %1$s linkuri cu</string>
+    <string name="whichOpenHostLinksWithApp">Deschideți %1$s linkuri cu %2$s</string>
+    <string name="whichOpenLinksWith">Deschideți linkurile cu</string>
+    <string name="whichOpenLinksWithApp">Deschideți linkurile cu %1$s</string>
+    <string name="whichSendApplication">Partajați</string>
+    <string name="whichSendApplicationLabel">Partajați</string>
+    <string name="whichSendApplicationNamed">Partajați cu %1$s</string>
+    <string name="whichSendToApplication">Trimiteți utilizând</string>
+    <string name="whichSendToApplicationLabel">Trimiteți</string>
+    <string name="whichSendToApplicationNamed">Trimiteți utilizând %1$s</string>
+    <string name="whichViewApplication">Deschideți cu</string>
+    <string name="whichViewApplicationLabel">Deschideți</string>
+    <string name="whichViewApplicationNamed">Deschideți cu %1$s</string>
 </resources>

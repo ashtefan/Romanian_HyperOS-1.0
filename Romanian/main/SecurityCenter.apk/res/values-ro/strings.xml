@@ -4028,11 +4028,13 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_main_power_manager_hour_minute">%1$sh și %2$sm până la încărcarea completă</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sz și %2$sh rămase</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh și %2$sm rămase</string>
+    <string name="pc_misight_reminder_check">Vedeți</string>
     <string name="pc_more_battery_feature">Caracteristici suplimentare</string>
     <string name="pc_more_power_rank_apps">Mai multe aplicații</string>
     <string name="pc_night_charge_protect_summary">Reglați automat durata de încărcare pentru a încetini îmbătrânirea acumulatorului</string>
     <string name="pc_night_charge_protect_title">Protecție la încărcarea pe timp de noapte</string>
     <string name="pc_night_sleep_mode_summary">Opriți automat unele funcții pentru a economisi acumulatorul atunci când este detectat somnul</string>
+    <string name="pc_night_sleep_mode_summary_pad">Când ecranul este oprit, dispozitivul va închide aplicațiile din fundal și va restricționa utilizarea rețelei. Dacă dispozitivul nu este utilizat pentru o perioadă lungă de timp, acesta va intra automat în modul repaus sau se va opri.</string>
     <string name="pc_night_sleep_mode_title">Mod Noapte</string>
     <string name="pc_no_more_remind">Nu-mi aminti</string>
     <string name="pc_ordinary_charge_summary">Permiteți întotdeauna încărcarea până la %1$s</string>
@@ -4247,6 +4249,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="permission_precise_location">Locația precisă</string>
     <string name="permission_precise_location_sumary">Când această funcție este dezactivată, aplicațiile vor putea accesa doar locația dvs. aproximativă</string>
     <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
+    <string name="permission_risk_app_for_desc">Această aplicație ar putea prezenta riscuri de securitate. Acordați permisiuni oricum?</string>
+    <string name="permission_risk_app_for_title">Risc detectat</string>
     <string name="permission_share_uid">Locația precisă</string>
     <string name="permission_upgrade_more">Mai multe caracteristici pentru protejarea confidențialității</string>
     <string name="permission_upgrade_privacy_title">Permisiunile de înregistrare sunete audio și accesare contacte au acum o opțiune care vă permite să acordați aceste permisiuni doar atunci când utilizați aplicațiile corespunzătoare. Pentru a vă proteja confidențialitatea informațiilor personale, aplicațiile nu vor realiza aceste acțiuni în fundal.</string>
@@ -4330,6 +4334,9 @@ Ultra economisirea acumulatorului"</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Această aplicație a returnat o persoană de contact goală</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Această aplicație a returnat o stare de apel goală</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Această aplicație a returnat un SMS gol</string>
+    <string name="permission_warning_for_cancel">Renunțați</string>
+    <string name="permission_warning_for_ensure">Permiteți</string>
+    <string name="permission_warning_for_risk">Dacă decideți să acordați permisiuni, mesajele goale vor fi returnate aplicației pentru a vă proteja confidențialitatea.</string>
     <string name="permission_with_SMS_and_MMS">Permisiuni legate de SMS şi MMS</string>
     <string name="permission_with_call_and_contact">Permisiuni legate de apelurile telefonice, informaţiile de contact și istoricul apelurilor.</string>
     <string name="permission_with_read_write_clipboard">Permite aplicațiilor să acceseze și să salveze elemente în clipboard</string>
@@ -6827,7 +6834,15 @@ Această funcție nu va funcționa când Economisirea acumulatorului sau Ultra E
     <string name="wakepath_delete_all_tips">Dacă veți continua, va trebui să acordați fiecărei aplicații permisiunea de a deschide alte aplicații. Continuați oricum?</string>
     <string name="wakepath_delete_app_start_all">Dacă veți continua, va trebui să acordați din nou permisiunea %s pentru a deschide orice alte aplicații. Continuați oricum?</string>
     <string name="wakepath_delete_app_start_other_app">Dacă veți continua, va trebui să acordați din nou permisiunea %1$s pentru a deschide %2$s. Continuați oricum?</string>
+    <string name="wakepath_manager_allow_list">Permis</string>
+    <string name="wakepath_manager_allow_start">Permis</string>
+    <string name="wakepath_manager_checkbox_desc">Permiteți %1$s să lanseze alte aplicații</string>
+    <string name="wakepath_manager_checkbox_title">Permite pornirea în lanț</string>
+    <string name="wakepath_manager_empty_list">Nu este permisă lansarea aplicațiilor</string>
+    <string name="wakepath_manager_reject_list">Restricționat</string>
+    <string name="wakepath_manager_reject_toast">Căutați \"Gestionează pornirea în lanț\" în Setări pentru a permite acestei aplicații să lanseze alte aplicații</string>
     <string name="wakepath_manager_title">Gestionați pornirea în lanț</string>
+    <string name="warningcenter_accurate_area_title">Zona afectată</string>
     <string name="warningcenter_action_check">Vedeți</string>
     <string name="warningcenter_alert_home">Locație</string>
     <string name="warningcenter_alert_room">Cameră</string>
@@ -6877,6 +6892,7 @@ Această funcție nu va funcționa când Economisirea acumulatorului sau Ultra E
     <string name="warningcenter_disaster_recent">Avertizări recente</string>
     <string name="warningcenter_disaster_search_hint">Tipul de avertizare/regiunea/agenție emitentă</string>
     <string name="warningcenter_disaster_search_keywords">Avertizări meteo</string>
+    <string name="warningcenter_disaster_service_area">Domeniul de aplicare al serviciului</string>
   <string name="warningcenter_disaster_title">Avertizare pentru dezastre</string>
   <string name="warningcenter_disaster_type_all">Toate tipurile</string>
   <string name="warningcenter_disaster_type_cancel">Anulată</string>
