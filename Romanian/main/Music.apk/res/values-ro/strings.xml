@@ -133,7 +133,6 @@
     <string name="app_disable_description_content">Muzica Mi este o aplicație de sistem. Dacă o dezactivați, acest lucru poate afecta utilizarea altor aplicații. O dezactivați oricum?</string>
     <string name="app_disable_description_title">Dezactivați aplicația de sistem?</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">Croller</string>
     <string name="app_notify_dialog_btn_desc">Setări</string>
     <string name="app_notify_dialog_check_desc">Activați widgetul din perdeaua de notificare, dar nu permiteți notificări permanente</string>
     <string name="app_notify_dialog_path">Setări > Notificări și bara de stare > Notificări aplicații > Muzică</string>

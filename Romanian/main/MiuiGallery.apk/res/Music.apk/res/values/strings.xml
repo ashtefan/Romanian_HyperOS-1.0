@@ -109,13 +109,11 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_bugly_id">e5f6fa4ff3</string>
     <string name="app_closed_toast">Dynamic covers are off</string>
-    <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_description_content">"Music is a system app that contains an audio player and allows you to manage audio files. You'll still be able to play audio files after you remove the Home screen shortcut."</string>
     <string name="app_description_title">Remove \"Music\" from Home screen?</string>
     <string name="app_disable_description_content">Mi Music is a system app. If you disable it, this may affect your usage of other apps. Disable anyway?</string>
     <string name="app_disable_description_title">Disable system app?</string>
     <string name="app_label">Downloads</string>
-    <string name="app_name">Croller</string>
     <string name="app_notify_dialog_btn_desc">Settings</string>
     <string name="app_notify_dialog_check_desc">"Turn on Notification shade widget, but don't allow permanent notifications"</string>
     <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
@@ -538,7 +536,6 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="default_localization_key">system</string>
-    <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
     <string name="delete">Delete</string>
     <string name="delete_all_data_tips">"If you continue, you'll clear all data, including created items, items added to favorites, playlsits, and browsing history.
 Once you clear all data, you'll exit the app. This data will be cleared permanently and can't be restored. Clear all data now?"</string>
@@ -648,9 +645,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="download_method">Download</string>
     <string name="download_no_application_title">"Can't open the file"</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloading…</string>
-    <string name="download_progress">%d%%</string>
     <string formatted="false" name="download_progress_detail">%.1fM/%.1fM</string>
     <string name="download_quality">Download quality</string>
     <string name="download_quality_summary">Additional settings for songs that you download</string>
@@ -690,10 +685,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="downloading_empty">Empty</string>
     <string name="downloading_pause_apk">Paused. Resume download in the Notification shade.</string>
     <string name="due_date">Due date: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -778,9 +770,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="exo_media_action_repeat_all_description">Repeat all</string>
     <string name="exo_media_action_repeat_off_description">Repeat none</string>
     <string name="exo_media_action_repeat_one_description">Repeat one</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternate</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentary</string>
@@ -800,7 +790,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_app_id">1310336955745219</string>
     <string name="facebook_application_id" />
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="facebook_not_installed">Install Facebook first.</string>
@@ -868,7 +857,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="filter_size_unit">%d KB</string>
     <string name="filter_sketch">素描</string>
     <string name="find_you_tunes">Find your tunes</string>
-    <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="floating_view_dialog_desc">Music will stop playing if you leave this page now. Leave anyway?</string>
     <string name="floating_view_dialog_leave">Leave</string>
     <string name="floating_view_dialog_stay">Stay</string>
@@ -935,7 +923,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
-    <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="get_more_favorite_content_after_login">Sign in to discover more songs and videos.</string>
     <string name="get_one_day_vip">You got %d-day VIP!</string>
@@ -944,12 +931,8 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="get_vip">Get VIP</string>
     <string name="go_agree">OK</string>
     <string name="google_account_login">Sign in with Google</string>
-    <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-    <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
     <string name="google_application_id" />
-    <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
     <string name="google_download_music">Download %1$s with Google</string>
-    <string name="google_storage_bucket">mi-music-global.appspot.com</string>
     <string name="goto_local_search">Search on device</string>
     <string name="goto_online_search">Search online</string>
     <string name="gps_prompt_context">Downloading with mobile network?</string>
@@ -1035,7 +1018,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="impunity_declaration_summary">Show Terms of Service every time the Music app is launched</string>
     <string name="impunity_declaration_title">Terms of Service</string>
     <string name="in_searching_please_wait">Searching…</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Sign in</string>
     <string name="individuation_card_login_message">"Sign in to find more songs you'll love"</string>
     <string name="individuation_card_title">For you</string>
@@ -1388,7 +1370,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select Date</string>
@@ -1550,7 +1531,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="open_service">Turn on</string>
     <string name="operation_done_close">Close</string>
     <string name="other_song_in_album">Other songs from this album</string>
-    <string name="partner_id">3041</string>
     <string name="party">Party</string>
     <string name="passport_access_denied">Access denied</string>
     <string name="passport_account_crop_user_avatar">Crop photo</string>
@@ -1840,7 +1820,6 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="privacy_desc">Privacy Policy (mandatory)</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_policy_title_asm">A world of music at your fingertips</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_request_desc"><Data>"Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
 If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you."</Data></string>
@@ -1851,7 +1830,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="privacy_request_title">Terms and conditions</string>
     <string name="pro_member">Gold member</string>
     <string name="project_device">Mi Phone</string>
-    <string name="project_id">mi-music-global</string>
     <string name="prompt_grant_write_settings_permission">Allow changing system settings</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Couldn't load"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Loaded successfully</string>
@@ -2071,7 +2049,6 @@ Be Happy"</string>
     <string name="start_to_download">Downloading…</string>
     <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">Installing new version…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">停止</string>
     <string name="storage_cloned_app">Storage for dual apps</string>
     <string name="storage_internal">Internal storage</string>
@@ -2400,7 +2377,6 @@ Be Happy"</string>
     <string name="upload_playlist_to_hungama_title">Sync online songs to hungama to be able to access them on other devices where you use your Xiaomi Account.</string>
     <string name="upload_playlist_to_hungama_toast">Online songs will be synced to hungama</string>
     <string name="user_agreement">User Agreement</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">Playlists</string>
     <string name="user_privacy_dialog_negative_text">Cancel</string>
