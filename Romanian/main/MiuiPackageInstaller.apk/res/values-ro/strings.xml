@@ -398,7 +398,10 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="elder_mode_title">Protecția bătrânilor</string>
     <string name="empty_app">Nicio aplicație</string>
     <string name="enhance_mode_close_feedback">Vă mulțumim pentru utilizarea Protecției îmbunătățite</string>
+    <string name="enhance_mode_close_tip">Mi Protect va rămâne activat chiar dacă dezactivați Protecția îmbunătățită.</string>
     <string name="enhance_mode_feedback_reason">De ce dezactivați această funcție?</string>
+    <string name="enhance_mode_intro">Acceptă doar instalarea aplicațiilor care au trecut de verificarea GetApps</string>
+    <string name="enhance_mode_open_tip">Activați mai întâi Mi Protect</string>
     <string name="enhance_safe_guard_mode_description">Instalați numai aplicații care au trecut testele GetApps pentru a vă proteja dispozitivul de viruși și programe malware</string>
     <string name="enhance_safe_guard_title">Activați Protecția îmbunătățită pentru a evita aplicațiile riscante</string>
     <string name="enhance_safe_mode">Protecție sporită</string>
@@ -587,12 +590,14 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="install_failed_incompatible">"Această aplicație nu este compatibilă cu telefonul dvs."</string>
     <string name="install_failed_incompatible_tablet">"Această aplicație nu este compatibilă cu dispozitivul dvs."</string>
     <string name="install_failed_invalid_apk">Pachetul pare să fie corupt.</string>
-    <string name="install_failed_msg">"%1$s nu a putut fi instalată pe telefonul dvs."</string>
-    <string name="install_failed_msg_tablet">"%1$s nu a putut fi instalată pe dispozitivul dvs."</string>
-    <string name="install_failed_system_incompatible">Această aplicație nu este compatibilă cu MIUI"</string>
-    <string name="install_finished_notification_summary">Atingeți pentru a elibera spațiu de stocare</string>
-    <string name="install_finished_notification_title">%1$s s-a instalat cu succes. Puteți elibera %2$s din spațiul de stocare.</string>
-    <string name="install_from_appstore_hint">Vă recomandăm să instalați aplicația din &lt;u>&lt;font color=#91c727>Magazinul de Aplicații&lt;/font>&lt;/u></string>
+    <string name="install_failed_market_enterprise_limit_reason">Aceasta este o aplicație internă a companiei. Numărul total de descărcări a depășit limita stabilită de companie, așadar descărcările nu mai sunt disponibile.</string>
+    <string name="install_failed_market_enterprise_limit_solution">Contactați compania sau organizația și rugați dezvoltatorii acesteia să trimită feedback către Xiaomi.</string>
+    <string name="install_failed_msg">%1$s nu a putut fi instalată pe telefonul dumneavoastră.</string>
+    <string name="install_failed_secure_frp">Pentru siguranța dumneavoastră, Android nu permite instalarea aplicațiilor imediat după resetarea unui dispozitiv dacă sunteți încă conectat la Contul Google.</string>
+    <string name="install_failed_secure_frp_suggestion">"Pasul 1: Atingeți \"Servicii Google de bază\" și activați-l.
+Pasul 2: Adăugați contul Google cu care erați conectat înainte de a reseta dispozitivul.
+%1$s"</string>
+    <string name="install_failed_secure_frp_suggestion_clickable">Deschideți fila Setări</string>
     <string name="install_hint_enhanced_mode_hint">Protecție sporită</string>
     <string name="install_hint_enhanced_mode_hint_desc">Protecția îmbunătățită este activată. Această aplicație a fost înlocuită cu versiunea care a trecut testele noastre de securitate. Dacă tot doriți să instalați această versiune, atingeți \"︙\" și selectați \"Permiteți o dată\\". "</string>
     <string name="install_hint_enhanced_mode_hint_desc_clickable">Aflați mai multe</string>
@@ -982,6 +987,11 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="open">Activați</string>
     <string name="open_and_exit">Activați</string>
     <string name="open_enhanced_protection">Activați Protecția îmbunătățită</string>
+    <string name="open_safe_mode">Activați</string>
+    <string name="out_of_space_dlg_text">%1$s Nu s-a putut instala. Eliberați spațiu și încercați din nou.</string>
+    <string name="out_of_space_dlg_title">Spațiu epuizat</string>
+    <string name="parse_error_dlg_text_miui">A apărut o problemă la analizarea pachetului. (%1$s)</string>
+    <string name="pasport_register_dialog_message">Creați acum un cont Xiaomi folosind numărul dumneavoastră de telefon %s?</string>
     <string name="passed_security_test">A trecut testele de securitate Xiaomi</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_crop_user_avatar">Decupați fotografia</string>
@@ -1226,6 +1236,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="permission_name_write_calendar">Adăugarea și editarea evenimentelor din calendar</string>
     <string name="permission_name_write_external_storage">Salvarea articolelor în stocarea dispozitivului</string>
     <string name="permission_num">%1$s</string>
+    <string name="permissoion_management">Permisiuni</string>
     <string name="please_input_install_app_name">Introduceți numele aplicației</string>
     <string name="please_input_phone_password">Activați Protecția îmbunătățită</string>
     <string name="please_input_phone_password_short">Activați Protecția îmbunătățită</string>
@@ -1417,6 +1428,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="security_mode_open_notification_action_button">Detalii</string>
     <string name="security_mode_open_notification_msg">Dispozitivul dvs. este protejat</string>
     <string name="security_mode_open_notification_title">Mi Protect este activ</string>
+    <string name="security_mode_open_title">Bine ați venit</string>
     <string name="security_mode_renamed">Modul securizat este acum</string>
     <string name="security_mode_renamed_ok">Am înțeles</string>
     <string name="security_settings_desc">Permiteți acestei aplicații să:</string>
@@ -1442,8 +1454,8 @@ pentru a instala alte aplicații"</string>
 sunt sigure"</string>
     <string name="service_mode_advantage_app_security_detection_title">Testele noastre de securitate</string>
     <string name="service_mode_advantage_bottom_tip">Mi Protect</string>
-    <string name="service_mode_advantage_icon_dark_desc">"Aplicațiile descărcate nu sunt întotdeauna sigure.&lt;br>Ele pot expune datele dvs. private.&lt;br>O mulțime de aplicații sunt folosite pentru fraude și escrocherii.&lt;br>&lt;font color=#569a77>Mi Protex&lt;/ font> este aici pentru a rezolva aceste probleme."</string>
-    <string name="service_mode_advantage_icon_desc">"Aplicațiile descărcate nu sunt întotdeauna sigure.&lt;br>Ele pot expune datele dvs. private.&lt;br>O mulțime de aplicații sunt folosite pentru fraude și escrocherii.&lt;br>&lt;font color=#52E0A6>Mi Protex&lt;/ font> este aici pentru a rezolva aceste probleme."</string>
+    <string name="service_mode_advantage_icon_dark_desc">"Aplicațiile descărcate nu sunt întotdeauna sigure.&lt;br>Ele pot expune datele dvs. private.&lt;br>O mulțime de aplicații sunt folosite pentru fraude și escrocherii.&lt;br>&lt;font color=#569a77>Mi Protect&lt;/ font> este aici pentru a rezolva aceste probleme."</string>
+    <string name="service_mode_advantage_icon_desc">"Aplicațiile descărcate nu sunt întotdeauna sigure.&lt;br>Ele pot expune datele dvs. private.&lt;br>O mulțime de aplicații sunt folosite pentru fraude și escrocherii.&lt;br>&lt;font color=#52E0A6>Mi Protect&lt;/ font> este aici pentru a rezolva aceste probleme."</string>
     <string name="service_mode_advantage_pay_protection_subtitle">Mi Protect verifică mediul de plată pentru orice riscuri posibile pentru a vă menține tranzacțiile în siguranță.</string>
     <string name="service_mode_advantage_pay_protection_tip">Protejați-vă finanțele</string>
     <string name="service_mode_advantage_pay_protection_title">Protecția mediului de plăți</string>
@@ -1486,24 +1498,27 @@ aplicațiile"</string>
     <string name="service_mode_telecom_fraud_protection_summary">Recunoaște și interceptează apelurile și mesajele frauduloase și previne transferurile frauduloase de fonduri</string>
     <string name="set_management_measures">Stabiliți măsuri de protecție</string>
     <string name="settings">Setări</string>
-    <string name="settings_security_mode_recent_install_app">Recent instalat: %1$s</string>
+    <string name="settings_security_mode_service_detailed_msg_1">Protecție împotriva aplicațiilor riscante</string>
+    <string name="settings_security_mode_service_detailed_msg_2">Monitorizarea comportamentului aplicațiilor</string>
+    <string name="settings_security_mode_service_detailed_msg_3">Protecția confidențialității</string>
+    <string name="settings_security_mode_service_detailed_msg_4">Instalați aplicații securizate</string>
     <string name="settings_security_mode_service_list_title_off_msg">Activați Mi Protect pentru a vă bucura de următoarele funcții:</string>
     <string name="settings_security_mode_service_list_title_on_msg">Modul securizat oferă următoarele caracteristici</string>
     <string name="settings_security_mode_service_msg_0">Noi măsuri antifraudă și de protecție a vieții private</string>
-    <string name="settings_security_mode_service_msg_1">Verificați aplicațiile din surse necunoscute înainte de instalare</string>
-    <string name="settings_security_mode_service_msg_2">Controlați și restricționați activitățile dăunătoare din aplicație</string>
-    <string name="settings_security_mode_service_msg_3">Controlați permisiunile legate de confidențialitate</string>
-    <string name="settings_security_mode_service_msg_4">Verificați mediul de plată pentru probleme de securitate</string>
+    <string name="settings_security_mode_service_msg_1">Identifică și limitează sursele de instalare necunoscute pentru a preveni ca aplicațiile rău intenționate să vă pună în pericol securitatea</string>
+    <string name="settings_security_mode_service_msg_2">Asigură că procesul de instalare a aplicației este fără riscuri și garantează stabilitatea sistemului</string>
+    <string name="settings_security_mode_service_msg_3">Menține o bază de date cu riscuri ale aplicației inspectată manual pentru a evalua nivelurile de risc</string>
+    <string name="settings_security_mode_service_msg_4">Controlează strict permisiunile aplicațiilor pentru a preveni solicitările excesive care v-ar putea încălca confidențialitatea</string>
     <string name="settings_security_mode_service_opening_msg_1">Protecție împotriva aplicațiilor riscante</string>
     <string name="settings_security_mode_service_opening_msg_2">Monitorizați comportamentul aplicației</string>
     <string name="settings_security_mode_service_opening_msg_3">Securitatea plăților</string>
     <string name="settings_security_mode_service_opening_msg_4">Protecția vieții private</string>
     <string name="settings_security_mode_service_opening_msg_5">Protecție antifraudă</string>
     <string name="settings_security_mode_service_title_0">Instalați aplicații sigure</string>
-    <string name="settings_security_mode_service_title_1">Protecție împotriva aplicațiilor riscante</string>
-    <string name="settings_security_mode_service_title_2">Monitorizați comportamentul aplicației</string>
-    <string name="settings_security_mode_service_title_3">Protecția vieții private</string>
-    <string name="settings_security_mode_service_title_4">Securitatea plăților</string>
+    <string name="settings_security_mode_service_title_1">Revizuirea provenienței aplicațiilor</string>
+    <string name="settings_security_mode_service_title_2">Monitorizarea instalării</string>
+    <string name="settings_security_mode_service_title_3">Identificarea aplicațiilor riscante</string>
+    <string name="settings_security_mode_service_title_4">Gestionarea permisiunilor de confidențialitate</string>
     <string name="settings_security_mode_status_off_msg">Oprit</string>
     <string name="settings_security_mode_status_on_msg">Modul securizat este activat</string>
     <string name="settings_security_mode_title_off_msg">Modul securizat</string>

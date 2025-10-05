@@ -1978,7 +1978,7 @@ Părăsiți această pagină acum?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Închideți</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Reîncărcați</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Raportați o problemă</string>
-    <string formatted="false" name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Nu s-a putut conecta la rețea datorită semnalului slab sau configurației incorecte a rețelei. Verificați %s1setările de rețea%s2 și reîncercați."</string>
+    <string formatted="false" name="mw_miuichromium_error_page_description_no_connection">"Nu s-a putut conecta la rețea datorită semnalului slab sau configurației incorecte a rețelei. Verificați %s1setările de rețea%s2 și reîncercați."</string>
     <string name="mw_miuichromium_error_page_diagnose">Diagnosticare rețea</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Diagnosticare rețea</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Nu s-a putut verifica protocolul de rețea"</string>
@@ -2033,9 +2033,9 @@ Părăsiți această pagină acum?"</string>
     <string name="mw_miuichromium_error_page_server_error">Sunt prea multe dispozitive care încearcă să se conecteze</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Verificați setările aplicațiilor proxy instalate pe dispozitivul dumneavoastră.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Verificați conexiunea la Internet.</string>
-    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Date mobile) Refaceți setările %s1APN-ului%s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Date mobile) Refaceți setările %s1APN-ului%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Verificați URL-ul introdus."</string>
-    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verificați setările %s1proxy %s2.</string>
+    <string formatted="false" name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Verificați setările %s1proxy %s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Goliți memoria cache.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Goliți memoria cache și cookie-urile (informațiile contului pot fi pierdute).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Reîncărcați după conectarea la Internet.</string>

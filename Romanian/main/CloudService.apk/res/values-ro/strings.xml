@@ -205,7 +205,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
 Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
     <string name="find_device_operation_failure_rpc">"Nu s-a putut realiza operațiunea datorită unei erori RPC."</string>
     <string name="find_device_permissions_footer">"Atingeți \„Permiteți\” pentru a acorda permisiunile pe care le-ați selectat."</string>
-    <string name="find_device_permissions_header">"Bun venit la Găsirea dispozitivului! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când îl pierdeți. Găsirea dispozitivului necesită următoarele permisiuni:"</string>
+    <string name="find_device_permissions_header">"Bun venit la Găsirea dispozitivului! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când îl pierdeți. De asemenea, puteți ajuta în mod anonim alte persoane să își găsească dispozitivele Xiaomi. Această aplicație necesită următoarele permisiuni:"</string>
     <string name="find_device_pref_alert_content">"Localizarea dispozitivului este asociată contului dumneavoastră Mi. Trebuie să stabiliți o parolă sau să o utilizați pe cea deja setată. Asigurați-vă că nu uitați parola și numele de utilizator Mi. Poate fi necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul dvs. vă va taxa pentru acest mesaj. Când veți schimba cartele SIM, se va trimite în mod automat un mesaj pentru reactivarea acestei opțiuni."</string>
     <string name="find_device_pref_alert_negtive">Nu, mulțumesc</string>
     <string name="find_device_pref_alert_positive">OK</string>
@@ -215,6 +215,9 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_service_summary">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
     <string name="find_device_service_summary_international">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
     <string name="find_device_service_title">Localizare telefon</string>
+    <string name="find_device_status_summary">"Activați pentru a localiza și a urmări dispozitivul sau pentru a șterge datele acestuia de la distanță.
+
+De asemenea, puteți ajuta și alte persoane să își localizeze în mod anonim dispozitivele Xiaomi."</string>
     <string name="find_device_status_summary">Localizați și blocați dispozitivul, dar și ștergeți datele acestuia de la distanță</string>
     <string name="find_device_status_title_pad">Găsiți dispozitivul</string>
     <string name="find_device_status_title_phone">Găsiți dispozitivul</string>
@@ -814,13 +817,31 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="noti_quota_low_title_without_button">Spațiu de stocare în cloud insuficient</string>
     <string name="notification_sync_fail_title">Nu s-a putut sincroniza</string>
     <string name="notification_update_key_text">Codul dvs. a fost resetat</string>
-    <string name="open_micloud_sync">Porniți sincronizarea cu Mi Cloud</string>
-    <string name="other_settings">Alte setări</string>
-    <string name="passed_synced_time_day">Sincronizat cu %dd zile în urmă</string>
-    <string name="passed_synced_time_hour">Sincronizat cu %1$dh și %2$dm în urmă</string>
-    <string name="passed_synced_time_min">Sincronizat cu %d min în urmă</string>
-    <string name="passed_synced_time_sec">Sincronizat cu %d sec în urmă</string>
-    <string name="password">Introduceţi parola dvs.</string>
+    <string name="offline_find_action_open">Activați</string>
+    <string name="offline_find_checkbox_pref_summary_1">"Localizați acest dispozitiv chiar și atunci când nu este conectat la rețea și vizualizați locația altor dispozitive offline. &lt;br/>&lt;font color=#0f84ff>Aflați mai multe&lt;/font>"</string>
+    <string name="offline_find_checkbox_pref_summary_2">"Localizați acest dispozitiv chiar și atunci când este oprit sau nu este conectat la rețea și vizualizați locația altor dispozitive offline. &lt;br/>&lt;font color=#0f84ff>Aflați mai multe&lt;/font>"</string>
+    <string name="offline_find_checkbox_pref_title">Locație offline</string>
+    <string name="offline_find_doing_disable">Dezactivarea locației offline…</string>
+    <string name="offline_find_doing_enable">Activarea locației offline…</string>
+    <string name="offline_find_function">Locație offline</string>
+    <string name="offline_find_msg_to_open_1">Activați Locația offline pe acest dispozitiv pentru a putea vizualiza locația altor dispozitive offline.</string>
+    <string name="offline_find_msg_to_open_2">Activați această funcție pentru a putea localiza acest dispozitiv sau a vizualiza locația altor dispozitive atunci când nu sunteți conectat la rețea.</string>
+    <string name="offline_find_msg_to_open_3">Pentru a proteja securitatea datelor dvs., verificați acest dispozitiv ca fiind de încredere înainte de a activa Locația offline.</string>
+    <string name="offline_find_title_to_open_1">Activează locația offline</string>
+    <string name="offline_find_title_to_open_2">Verificați acest dispozitiv</string>
+    <string name="open_service_title">Activați</string>
+    <string name="other_lockscreen_forget_pin">Nu știu modelul de deblocare al ecranului acestui dispozitiv</string>
+    <string name="other_lockscreen_forget_pin_dialog_another_message">Protecția avansată a datelor este activată. Folosiți o cheie de acces de securitate pentru a vă conecta?</string>
+    <string name="other_lockscreen_forget_pin_dialog_message">Folosiți blocarea ecranului altui dispozitiv sau cheia de acces de securitate</string>
+    <string name="other_lockscreen_forget_pin_dialog_message_2fa">Folosiți modelul de deblocare a ecranului al altui dispozitiv sau selectați o altă metodă de verificare.</string>
+    <string name="other_lockscreen_forget_pin_dialog_negative_btn">Renunțați</string>
+    <string name="other_lockscreen_forget_pin_dialog_neutral_btn">Utilizați modelul de deblocare a ecranului al altui dispozitiv</string>
+    <string name="other_lockscreen_forget_pin_dialog_positive_btn">Utilizați cheia de acces de securitate</string>
+    <string name="other_lockscreen_forget_pin_dialog_title">Am uitat modelul de deblocare a ecranului</string>
+    <string name="other_lockscreen_sub_title">Introduceți codul de deblocare al ecranului acestui dispozitiv pentru a finaliza verificarea</string>
+    <string name="other_lockscreen_title">Introduceți modelul de deblocare al %s</string>
+    <string name="other_lockscreen_title_2fa">Introduceți modelul de deblocare al \"%s\" pentru a finaliza verificarea</string>
+    <string name="other_lockscreen_update_password_error_hint">V-ați schimbat recent modelul de deblocare a ecranului? Încercați să introduceți vechiul model pentru verificare.</string>
     <string name="pay_info_dialog_confirm_to_pay">Plătiți %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Utilizați Monedele Mi rămase: %s</string>
     <string name="pay_info_dialog_title">Selectați metoda de plată</string>
