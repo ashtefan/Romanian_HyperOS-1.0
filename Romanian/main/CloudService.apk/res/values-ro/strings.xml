@@ -218,7 +218,6 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_status_summary">"Activați pentru a localiza și a urmări dispozitivul sau pentru a șterge datele acestuia de la distanță.
 
 De asemenea, puteți ajuta și alte persoane să își localizeze în mod anonim dispozitivele Xiaomi."</string>
-    <string name="find_device_status_summary">Localizați și blocați dispozitivul, dar și ștergeți datele acestuia de la distanță</string>
     <string name="find_device_status_title_pad">Găsiți dispozitivul</string>
     <string name="find_device_status_title_phone">Găsiți dispozitivul</string>
     <string name="find_permission_location_summary">Pentru localizarea acestui dispozitiv</string>
