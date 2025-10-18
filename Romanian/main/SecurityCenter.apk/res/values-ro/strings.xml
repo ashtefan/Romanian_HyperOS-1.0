@@ -3942,6 +3942,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s acumulatorul este mai mic decât %2$s. Activați Economisirea acumulatorului pentru a adăuga %3$s și %4$s.</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s acumulatorul este descărcat</string>
     <string name="pc_current_power_mode">Modul curent</string>
+    <string name="pc_cycle_count_protect_title">Cicluri</string>
     <string name="pc_emergency_call">Urgență</string>
     <string name="pc_endurance_calculation">Se calculează…</string>
     <string name="pc_entered_extreme_mode">Modul de hibernare este activat</string>
@@ -3973,11 +3974,19 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_fast_charge_switch_toast_message">Modificările vor fi aplicate data viitoare când încărcați acest dispozitiv</string>
     <string name="pc_fast_charge_temp_remider">Activați pentru a regla automat viteza de încărcare. Acest instrument funcționează numai cu încărcătoarele furnizate de Xiaomi. Dispozitivul dvs. se poate încălzi în timpul încărcării.</string>
     <string name="pc_fast_charge_title">Creșteți viteza de încărcare</string>
+    <string name="pc_first_use_error_tips">Se calculează</string>
+    <string name="pc_first_use_protect_title">Prima utilizare</string>
     <string name="pc_going_to_exit_extreme_mode">Se părăsește modul Hibernare</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Dispozitivul dvs. se încarcă. Modul Hibernare este dezactivat.</string>
     <string name="pc_going_to_extreme_mode">Se intră în modul Hibernare</string>
     <string name="pc_handle_battery_level">Prindere</string>
     <string name="pc_have_no_battery_issue">Nicio problemă</string>
+    <string name="pc_health_charge_default">Încărcați complet</string>
+    <string name="pc_health_charge_protect_noti_summary_title">Dispozitivul se va opri din încărcare când nivelul acumulatorului atinge %1$s</string>
+    <string name="pc_health_charge_protect_notification_summary">Activați Protecția acumulatorului pentru a reduce îmbătrânirea acestuia</string>
+    <string name="pc_health_charge_protect_summary">Pentru a prelungi durata de viață a acumulatorului, dispozitivul se va opri din încărcare atunci când nivelul acumulatorului atinge %1$s</string>
+    <string name="pc_health_charge_protect_summary_new">Pentru a prelungi durata de viață a acumulatorului, dispozitivul se va opri din încărcare când nivelul acumulatorului ajunge la %1$s și se va încărca complet doar atunci când este programat.</string>
+    <string name="pc_health_charge_protect_title">Protecția acumulatorului</string>
     <string name="pc_hide_more_power_rank_apps">Ascundeți</string>
     <string name="pc_hidemode_normal">Echilibrat</string>
     <string name="pc_hidemode_normal_title">Echilibrat</string>
@@ -4050,6 +4059,7 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_power_mode_has_berserk">Modul Ultimate este activ</string>
     <string name="pc_power_mode_has_performance">Modul Performanță este activ</string>
     <string name="pc_power_save_settings_new">Setări economisire acumulator</string>
+    <string name="pc_production_date_protect_title">Data fabricării</string>
     <string name="pc_remind_close_cover_to_charge_summary">Pliați dispozitivul înainte de încărcare pentru o experiență de încărcare mai rapidă și mai stabilă.</string>
     <string name="pc_remind_close_cover_to_charge_title">Pliați pentru a încărca</string>
     <string name="pc_reminder_always_protect_summary">Treceți la încărcare limitată pentru a reduce deteriorarea acumulatorului</string>
@@ -4095,6 +4105,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="pc_wait_device_cools_down">Așteptați până când dispozitivul se răcește pentru a putea folosi această funcție.</string>
     <string name="pc_wireless_charge_adjust_position_summary">Așezați-l pe încărcătorul wireless</string>
     <string name="pc_wireless_charge_adjust_position_title">Încărcați-vă dispozitivul mai repede</string>
+    <string name="pc_wireless_charge_notification_summary">Încărcarea wireless este mai puțin eficientă din punct de vedere energetic decât încărcarea cu fir</string>
+    <string name="pc_wireless_charge_notification_title">Încărcare wireless</string>
     <string name="pc_wireless_charging_special_stand_summary1">Instalați dispozitivul pe suportul livrat împreună cu încărcătorul fără fir</string>
     <string name="pc_wireless_charging_special_stand_summary2">Instalați-vă dispozitivul pe suportul livrat împreună cu încărcătorul fără fir pentru o performanță optimă de încărcare</string>
     <string name="pc_wireless_charging_special_stand_title">Utilizați suportul de încărcare furnizat</string>
@@ -4445,8 +4457,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="power_center_night_charge_protection_setting">Vedeți mai multe opțiuni în Securitate > Acumulator.</string>
     <string name="power_center_night_charge_protection_summary">Pentru a reduce îmbătrânirea acumulatorului, MIUI învață din rutina zilnică de încărcare pentru a reduce încărcarea continuă inutilă</string>
     <string name="power_center_one_key_save">Optimizați</string>
-    <string name="power_center_ontime_boot">Ora de pornire</string>
-    <string name="power_center_ontime_shutdown">Ora de oprire</string>
+    <string name="power_center_ontime_boot">Pornire programată</string>
+    <string name="power_center_ontime_shutdown">Oprire programată</string>
     <string name="power_center_optimize_title">Sugestii</string>
     <string name="power_center_power_save_summary_text">Creșteți timpul rămas cu până la %1$dh și %2$dm</string>
     <string name="power_center_power_save_title_text">Economisire acumulator</string>
@@ -4505,8 +4517,8 @@ Ultra economisirea acumulatorului"</string>
     <string name="power_center_surface_temp_low">Rece</string>
     <string name="power_center_surface_temp_lower">Rece</string>
     <string name="power_center_surface_temp_normal">Normală</string>
-    <string name="power_center_time_to_boot">Ora de pornire</string>
-    <string name="power_center_time_to_shutdown">Ora de oprire</string>
+    <string name="power_center_time_to_boot">Ora</string>
+    <string name="power_center_time_to_shutdown">Ora</string>
     <string name="power_center_title">Acumulator</string>
     <string name="power_center_unoffical_battery_button">Găsiți un furnizor de servicii autorizat</string>
     <string name="power_center_unoffical_battery_dialog">Avertizare acumulator neautorizat</string>
